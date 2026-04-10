@@ -1,0 +1,66 @@
+[
+    {
+      "id": "gateless-gate",
+      "title": "Gateless Gate",
+      "title_ja": "無門関",
+      "tradition": "Rinzai Zen",
+      "period": "Compiled by Wumen Huikai, 1228 CE",
+      "notes": "48 koans with Wumen's verse and commentary. The title koan (Case 1, Zhaozhou's 無) is the primary entry point into Rinzai practice."
+    },
+    {
+      "id": "blue-cliff-record",
+      "title": "Blue Cliff Record",
+      "title_ja": "碧巌録",
+      "tradition": "Rinzai Zen",
+      "period": "Compiled by Yuanwu Keqin, 1125 CE",
+      "notes": "100 koans with verse and prose commentary. More literary and philosophically elaborate than the Gateless Gate. Essential for advanced Rinzai study."
+    },
+    {
+      "id": "platform-sutra",
+      "title": "Platform Sutra of the Sixth Patriarch",
+      "title_ja": "六祖壇経",
+      "tradition": "Chan / Zen",
+      "period": "Attributed to Huineng (638–713 CE); compiled in current form c. 8th–9th century",
+      "notes": "The foundational text of the Southern school of Chan. Huineng's teaching on sudden awakening and the originally pure nature of mind. The only Chinese text accorded the status of 'sutra.'"
+    },
+    {
+      "id": "heart-sutra",
+      "title": "Heart Sutra",
+      "title_ja": "般若心経",
+      "tradition": "Prajnaparamita / Zen",
+      "period": "Sanskrit original c. 1st–2nd century CE; Xuanzang's Chinese translation 649 CE",
+      "notes": "The most recited text in East Asian Buddhism. 260 characters in Xuanzang's version. The 色即是空 passage is the doctrinal center of the Prajnaparamita corpus."
+    },
+    {
+      "id": "nishi-hyakuichi",
+      "title": "Hyakuichi Shinron",
+      "title_ja": "百一新論",
+      "tradition": "Meiji intellectual",
+      "period": "Nishi Amane, 1874",
+      "notes": "The text in which Nishi Amane first published several of his philosophical coinages including 哲学. Represents the systematic effort to render Western philosophical vocabulary in Chinese characters."
+    },
+    {
+      "id": "fukuzawa-gakumon",
+      "title": "An Encouragement of Learning",
+      "title_ja": "学問のすすめ",
+      "tradition": "Meiji intellectual",
+      "period": "Fukuzawa Yukichi, 1872–1876 (17 volumes)",
+      "notes": "The most widely read Meiji text. Establishes the conceptual ground for liberal political vocabulary. The opening line on human equality became iconic."
+    },
+    {
+      "id": "liang-xinmin",
+      "title": "Xinmin Shuo (On the New Citizen)",
+      "title_ja": "新民説",
+      "tradition": "Chinese reform intellectual",
+      "period": "Liang Qichao, 1902–1906",
+      "notes": "Liang Qichao's major work written during his exile in Japan. The primary vector through which wasei-kango vocabulary entered Chinese intellectual discourse. Systematically deploys Japanese coinages as naturalized Chinese terms."
+    },
+    {
+      "id": "liang-ouyou",
+      "title": "Impressions from Travels in Europe",
+      "title_ja": "欧游心影録",
+      "tradition": "Chinese reform intellectual",
+      "period": "Liang Qichao, 1919",
+      "notes": "Written after Liang's visit to post-WWI Europe. Marks a turn away from uncritical faith in Western science and democracy. Key text for showing the imported vocabulary being questioned by a major Chinese thinker."
+    }
+  ]

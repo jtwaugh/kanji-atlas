@@ -1,0 +1,194 @@
+[
+    {
+      "id": "mu",
+      "characters": "無",
+      "romaji": "mu",
+      "on_reading": "む",
+      "kun_reading": "な.い",
+      "module": "classical",
+      "semantic_field_id": "emptiness-and-negation",
+      "source_concept_id": "wu-classical-chinese",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["ku", "do", "kokoro"],
+      "components": [
+        {
+          "char": "無",
+          "meaning": "undivided — not decomposed into semantic subparts in standard usage. Oracle bone form depicts a person dancing with ornaments; meaning shifted to pure negation through phonetic borrowing."
+        }
+      ],
+      "translation_range": [
+        { "rendering": "nothingness", "emphasis": "ontological — implies a positive void, a state of non-existence" },
+        { "rendering": "no", "emphasis": "logical — the bare negative of Zhaozhou's response; treats it as a simple denial" },
+        { "rendering": "non-being", "emphasis": "philosophical — contrasts with 有 (being), situates the term inside Chinese metaphysics" },
+        { "rendering": "mu", "emphasis": "untranslated — treats the term as a koan object, foregrounding its use as a concentration point in Rinzai practice" }
+      ],
+      "conceptual_remainder": "Unlike Sanskrit śūnya, 無 is a native Chinese negative recruited by Chan teachers rather than a translation of any Indian term. What most English renderings miss is that Zhaozhou's 無 is not a philosophical position about existence but a pedagogical instrument for cutting off conceptual proliferation. The difference between 'nothingness' (a concept) and that function (a practice tool) is the difference between philosophy and Zen.",
+      "doctrinal_weight": "The most worked koan in the Rinzai tradition. Wumen's commentary in the Gateless Gate instructs the student to make their whole body a mass of inquiry concentrated on this single character. Assigned as the first koan in many Rinzai training sequences.",
+      "false_friends": [
+        { "char": "空", "language": "Japanese/Chinese", "divergence": "空 (ku/kū) is the translation of Sanskrit śūnyatā and carries the Madhyamaka philosophical framework. 無 is a native Chinese negative without a Sanskrit original. Students frequently conflate them; Chan teachers often played the contrast deliberately." }
+      ]
+    },
+    {
+      "id": "ku",
+      "characters": "空",
+      "romaji": "ku",
+      "on_reading": "くう",
+      "kun_reading": "そら",
+      "module": "classical",
+      "semantic_field_id": "emptiness-and-negation",
+      "source_concept_id": "sunyata",
+      "transmission_wave": "xuanzang",
+      "neighbor_ids": ["mu", "kokoro", "do"],
+      "components": [
+        { "char": "穴", "meaning": "cave, hole, opening — the semantic component, suggesting hollow space" },
+        { "char": "工", "meaning": "craft, work, construction — phonetic in origin; Zen readings note the resonance of emptiness as something worked open rather than merely absent" }
+      ],
+      "translation_range": [
+        { "rendering": "emptiness", "emphasis": "dominant academic rendering — ontological, suggests a void" },
+        { "rendering": "openness", "emphasis": "favored by some contemporary teachers — experiential, suggests capacity and receptivity rather than absence" },
+        { "rendering": "voidness", "emphasis": "technical philosophical rendering, closer to the Abhidharma scholastic context" },
+        { "rendering": "sky", "emphasis": "the kun reading そら preserves this — the open sky as a natural image for the nature of mind" }
+      ],
+      "conceptual_remainder": "śūnyatā in Madhyamaka philosophy means specifically the absence of svabhāva — inherent, independent self-existence. Nothing lacks a cause; therefore nothing has a fixed standalone nature. The Chinese 空 carries this but also carries the simpler sense of hollow or vacant, flattening the relational logic: things are empty not because they don't exist but because they exist only interdependently. The Zen use adds another layer — 空 as the open ground from which phenomena arise, closer to potentiality than to absence.",
+      "doctrinal_weight": "Central term of Prajnaparamita literature and Madhyamaka philosophy. Appears in the Heart Sutra's pivotal formula 色即是空空即是色. In Zen, 空 is less a koan object (that is 無's role) and more a characterization of the nature realized in practice.",
+      "false_friends": [
+        { "char": "無", "language": "Japanese/Chinese", "divergence": "無 is a native Chinese negative (non-existence, absence) without a Sanskrit original. 空 is the translation of śūnyatā and carries the full Madhyamaka philosophical framework. They are often used interchangeably in popular contexts but are doctrinally distinct." }
+      ]
+    },
+    {
+      "id": "kokoro",
+      "characters": "心",
+      "romaji": "kokoro",
+      "on_reading": "しん",
+      "kun_reading": "こころ",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "citta-hrdaya",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["mu", "ku", "do"],
+      "components": [
+        { "char": "心", "meaning": "undivided — oracle bone form depicts an anatomical heart with chambers and vessels. The character is itself a pictograph; its strokes trace the heart image, not semantic subparts." }
+      ],
+      "translation_range": [
+        { "rendering": "heart", "emphasis": "affective — centers the emotional and relational register, loses the cognitive" },
+        { "rendering": "mind", "emphasis": "cognitive — centers thought and consciousness, loses the affective and anatomical" },
+        { "rendering": "heart-mind", "emphasis": "hyphenated acknowledgment that the English split does not exist in the Chinese/Japanese — the most honest rendering for philosophical contexts" },
+        { "rendering": "spirit", "emphasis": "older translations — loses both the cognitive precision and the anatomical grounding" }
+      ],
+      "conceptual_remainder": "English inherits a Greek split between intellect (nous) and feeling (thumos, kardia) that Classical Chinese does not make. 心 is the organ of both thinking and feeling — the seat of moral knowledge, emotional response, and conscious awareness simultaneously. When Mencius says the heart-mind knows right from wrong, or when Chan teachers point to 心 as the Buddha, they are pointing at something with no English equivalent. 'Heart-mind' is the least bad option and still a compromise.",
+      "doctrinal_weight": "The most philosophically loaded character in East Asian Buddhist and Confucian thought. Chan teaching identifies 心 directly with Buddha-nature: 即心即佛 (this very heart-mind is Buddha). Appears as a radical in dozens of key Buddhist terms: 忘 (forget), 想 (think), 悟 (awaken), 念 (mindfulness).",
+      "false_friends": [
+        { "char": "識", "language": "Japanese/Chinese", "divergence": "識 (shiki/vij​ñāna) refers specifically to the cognitive-discriminating consciousness in Buddhist Abhidharma psychology — one of the five skandhas. 心 is broader: the whole heart-mind organ. Yogācāra philosophy distinguishes multiple layers of 識 within what 心 covers as a whole." }
+      ]
+    },
+    {
+      "id": "do",
+      "characters": "道",
+      "romaji": "do",
+      "on_reading": "どう",
+      "kun_reading": "みち",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "marga-tao",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["mu", "ku", "kokoro"],
+      "components": [
+        { "char": "辶", "meaning": "movement, going — the radical, a simplified form of 辵, depicting a foot in motion" },
+        { "char": "首", "meaning": "head, chief, first — phonetic in origin; Zen readings note the image: a head moving forward, the mind leading the body along a way" }
+      ],
+      "translation_range": [
+        { "rendering": "the Way", "emphasis": "preserves the Daoist resonance and the sense of comprehensive ordering principle" },
+        { "rendering": "path", "emphasis": "Buddhist mārga sense — a path walked, a practice undertaken; more active and less cosmic than 'the Way'" },
+        { "rendering": "road", "emphasis": "literal — used in compound contexts (街道, roadway); loses the philosophical register entirely" },
+        { "rendering": "Tao / Dao", "emphasis": "untranslated — treats the term as a proper noun of Daoist metaphysics; forecloses the Buddhist and Zen resonances" }
+      ],
+      "conceptual_remainder": "道 arrives in Japanese Buddhism already carrying centuries of Daoist and Confucian freight — the Way as cosmic ordering principle, as moral path, as the ground of heaven and earth. When Buddhist translators used 道 to render Sanskrit mārga, they were not starting from neutral ground. Chan exploited this layering deliberately: 道 in Zen contexts is simultaneously the Buddhist path of practice and the Daoist unnameable underlying principle. Zhaozhou's 平常心是道 (ordinary mind is the Way) only lands if you feel both registers at once.",
+      "doctrinal_weight": "Structurally central to Chan/Zen as both the goal (awakening to the Way) and the method (practice as the Way itself). The Daoist resonance means 道 always carries a sense of something prior to and larger than any particular teaching about it — hence the paradox that the Way that can be named is not the eternal Way (道可道非常道)."
+    },
+    {
+      "id": "tetsugaku",
+      "characters": "哲学",
+      "romaji": "tetsugaku",
+      "on_reading": "てつがく",
+      "module": "reverse-flow",
+      "semantic_field_id": "western-philosophy-and-logic",
+      "source_concept_id": "philosophie",
+      "coinage_agent": "Nishi Amane (西周), 1874, in Hyakuichi Shinron",
+      "neighbor_ids": ["kagaku", "shakai", "minshushugi"],
+      "components": [
+        { "char": "哲", "meaning": "wise, sagacious — classical Chinese term for a sage or person of clear discernment; implies wisdom as a cultivated personal quality" },
+        { "char": "学", "meaning": "learning, study, -ology — the standard Meiji suffix for systematic fields of knowledge" }
+      ],
+      "translation_range": [
+        { "rendering": "philosophy", "emphasis": "universal standard — used without alternative in both Japanese and Chinese academic contexts" },
+        { "rendering": "the study of wisdom", "emphasis": "literal decomposition — occasionally used in introductory texts to explain the coinage's logic" }
+      ],
+      "conceptual_remainder": "Nishi Amane's choice of 哲 — classical sage-wisdom — frames Western philosophy through a Confucian lens: reason as a form of sagely cultivation rather than as a technical discipline separate from moral life. What the coinage cannot carry is the specifically Greek sense of philosophy as systematic argument against received opinion (Socratic elenchos), or the post-Kantian sense of critique as the primary philosophical act. East Asian receptions of Western philosophy have been shaped partly by this framing — philosophy arrives already coded as wisdom-cultivation.",
+      "doctrinal_weight": "The coinage that made Western philosophy legible as an academic discipline in East Asia. Without 哲学, the institutional transmission of Western philosophical thought into Japanese and Chinese universities would have required a different conceptual container — one that might have emphasized critique and argumentation rather than wisdom and cultivation."
+    },
+    {
+      "id": "shakai",
+      "characters": "社会",
+      "romaji": "shakai",
+      "on_reading": "しゃかい",
+      "module": "reverse-flow",
+      "semantic_field_id": "culture-and-civilization",
+      "source_concept_id": "society-english",
+      "coinage_agent": "Multiple Meiji translators, 1870s–1880s; systematized by Fukuzawa Yukichi and others; introduced to Chinese by Liang Qichao",
+      "neighbor_ids": ["minshushugi", "tetsugaku", "kagaku"],
+      "components": [
+        { "char": "社", "meaning": "shrine, association, company — originally a shrine to the earth deity; extended to any organized association or corporate body" },
+        { "char": "会", "meaning": "meeting, gathering, assembly — people coming together around a shared purpose or place" }
+      ],
+      "translation_range": [
+        { "rendering": "society", "emphasis": "universal — no alternatives in standard usage" },
+        { "rendering": "social (社会的)", "emphasis": "adjectival form used in compounds: 社会的責任 (social responsibility), 社会学 (sociology)" }
+      ],
+      "conceptual_remainder": "Classical Chinese thought had no need for 'society' in the modern sociological sense because it organized social reality through relational categories — the five relationships (五倫) — rather than through an abstract collective sphere. 社会 imports a specifically modern Western concept: an autonomous domain of human association that is neither the state nor the family. The coinage enabled East Asian thinkers to think sociology but also pre-loaded the concept with assumptions about individualism and collective life that did not exist in classical thought.",
+      "doctrinal_weight": "One of the most consequential Meiji coinages. Along with 国家 (state) and 個人 (individual), 社会 constitutes the basic triangulation of modern political thought. Its adoption in Chinese completed the conceptual framework within which twentieth-century Chinese political discourse would operate."
+    },
+    {
+      "id": "minshushugi",
+      "characters": "民主主義",
+      "romaji": "minshushugi",
+      "on_reading": "みんしゅしゅぎ",
+      "module": "reverse-flow",
+      "semantic_field_id": "liberal-political-philosophy",
+      "source_concept_id": "democracy-english",
+      "coinage_agent": "民主 is a classical compound repurposed in Meiji Japan; 主義 suffix systematized in 1880s–1890s for Western -ism concepts; Fukuzawa Yukichi central to the political vocabulary cluster",
+      "neighbor_ids": ["shakai", "tetsugaku", "kagaku"],
+      "components": [
+        { "char": "民", "meaning": "the people, the populace — in classical usage, the governed, those below the ruler" },
+        { "char": "主", "meaning": "lord, master, ruler — in classical usage, the sovereign; first occurrence in 民主" },
+        { "char": "主", "meaning": "principal, guiding — first character of 主義 (-ism); second occurrence" },
+        { "char": "義", "meaning": "righteousness, right principle — 主義 together means a guiding doctrine or -ism" }
+      ],
+      "translation_range": [
+        { "rendering": "democracy", "emphasis": "standard universal rendering in political science contexts" },
+        { "rendering": "democratic principles / democratism", "emphasis": "literal decomposition of 主義 suffix — occasionally in older or formal translations" }
+      ],
+      "conceptual_remainder": "民主 in classical Chinese meant 'the people's lord' — a paternalistic construction in which the ruler exists to shepherd the people, not one in which the people are themselves sovereign. Repurposing this compound to mean 'rule by the people' inverts the classical political relationship. The characters point in a Confucian direction while the intended meaning points in a liberal-democratic direction. This tension has been generative in East Asian political thought — debates about whether Confucian paternalism can be reconciled with democratic sovereignty are partly debates about what the characters themselves contain.",
+      "doctrinal_weight": "Arrives as part of a conceptual cluster with 自由 (liberty), 権利 (rights), 社会 (society), 革命 (revolution). These terms were imported together as the vocabulary of liberal political philosophy and should be understood as a package — each term's meaning is partly defined by its relations to the others."
+    },
+    {
+      "id": "kagaku",
+      "characters": "科学",
+      "romaji": "kagaku",
+      "on_reading": "かがく",
+      "module": "reverse-flow",
+      "semantic_field_id": "natural-science-and-method",
+      "source_concept_id": "science-english",
+      "coinage_agent": "Attributed to Nishi Amane; systematized in 1870s–1880s Meiji translation projects",
+      "neighbor_ids": ["tetsugaku", "shakai", "minshushugi"],
+      "components": [
+        { "char": "科", "meaning": "category, division, department — originally a measure of grain; extended to classifications of knowledge in the imperial examination system" },
+        { "char": "学", "meaning": "learning, study, -ology — systematic knowledge; the standard Meiji disciplinary suffix" }
+      ],
+      "translation_range": [
+        { "rendering": "science", "emphasis": "universal standard rendering" },
+        { "rendering": "scientific (科学的)", "emphasis": "adjectival form: 科学的方法 (scientific method), 科学的思考 (scientific thinking)" }
+      ],
+      "conceptual_remainder": "科 carries the legacy of the imperial examination system — a system of categorization and ranking of knowledge by subject division. 科学 thus renders 'science' as something like 'categorized learning' or 'knowledge organized by disciplinary division.' This framing emphasizes taxonomy and systematic organization over the specifically empirical and experimental character of Western science. The German Wissenschaft (systematic organized knowledge, including humanistic disciplines) fits the coinage better than English 'science.' East Asian academic culture has been shaped partly by this ambiguity — 科学 can feel like it includes systematic humanistic inquiry in a way that English 'science' does not.",
+      "doctrinal_weight": "Along with 哲学, one of the two coinages that structured the Meiji intellectual project. The relationship between 科学 and 哲学 — between empirical method and systematic wisdom — was a central preoccupation of Meiji thinkers. Liang Qichao's post-WWI disillusionment with 科学 as a totalizing solution marks the first major East Asian critique of the package these coinages imported."
+    }
+  ]

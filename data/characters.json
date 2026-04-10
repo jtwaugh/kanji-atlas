@@ -1,0 +1,242 @@
+[
+    {
+      "char": "無",
+      "strokes": 12,
+      "radical": "火",
+      "on_readings": ["む", "ぶ"],
+      "kun_readings": ["な.い"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A person with arms outstretched holding what appear to be ornamental tassels or dance props — a pictograph of ritual dance",
+          "notes": "Originally depicted a dancer in ceremonial performance. The semantic shift from 'dancer' to 'negation/non-existence' is one of the most dramatic in classical Chinese — the character was phonetically borrowed for the negative particle and its pictographic meaning abandoned entirely."
+        },
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "The dancing figure becomes more abstract; the tassels formalize into symmetrical downward strokes",
+          "notes": "By the Qin standardization the pictographic origin is mostly obscured, though the bilateral symmetry of the original dance posture survives in the balanced structure."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "Four dots at the bottom (simplified flame-strokes from 火 radical) with a complex upper structure",
+          "notes": "The 火 radical in the modern form is a graphic accident of simplification, not a semantic clue. Do not read 無 as having anything to do with fire — the radical assignment is taxonomic convention, not etymology."
+        }
+      ],
+      "doctrinal_notes": "In Chan/Zen, 無 functions primarily as a koan object (話頭, huatou) rather than a philosophical concept. Zhaozhou's 無 in the Gateless Gate Case 1 is the most widely assigned koan in Rinzai training. The character is often written in large calligraphic form and displayed in Zen practice halls."
+    },
+    {
+      "char": "空",
+      "strokes": 8,
+      "radical": "穴",
+      "on_readings": ["くう"],
+      "kun_readings": ["そら", "あ.く", "から", "す.く"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A cave or pit opening (穴) over a craft/work element (工)",
+          "notes": "The pictographic logic is visible: an opening worked into the earth, a hollow space. The cave radical 穴 is clearly an arched opening; 工 functions as phonetic but the semantic resonance of 'crafted emptiness' was noted by classical commentators."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "穴 (cave, 5 strokes) over 工 (work, 3 strokes) — the modern form preserves the original composition clearly",
+          "notes": "One of the more transparent characters in Buddhist vocabulary — the composition still legibly depicts a hollow space. The sky meaning (そら) preserves the image of open space above."
+        }
+      ],
+      "doctrinal_notes": "The primary term for śūnyatā in East Asian Buddhism. Appears in the Heart Sutra's most famous line (色即是空). Distinct from 無 in that 空 is a positive characterization of the nature of phenomena (they are empty of inherent existence) rather than a bare negative."
+    },
+    {
+      "char": "心",
+      "strokes": 4,
+      "radical": "心",
+      "on_readings": ["しん"],
+      "kun_readings": ["こころ"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "An anatomical heart with chambers and descending vessels — clearly pictographic",
+          "notes": "One of the most recognizable oracle bone pictographs. The ancient form shows the heart as a physical organ with its structural features visible. Seeing this form makes the abstract modern character suddenly legible as what it has always been: a heart."
+        },
+        {
+          "period": "Bronze script (金文)",
+          "form_description": "The anatomical detail elaborates slightly; the chambers become more defined",
+          "notes": "The bronze form is often more ornate than oracle bone. The heart shape is still clearly legible."
+        },
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "The pictograph begins abstracting — the chambers become three curved strokes, the vessels a downward element",
+          "notes": "The transition from icon to abstract form is underway. The three 'bumps' of the modern character begin to emerge from what were the heart's chambers."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "Four strokes: a leftward hook, two short interior strokes, and a rightward dot — fully abstract",
+          "notes": "The modern form retains none of the pictographic legibility of the oracle bone form. But the stroke count (4) is low enough that 心 as a radical is easy to recognize in compound characters: 忘 (forget), 想 (think), 悟 (awaken) all carry 心 at the bottom."
+        }
+      ],
+      "doctrinal_notes": "The most philosophically loaded character in East Asian Buddhist and Confucian thought. Functions simultaneously as the physical heart, the seat of consciousness, the moral faculty, and the ground of awakening. Chan/Zen teaching often equates 心 with Buddha-nature directly."
+    },
+    {
+      "char": "道",
+      "strokes": 13,
+      "radical": "辶",
+      "on_readings": ["どう", "とう"],
+      "kun_readings": ["みち"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A crossroads (行) with a head (首) — a figure at a junction, oriented and moving",
+          "notes": "The original image: a person's head at a crossroads, suggesting oriented movement through space. The 'way' as something walked, a route taken, not an abstract principle — the abstract meaning develops from this concrete image."
+        },
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "首 (head) over 辵 (movement/foot) — the semantic components are now clearly legible",
+          "notes": "The Qin standardization preserves both components: 首 (head, direction, what leads) and 辵 (a foot in motion, going). The combination: directed movement, a head leading a body along a way."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "辶 (movement radical, simplified from 辵) wrapping around 首 — 13 strokes",
+          "notes": "The movement radical 辶 is the cursive simplification of 辵. It appears in many characters involving movement, path, or going: 近 (near), 遠 (far), 遊 (wander). 道 among them carries the heaviest philosophical freight."
+        }
+      ],
+      "doctrinal_notes": "Carries simultaneous Daoist (cosmic ordering principle), Confucian (moral path of self-cultivation), and Buddhist (mārga, path of practice) resonances. Chan teaching exploits all three registers, most explicitly in the formula 平常心是道 (ordinary mind is the Way)."
+    },
+    {
+      "char": "哲",
+      "strokes": 10,
+      "radical": "口",
+      "on_readings": ["てつ"],
+      "kun_readings": ["さと.い"],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "折 (to break, to fold — phonetic) over 口 (mouth) — a mouth that cuts through to clarity",
+          "notes": "The phonetic component 折 (zhé) provides the pronunciation; 口 (mouth/speech) provides the semantic direction. The combination suggests someone whose speech cuts through to the essential point — a sage whose words illuminate."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "折 (10 strokes reduced) over 口 — the modern form",
+          "notes": "Used in classical Chinese for a person of exceptional sagely insight. Nishi Amane's choice of 哲 for 'philosophy' frames Western inquiry as a form of sage-wisdom cultivation — a framing with significant consequences for how East Asian intellectuals received Western philosophy."
+        }
+      ],
+      "doctrinal_notes": "Classical term for a sage or wise person of discernment (哲人, tetsujin). Recruited by Nishi Amane in 1874 to translate Western 'philosophy' — the study of 哲 wisdom. The coinage 哲学 remains universal in Japanese and Chinese to this day."
+    },
+    {
+      "char": "学",
+      "strokes": 8,
+      "radical": "子",
+      "on_readings": ["がく"],
+      "kun_readings": ["まな.ぶ"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "Hands passing an object to a child (子) — the image of instruction, transmission of knowledge",
+          "notes": "The original pictograph shows adult hands (above) transmitting something to a child (below). Learning as receiving from those who came before — the Confucian model of education as transmission is built into the character's origin."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "A complex upper element (covering/receiving hands) over 子 (child) — 8 strokes in simplified form",
+          "notes": "The simplified form (学 vs traditional 學) drops much of the upper complexity. 子 at the bottom remains clear. Functions as the standard suffix for academic disciplines: 哲学, 科学, 文学, 医学 — philosophy, science, literature, medicine."
+        }
+      ],
+      "doctrinal_notes": "As a suffix (学, -gaku/-xué), 学 is the workhorse of Meiji academic vocabulary. Nearly every Western disciplinary name was coined by appending 学 to a characterization of the field's subject matter. This suffix pattern made the vocabulary systematic and extensible."
+    },
+    {
+      "char": "社",
+      "strokes": 7,
+      "radical": "示",
+      "on_readings": ["しゃ"],
+      "kun_readings": ["やしろ"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "示 (altar/spirit) beside 土 (earth) — a shrine to the earth deity",
+          "notes": "The original meaning: a shrine to the local earth spirit (社神, the deity of a specific place and its community). The religious-communal gathering around a local shrine is the semantic root of 社's extension to 'association' and 'company.'"
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "示 (spirit/altar radical, 4 strokes) over 土 (earth, 3 strokes) — 7 strokes",
+          "notes": "The earth shrine meaning gives way to 'organized association' in classical usage (社団, 会社). Meiji coiners recruited this corporate/associative sense to render 'society' as an organized collective."
+        }
+      ],
+      "doctrinal_notes": "In 社会 (society), 社 contributes the sense of organized association or corporate body — a group gathered around a common purpose or place, extended from the original shrine community. The character also appears in 会社 (company/corporation) and 神社 (Shinto shrine)."
+    },
+    {
+      "char": "会",
+      "strokes": 6,
+      "radical": "人",
+      "on_readings": ["かい", "え"],
+      "kun_readings": ["あ.う", "あつ.まる"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A covered vessel or lid over a mouth/opening — things coming together under a cover",
+          "notes": "The original image suggests convergence: things coming together, fitting together, meeting. Extended to human assembly — people gathering, meeting, converging."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "人 (person) element over a joining element — 6 strokes in simplified form (traditional 會 is more complex)",
+          "notes": "Traditional 會 is 13 strokes; simplified 会 is 6. The simplification loses some of the visual complexity but the 'coming together' meaning is preserved in usage: 会議 (meeting), 会社 (company), 社会 (society)."
+        }
+      ],
+      "doctrinal_notes": "In 社会 (society), 会 contributes the sense of gathering, assembly, coming together. The compound 社会 thus suggests an organized community gathering — an association of people. The abstract sociological sense (an autonomous collective sphere) is what the Meiji coinage imported from the Western concept."
+    },
+    {
+      "char": "民",
+      "strokes": 5,
+      "radical": "氏",
+      "on_readings": ["みん"],
+      "kun_readings": ["たみ"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "Disputed — possibly a blinded eye (captives blinded) or a person kneeling",
+          "notes": "The oracle bone form's interpretation is contested. One reading sees a blinded left eye — captives taken in battle were sometimes blinded, and 民 may have originally meant 'captive/subject people.' This etymology, if correct, encodes a relationship of subjection from the origin."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "5 strokes — a simple form with no obvious pictographic logic in the modern form",
+          "notes": "In classical Chinese political vocabulary, 民 (the people) is consistently positioned below the ruler (君, 王) and above nothing. The Confucian ideal: the ruler exists for the people, but the people do not rule. This is the classical charge that 民主 (democracy) inverts."
+        }
+      ],
+      "doctrinal_notes": "In 民主 (democracy) and 民主主義 (democracy as doctrine), 民 is the political subject being redefined — from governed people to sovereign people. The classical resonance of 民 as the governed, the subjects, creates a latent tension with the democratic claim that 民 are the source of sovereign authority."
+    },
+    {
+      "char": "主",
+      "strokes": 5,
+      "radical": "丶",
+      "on_readings": ["しゅ", "す"],
+      "kun_readings": ["ぬし", "おも"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A lamp or torch with a flame — the flame at the center, the light that governs a space",
+          "notes": "The original image: a lamp flame, the central light source that orients everything around it. Extended to: the one who is central, who governs, who is the master or lord of a domain."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "5 strokes — a vertical stroke with a dot at top and a horizontal base",
+          "notes": "The flame has become fully abstract. 主 appears twice in 民主主義: first as 'lord/master' (in 民主), then as the first character of 主義 (-ism, guiding principle). The double appearance is a structural accident of Chinese compounding."
+        }
+      ],
+      "doctrinal_notes": "Classical meaning: lord, master, the one who rules or owns. In 民主, literally 'the people's lord' or 'lord of the people' — a paternalistic Confucian construction that Meiji coiners repurposed to mean 'rule by the people.' The inversion is built into the characters."
+    },
+    {
+      "char": "科",
+      "strokes": 9,
+      "radical": "禾",
+      "on_readings": ["か"],
+      "kun_readings": [],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone / Bronze (金文)",
+          "form_description": "禾 (grain/rice plant) beside 斗 (measuring scoop) — measuring out grain",
+          "notes": "The original meaning: to measure out grain with a scoop. Extended to: classification, category, division — the act of sorting and measuring extended to the sorting of knowledge into categories."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "禾 (grain radical, 5 strokes) beside 斗 (dipper, 4 strokes) — 9 strokes",
+          "notes": "The measuring/classification meaning survives in the imperial examination system: 科挙 (keju) — examinations organized by subject category. This is the background Nishi Amane drew on when coining 科学: science as knowledge organized by disciplinary categories."
+        }
+      ],
+      "doctrinal_notes": "In 科学 (science), 科 contributes the sense of disciplinary categorization — knowledge sorted into organized fields. The examination system legacy means 科 implicitly frames knowledge as something organized by subject divisions and tested for mastery, not just discovered empirically."
+    }
+  ]

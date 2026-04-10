@@ -1,0 +1,44 @@
+[
+    {
+      "id": "emptiness-and-negation",
+      "label": "Emptiness and Negation",
+      "module": "classical",
+      "description": "Terms that work around negation, void, and the absence of inherent existence. The conceptual ground of Madhyamaka philosophy and Chan practice."
+    },
+    {
+      "id": "mind-and-consciousness",
+      "label": "Mind and Consciousness",
+      "module": "classical",
+      "description": "Terms for the cognitive-affective organ, its layers, and its movements. Covers both the unified heart-mind (心) and the scholastic taxonomy of consciousness types."
+    },
+    {
+      "id": "path-and-practice",
+      "label": "Path and Practice",
+      "module": "classical",
+      "description": "Terms for the way walked, the methods undertaken, and the cultivation of practice. Bridges Daoist, Confucian, and Buddhist senses of 'the Way.'"
+    },
+    {
+      "id": "western-philosophy-and-logic",
+      "label": "Western Philosophy and Logic",
+      "module": "reverse-flow",
+      "description": "Meiji coinages for the systematic disciplines of Western philosophy: metaphysics, epistemology, logic, and their methods. Mostly attributable to Nishi Amane."
+    },
+    {
+      "id": "liberal-political-philosophy",
+      "label": "Liberal Political Philosophy",
+      "module": "reverse-flow",
+      "description": "Coinages for the vocabulary of Western liberal democratic thought: rights, freedom, democracy, society. Arrived as a conceptual cluster in the 1870s–1880s."
+    },
+    {
+      "id": "natural-science-and-method",
+      "label": "Natural Science and Method",
+      "module": "reverse-flow",
+      "description": "Coinages for the institutions and methods of Western natural science: systematic inquiry, experiment, hypothesis, disciplinary organization."
+    },
+    {
+      "id": "culture-and-civilization",
+      "label": "Culture and Civilization",
+      "module": "reverse-flow",
+      "description": "Coinages for the broader social and civilizational vocabulary imported from Western modernity: society, culture, civilization as distinct conceptual spheres."
+    }
+  ]

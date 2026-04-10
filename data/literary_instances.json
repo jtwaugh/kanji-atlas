@@ -1,0 +1,86 @@
+[
+    {
+      "id": "mu-gateless-gate-1",
+      "term_id": "mu",
+      "source_id": "gateless-gate",
+      "passage": "趙州和尚、因僧問、狗子還有佛性也無。州云、無。",
+      "notes": "A monk asked Zhaozhou: does a dog have Buddha-nature? Zhaozhou said: 無. Wumen's commentary instructs the student to make their whole body a single mass of inquiry concentrated on this character. The koan works not by providing an answer but by becoming the question — 無 as a concentration object that cuts off conceptual elaboration. The monk's question expects a philosophical answer (yes or no, with reasons); Zhaozhou's 無 refuses the frame entirely."
+    },
+    {
+      "id": "mu-gateless-gate-commentary",
+      "term_id": "mu",
+      "source_id": "gateless-gate",
+      "passage": "参禅は須らく祖師の関を透すべし、妙悟は要に心路を絶すべし。",
+      "notes": "Wumen's verse commentary on Case 1. Zen practice requires passing through the barrier of the patriarchs; subtle awakening requires cutting off the road of the heart-mind. 心路 (the road of the heart-mind) is what 無 is meant to block — the habitual movement of conceptual mind along its familiar paths. Note 心 (kokoro) embedded in 心路."
+    },
+    {
+      "id": "ku-heart-sutra-1",
+      "term_id": "ku",
+      "source_id": "heart-sutra",
+      "passage": "色即是空、空即是色。",
+      "notes": "Form is precisely emptiness, emptiness precisely form. The copula 即是 (precisely is, is identical with) is doing the load-bearing work — this is not a claim that form doesn't exist but that form and emptiness are not two separate things that can be related. They are identical in nature. The passage is the doctrinal center of the Prajnaparamita corpus and is recited daily in Zen monasteries throughout East Asia."
+    },
+    {
+      "id": "ku-heart-sutra-2",
+      "term_id": "ku",
+      "source_id": "heart-sutra",
+      "passage": "舎利子、是諸法空相、不生不滅、不垢不浄、不増不減。",
+      "notes": "Shariputra — the nature of all dharmas is emptiness: not arising, not ceasing; not defiled, not pure; not increasing, not decreasing. The negations (不) cascade through all the categories by which phenomena are ordinarily grasped and sorted. 空相 — the mark or characteristic of emptiness — is what all dharmas share. This passage clarifies that 空 is not a description of a special state but of the nature of all phenomena at all times."
+    },
+    {
+      "id": "kokoro-platform-sutra-1",
+      "term_id": "kokoro",
+      "source_id": "platform-sutra",
+      "passage": "菩提自性、本来清浄、但用此心、直了成佛。",
+      "notes": "Bodhi-nature is originally pure; simply use this heart-mind directly and you will attain Buddhahood. The directness of 此心 — this heart-mind, the one already functioning — is the hinge of the Southern school's teaching. Not a heart-mind to be acquired or cultivated into existence, but one already present. Huineng's entire teaching can be read as an unpacking of 此心 — what it means to use directly what is already fully here."
+    },
+    {
+      "id": "kokoro-platform-sutra-2",
+      "term_id": "kokoro",
+      "source_id": "platform-sutra",
+      "passage": "自性迷即是衆生、自性覚即是佛。",
+      "notes": "When self-nature (自性) is deluded it is sentient beings; when self-nature is awakened it is Buddha. 心 is implicit throughout — self-nature is the nature of the heart-mind, and its delusion or awakening is what distinguishes ordinary beings from Buddhas. The teaching: the distinction is not ontological (a different kind of being) but functional (the same heart-mind operating under delusion or in clarity)."
+    },
+    {
+      "id": "do-blue-cliff-record-1",
+      "term_id": "do",
+      "source_id": "blue-cliff-record",
+      "passage": "趙州、因僧問、如何是道。州云、牆外底。",
+      "notes": "A monk asks Zhaozhou: what is the Way? Zhaozhou says: the one outside the wall. The answer refuses the philosophical register the question opens — the monk expects 道 to be answered with abstraction, and Zhaozhou points to the concrete particular right there, outside the wall. The koan works because 道 in the monk's question is already loaded with Daoist and Buddhist philosophical weight, and Zhaozhou drops all of it for the ordinary thing at hand."
+    },
+    {
+      "id": "do-blue-cliff-record-nanquan",
+      "term_id": "do",
+      "source_id": "blue-cliff-record",
+      "passage": "南泉云、平常心是道。",
+      "notes": "Nanquan (Nansen) says: ordinary mind is the Way. 平常心 — ordinary, everyday, unexceptional mind — is 道. This formula is one of the most important in Chan/Zen: the Way is not achieved by extraordinary practice or special states but is the ordinary functioning of the heart-mind right now. The formula requires understanding 心 and 道 simultaneously — ordinary heart-mind is itself the Way, not a sign pointing toward it."
+    },
+    {
+      "id": "tetsugaku-nishi-1",
+      "term_id": "tetsugaku",
+      "source_id": "nishi-hyakuichi",
+      "passage": "西洋ニテハ希臘ノ昔ヨリ哲学ト云フ学アリ",
+      "notes": "In the West, since ancient Greece, there has existed a learning called 哲学. Nishi's framing introduces the coinage in the context of explaining Western intellectual traditions — one discipline among several that Japan needed to acquire and understand. The matter-of-fact tone (there exists a learning called this) is the Meiji translation posture: naming the thing gives Japan a conceptual handle on it."
+    },
+    {
+      "id": "shakai-liang-xinmin-1",
+      "term_id": "shakai",
+      "source_id": "liang-xinmin",
+      "passage": "社会者、有機体也",
+      "notes": "Society is an organism. Liang Qichao, writing in Chinese after years in Japan, uses 社会 as a naturalized Chinese term to introduce Herbert Spencer's social organism metaphor — a key concept of nineteenth-century sociology. This moment exemplifies the reverse flow: a Japanese coinage (社会) enters Chinese intellectual discourse and immediately begins doing new theoretical work. Liang does not flag 社会 as a Japanese loan — by 1902 it has become simply the word."
+    },
+    {
+      "id": "minshushugi-fukuzawa-1",
+      "term_id": "minshushugi",
+      "source_id": "fukuzawa-gakumon",
+      "passage": "天は人の上に人を造らず人の下に人を造らずと言えり",
+      "notes": "Heaven did not create people above other people or below other people. Fukuzawa's opening line — the most widely quoted sentence in Meiji literature. Does not use 民主 directly but establishes the conceptual ground (human equality as natural fact) into which democratic political vocabulary would be planted. The sentence's power comes from its simplicity and its directness against the Confucian hierarchy it implicitly refuses."
+    },
+    {
+      "id": "kagaku-liang-ouyou-1",
+      "term_id": "kagaku",
+      "source_id": "liang-ouyou",
+      "passage": "科学万能の夢は破れた",
+      "notes": "The dream of omnipotent science is shattered. Liang Qichao writing after visiting post-WWI Europe, in which Western science had produced industrial mass killing. The disillusionment with 科学 as a totalizing solution marks a key moment in East Asian intellectual history — the imported concept turning on itself. The sentence is written in Japanese-inflected Chinese, showing Liang's complete fluency in the wasei-kango vocabulary even as he uses it to critique the civilization that produced it."
+    }
+  ]

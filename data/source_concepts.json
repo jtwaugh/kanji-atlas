@@ -1,0 +1,58 @@
+[
+    {
+      "id": "wu-classical-chinese",
+      "term": "wu (無)",
+      "language": "Classical Chinese",
+      "gloss": "negation, non-being, absence — the foundational negative of Chinese philosophy, recruited by Chan as a pedagogical tool rather than an ontological claim",
+      "notes": "Unlike Sanskrit śūnya, 無 is a native Chinese negative with no Sanskrit original. Chan teachers shaped its meaning through use, not translation."
+    },
+    {
+      "id": "sunyata",
+      "term": "śūnyatā",
+      "language": "Sanskrit",
+      "gloss": "emptiness — the absence of svabhāva (inherent, independent self-existence) in all phenomena",
+      "notes": "Central term of Madhyamaka philosophy (Nāgārjuna). Things are empty not because they don't exist but because they exist only interdependently. The Chinese 空 carries this but flattens the relational logic."
+    },
+    {
+      "id": "citta-hrdaya",
+      "term": "citta / hṛdaya",
+      "language": "Sanskrit",
+      "gloss": "citta: mind, consciousness, the thinking-feeling organ; hṛdaya: heart, the physical and spiritual center",
+      "notes": "Chinese 心 conflates both Sanskrit terms into one, reflecting a Chinese conceptual unity that neither Sanskrit term alone captures."
+    },
+    {
+      "id": "marga-tao",
+      "term": "mārga / tao",
+      "language": "Sanskrit / Classical Chinese",
+      "gloss": "mārga: path, road, the way to liberation; tao: the Way — the underlying ordering principle of reality in Daoist and Confucian thought",
+      "notes": "Buddhist translators used the pre-existing Chinese 道 (tao) to render Sanskrit mārga, inheriting centuries of Daoist and Confucian resonance. Chan exploited this layering deliberately."
+    },
+    {
+      "id": "philosophie",
+      "term": "philosophie / philosophy",
+      "language": "Dutch / English",
+      "gloss": "the love of wisdom; systematic rational inquiry into the nature of existence, knowledge, value, and mind",
+      "notes": "Nishi Amane encountered the term primarily through Dutch philosophy during his studies in the Netherlands. His coinage frames Western philosophy through the lens of Confucian sage-wisdom."
+    },
+    {
+      "id": "society-english",
+      "term": "society",
+      "language": "English",
+      "gloss": "an abstract collective of individuals bound by shared norms and institutions — distinct from the state, the family, and mere population",
+      "notes": "A specifically modern Western sociological concept. Classical Chinese thought organized social reality through relational categories (the five relationships), not through an abstract collective sphere."
+    },
+    {
+      "id": "democracy-english",
+      "term": "democracy",
+      "language": "English / French",
+      "gloss": "rule by the people; a system of government in which political authority derives from and is exercised by the citizenry",
+      "notes": "The classical Chinese compound 民主 meant 'lord of the people' (paternalistic), not 'rule by the people.' Repurposing it for democracy inverts the classical political relationship."
+    },
+    {
+      "id": "science-english",
+      "term": "science / Wissenschaft",
+      "language": "English / German",
+      "gloss": "systematic empirical inquiry into the natural world; organized, methodical knowledge production",
+      "notes": "The German Wissenschaft (systematic organized knowledge, including humanistic disciplines) fits the coinage 科学 better than English 'science,' which by the mid-19th century meant primarily natural science."
+    }
+  ]
