@@ -16,6 +16,10 @@ export function getTerm(id) {
   return terms.find((t) => t.id === id);
 }
 
+export function getTermByCharacters(chars) {
+  return terms.find((t) => t.characters === chars);
+}
+
 export function getCharacter(char) {
   return characters.find((c) => c.character === char || c.char === char);
 }

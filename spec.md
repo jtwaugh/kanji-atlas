@@ -1,10 +1,16 @@
-# Zen Kanji Conceptual Atlas — Full Project Specification
+# Kanji Conceptual Atlas — Full Project Specification
 
 ## Overview
 
 This tool is a conceptual atlas of Sino-Japanese and Sino-Japanese-to-modern vocabulary, designed for a linguistically sophisticated reader who has working knowledge of kana and wants to build meaningful recognition of kanji — not through rote memorization but through etymological, compositional, and doctrinal depth. It is organized around two epochal transmission events — the classical Buddhist-Confucian flow from China into Japan (roughly 5th–13th centuries CE), and the Meiji-era reverse flow of modernization vocabulary from Japan back into Chinese (roughly 1868–1920) — and treats each term as a node in a network rather than an item in a list.
 
 The model is closer to how a classicist approaches Latin or Greek than how a language learner approaches a spoken tongue. The target user can read hiragana and katakana, understands that katakana marks foreignness and otherness rather than merely formality, and has enough structural intuition about Japanese to know what they're looking at — but lacks the textual layer: the classical Sino-Japanese Buddhist and intellectual conceptual vocabulary that Zen literature and modern East Asian thought actually run on. The goal is recognition and meaningful association, not production or conversational fluency. The tool trains an eye, and gives that eye a grip.
+
+### What This Is Not
+
+The atlas is not a character dictionary. It does not aim to cover the joyo set, mirror Jisho or Unihan, offer exhaustive reading tables, or serve as a lookup tool for arbitrary kanji encountered in the wild. Characters appear here only insofar as they are components of curated terms that sit inside the two transmission events this tool is about. A kanji that does not earn its place in that network does not belong in the data.
+
+The atlas is also not a stroke-order or handwriting tool. It is not Skritter, WaniKani, or a calligraphy trainer. The user is not here to acquire handwriting, pass a proficiency test, or drill stroke sequences. Where character composition is visualized, the purpose is to make the compositional *argument* visible — to show that 空 is 穴 over 工, and what that means — not to train the hand. Any feature that would be at home in a handwriting app and nowhere else is out of scope.
 
 ---
 
@@ -14,14 +20,14 @@ The atlas is organized around two distinct but parallel transmission events. Eac
 
 The table below defines the parallel structure. Every term entry in both modules answers the same set of questions, mapped onto the appropriate historical context.
 
-| Field | Classical Flow (China → Japan) | Modern Reverse Flow (Japan → China) |
+| Field | China → Japan | Japan → China |
 |---|---|---|
 | **Term** | Sino-Japanese Buddhist or Confucian compound | Wasei-kango (和製漢語): Japanese-coined Chinese-character word |
 | **Period of transmission** | Roughly 5th–13th century CE, peaking with Buddhist transmission waves | Roughly 1868–1912 (Meiji era), concentrated in a ~50-year window |
 | **Source concept** | Sanskrit or Pali Buddhist/Indian philosophical term | Western European concept (typically English, French, or German) |
 | **Source language form** | Sanskrit/Pali original with romanization and meaning | European source word with language of origin and meaning |
 | **Translation interpretation** | How Chinese translators rendered Sanskrit into Classical Chinese — what they emphasized, what they suppressed | How Meiji Japanese translators rendered Western concepts into Chinese characters — what they chose to name, what they left unnamed |
-| **Character composition** | Semantic and phonetic components of the kanji, with each component's classical meaning | Same — the characters used are classical Chinese, but assembled in Japan for a new purpose |
+| **Component characters** | For multi-character terms, each component character with its classical meaning. Single-character terms are shown as themselves and are not decomposed into radicals. | Same — the characters used are classical Chinese, but assembled in Japan for a new purpose |
 | **Date of coinage / transmission** | Approximate century and Buddhist textual tradition in which the term entered Chinese, then Japanese | Named coiner and approximate year where known (e.g., Nishi Amane coins 哲学 in 1874) |
 | **Agent of transmission** | Translation schools, individual monk-translators (Xuanzang, Kumārajīva), transmission lineages | Named Meiji intellectuals and translators (Nishi Amane, Fukuzawa Yukichi, Nishimura Shigeki, Liang Qichao as return agent) |
 | **Graphic evolution** | Oracle bone → bronze → seal → clerical → modern forms, with the ability to click into each | Same graphic evolution, but the *coinage moment* is modern — emphasis on what classical components were recruited and why |
@@ -167,9 +173,11 @@ The evolution display should also note, where applicable, the difference between
 
 ---
 
-## The Stroke Order Practice Component
+## Character Composition Visualization
 
-The stroke component is integrated into every term entry in both modules. It is not a separate app or a gamified exercise — it is a way of encoding the character in a different sensory register from visual recognition alone.
+**Note:** this section describes aspirational visualization modes, *not* a stroke-order practice feature. The atlas is not a handwriting or tracing tool. What follows is about using animated decomposition to make compositional arguments visible — showing how a character is built out of meaningful parts — not about training the user's hand or teaching stroke sequences as such.
+
+The composition component is integrated into every term entry in both modules. It is not a separate app, a gamified exercise, or a stroke-order drill — it is a way of encoding the character's *structure* in a different sensory register from static visual recognition alone.
 
 ### The Pedagogical Goal
 
@@ -221,7 +229,7 @@ The game and mnemonic layer (see below) can consume the same JSON directly. Game
 
 The JSON schema is intentionally loose in v1. Fields are present where known and absent where not. The renderer should handle missing fields gracefully — displaying what exists, not breaking on what doesn't. Schema enforcement and validation can be added later when the content stabilizes.
 
-A term object contains at minimum: the character(s), the readings (on'yomi, kun'yomi where applicable), the module tag (classical or reverse-flow), the semantic field or thematic cluster, the source concept, the component breakdown, and at least one literary instance. All other fields are optional in v1.
+A term object contains at minimum: the character(s), the readings (on'yomi, kun'yomi where applicable), the module tag (classical or reverse-flow), the semantic field or thematic cluster, the source concept, the component characters, and at least one literary instance. All other fields are optional in v1.
 
 ### The Kana Layer
 
@@ -267,7 +275,7 @@ The literary instance field is the primary differentiator between this tool and 
 
 The atlas is designed from the start to be a platform, not just a reference. The JSON data structure and the term entry schema are the API. Any mnemonic game or practice mode is a consumer of that API, not a separate content system.
 
-This has concrete architectural implications: the term object should expose every field that a game might need — character forms, component breakdown, readings, literary instances, neighbors, source concept, translation range — in a consistent, addressable way. Games should be able to filter the term set by module, semantic field, or any other tag without knowing anything about how the reference interface works.
+This has concrete architectural implications: the term object should expose every field that a game might need — character forms, component characters, readings, literary instances, neighbors, source concept, translation range — in a consistent, addressable way. Games should be able to filter the term set by module, semantic field, or any other tag without knowing anything about how the reference interface works.
 
 Some example game modes that the data architecture should support without requiring data changes:
 
@@ -527,7 +535,7 @@ The data layer is split across six JSON files in `data/`. Each file is a flat ar
 
 **What stays on the term object:**
 
-`components` (the decomposition of this specific compound — term-specific, not shared), `translation_range`, `conceptual_remainder`, `coinage_agent`, `transmission_wave`, `doctrinal_weight`, `false_friends`. These are genuinely term-specific and do not normalize cleanly.
+`components` (the component characters of a multi-character term, each with its meaning in the context of this specific compound; for single-character terms, a single entry containing the term character itself — single-character terms are not decomposed into radicals), `translation_range`, `conceptual_remainder`, `coinage_agent`, `transmission_wave`, `doctrinal_weight`, `false_friends`. These are genuinely term-specific and do not normalize cleanly.
 
 **Minimal valid objects per file:**
 
@@ -544,8 +552,7 @@ The data layer is split across six JSON files in `data/`. Each file is a flat ar
   "source_concept_id": "sunyata",
   "neighbor_ids": ["mu", "shiki", "hannya"],
   "components": [
-    { "char": "穴", "meaning": "cave, opening, hollow" },
-    { "char": "工", "meaning": "craft, work" }
+    { "char": "空", "meaning": "emptiness, openness, void, sky" }
   ]
 }
 
@@ -629,7 +636,7 @@ D3 attaches to a `<div>` via `useRef` inside the React component. D3 owns the SV
 
 ### Phase 4 — Term screen (`TermView`)
 
-Build `TermView` as the core reading environment. Extracts `:id` from params via `useParams()`, calls `getTermById(id)` from `data.js`. Renders: characters large via `KanjiDisplay`, readings in kana first then romaji, module badge via `FieldBadge`, source concept with language and gloss, component breakdown via `ComponentBreakdown`, translation range if present, conceptual remainder if present, literary instances via `LiteraryInstance`, neighbor links via `NeighborLinks`. Each character in `term.characters` renders as a `Link` to `/character/:char`.
+Build `TermView` as the core reading environment. Extracts `:id` from params via `useParams()`, calls `getTermById(id)` from `data.js`. Renders: characters large via `KanjiDisplay`, readings in kana first then romaji, module badge via `FieldBadge`, source concept with language and gloss, component characters via `ComponentBreakdown`, translation range if present, conceptual remainder if present, literary instances via `LiteraryInstance`, neighbor links via `NeighborLinks`. Each character in `term.characters` renders as a `Link` to `/character/:char`.
 
 This is the center of gravity. Dense, scholarly, no progress bars or gamification chrome.
 

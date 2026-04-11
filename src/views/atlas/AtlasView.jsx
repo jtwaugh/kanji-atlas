@@ -1,188 +1,109 @@
-import { useEffect, useMemo, useRef } from 'react';
+import { useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import * as d3 from 'd3';
 import { terms, semanticFields } from '@/data';
+import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from '@/components/ui/tooltip';
+import FlowChip, { MODULE_META } from '@/components/FlowChip';
 
-const MODULE_COLORS = {
-  classical: '#c2410c',
-  'reverse-flow': '#0e7490',
-};
+const FLOW_ORDER = ['classical', 'reverse-flow'];
 
-const COMPLETENESS_FIELDS = [
-  'components',
-  'translation_range',
-  'conceptual_remainder',
-  'doctrinal_weight',
-  'false_friends',
-  'literary_instances',
-  'neighbor_ids',
-  'on_reading',
-  'kun_reading',
-  'source_concept_id',
-];
-
-function completeness(term) {
-  let filled = 0;
-  for (const key of COMPLETENESS_FIELDS) {
-    const v = term[key];
-    if (v == null) continue;
-    if (Array.isArray(v) ? v.length > 0 : String(v).trim() !== '') filled += 1;
+function groupByFlow() {
+  const byModule = new Map();
+  for (const field of semanticFields) {
+    if (!byModule.has(field.module)) byModule.set(field.module, []);
+    byModule.get(field.module).push({ ...field, terms: [] });
   }
-  return filled / COMPLETENESS_FIELDS.length;
+  const fieldIndex = new Map();
+  for (const fields of byModule.values()) {
+    for (const f of fields) fieldIndex.set(f.id, f);
+  }
+  for (const term of terms) {
+    const field = fieldIndex.get(term.semantic_field_id);
+    if (field) field.terms.push(term);
+  }
+  return byModule;
 }
 
 export default function AtlasView() {
-  const svgRef = useRef(null);
   const navigate = useNavigate();
-
-  const fieldIndex = useMemo(() => {
-    const map = new Map();
-    for (const f of semanticFields) map.set(f.id, f);
-    return map;
-  }, []);
-
-  const nodes = useMemo(
-    () =>
-      terms.map((t) => ({
-        id: t.id,
-        label: t.characters,
-        romaji: t.romaji,
-        module: t.module,
-        fieldId: t.semantic_field_id,
-        fieldLabel: fieldIndex.get(t.semantic_field_id)?.label ?? t.semantic_field_id,
-        completeness: completeness(t),
-      })),
-    [fieldIndex],
-  );
-
-  useEffect(() => {
-    const svgEl = svgRef.current;
-    if (!svgEl) return;
-
-    const width = svgEl.clientWidth || 960;
-    const height = svgEl.clientHeight || 640;
-
-    const svg = d3.select(svgEl).attr('viewBox', [0, 0, width, height]);
-    svg.selectAll('*').remove();
-
-    const root = svg.append('g');
-
-    svg.call(
-      d3
-        .zoom()
-        .scaleExtent([0.4, 4])
-        .on('zoom', (event) => root.attr('transform', event.transform)),
-    );
-
-    const fieldIds = Array.from(new Set(nodes.map((n) => n.fieldId)));
-    const angleStep = (2 * Math.PI) / Math.max(fieldIds.length, 1);
-    const clusterRadius = Math.min(width, height) * 0.32;
-    const clusterCenters = new Map(
-      fieldIds.map((id, i) => [
-        id,
-        {
-          x: width / 2 + Math.cos(i * angleStep - Math.PI / 2) * clusterRadius,
-          y: height / 2 + Math.sin(i * angleStep - Math.PI / 2) * clusterRadius,
-        },
-      ]),
-    );
-
-    const sim = d3
-      .forceSimulation(nodes)
-      .force('charge', d3.forceManyBody().strength(-80))
-      .force(
-        'x',
-        d3.forceX((d) => clusterCenters.get(d.fieldId)?.x ?? width / 2).strength(0.18),
-      )
-      .force(
-        'y',
-        d3.forceY((d) => clusterCenters.get(d.fieldId)?.y ?? height / 2).strength(0.18),
-      )
-      .force(
-        'collide',
-        d3.forceCollide((d) => 18 + d.completeness * 18),
-      );
-
-    const labelLayer = root.append('g').attr('class', 'cluster-labels');
-    for (const [id, c] of clusterCenters) {
-      const field = fieldIndex.get(id);
-      labelLayer
-        .append('text')
-        .attr('x', c.x)
-        .attr('y', c.y - clusterRadius * 0.5)
-        .attr('text-anchor', 'middle')
-        .attr('fill', '#6b7280')
-        .attr('font-size', 12)
-        .attr('font-weight', 600)
-        .attr('letter-spacing', '0.04em')
-        .attr('text-transform', 'uppercase')
-        .text(field?.label ?? id);
-    }
-
-    const node = root
-      .append('g')
-      .selectAll('g')
-      .data(nodes)
-      .join('g')
-      .style('cursor', 'pointer')
-      .on('click', (_, d) => navigate(`/term/${d.id}`));
-
-    node.append('title').text((d) => `${d.label} · ${d.romaji}\n${d.fieldLabel}`);
-
-    node
-      .append('circle')
-      .attr('r', (d) => 16 + d.completeness * 16)
-      .attr('fill', (d) => MODULE_COLORS[d.module] ?? '#6b7280')
-      .attr('fill-opacity', 0.15)
-      .attr('stroke', (d) => MODULE_COLORS[d.module] ?? '#6b7280')
-      .attr('stroke-width', 1.5);
-
-    node
-      .append('text')
-      .attr('text-anchor', 'middle')
-      .attr('dy', '0.1em')
-      .attr('font-size', (d) => 16 + d.completeness * 10)
-      .attr('fill', '#111827')
-      .attr('font-family', '"Noto Serif JP", "Hiragino Mincho ProN", serif')
-      .text((d) => d.label);
-
-    node
-      .append('text')
-      .attr('text-anchor', 'middle')
-      .attr('dy', (d) => 16 + d.completeness * 16 + 12)
-      .attr('font-size', 10)
-      .attr('fill', '#4b5563')
-      .attr('font-style', 'italic')
-      .text((d) => d.romaji);
-
-    sim.on('tick', () => {
-      node.attr('transform', (d) => `translate(${d.x},${d.y})`);
-    });
-
-    return () => {
-      sim.stop();
-    };
-  }, [nodes, fieldIndex, navigate]);
+  const byModule = useMemo(groupByFlow, []);
 
   return (
-    <div className="relative h-full w-full">
-      <svg ref={svgRef} className="h-full w-full" />
-      <div className="pointer-events-none absolute left-4 top-4 flex flex-col gap-1 text-xs text-muted-foreground">
-        <div className="flex items-center gap-2">
-          <span
-            className="inline-block h-2 w-2 rounded-full"
-            style={{ background: MODULE_COLORS.classical }}
-          />
-          Classical flow
-        </div>
-        <div className="flex items-center gap-2">
-          <span
-            className="inline-block h-2 w-2 rounded-full"
-            style={{ background: MODULE_COLORS['reverse-flow'] }}
-          />
-          Reverse flow
-        </div>
-      </div>
+    <TooltipProvider delayDuration={150}>
+    <div className="grid h-full w-full grid-cols-1 gap-6 p-6 lg:grid-cols-2">
+      {FLOW_ORDER.map((moduleId) => {
+        const meta = MODULE_META[moduleId];
+        const fields = byModule.get(moduleId) ?? [];
+        return (
+          <section key={moduleId} className="flex min-h-0 flex-col gap-4">
+            <header className="px-2">
+              <div className="flex items-center gap-3">
+                <h2 className="font-heading text-2xl font-medium">{meta.label}</h2>
+                <FlowChip module={moduleId} />
+              </div>
+            </header>
+            <div className="grid flex-1 auto-rows-fr grid-cols-1 gap-4 sm:grid-cols-2">
+              {fields.map((field) => (
+                <Card key={field.id} size="sm" className="min-h-0">
+                  <CardHeader>
+                    <CardTitle>
+                      {field.description ? (
+                        <Tooltip>
+                          <TooltipTrigger className="cursor-help decoration-dotted decoration-muted-foreground/60 underline-offset-4 hover:underline focus-visible:outline-none">
+                            {field.label}
+                          </TooltipTrigger>
+                          <TooltipContent side="top" className="max-w-xs text-balance">
+                            {field.description}
+                          </TooltipContent>
+                        </Tooltip>
+                      ) : (
+                        field.label
+                      )}
+                    </CardTitle>
+                  </CardHeader>
+                  <CardContent className="flex flex-wrap gap-3">
+                    {field.terms.map((term) => {
+                      const gloss = term.translation_range?.[0]?.rendering;
+                      return (
+                      <button
+                        key={term.id}
+                        type="button"
+                        onClick={() => navigate(`/term/${encodeURIComponent(term.characters)}`)}
+                        className="group flex flex-col items-center rounded-2xl px-3 py-2 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500/50"
+                      >
+                        <span
+                          className="kanji-link text-3xl leading-none"
+                          style={{ fontFamily: '"Noto Serif JP", "Hiragino Mincho ProN", serif' }}
+                        >
+                          {term.characters}
+                        </span>
+                        <span className="mt-1 text-xs italic text-muted-foreground">
+                          {term.romaji}
+                        </span>
+                        {gloss && (
+                          <span className="mt-0.5 max-w-[10rem] line-clamp-1 text-xs text-foreground/80">
+                            {gloss}
+                          </span>
+                        )}
+                      </button>
+                      );
+                    })}
+                    {field.terms.length === 0 && (
+                      <span className="text-xs text-muted-foreground">No terms yet</span>
+                    )}
+                  </CardContent>
+                </Card>
+              ))}
+            </div>
+          </section>
+        );
+      })}
     </div>
+    </TooltipProvider>
   );
 }

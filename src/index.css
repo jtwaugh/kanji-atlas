@@ -91,12 +91,59 @@ body {
     --sidebar-ring: oklch(0.556 0 0);
   }
   * {
-    @apply border-border outline-ring/50;
+    @apply border-border;
+  }
+  *:focus-visible {
+    outline-color: color-mix(in oklch, var(--ring) 50%, transparent);
   }
   body {
     @apply bg-background text-foreground;
   }
   html {
     @apply font-sans;
+  }
+}
+
+@layer components {
+  /*
+   * .kanji-link — clickable kanji (atlas cards, character links, neighbors).
+   * The character itself carries the visual weight, so the base state is
+   * plain foreground text with no underline. Hover shifts to sky-blue to
+   * signal navigability without adding ornament that competes with the
+   * glyph. Applies to <a>, <button>, or any span that navigates.
+   */
+  .kanji-link {
+    @apply text-foreground no-underline transition-colors;
+  }
+  .kanji-link:hover,
+  .group:hover .kanji-link {
+    @apply text-sky-600;
+  }
+  .dark .kanji-link:hover,
+  .dark .group:hover .kanji-link {
+    @apply text-sky-400;
+  }
+
+  /*
+   * .reading-row — shared grammar for labeled reading lists on TermView and
+   * CharacterView. A short label (音 / 訓 / 中) sits in the gutter, the
+   * readings sit in the main column separated by ・. Keeps ON, KUN, and
+   * pinyin visually parallel so the user reads them as the same kind of
+   * thing: three pronunciation traditions for one character.
+   */
+  .reading-row {
+    @apply flex items-baseline gap-3;
+  }
+  .reading-row + .reading-row {
+    @apply mt-1;
+  }
+  .reading-row__label {
+    @apply w-6 shrink-0 font-serif text-base text-muted-foreground;
+  }
+  .reading-row__values {
+    @apply font-serif text-lg text-foreground;
+  }
+  .reading-row--muted .reading-row__values {
+    @apply text-base italic text-muted-foreground;
   }
 }

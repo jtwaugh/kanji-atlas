@@ -77,6 +77,20 @@
       "notes": "Heaven did not create people above other people or below other people. Fukuzawa's opening line — the most widely quoted sentence in Meiji literature. Does not use 民主 directly but establishes the conceptual ground (human equality as natural fact) into which democratic political vocabulary would be planted. The sentence's power comes from its simplicity and its directness against the Confucian hierarchy it implicitly refuses."
     },
     {
+      "id": "satori-platform-sutra-1",
+      "term_id": "satori",
+      "source_id": "platform-sutra",
+      "passage": "祖以袈裟遮圍、不令人見、為説金剛経。至應無所住而生其心、惠能言下大悟、一切万法、不離自性。",
+      "notes": "The Fifth Patriarch Hongren conceals Huineng behind a robe and explains the Diamond Sutra. When the recitation reaches the line 'produce a mind that clings to nothing' (應無所住而生其心), Huineng is struck into great awakening (言下大悟): all ten thousand dharmas do not depart from self-nature. Three things deserve attention here. First, the awakening is triggered by a specific moment in a specific text — 悟 is not a product of accumulated effort but an event with a precise occasion. Second, the content of the awakening is not described as a vision or state but as a recognition: 一切万法、不離自性 — everything that arises, arises from this nature that is already here. Third, the verb 大悟 (great awakening) uses 悟 rather than 覚 or 証, marking this as the sudden-school vocabulary: an event, a break, not a gradual brightening. The passage is the most cited awakening narrative in the Chan/Zen tradition and anchors Huineng's authority as the Sixth Patriarch."
+    },
+    {
+      "id": "go-blue-cliff-record-baizhang",
+      "term_id": "go",
+      "source_id": "blue-cliff-record",
+      "passage": "老人云：某甲非人也。往昔迦葉佛時、曾住此山。因学人問、大修行人還落因果也無。某甲對云：不落因果。五百生墮野狐身。今請和尚代一轉語。丈云：不昧因果。老人於言下大悟。",
+      "notes": "An old man who has been haunting Baizhang's assembly reveals that he was once a teacher on this mountain, asked by a student whether a great practitioner still falls into cause and effect (因果 — the framework within which 業/karma operates). He answered 不落因果 (not falling into cause and effect) and was thereby reborn as a wild fox for five hundred lives. He asks Baizhang for the correct response; Baizhang gives it: 不昧因果 (not being blind to cause and effect). The old man awakens (大悟) at once. The koan turns on a single character: 落 (fall into, be subject to) versus 昧 (be blind to, deny). The wrong answer denies karma — claiming that an enlightened person is simply free from 業 — and produces five hundred lifetimes of fox-existence as its karmic result. The right answer does not deny karma but refuses ignorance of it: awakening does not suspend 業 but sees it clearly, without the obscuration that generates compulsive reaction. The koan thus models the correct Chan relationship to 業: neither mechanical determinism (you cannot escape cause and effect) nor antinomian denial (enlightenment means freedom from karma), but a clear-eyed, un-blind dwelling in the reality of karmic causation."
+    },
+    {
       "id": "kagaku-liang-ouyou-1",
       "term_id": "kagaku",
       "source_id": "liang-ouyou",

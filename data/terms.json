@@ -40,8 +40,7 @@
       "transmission_wave": "xuanzang",
       "neighbor_ids": ["mu", "kokoro", "do"],
       "components": [
-        { "char": "穴", "meaning": "cave, hole, opening — the semantic component, suggesting hollow space" },
-        { "char": "工", "meaning": "craft, work, construction — phonetic in origin; Zen readings note the resonance of emptiness as something worked open rather than merely absent" }
+        { "char": "空", "meaning": "emptiness, openness, void, sky" }
       ],
       "translation_range": [
         { "rendering": "emptiness", "emphasis": "dominant academic rendering — ontological, suggests a void" },
@@ -93,8 +92,7 @@
       "transmission_wave": "first-wave",
       "neighbor_ids": ["mu", "ku", "kokoro"],
       "components": [
-        { "char": "辶", "meaning": "movement, going — the radical, a simplified form of 辵, depicting a foot in motion" },
-        { "char": "首", "meaning": "head, chief, first — phonetic in origin; Zen readings note the image: a head moving forward, the mind leading the body along a way" }
+        { "char": "道", "meaning": "way, path, road; the Way" }
       ],
       "translation_range": [
         { "rendering": "the Way", "emphasis": "preserves the Daoist resonance and the sense of comprehensive ordering principle" },
@@ -169,6 +167,60 @@
       ],
       "conceptual_remainder": "民主 in classical Chinese meant 'the people's lord' — a paternalistic construction in which the ruler exists to shepherd the people, not one in which the people are themselves sovereign. Repurposing this compound to mean 'rule by the people' inverts the classical political relationship. The characters point in a Confucian direction while the intended meaning points in a liberal-democratic direction. This tension has been generative in East Asian political thought — debates about whether Confucian paternalism can be reconciled with democratic sovereignty are partly debates about what the characters themselves contain.",
       "doctrinal_weight": "Arrives as part of a conceptual cluster with 自由 (liberty), 権利 (rights), 社会 (society), 革命 (revolution). These terms were imported together as the vocabulary of liberal political philosophy and should be understood as a package — each term's meaning is partly defined by its relations to the others."
+    },
+    {
+      "id": "satori",
+      "characters": "悟",
+      "romaji": "satori",
+      "on_reading": "ご",
+      "kun_reading": "さと.る",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "bodhi",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["mu", "ku", "kokoro", "do", "go"],
+      "components": [
+        { "char": "忄", "meaning": "heart-mind radical (vertical form of 心) — awakening is an event of the cognitive-affective organ, not a disembodied rational insight" },
+        { "char": "吾", "meaning": "I, self — phonetic component, but the semantic pull of self-recognition is strong: the mind turning to see its own nature" }
+      ],
+      "translation_range": [
+        { "rendering": "awakening", "emphasis": "increasingly preferred in scholarly and contemporary practice contexts — frames the event as a cognitive shift rather than a mystical state" },
+        { "rendering": "enlightenment", "emphasis": "traditional Western rendering — carries Enlightenment-era connotations of light and reason that distort the original; overused in popular contexts to mean a state of permanent bliss" },
+        { "rendering": "realization", "emphasis": "favored by Dōgen-inflected Sōtō traditions — emphasizes that awakening is not a goal achieved but a recognition of what is already the case" },
+        { "rendering": "satori", "emphasis": "untranslated — treats the term as a Japanese proper noun, foregrounding its Zen specificity while risking exoticization" }
+      ],
+      "conceptual_remainder": "The Sanskrit bodhi that 悟 renders is the direct seeing of the nature of mind and phenomena — a cognitive event defined precisely by its absence of intermediary concepts. What most English translations cannot carry is this anti-conceptual character. 'Enlightenment' carries Kantian-era connotations of reason triumphant; 'awakening' is better but still suggests a shift from one state to another, implying that the previous state was sleep and the new one is permanent wakefulness. Chan/Zen teachers repeatedly warn against 悟 as a state to be acquired or maintained — Linji's 'kill the Buddha' is aimed precisely at students who have mistaken their experience of 悟 for an achievement. The term points at an event that undoes the very framework of events.",
+      "doctrinal_weight": "The most charged term in Chan/Zen discourse — the name for what practice aims at and simultaneously what practice cannot aim at without undermining itself. The paradox is structural: aiming at 悟 reinforces the grasping mind that 悟 dissolves. Rinzai koan practice is designed as a technology for triggering 悟 while bypassing the intentional structure that would make it a goal; Sōtō's shikantaza (just sitting) is designed to enact awakening directly without positing it as a future achievement. The disagreement is not about 悟 but about the pedagogy of its occasioning.",
+      "false_friends": [
+        { "char": "覚", "language": "Japanese", "divergence": "覚 (kaku) covers both 'wakefulness' in the ongoing sense (the awakened condition as a continuous state) and 'to memorize, to learn by heart.' 悟 is the event; 覚 is more the condition or the faculty. Dōgen tends to prefer 覚 precisely to avoid the suggestion that 悟 is a one-time breakthrough separating before from after." },
+        { "char": "証", "language": "Japanese", "divergence": "証 (shō) — realization, verification, attestation — is Dōgen's preferred term for the relationship between practice and awakening. 証 frames awakening as something attested by practice, not something practice leads to as a destination: practice is the realization, not the path toward it." }
+      ]
+    },
+    {
+      "id": "go",
+      "characters": "業",
+      "romaji": "go",
+      "on_reading": "ごう",
+      "kun_reading": "わざ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "karman",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["mu", "ku", "do", "satori"],
+      "components": [
+        { "char": "業", "meaning": "undivided — a pictograph of the large ceremonial board used to hang bells and drums in ritual orchestras; extended to assigned task, occupation, deed, and in Buddhist usage to intentional action with karmic consequence" }
+      ],
+      "translation_range": [
+        { "rendering": "karma", "emphasis": "universal in Buddhist contexts — but in popular Western usage has drifted to mean cosmic retributive justice, losing the precise causal-psychological meaning" },
+        { "rendering": "action", "emphasis": "technically closest to the Sanskrit karman — foregrounds that 業 is about deeds, not their consequences; loses the specifically Buddhist emphasis on conditioned future experience" },
+        { "rendering": "volitional action", "emphasis": "most precise — captures the crucial Buddhist specification that it is intention (cetanā), not the physical act, that constitutes karma" },
+        { "rendering": "deed / work", "emphasis": "the pre-Buddhist classical sense — still active in compounds like 職業 (occupation), 授業 (lesson): the assigned task or organized activity of one's station" }
+      ],
+      "conceptual_remainder": "The Sanskrit karman is not fate but a psychological-causal claim: intentional actions condition the stream of consciousness in ways that shape future perception and response. What the Chinese-Japanese 業 cannot carry is the precision of cetanā — the Buddhist insistence that it is specifically the volitional moment, not the physical execution, that creates karma. Mental actions (mano-karman) thus generate the same karmic weight as bodily ones. Western popular readings of 'karma' as cosmic payback further distort by importing a retributive justice framework entirely absent from early Buddhist psychology. Chan/Zen complications run deeper still: if one's original nature is already pure, in what sense does 業 bind? The Baizhang wild-fox koan makes this the central doctrinal question, and the answer — 不昧因果 (not being blind to cause and effect) — refuses both the denial of karma and a mechanical karmic determinism.",
+      "doctrinal_weight": "Foundational to Buddhist ethics and soteriology. The three modes of karma — bodily, verbal, mental — established that intention is the moral variable, not social role or ritual status, undercutting the caste logic of Brahmanical karma. In Chan/Zen, 業 creates a productive tension: if practice leads to 悟 (awakening), and awakening reveals the originally pure nature, does the awakened practitioner transcend 業? Linji and other Chan masters typically answer with an emphatic refusal of the premise — the question of whether one falls into or is free from 業 is itself a karmic thought.",
+      "false_friends": [
+        { "char": "因果", "language": "Japanese/Chinese", "divergence": "因果 (inga) — cause and result — is the broader philosophical framework of conditioned causality of which 業 is a specific instance. 因果 covers all causal relationships; 業 refers specifically to the karmic causal force of intentional action. The Baizhang koan (不落因果 vs 不昧因果) plays on this: being blind to 因果 is the error, not the existence of karmic action itself." }
+      ]
     },
     {
       "id": "kagaku",

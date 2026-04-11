@@ -3,6 +3,8 @@
       "char": "無",
       "strokes": 12,
       "radical": "火",
+      "gloss": "Negation, absence, the unconditioned — classically a bare negative particle, in Chan/Zen a koan object that points past discursive mind.",
+      "pinyin": "wú",
       "on_readings": ["む", "ぶ"],
       "kun_readings": ["な.い"],
       "graphic_evolution": [
@@ -22,12 +24,15 @@
           "notes": "The 火 radical in the modern form is a graphic accident of simplification, not a semantic clue. Do not read 無 as having anything to do with fire — the radical assignment is taxonomic convention, not etymology."
         }
       ],
-      "doctrinal_notes": "In Chan/Zen, 無 functions primarily as a koan object (話頭, huatou) rather than a philosophical concept. Zhaozhou's 無 in the Gateless Gate Case 1 is the most widely assigned koan in Rinzai training. The character is often written in large calligraphic form and displayed in Zen practice halls."
+      "doctrinal_notes": "In Chan/Zen, 無 functions primarily as a koan object (話頭, huatou) rather than a philosophical concept. Zhaozhou's 無 in the Gateless Gate Case 1 is the most widely assigned koan in Rinzai training. The character is often written in large calligraphic form and displayed in Zen practice halls.",
+      "japanese_transmission": "Present in Japanese literate culture from the first-wave adoption of Chinese writing in the 5th–6th centuries, where it functioned as an ordinary classical-Chinese negative. Its load-bearing sense arrives much later, with the transmission of Chan in the Kamakura period (late 12th–13th centuries): Eisai and then Dōgen bring the Song-dynasty koan curriculum, and Zhaozhou's 無 enters Japanese Rinzai training as the first assigned huatou. The character's status as koan-object — rather than philosophical concept — is entirely a Kamakura-onward development in Japanese."
     },
     {
       "char": "空",
       "strokes": 8,
       "radical": "穴",
+      "gloss": "A hollow, empty space — the positive name for śūnyatā: phenomena empty of inherent self-nature, yet fully present.",
+      "pinyin": "kōng",
       "on_readings": ["くう"],
       "kun_readings": ["そら", "あ.く", "から", "す.く"],
       "graphic_evolution": [
@@ -42,12 +47,15 @@
           "notes": "One of the more transparent characters in Buddhist vocabulary — the composition still legibly depicts a hollow space. The sky meaning (そら) preserves the image of open space above."
         }
       ],
-      "doctrinal_notes": "The primary term for śūnyatā in East Asian Buddhism. Appears in the Heart Sutra's most famous line (色即是空). Distinct from 無 in that 空 is a positive characterization of the nature of phenomena (they are empty of inherent existence) rather than a bare negative."
+      "doctrinal_notes": "The primary term for śūnyatā in East Asian Buddhism. Appears in the Heart Sutra's most famous line (色即是空). Distinct from 無 in that 空 is a positive characterization of the nature of phenomena (they are empty of inherent existence) rather than a bare negative.",
+      "japanese_transmission": "Arrives with the Nara-period (710–794) transmission of the six schools of Chinese Buddhism, and specifically with the Sanron (Madhyamaka) school founded at temples like Gangōji. The Heart Sutra, whose pivotal formula 色即是空 makes 空 the compact emblem of Prajñāpāramitā doctrine, is part of the core liturgy from the Nara period onward and is still chanted daily in most Japanese Buddhist schools. The kun reading そら (sky) belongs to the older native Japanese layer and was mapped onto the imported character when the writing system was being fixed."
     },
     {
       "char": "心",
       "strokes": 4,
       "radical": "心",
+      "gloss": "Heart-mind — the undivided seat of feeling, thought, and moral faculty; in Chan/Zen identified directly with Buddha-nature.",
+      "pinyin": "xīn",
       "on_readings": ["しん"],
       "kun_readings": ["こころ"],
       "graphic_evolution": [
@@ -72,12 +80,15 @@
           "notes": "The modern form retains none of the pictographic legibility of the oracle bone form. But the stroke count (4) is low enough that 心 as a radical is easy to recognize in compound characters: 忘 (forget), 想 (think), 悟 (awaken) all carry 心 at the bottom."
         }
       ],
-      "doctrinal_notes": "The most philosophically loaded character in East Asian Buddhist and Confucian thought. Functions simultaneously as the physical heart, the seat of consciousness, the moral faculty, and the ground of awakening. Chan/Zen teaching often equates 心 with Buddha-nature directly."
+      "doctrinal_notes": "The most philosophically loaded character in East Asian Buddhist and Confucian thought. Functions simultaneously as the physical heart, the seat of consciousness, the moral faculty, and the ground of awakening. Chan/Zen teaching often equates 心 with Buddha-nature directly.",
+      "japanese_transmission": "The native Japanese word こころ predates writing; the character 心 was mapped onto it in the first-wave adoption of Chinese script (5th–6th centuries), via Korean scribes in the Yamato court. Its philosophical weight accretes in layers: first with Nara-period Buddhism (心 as citta in Yogācāra and Abhidharma texts), then with Heian Tendai and Shingon, and most consequentially with Kamakura Zen, where 即心是仏 (this very mind is Buddha) becomes a stock teaching formula. The Confucian heart-mind register arrives later still, with the Tokugawa (1603–1868) establishment of Neo-Confucianism as official doctrine."
     },
     {
       "char": "道",
       "strokes": 13,
       "radical": "辶",
+      "gloss": "A way walked — road, route, and by extension the cosmic ordering principle, the moral path of self-cultivation, and the Buddhist mārga, all at once.",
+      "pinyin": "dào",
       "on_readings": ["どう", "とう"],
       "kun_readings": ["みち"],
       "graphic_evolution": [
@@ -97,12 +108,15 @@
           "notes": "The movement radical 辶 is the cursive simplification of 辵. It appears in many characters involving movement, path, or going: 近 (near), 遠 (far), 遊 (wander). 道 among them carries the heaviest philosophical freight."
         }
       ],
-      "doctrinal_notes": "Carries simultaneous Daoist (cosmic ordering principle), Confucian (moral path of self-cultivation), and Buddhist (mārga, path of practice) resonances. Chan teaching exploits all three registers, most explicitly in the formula 平常心是道 (ordinary mind is the Way)."
+      "doctrinal_notes": "Carries simultaneous Daoist (cosmic ordering principle), Confucian (moral path of self-cultivation), and Buddhist (mārga, path of practice) resonances. Chan teaching exploits all three registers, most explicitly in the formula 平常心是道 (ordinary mind is the Way).",
+      "japanese_transmission": "Like 心, 道 maps an existing native word (みち, 'path, road') onto an imported character in the first-wave Chinese script adoption. The philosophical freight accumulates over centuries: Daoist and Confucian readings from Nara-period classical study, Buddhist mārga from Nara and Heian scholasticism, Zen's full exploitation of all three registers in the Kamakura period. The productive Japanese suffix -dō (柔道, 茶道, 剣道, 書道) — a discipline pursued as a total way of life — is a late-medieval and Tokugawa development that repurposes the character's philosophical density into a framework for cultivated practice."
     },
     {
       "char": "哲",
       "strokes": 10,
       "radical": "口",
+      "gloss": "Sagely discernment — the clarity of one whose speech cuts through to the essential; recruited by Nishi Amane to name the Western discipline of philosophy.",
+      "pinyin": "zhé",
       "on_readings": ["てつ"],
       "kun_readings": ["さと.い"],
       "graphic_evolution": [
@@ -117,12 +131,15 @@
           "notes": "Used in classical Chinese for a person of exceptional sagely insight. Nishi Amane's choice of 哲 for 'philosophy' frames Western inquiry as a form of sage-wisdom cultivation — a framing with significant consequences for how East Asian intellectuals received Western philosophy."
         }
       ],
-      "doctrinal_notes": "Classical term for a sage or wise person of discernment (哲人, tetsujin). Recruited by Nishi Amane in 1874 to translate Western 'philosophy' — the study of 哲 wisdom. The coinage 哲学 remains universal in Japanese and Chinese to this day."
+      "doctrinal_notes": "Classical term for a sage or wise person of discernment (哲人, tetsujin). Recruited by Nishi Amane in 1874 to translate Western 'philosophy' — the study of 哲 wisdom. The coinage 哲学 remains universal in Japanese and Chinese to this day.",
+      "japanese_transmission": "Present in Japan from the classical period as a rare literary character in Chinese texts — the kind a Nara or Heian-period court scholar would encounter reading the Book of Documents or Analects commentaries, but not a working part of Japanese vocabulary. Its consequential arrival is 1874, when Nishi Amane (西周) picks 哲 as the first character of 哲学 to render Western 'philosophy' in Hyakuichi Shinron. Overnight a classical literary rarity becomes the basis for the academic vocabulary of an entire discipline."
     },
     {
       "char": "学",
       "strokes": 8,
       "radical": "子",
+      "gloss": "Learning received and transmitted — originally the image of adult hands passing knowledge to a child; the workhorse suffix for every Meiji-coined academic discipline.",
+      "pinyin": "xué",
       "on_readings": ["がく"],
       "kun_readings": ["まな.ぶ"],
       "graphic_evolution": [
@@ -137,12 +154,15 @@
           "notes": "The simplified form (学 vs traditional 學) drops much of the upper complexity. 子 at the bottom remains clear. Functions as the standard suffix for academic disciplines: 哲学, 科学, 文学, 医学 — philosophy, science, literature, medicine."
         }
       ],
-      "doctrinal_notes": "As a suffix (学, -gaku/-xué), 学 is the workhorse of Meiji academic vocabulary. Nearly every Western disciplinary name was coined by appending 学 to a characterization of the field's subject matter. This suffix pattern made the vocabulary systematic and extensible."
+      "doctrinal_notes": "As a suffix (学, -gaku/-xué), 学 is the workhorse of Meiji academic vocabulary. Nearly every Western disciplinary name was coined by appending 学 to a characterization of the field's subject matter. This suffix pattern made the vocabulary systematic and extensible.",
+      "japanese_transmission": "First-wave character, present from the earliest stratum of Japanese literacy — the Nara-period court's absorption of Confucian texts made 学 the basic word for 'learning, study.' It deepens as an institutional term through the Heian daigakuryō (imperial academy) and the Tokugawa expansion of domain schools and private academies. Its most consequential reuse is Meiji: the 1870s–80s systematize 学 as the standard suffix for Western disciplines (哲学, 科学, 文学, 医学), and this suffix pattern then transfers into Chinese, reshaping the academic vocabulary of both languages."
     },
     {
       "char": "社",
       "strokes": 7,
       "radical": "示",
+      "gloss": "A shrine community, then any organized association — from the local earth-deity gathering to the modern corporate body.",
+      "pinyin": "shè",
       "on_readings": ["しゃ"],
       "kun_readings": ["やしろ"],
       "graphic_evolution": [
@@ -157,12 +177,15 @@
           "notes": "The earth shrine meaning gives way to 'organized association' in classical usage (社団, 会社). Meiji coiners recruited this corporate/associative sense to render 'society' as an organized collective."
         }
       ],
-      "doctrinal_notes": "In 社会 (society), 社 contributes the sense of organized association or corporate body — a group gathered around a common purpose or place, extended from the original shrine community. The character also appears in 会社 (company/corporation) and 神社 (Shinto shrine)."
+      "doctrinal_notes": "In 社会 (society), 社 contributes the sense of organized association or corporate body — a group gathered around a common purpose or place, extended from the original shrine community. The character also appears in 会社 (company/corporation) and 神社 (Shinto shrine).",
+      "japanese_transmission": "Arrives with first-wave Chinese script but is absorbed into the specifically Japanese religious landscape through the compound 神社 (jinja), applied to Shintō shrines from at least the Nara period onward. The kun reading やしろ is the older native word for a shrine precinct, mapped onto the imported character. The abstract 'association / corporate body' sense — already present in classical Chinese usage — is reactivated in the Meiji period to construct the modern sociological vocabulary: 社会 (society), 会社 (company), 社説 (editorial)."
     },
     {
       "char": "会",
       "strokes": 6,
       "radical": "人",
+      "gloss": "Gathering, meeting, convergence — things and people coming together under a shared occasion.",
+      "pinyin": "huì",
       "on_readings": ["かい", "え"],
       "kun_readings": ["あ.う", "あつ.まる"],
       "graphic_evolution": [
@@ -177,12 +200,15 @@
           "notes": "Traditional 會 is 13 strokes; simplified 会 is 6. The simplification loses some of the visual complexity but the 'coming together' meaning is preserved in usage: 会議 (meeting), 会社 (company), 社会 (society)."
         }
       ],
-      "doctrinal_notes": "In 社会 (society), 会 contributes the sense of gathering, assembly, coming together. The compound 社会 thus suggests an organized community gathering — an association of people. The abstract sociological sense (an autonomous collective sphere) is what the Meiji coinage imported from the Western concept."
+      "doctrinal_notes": "In 社会 (society), 会 contributes the sense of gathering, assembly, coming together. The compound 社会 thus suggests an organized community gathering — an association of people. The abstract sociological sense (an autonomous collective sphere) is what the Meiji coinage imported from the Western concept.",
+      "japanese_transmission": "First-wave character, present from Nara times in its traditional form 會. It carries a strong Buddhist liturgical register throughout the classical and medieval periods — 法会 (hōe, Dharma assembly) is a standard term in temple records from at least the 9th century. The Meiji period mobilizes its 'gathering, assembly' sense for the new vocabulary of civil association (会議, 会社, 社会, 議会), and the postwar script reform (1946) replaces traditional 會 with simplified 会, which is now universal in Japanese print."
     },
     {
       "char": "民",
       "strokes": 5,
       "radical": "氏",
+      "gloss": "The people — classically the governed, positioned below the ruler; repurposed at Meiji to name the sovereign source of political authority.",
+      "pinyin": "mín",
       "on_readings": ["みん"],
       "kun_readings": ["たみ"],
       "graphic_evolution": [
@@ -197,12 +223,15 @@
           "notes": "In classical Chinese political vocabulary, 民 (the people) is consistently positioned below the ruler (君, 王) and above nothing. The Confucian ideal: the ruler exists for the people, but the people do not rule. This is the classical charge that 民主 (democracy) inverts."
         }
       ],
-      "doctrinal_notes": "In 民主 (democracy) and 民主主義 (democracy as doctrine), 民 is the political subject being redefined — from governed people to sovereign people. The classical resonance of 民 as the governed, the subjects, creates a latent tension with the democratic claim that 民 are the source of sovereign authority."
+      "doctrinal_notes": "In 民主 (democracy) and 民主主義 (democracy as doctrine), 民 is the political subject being redefined — from governed people to sovereign people. The classical resonance of 民 as the governed, the subjects, creates a latent tension with the democratic claim that 民 are the source of sovereign authority.",
+      "japanese_transmission": "First-wave character, mapped onto the native Japanese word たみ (the people, the populace) in the earliest stratum of Japanese writing. Through the classical and medieval periods it carries its inherited Confucian valence — the governed, positioned below the ruler. Its modern political load is Meiji-era: Fukuzawa Yukichi and other translators repurpose 民 and the classical compound 民主 ('the people's lord') to render the vocabulary of Western liberal-democratic thought, inverting the classical relationship so that 民 names the sovereign rather than the governed. The tension between the two senses has remained productive in East Asian political discourse ever since."
     },
     {
       "char": "主",
       "strokes": 5,
       "radical": "丶",
+      "gloss": "Lord, master, the central one — the lamp flame around which a space is oriented; doubles as the leading character of 主義, the suffix for every -ism.",
+      "pinyin": "zhǔ",
       "on_readings": ["しゅ", "す"],
       "kun_readings": ["ぬし", "おも"],
       "graphic_evolution": [
@@ -217,12 +246,15 @@
           "notes": "The flame has become fully abstract. 主 appears twice in 民主主義: first as 'lord/master' (in 民主), then as the first character of 主義 (-ism, guiding principle). The double appearance is a structural accident of Chinese compounding."
         }
       ],
-      "doctrinal_notes": "Classical meaning: lord, master, the one who rules or owns. In 民主, literally 'the people's lord' or 'lord of the people' — a paternalistic Confucian construction that Meiji coiners repurposed to mean 'rule by the people.' The inversion is built into the characters."
+      "doctrinal_notes": "Classical meaning: lord, master, the one who rules or owns. In 民主, literally 'the people's lord' or 'lord of the people' — a paternalistic Confucian construction that Meiji coiners repurposed to mean 'rule by the people.' The inversion is built into the characters.",
+      "japanese_transmission": "First-wave character, mapped onto the native Japanese words ぬし (owner, lord of a place) and おも (principal, main). Medieval Japanese uses 主 freely for temple abbots, estate holders, and domain lords; the Christian mission of the 16th century also presses it into service for 'Lord' in its theological sense (天主). Its Meiji-era repurposing is twofold: it does double duty in 民主主義, first as 'lord' (in 民主) and then as the leading character of 主義 (-ism), the systematized suffix for Western doctrines. The coincidence is a structural feature of how Meiji translators built Japanese political vocabulary out of classical Chinese compounding."
     },
     {
       "char": "科",
       "strokes": 9,
       "radical": "禾",
+      "gloss": "Disciplinary category — measuring out grain, then sorting knowledge into fields; the bureaucratic lineage behind the Meiji coinage of 'science'.",
+      "pinyin": "kē",
       "on_readings": ["か"],
       "kun_readings": [],
       "graphic_evolution": [
@@ -237,6 +269,88 @@
           "notes": "The measuring/classification meaning survives in the imperial examination system: 科挙 (keju) — examinations organized by subject category. This is the background Nishi Amane drew on when coining 科学: science as knowledge organized by disciplinary categories."
         }
       ],
-      "doctrinal_notes": "In 科学 (science), 科 contributes the sense of disciplinary categorization — knowledge sorted into organized fields. The examination system legacy means 科 implicitly frames knowledge as something organized by subject divisions and tested for mastery, not just discovered empirically."
+      "doctrinal_notes": "In 科学 (science), 科 contributes the sense of disciplinary categorization — knowledge sorted into organized fields. The examination system legacy means 科 implicitly frames knowledge as something organized by subject divisions and tested for mastery, not just discovered empirically.",
+      "japanese_transmission": "A classical-Chinese character present in Japan from the Nara period, carried in with legal and administrative vocabulary — 科 in the sense of 'article, clause, category' appears in the ritsuryō legal codes. It is familiar but never central in premodern Japanese usage. Its load-bearing arrival is Meiji: Nishi Amane and his contemporaries recruit 科 to coin 科学 (science) in the 1870s, reaching back to the imperial examination system's sense of 'knowledge organized by subject division' to render the Western concept. The coinage then transfers into Chinese via Liang Qichao and becomes universal in both languages."
+    },
+    {
+      "char": "悟",
+      "strokes": 10,
+      "radical": "忄",
+      "gloss": "Awakening as event — the heart-mind's direct, transformative recognition of its own nature; the charged goal of Rinzai koan practice.",
+      "pinyin": "wù",
+      "on_readings": ["ご"],
+      "kun_readings": ["さと.る"],
+      "components": [
+        { "char": "忄", "meaning": "heart-mind radical (vertical form of 心, 3 strokes) — locates the act of awakening in the cognitive-affective organ, not in an external revelation", "strokes": 3 },
+        { "char": "吾", "meaning": "I, oneself (7 strokes) — serves as phonetic (wú → wù by tonal shift) but the semantic resonance of self-recognition is hard to dismiss: awakening as the mind knowing itself", "strokes": 7 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "忄 (heart-mind, left side) + 吾 (self, right side) — already a phono-semantic compound in classical Chinese",
+          "notes": "The compound's structure is legible from its first appearances: the heart-mind (忄) encountering or recognizing the self (吾). Classical commentators on the character noted that 悟 differs from mere 知 (knowing) in that it implies a transformative recognition — not information acquired but a nature seen through."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "忄 (3 strokes, vertical left) beside 吾 (7 strokes, right) — 10 strokes total",
+          "notes": "The modern form preserves the phono-semantic composition clearly. 忄 as a radical appears in dozens of psycho-spiritual terms: 忘 (forget), 想 (think), 念 (attend/mindfulness), 慈 (compassion). 悟 among them names the radical shift from confused to clear functioning — the event all the others circle around."
+        }
+      ],
+      "doctrinal_notes": "The standard Chan/Zen term for the event of awakening — the moment of direct recognition of one's original nature. Distinguished from 覚 (kaku), which implies gradual cultivation toward wakefulness, by its typically sudden register: 悟 is an event, not a process. The compound 大悟 (great awakening) marks particularly total or irreversible breaks through. In Rinzai practice, koan work aims to provoke 悟 as a breakthrough; in Sōtō practice, Dōgen is more cautious about the term, preferring 覚 or 証 (realization) to avoid attachment to awakening as a special state.",
+      "japanese_transmission": "Arrives with the first-wave Chinese Buddhist vocabulary in the Nara period (710–794), where it appears in translations of Abhidharma and early Prajñāpāramitā texts. Its load-bearing use as the primary term for the awakening event belongs to the Chan transmission: Eisai brings Rinzai Chan to Japan in 1191, and Dōgen brings Sōtō in 1227. In both lineages 悟 becomes the charged term for what practice aims at, though the schools differ sharply about its nature — sudden revelation versus continuous practice-realization. The Rinzai koan curriculum is structured precisely as a technology for producing 悟."
+    },
+    {
+      "char": "業",
+      "strokes": 13,
+      "radical": "木",
+      "gloss": "Deed, vocation, karma — originally a ceremonial bell-stand, extended to assigned task, occupation, and finally to intentional action that conditions the stream of consciousness across moments and lifetimes.",
+      "pinyin": "yè",
+      "on_readings": ["ごう", "ぎょう"],
+      "kun_readings": ["わざ"],
+      "components": [
+        { "char": "業", "meaning": "undivided — originally a pictograph of a large notched board used to hang bells and drums in ritual orchestras; extended to deed, occupation, vocation through the idea of a task assigned to one", "strokes": 13 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone / Bronze (甲骨・金文)",
+          "form_description": "A notched or serrated board — the large wooden stand used in ritual orchestras to suspend percussion instruments",
+          "notes": "The original image is concrete and institutional: the large ceremonial board from which bells and chimes were hung in royal and temple orchestras. The extension path is from physical object → the task performed there → organized activity → vocation → deed generally. By the Warring States period 業 had become the standard word for one's assigned work or occupation."
+        },
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "The notched board becomes more abstract — the sawtooth upper element over 木 (wood) is visible",
+          "notes": "The seal form preserves the wooden structure. The 木 (wood/tree) component at the bottom reads as the material of the original ceremonial board, though it functions as a radical assignment rather than an active semantic element in later usage."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "13 strokes — a complex upper element (the notched board) over 木 (wood, 4 strokes)",
+          "notes": "The modern form is not readily decomposable into transparent semantic parts — the oracle bone origin as a ceremonial stand has been entirely obscured. 業 is now read primarily through its uses: occupation (職業), industry (産業), course work (授業), and above all karma (業, ごう) in Buddhist contexts."
+        }
+      ],
+      "doctrinal_notes": "The primary Sino-Japanese rendering of Sanskrit karman (intentional action, karma). Buddhist 業 covers three modes: bodily action (身業), verbal action (口業), and mental action (意業). Unlike the popular Western sense of karma as cosmic retributive justice, Buddhist 業 is a psychological-causal claim: intentional acts condition the stream of consciousness, shaping perception and response in ways that persist across moments and (in traditional framing) across lifetimes. The Baizhang wild-fox koan (Blue Cliff Record Case 2) makes 業 the pivot of a famous Chan argument: the question of whether an enlightened person is free from 業 or remains subject to it.",
+      "japanese_transmission": "Arrives with the first wave of Chinese Buddhist translation in the Nara period. The compound 因果 (cause and effect, karma-result) becomes standard temple vocabulary from the earliest Buddhist institutions. The Kamakura period deepens 業's presence: Dōgen's Shōbōgenzō engages karma extensively, arguing against a mechanical retributive reading in favor of karma as the ongoing activity of Buddha-nature itself. In colloquial modern Japanese, 業 persists in 職業 (occupation), 授業 (lesson), 卒業 (graduation) — the concrete-task register of the original pictograph — while the Buddhist register (ごう, karmic consequence) survives in fixed phrases like 業が深い (carrying heavy karma)."
+    },
+    {
+      "char": "義",
+      "strokes": 13,
+      "radical": "羊",
+      "gloss": "Rightness, guiding principle — Confucian righteousness rooted in ritual propriety, extended into the suffix that names every committed doctrine.",
+      "pinyin": "yì",
+      "on_readings": ["ぎ"],
+      "kun_readings": [],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "羊 (sheep) above 我 (a serrated blade) — a ritual weapon beneath a sacrificial sheep",
+          "notes": "The original sense is tied to sacrificial propriety: the correct, ritually fitting act. From 'ritually correct' the meaning extends to 'right conduct,' 'righteousness,' and eventually to the abstract 'principle' or 'meaning' that a thing ought to embody."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "13 strokes — 羊 above 我; the sacrificial reading is no longer visible in everyday use",
+          "notes": "In Confucian ethics 義 is one of the cardinal virtues alongside 仁 (benevolence), standing for rightness as fidelity to principle even against self-interest. In 主義 it becomes the suffix for doctrines and -isms — a doctrine is the 'guiding right principle' around which a movement orients."
+        }
+      ],
+      "doctrinal_notes": "In 主義 (-ism), 義 carries the sense of guiding principle or doctrine: a 主義 is the principle one takes as master. Thus 民主主義 is literally 'the doctrine that takes 民主 (rule by the people) as its guiding principle.' The Confucian moral freight of 義 as righteousness lingers faintly — an -ism in Japanese is not merely a system of thought but something one is committed to as right.",
+      "japanese_transmission": "First-wave character, arriving with the Nara-period absorption of the Confucian classics, where 義 is one of the cardinal virtues and a load-bearing ethical term from the beginning of Japanese literacy. Buddhist usage adds another register: 義 as 'meaning, doctrinal sense' appears throughout Heian and Kamakura sutra commentary, as in 教義 (teaching's meaning) and 義理 (doctrinal principle). Its Meiji-era repurposing systematizes 主義 as the suffix for Western -isms in the 1870s–80s, grafting Confucian moral weight onto the structure of doctrinal commitment imported from European political and philosophical vocabulary."
     }
   ]

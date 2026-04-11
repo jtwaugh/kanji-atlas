@@ -1,4 +1,7 @@
-# CLAUDE.md — Zen Kanji Atlas
+# CLAUDE.md — Kanji Atlas
+
+## What this is (and isn't)
+Kanji Atlas is a curated conceptual atlas of Sino-Japanese transmission vocabulary — terms as nodes in an etymological, doctrinal, and translational network. It is **not** a character dictionary (no exhaustive kanji lookup, no JLPT drill, no reading tables for their own sake) and **not** a stroke-order or handwriting tool (Hanzi Writer is used for compositional illustration, not tracing practice or handwriting acquisition). If a proposed feature would make sense in Jisho, WaniKani, or Skritter but not in a classicist's commentary, it probably doesn't belong here.
 
 ## Stack
 Vite + React + JavaScript + ShadCN + react-router-dom + D3 + Hanzi Writer.
@@ -31,4 +34,7 @@ Never crash or show error UI for a missing optional field.
 ## Style
 Don't add fields to `terms.json` without updating `data/schema.md`.
 Don't add npm packages without a clear reason.
-Don't build game modes or stroke tracing until Phase 5+.
+Don't build game modes until Phase 5+. Stroke tracing and handwriting practice are out of scope entirely — this is not a stroke-order tool.
+Shared visual treatments live as CSS classes in `src/index.css` under `@layer components`, not as JS constants or repeated Tailwind strings. If two views share a look, define it once in CSS.
+
+Clickable kanji use the `.kanji-link` class: plain foreground text, no underline, sky-blue on hover. The glyph carries the visual weight — hover color signals navigability without ornament competing with the character.
