@@ -15,15 +15,24 @@ exist in the target file.
 - semantic_fields.json — do not modify; use existing IDs only
 
 ## Required fields on a new term
-id, characters, romaji, on_reading, module, semantic_field_id,
+id, characters, on_reading, module, semantic_field_id,
 source_concept_id, neighbor_ids, components
+
+`module` must be exactly `"classical"` or `"reverse-flow"` — no other
+values pass validation. `neighbor_ids` is required but may be `[]`.
+
+## Optional reading fields
+- `kun_reading` — kana, only when the term has a meaningful kun reading.
+- `romaji_on` — Hepburn for `on_reading`. Only include alongside `on_reading`.
+- `romaji_kun` — Hepburn for `kun_reading`. Only include alongside `kun_reading`.
+The validator rejects a romaji field whose paired reading is missing.
 
 ## Rules
 - Check characters.json before adding a term — every kanji in 
   term.characters must have an entry. Add missing characters first.
 - Check source_concepts.json — add the source concept before the term.
 - neighbor_ids must reference existing term IDs. If a neighbor 
-  doesn't exist yet, either add it or leave neighbor_ids minimal.
+  doesn't exist yet, either add it or leave neighbor_ids as `[]`.
 - literary_instances notes field: 3-5 sentences of close reading 
   explaining what the term is doing in this specific passage, not 
   just what it means generally.

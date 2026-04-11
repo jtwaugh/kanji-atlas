@@ -4,21 +4,21 @@ Informal field reference for the JSON files in `data/`. Fields marked optional m
 
 ## `terms.json`
 
-Array of term entries.
+Array of term entries. Fields marked **required** are enforced by `data/validate.js`; everything else is optional.
 
-- `id` — string, stable slug used in URLs
-- `characters` — string, one or more kanji
-- `on_reading` — string, optional, kana for the ON reading
+- `id` — **required**, string, stable slug used in URLs
+- `characters` — **required**, string, one or more kanji (every char must have an entry in `characters.json`)
+- `module` — **required**, string, one of `"classical"` or `"reverse-flow"`
+- `semantic_field_id` — **required**, string, fk → `semantic_fields.json`
+- `source_concept_id` — **required**, string, fk → `source_concepts.json`
+- `neighbor_ids` — **required**, string[] (may be empty), each must reference an existing term `id`
+- `components` — **required**, array, per-character breakdown with `char` and `meaning`
+- `on_reading` — **required**, string, kana for the ON reading
 - `kun_reading` — string, optional, kana for the KUN reading
-- `romaji_on` — string, optional, Hepburn romanization of the on-reading
-- `romaji_kun` — string, optional, Hepburn romanization of the kun-reading
-- `module` — string, optional
-- `semantic_field_id` — string, optional, fk → `semantic_fields.json`
-- `source_concept_id` — string, optional, fk → `source_concepts.json`
+- `romaji_on` — string, optional, Hepburn romanization of the on-reading (only valid when `on_reading` is present)
+- `romaji_kun` — string, optional, Hepburn romanization of the kun-reading (only valid when `kun_reading` is present)
 - `transmission_wave` — string, optional
 - `coinage_agent` — string, optional
-- `neighbor_ids` — string[], optional
-- `components` — array, optional, per-character breakdown with `char` and `meaning`
 - `translation_range` — array, optional, each entry `{ rendering, emphasis }`
 - `conceptual_remainder` — string, optional, long-form prose
 - `doctrinal_weight` — string, optional, long-form prose
@@ -53,6 +53,6 @@ Array of source concepts referenced by terms via `source_concept_id`.
 
 ## Other files
 
-- `semantic_fields.json` — `{ id, label, ... }`
-- `sources.json` — literary source metadata (`{ id, title, title_ja, period, tradition, ... }`)
-- `literary_instances.json` — `{ id, term_id, source_id, passage, notes }`
+- `semantic_fields.json` — `{ id, label, module, description }`. `module` matches the term `module` enum (`"classical"` | `"reverse-flow"`).
+- `sources.json` — literary source metadata: `{ id, title, title_ja, period, tradition, notes }`
+- `literary_instances.json` — `{ id, term_id, source_id, passage, notes }`. `validate.js` requires all five; `term_id` and `source_id` must resolve.
