@@ -2,7 +2,8 @@
     {
       "id": "mu",
       "characters": "無",
-      "romaji": "mu",
+      "romaji_on": "mu",
+      "romaji_kun": "nai",
       "on_reading": "む",
       "kun_reading": "な.い",
       "module": "classical",
@@ -31,7 +32,8 @@
     {
       "id": "ku",
       "characters": "空",
-      "romaji": "ku",
+      "romaji_on": "ku",
+      "romaji_kun": "sora",
       "on_reading": "くう",
       "kun_reading": "そら",
       "module": "classical",
@@ -57,7 +59,7 @@
     {
       "id": "kokoro",
       "characters": "心",
-      "romaji": "kokoro",
+      "romaji_kun": "kokoro",
       "on_reading": "しん",
       "kun_reading": "こころ",
       "module": "classical",
@@ -83,7 +85,8 @@
     {
       "id": "do",
       "characters": "道",
-      "romaji": "do",
+      "romaji_on": "do",
+      "romaji_kun": "michi",
       "on_reading": "どう",
       "kun_reading": "みち",
       "module": "classical",
@@ -106,7 +109,7 @@
     {
       "id": "tetsugaku",
       "characters": "哲学",
-      "romaji": "tetsugaku",
+      "romaji_on": "tetsugaku",
       "on_reading": "てつがく",
       "module": "reverse-flow",
       "semantic_field_id": "western-philosophy-and-logic",
@@ -127,7 +130,7 @@
     {
       "id": "shakai",
       "characters": "社会",
-      "romaji": "shakai",
+      "romaji_on": "shakai",
       "on_reading": "しゃかい",
       "module": "reverse-flow",
       "semantic_field_id": "culture-and-civilization",
@@ -148,7 +151,7 @@
     {
       "id": "minshushugi",
       "characters": "民主主義",
-      "romaji": "minshushugi",
+      "romaji_on": "minshushugi",
       "on_reading": "みんしゅしゅぎ",
       "module": "reverse-flow",
       "semantic_field_id": "liberal-political-philosophy",
@@ -171,7 +174,7 @@
     {
       "id": "satori",
       "characters": "悟",
-      "romaji": "satori",
+      "romaji_kun": "satori",
       "on_reading": "ご",
       "kun_reading": "さと.る",
       "module": "classical",
@@ -199,7 +202,8 @@
     {
       "id": "go",
       "characters": "業",
-      "romaji": "go",
+      "romaji_on": "go",
+      "romaji_kun": "waza",
       "on_reading": "ごう",
       "kun_reading": "わざ",
       "module": "classical",
@@ -225,7 +229,7 @@
     {
       "id": "kagaku",
       "characters": "科学",
-      "romaji": "kagaku",
+      "romaji_on": "kagaku",
       "on_reading": "かがく",
       "module": "reverse-flow",
       "semantic_field_id": "natural-science-and-method",

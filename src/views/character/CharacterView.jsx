@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { Link, useLocation, useParams } from 'react-router-dom';
-import { getCharacter, terms } from '@/data';
+import { Link, useParams } from 'react-router-dom';
+import { getCharacter, terms, primaryRomaji } from '@/data';
 import { Badge } from '@/components/ui/badge';
 import { kanaToRomaji } from '@/lib/romaji';
 
@@ -8,8 +8,6 @@ export default function CharacterView() {
   const { char: rawChar } = useParams();
   const char = decodeURIComponent(rawChar);
   const info = getCharacter(char);
-  const location = useLocation();
-  const fromTerm = location.state?.fromTerm;
 
   const relatedTerms = terms.filter(
     (t) => typeof t.characters === 'string' && t.characters.includes(char),
@@ -17,7 +15,6 @@ export default function CharacterView() {
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-10">
-      {fromTerm && <BackToTerm fromTerm={fromTerm} />}
       <CharacterHeader char={char} info={info} />
       {info?.gloss && (
         <p className="mt-8 font-serif text-lg leading-relaxed text-foreground/90">
@@ -28,21 +25,6 @@ export default function CharacterView() {
       <JapaneseTransmission info={info} relatedTerms={relatedTerms} />
       <RelatedTerms char={char} relatedTerms={relatedTerms} />
     </div>
-  );
-}
-
-function BackToTerm({ fromTerm }) {
-  return (
-    <Link
-      to={`/term/${encodeURIComponent(fromTerm.characters)}`}
-      className="mb-6 inline-flex items-baseline gap-2 text-sm text-muted-foreground hover:text-sky-600 dark:hover:text-sky-400"
-    >
-      <span aria-hidden="true">←</span>
-      <span className="font-serif text-base text-foreground">
-        {fromTerm.characters}
-      </span>
-      {fromTerm.romaji && <span className="italic">{fromTerm.romaji}</span>}
-    </Link>
   );
 }
 
@@ -233,6 +215,7 @@ function RelatedTerms({ char, relatedTerms }) {
           <li key={t.id} className="group flex items-baseline gap-4">
             <Link
               to={`/term/${encodeURIComponent(t.characters)}`}
+              state={{ fromCharacter: { char } }}
               className="kanji-link shrink-0 font-serif text-3xl leading-none"
             >
               {t.characters}
@@ -240,9 +223,10 @@ function RelatedTerms({ char, relatedTerms }) {
             <div className="min-w-0">
               <Link
                 to={`/term/${encodeURIComponent(t.characters)}`}
+                state={{ fromCharacter: { char } }}
                 className="text-sm italic text-muted-foreground group-hover:text-foreground"
               >
-                {t.romaji}
+                {primaryRomaji(t)}
               </Link>
               {t.on_reading && (
                 <span className="ml-2 font-serif text-sm text-muted-foreground">

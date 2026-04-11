@@ -8,9 +8,10 @@ Array of term entries.
 
 - `id` — string, stable slug used in URLs
 - `characters` — string, one or more kanji
-- `romaji` — string, Hepburn romanization
 - `on_reading` — string, optional, kana for the ON reading
 - `kun_reading` — string, optional, kana for the KUN reading
+- `romaji_on` — string, optional, Hepburn romanization of the on-reading
+- `romaji_kun` — string, optional, Hepburn romanization of the kun-reading
 - `module` — string, optional
 - `semantic_field_id` — string, optional, fk → `semantic_fields.json`
 - `source_concept_id` — string, optional, fk → `source_concepts.json`

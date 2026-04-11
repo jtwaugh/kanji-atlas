@@ -21,6 +21,20 @@ All data access goes through `src/data.js`. No view calls fetch() directly.
 react-router-dom, clean paths. Five routes: / /term/:id /character/:char /quiz /debug.
 Character params are URL-encoded kanji — use encodeURIComponent/decodeURIComponent explicitly.
 
+## Navigation model
+Terms and characters form a **many-to-many graph, not a tree**. A character belongs to N terms, a term contains M characters, and terms link laterally to other terms through shared characters, shared waves, and semantic neighbors. There is no parent/child relationship between any two nodes.
+
+Consequences, which are binding:
+- **No breadcrumbs.** No `Home / Term / Character` chrome, no `/` separators between route segments, no "parent" framing anywhere in the UI. A slash between route segments is a lie about the data model — don't render one.
+- **The only legitimate back-affordance is a *referrer* link**, driven by `location.state`, not by route ancestry. It answers "what did I click to get here?" — which is the only question that has an answer on a graph.
+- Referrer chrome lives in the **global `ReferrerStrip`** in `src/App.jsx` (the thin strip below the main header). It reads `location.state?.fromTerm` or `location.state?.fromCharacter` and renders nothing when absent, so pages reached directly by URL don't get a blank band.
+- The `state` keys describe the *source* of the hop, not the destination. When adding a `<Link>` that leaves a node, pass the referrer in `state`:
+  - Leaving a term → `state={{ fromTerm: { characters, romaji } }}` (used in `src/views/term/TermView.jsx` for term→character component links and term→term neighbor links).
+  - Leaving a character → `state={{ fromCharacter: { char } }}` (used in `src/views/character/CharacterView.jsx` for character→term related-term links).
+  - The strip renders whichever key is present, so the same `<Link>` target (e.g. a term page) can be reached from either source and the back label stays honest.
+- Atlas (`/`) is the one node that does *not* need a referrer, because the wordmark in the main header already routes there. Don't set `fromAtlas` — it would just duplicate the logo.
+- If you ever feel the urge to add a breadcrumb, a "back to parent" button, or a hierarchical nav, stop — you're modeling a tree that isn't there. Extend the referrer-strip shape instead.
+
 ## Component rules
 ShadCN components for all chrome: buttons, badges, cards, inputs, tooltips.
 Domain components (KanjiDisplay, ComponentBreakdown, etc.) are custom — live in src/components/.

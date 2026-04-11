@@ -27,3 +27,12 @@ export function getCharacter(char) {
 export function getSemanticField(id) {
   return semanticFields.find((f) => f.id === id);
 }
+
+export function primaryRomaji(term) {
+  if (!term) return null;
+  // The term's id is its conventional romanization — use it to pick which
+  // reading is dominant, so 無 shows "mu" not "nai" and 悟 shows "satori".
+  if (term.id === term.romaji_on) return term.romaji_on;
+  if (term.id === term.romaji_kun) return term.romaji_kun;
+  return term.romaji_on ?? term.romaji_kun ?? null;
+}

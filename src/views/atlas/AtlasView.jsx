@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { terms, semanticFields } from '@/data';
+import { terms, semanticFields, primaryRomaji } from '@/data';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import {
   Tooltip,
@@ -35,7 +35,7 @@ export default function AtlasView() {
 
   return (
     <TooltipProvider delayDuration={150}>
-    <div className="grid h-full w-full grid-cols-1 gap-6 p-6 lg:grid-cols-2">
+    <div className="grid w-full grid-cols-1 gap-6 p-6 lg:h-full lg:grid-cols-2">
       {FLOW_ORDER.map((moduleId) => {
         const meta = MODULE_META[moduleId];
         const fields = byModule.get(moduleId) ?? [];
@@ -47,7 +47,7 @@ export default function AtlasView() {
                 <FlowChip module={moduleId} />
               </div>
             </header>
-            <div className="grid flex-1 auto-rows-fr grid-cols-1 gap-4 sm:grid-cols-2">
+            <div className="grid flex-1 grid-cols-1 gap-4 sm:auto-rows-fr sm:grid-cols-2">
               {fields.map((field) => (
                 <Card key={field.id} size="sm" className="min-h-0">
                   <CardHeader>
@@ -83,7 +83,7 @@ export default function AtlasView() {
                           {term.characters}
                         </span>
                         <span className="mt-1 text-xs italic text-muted-foreground">
-                          {term.romaji}
+                          {primaryRomaji(term)}
                         </span>
                         {gloss && (
                           <span className="mt-0.5 max-w-[10rem] line-clamp-1 text-xs text-foreground/80">

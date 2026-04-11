@@ -1,6 +1,7 @@
 import { Link, useParams } from 'react-router-dom';
 import {
   getTermByCharacters,
+  primaryRomaji,
   terms,
   characters,
   sourceConcepts,
@@ -29,6 +30,7 @@ export default function TermView() {
     .filter(Boolean);
 
   const chars = Array.from(term.characters);
+  const termRomaji = primaryRomaji(term);
 
   const charOnReadings = chars.map((c) => {
     const info = characters.find((x) => x.char === c);
@@ -43,37 +45,39 @@ export default function TermView() {
     <TooltipProvider>
       <div className="mx-auto max-w-4xl px-6 py-10">
         <header className="border-b border-border pb-8">
-          <div className="flex flex-wrap items-end gap-x-4 gap-y-2">
-            {chars.map((c, i) => (
-              <div key={`${c}-${i}`} className="flex flex-col items-center">
-                <span
-                  className={`font-serif text-base leading-none text-muted-foreground ${onAligned ? '' : 'invisible'}`}
-                  aria-hidden={!onAligned}
-                >
-                  {onAligned ? charOnReadings[i] : '\u00a0'}
-                </span>
-                <Link
-                  to={`/character/${encodeURIComponent(c)}`}
-                  state={{ fromTerm: { characters: term.characters, romaji: term.romaji } }}
-                  className="kanji-link mt-1 font-serif text-7xl leading-none"
-                >
-                  {c}
-                </Link>
-              </div>
-            ))}
+          <div className="inline-flex flex-col items-center">
+            <div className="flex flex-wrap items-end gap-x-4 gap-y-2">
+              {chars.map((c, i) => (
+                <div key={`${c}-${i}`} className="flex flex-col items-center">
+                  <span
+                    className={`font-serif text-base leading-none text-muted-foreground ${onAligned ? '' : 'invisible'}`}
+                    aria-hidden={!onAligned}
+                  >
+                    {onAligned ? charOnReadings[i] : '\u00a0'}
+                  </span>
+                  <Link
+                    to={`/character/${encodeURIComponent(c)}`}
+                    state={{ fromTerm: { characters: term.characters, romaji: termRomaji } }}
+                    className="kanji-link mt-1 font-serif text-7xl leading-none"
+                  >
+                    {c}
+                  </Link>
+                </div>
+              ))}
+            </div>
+            {onAligned && term.romaji_on && (
+              <p className="mt-2 text-sm italic text-muted-foreground">
+                {term.romaji_on}
+              </p>
+            )}
           </div>
 
           <div className="mt-6 space-y-0">
             {!onAligned && term.on_reading && (
-              <ReadingRow label="音" values={term.on_reading} />
+              <ReadingRow label="音" values={term.on_reading} romaji={term.romaji_on} />
             )}
             {term.kun_reading && (
-              <ReadingRow label="訓" values={term.kun_reading} />
-            )}
-            {term.romaji && (
-              <p className="mt-2 text-sm italic text-muted-foreground">
-                {term.romaji}
-              </p>
+              <ReadingRow label="訓" values={term.kun_reading} romaji={term.romaji_kun} />
             )}
           </div>
 
@@ -147,7 +151,7 @@ export default function TermView() {
                     >
                       <Link
                         to={`/character/${encodeURIComponent(comp.char)}`}
-                        state={{ fromTerm: { characters: term.characters, romaji: term.romaji } }}
+                        state={{ fromTerm: { characters: term.characters, romaji: termRomaji } }}
                         className="kanji-link shrink-0 font-serif text-4xl leading-none"
                       >
                         {comp.char}
@@ -285,6 +289,7 @@ export default function TermView() {
                   <li key={n.id} className="flex gap-4">
                     <Link
                       to={`/term/${encodeURIComponent(n.characters)}`}
+                      state={{ fromTerm: { characters: term.characters, romaji: termRomaji } }}
                       className="kanji-link shrink-0 font-serif text-3xl leading-none"
                     >
                       {n.characters}
@@ -292,9 +297,10 @@ export default function TermView() {
                     <div className="min-w-0">
                       <Link
                         to={`/term/${encodeURIComponent(n.characters)}`}
+                        state={{ fromTerm: { characters: term.characters, romaji: termRomaji } }}
                         className="text-sm italic text-muted-foreground hover:text-foreground"
                       >
-                        {n.romaji}
+                        {primaryRomaji(n)}
                       </Link>
                       {relation && (
                         <p className="mt-1 text-sm leading-relaxed text-muted-foreground">

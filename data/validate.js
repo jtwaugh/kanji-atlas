@@ -25,7 +25,7 @@ const ids = {
 
 // Required fields on terms
 const TERM_REQUIRED = [
-  'id', 'characters', 'romaji', 'on_reading', 'module',
+  'id', 'characters', 'on_reading', 'module',
   'semantic_field_id', 'source_concept_id', 'neighbor_ids', 'components'
 ]
 
@@ -58,6 +58,12 @@ for (const term of terms) {
     if (!ids.characters.has(char))
       errors.push(`${p}: character '${char}' not found in characters.json`)
   }
+
+  // Romaji must pair with a reading of the same kind
+  if (term.romaji_on && !term.on_reading)
+    errors.push(`${p}: romaji_on present but on_reading is missing`)
+  if (term.romaji_kun && !term.kun_reading)
+    errors.push(`${p}: romaji_kun present but kun_reading is missing`)
 }
 
 // Literary instances

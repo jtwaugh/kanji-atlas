@@ -134,8 +134,8 @@ body {
   .reading-row {
     @apply flex items-baseline gap-3;
   }
-  .reading-row + .reading-row {
-    @apply mt-1;
+  .reading-row-group + .reading-row-group {
+    @apply mt-2;
   }
   .reading-row__label {
     @apply w-6 shrink-0 font-serif text-base text-muted-foreground;
@@ -145,5 +145,10 @@ body {
   }
   .reading-row--muted .reading-row__values {
     @apply text-base italic text-muted-foreground;
+  }
+  /* pl-9 keeps the romaji visually anchored under .reading-row__values —
+     must stay in sync with .reading-row__label width (w-6) + gap-3. */
+  .reading-row__romaji {
+    @apply pl-9 text-sm italic text-muted-foreground;
   }
 }
