@@ -246,5 +246,106 @@
       ],
       "conceptual_remainder": "科 carries the legacy of the imperial examination system — a system of categorization and ranking of knowledge by subject division. 科学 thus renders 'science' as something like 'categorized learning' or 'knowledge organized by disciplinary division.' This framing emphasizes taxonomy and systematic organization over the specifically empirical and experimental character of Western science. The German Wissenschaft (systematic organized knowledge, including humanistic disciplines) fits the coinage better than English 'science.' East Asian academic culture has been shaped partly by this ambiguity — 科学 can feel like it includes systematic humanistic inquiry in a way that English 'science' does not.",
       "doctrinal_weight": "Along with 哲学, one of the two coinages that structured the Meiji intellectual project. The relationship between 科学 and 哲学 — between empirical method and systematic wisdom — was a central preoccupation of Meiji thinkers. Liang Qichao's post-WWI disillusionment with 科学 as a totalizing solution marks the first major East Asian critique of the package these coinages imported."
+    },
+    {
+      "id": "kensho",
+      "characters": "見性",
+      "romaji_on": "kensho",
+      "on_reading": "けんしょう",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "jianxing",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["satori", "mu", "ku"],
+      "components": [
+        { "char": "見", "meaning": "to see, direct perception — not conceptual knowing but immediate, unmediated sight; the act of the whole person looking" },
+        { "char": "性", "meaning": "nature, inherent character — the inborn quality of the heart-mind (忄 + 生); in Chan/Zen identified with Buddha-nature, the intrinsic character all beings share" }
+      ],
+      "translation_range": [
+        { "rendering": "seeing one's nature", "emphasis": "literal decomposition — the most direct English equivalent; foregrounded in scholarly contexts" },
+        { "rendering": "kenshō", "emphasis": "untranslated — widely preferred in Western Zen communities to preserve technical specificity; risks treating the term as a Japanese proper noun" },
+        { "rendering": "initial enlightenment", "emphasis": "interpretive — emphasizes kenshō's status as a breakthrough that is genuine but not necessarily final or complete; contrasted with 大悟 (daigo)" },
+        { "rendering": "satori", "emphasis": "conflation — in popular Western usage 見性 and 悟り (satori) are often treated as synonyms; technically 見性 is the content of the breakthrough (seeing nature) and 悟り its event-character" }
+      ],
+      "conceptual_remainder": "The subject-object grammar of 見性 — a subject who sees, an object (nature) that is seen — creates a doctrinal difficulty. If Buddha-nature is universal and all-encompassing, then who is the seer and what is being seen? Dōgen's 'Busshō' fascicle presses this question relentlessly: 'All sentient beings have Buddha-nature' (一切衆生悉有仏性) must be read, he argues, as 'all being is Buddha-nature' — not a possession relation but an identity. This dissolves the subject-object grammar of 見性 while preserving its transformative force. What most English translations cannot carry is this grammatical undoing — that the 'seeing' of 見性 is not a cognitive act that a self performs but the event of the division between seer and seen collapsing.",
+      "doctrinal_weight": "Foundational slogan of the entire Chan/Zen tradition: 見性成仏 (kenshō jōbutsu, 'seeing one's nature is becoming Buddha'). This formula crystallizes the non-gradual claim — that seeing one's nature is not a step toward Buddhahood but identical with it. Kenshō is the pivot of Rinzai koan training: the teacher evaluates kenshō through dokusan (private interview), and the formal acknowledgment of the student's breakthrough marks a threshold in the training sequence. Sōtō, following Dōgen, is more cautious about treating kenshō as a discrete event, preferring to frame practice itself as continuous realization.",
+      "false_friends": [
+        { "char": "悟り", "language": "Japanese", "divergence": "悟り (satori) is the event of awakening as a qualitative shift in one's functioning — it foregrounds the experiential break. 見性 foregrounds the content: what one sees (nature, Buddha-nature). In practice the terms overlap and are often used interchangeably, but the distinction matters: one can experience 悟り without its content being clearly articulated as 見性 (seeing nature), and the concept of 見性 can be understood conceptually without having experienced 悟り." },
+        { "char": "大悟", "language": "Japanese", "divergence": "大悟 (daigo, great awakening) is 見性 that has gone all the way — a breakthrough thorough enough that no corner of delusion remains to require further work. 見性 as a technical term often refers specifically to an initial breakthrough, with the understanding that further depth and integration may follow. The Rinzai tradition has a structured curriculum moving through multiple layers of kenshō, of which the first 見性 is the essential entry point." }
+      ]
+    },
+    {
+      "id": "bodai",
+      "characters": "菩提",
+      "romaji_on": "bodai",
+      "on_reading": "ぼだい",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "bodhi",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["satori", "kensho"],
+      "components": [
+        { "char": "菩", "meaning": "phonetic loan for Sanskrit 'bo' (from bodhi) — no independent Chinese meaning; coined specifically to transliterate Sanskrit in the Buddhist translation project" },
+        { "char": "提", "meaning": "phonetic complement for Sanskrit 'dhi' (from bodhi); intrinsic meaning: to lift, to hold up, to present — a resonance with awakening as what is uplifted into sight" }
+      ],
+      "translation_range": [
+        { "rendering": "bodhi", "emphasis": "standard Sanskrit transliteration retained in scholarly English — foregrounds the Indian origin" },
+        { "rendering": "awakening", "emphasis": "experiential — the preferred rendering when the term refers to the event of liberating insight; emphasizes cognitive-transformative dimension" },
+        { "rendering": "enlightenment", "emphasis": "traditional — carries Enlightenment-era connotations of rational luminosity that distort the original; still dominant in popular usage" },
+        { "rendering": "the Way of awakening", "emphasis": "occasionally used in Chinese Buddhist translation to render the sense of bodhi as the entire path and goal together" }
+      ],
+      "conceptual_remainder": "Sanskrit bodhi derives from the root budh- (to wake, to know), carrying both the act of waking up and the resultant knowing simultaneously. The Chinese 菩提 is a phonetic calque — it preserves the sound of Sanskrit bodhi without translating its meaning, leaving interpretation to context and commentary. This is unusual: most key Buddhist terms in Chinese are semantic calques (like 空 for śūnyatā) or paired phonetic-with-semantic translations. 菩提 is almost purely phonetic, which means the concept it names arrives in Chinese without the image-logic that characterizes most characters. Buddhist commentators and Chan teachers had to do extra work to make 菩提 conceptually vivid — hence the proliferation of images: bodhi as a tree, as a mirror, as a path, as awakening from sleep. Huineng's famous verse destroys all three images (菩提本無樹 — 'bodhi originally has no tree') to make the point that the concept's content cannot be captured by any of them.",
+      "doctrinal_weight": "菩提 is the name for what practice aims at — the liberating insight that constitutes liberation from saṃsāra. In Mahāyāna Buddhism it splits into two registers: the bodhi of the arhat (personal liberation from the cycle of rebirth) and the anuttarā-samyak-sambodhi (unsurpassed, complete, perfect awakening) of a fully realized Buddha, who delays final nirvāṇa to remain available to guide all sentient beings. The bodhisattva vow — to achieve bodhi not for oneself alone but for the liberation of all beings — makes 菩提 the horizon rather than the endpoint. In Chan/Zen, the term is retained as the canonical name for what practice realizes, but the insistence on non-attachment to any goal creates a characteristic tension: 菩提 is what practice is for and simultaneously what the practitioner must not grasp at."
+    },
+    {
+      "id": "daigo",
+      "characters": "大悟",
+      "romaji_on": "daigo",
+      "on_reading": "だいご",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "bodhi",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["satori", "kensho", "bodai"],
+      "components": [
+        { "char": "大", "meaning": "great, vast, complete — a person with arms spread wide; in 大悟 the qualifier of realization that is thorough, leaving no remainder of delusion" },
+        { "char": "悟", "meaning": "awakening — the heart-mind (忄) turning to recognize itself (吾); the event of direct, transformative recognition of one's original nature" }
+      ],
+      "translation_range": [
+        { "rendering": "great awakening", "emphasis": "closest to the literal sense — preserves both the qualitative weight of 大 and the event-character of 悟" },
+        { "rendering": "great enlightenment", "emphasis": "traditional rendering — carries the same Enlightenment-era distortions as 'enlightenment' for 悟 alone" },
+        { "rendering": "complete realization", "emphasis": "Dōgen-inflected — foregrounds the structural completeness implied by 大, the absence of remainder, over the breakthrough-event character" }
+      ],
+      "conceptual_remainder": "The prefix 大 in 大悟 does not simply mean more awakening — it signals a structural difference. Partial or preliminary awakenings (小悟, shōgo) are genuine insights that see through a particular obscuration without resolving the overall condition of delusion. 大悟 is awakening that resolves the fundamental structure of delusion itself, leaving no vantage point from which the return of obscuration is possible. What English translations cannot easily carry is this structural distinction: 'great' in English is merely quantitative, while 大 in this context is qualitative — it marks the difference between a seeing-through that leaves the seer intact and one that dissolves the seer-seen structure entirely. Chan/Zen teachers emphasize that clinging to any experience of awakening as great or complete is itself a remaining obscuration — the one who judges the awakening as 大 has not fully arrived.",
+      "doctrinal_weight": "大悟 marks the threshold in Rinzai training beyond which the formal koan curriculum is essentially complete — not because all questions have been answered but because the capacity to engage with questions without being trapped by them has fully stabilized. The tradition distinguishes it from preliminary kenshō through the depth of the 'turning over' — the completeness with which the ordinary subject-object framework has been seen through. Chan biographical literature (the 'transmission of the lamp' records, 灯録) frequently marks pivotal moments with the phrase 言下大悟 ('great awakening at the words') — the suddenness and completeness of the event captured in two characters.",
+      "false_friends": [
+        { "char": "悟り", "language": "Japanese", "divergence": "悟り (satori) in ordinary usage refers to any moment of awakening, preliminary or complete. 大悟 specifies the quality of completeness — it is not 'big satori' quantitatively but awakening that has gone all the way through." },
+        { "char": "頓悟", "language": "Japanese", "divergence": "頓悟 (tongo, sudden awakening) specifies the mode of awakening — instantaneous rather than gradual. 大悟 specifies the depth or completeness. A 頓悟 that is not 大悟 would be an instantaneous breakthrough that is nonetheless preliminary; a 大悟 that is not framed as 頓 would be a complete awakening arrived at gradually — though the Chan tradition tends to hold that genuine 大悟 is necessarily sudden in structure even when arrived at through sustained practice." }
+      ]
+    },
+    {
+      "id": "tongo",
+      "characters": "頓悟",
+      "romaji_on": "tongo",
+      "on_reading": "とんご",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "dunwu",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["satori", "daigo"],
+      "components": [
+        { "char": "頓", "meaning": "sudden, abrupt, all-at-once — a head bowing instantly to the ground; the Southern school's claim that awakening arrives as a complete event, not a gradual accumulation" },
+        { "char": "悟", "meaning": "awakening — the heart-mind's direct recognition of its own nature; the event whose mode 頓 characterizes" }
+      ],
+      "translation_range": [
+        { "rendering": "sudden awakening", "emphasis": "standard scholarly rendering — accurately conveys 頓 as a claim about mode" },
+        { "rendering": "sudden enlightenment", "emphasis": "traditional — carries the standard distortions of 'enlightenment'" },
+        { "rendering": "instantaneous realization", "emphasis": "technical — foregrounds the structural claim that no temporal gap separates the moment of seeing from the completeness of what is seen" }
+      ],
+      "conceptual_remainder": "The claim of 頓悟 is not that awakening happens quickly but that it happens all at once — it is structurally instantaneous because there is no partial version of seeing through the fundamental delusion. You either see through the distinction between delusion and enlightenment, self and other, or you do not; the seeing-through cannot be fifty percent complete. What this claim cannot carry into English is the specific pedagogical context: 頓悟 is not merely a phenomenological description of how awakening feels but a position in a doctrinal argument about what kind of practice is appropriate. If awakening is sudden and structurally complete, then gradual purification practice cannot produce it — the most practice can do is remove the obscurations preventing recognition of what is already fully present. This is why the Platform Sutra presents Huineng's insight as immediate transmission rather than years of cultivation: the argument is not about effort but about what enlightenment is.",
+      "doctrinal_weight": "頓悟 is the defining doctrinal commitment of the Southern school of Chan (南宗, nanzong), transmitted through Huineng and subsequently through the Linji/Rinzai and Caodong/Sōtō lineages. Its counterpart 漸悟 (zengo, gradual awakening) is associated with the Northern school, which the Platform Sutra and subsequent Chan historiography largely suppress — making 頓悟 not merely a doctrinal position but a lineage marker. In Japanese Rinzai Zen, 頓悟 underpins the logic of koan practice: the koan is designed not to teach something gradually but to provoke a sudden seeing-through. In Sōtō Zen, Dōgen's shikantaza bypasses the 頓漸 (sudden-gradual) debate by reframing practice itself as realization — not suddenly or gradually, but continuously.",
+      "false_friends": [
+        { "char": "漸悟", "language": "Japanese/Chinese", "divergence": "漸悟 (zengo, gradual awakening) is 頓悟's structural opposite: the Northern school's position that purification and insight deepen progressively, stage by stage. The Platform Sutra's framing of Huineng vs Shenxiu is the canonical presentation of the debate. Chan historiography heavily favored 頓悟, but modern scholars point out that what was called 漸悟 in the polemical context was a legitimate and sophisticated position — the difference is partly about emphasis and pedagogy rather than a clean doctrinal division." }
+      ]
     }
   ]

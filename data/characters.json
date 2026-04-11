@@ -352,5 +352,163 @@
       ],
       "doctrinal_notes": "In 主義 (-ism), 義 carries the sense of guiding principle or doctrine: a 主義 is the principle one takes as master. Thus 民主主義 is literally 'the doctrine that takes 民主 (rule by the people) as its guiding principle.' The Confucian moral freight of 義 as righteousness lingers faintly — an -ism in Japanese is not merely a system of thought but something one is committed to as right.",
       "japanese_transmission": "First-wave character, arriving with the Nara-period absorption of the Confucian classics, where 義 is one of the cardinal virtues and a load-bearing ethical term from the beginning of Japanese literacy. Buddhist usage adds another register: 義 as 'meaning, doctrinal sense' appears throughout Heian and Kamakura sutra commentary, as in 教義 (teaching's meaning) and 義理 (doctrinal principle). Its Meiji-era repurposing systematizes 主義 as the suffix for Western -isms in the 1870s–80s, grafting Confucian moral weight onto the structure of doctrinal commitment imported from European political and philosophical vocabulary."
+    },
+    {
+      "char": "見",
+      "strokes": 7,
+      "radical": "見",
+      "gloss": "Seeing, discerning — the eye raised on legs, the whole body oriented toward perception; in 見性 the act of direct, breakthrough sight into one's own nature.",
+      "pinyin": "jiàn",
+      "on_readings": ["けん", "げん"],
+      "kun_readings": ["み.る", "み.える", "み.せる"],
+      "components": [
+        { "char": "目", "meaning": "eye — the organ of perception, 5 strokes", "strokes": 5 },
+        { "char": "儿", "meaning": "legs of a person in motion, 2 strokes", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A large eye (目) placed atop the legs of a walking figure (人) — the entire body oriented toward seeing",
+          "notes": "The oracle bone form is immediately legible: a person whose defining activity is looking. The eye is large and prominent relative to the body, marking sight as the character's essential action. 見 differs from 目 (eye as organ) by adding the element of agency — a subject who is actively seeing, not merely a passive optical instrument."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "目 (eye, 5 strokes) over 儿 (legs, 2 strokes) — 7 strokes total; the compositional logic remains visible",
+          "notes": "The modern form still shows the eye over the legs. 見 functions as both a standalone verb and as the radical for characters involving sight and visibility: 観 (kankan, to observe), 覚 (kaku, to wake/perceive), 親 (shin, parent — one who watches over). Its role in 見性 foregrounds the cognitive-perceptual register: kenshō is an act of seeing, not merely thinking or inferring."
+        }
+      ],
+      "doctrinal_notes": "In 見性 (kenshō), 見 is not ordinary sensory sight but the act of direct, unmediated perception that penetrates to the nature of mind. Chan/Zen teachers repeatedly distinguish 見 (direct seeing) from 知 (conceptual knowing) and 解 (intellectual understanding): to see one's nature is not to form a concept about it. The character's oracle bone origin — the whole body of a person oriented toward sight — carries doctrinal weight: kenshō is embodied recognition, not disembodied cognition.",
+      "japanese_transmission": "Present in Japan from the first-wave adoption of Chinese writing in the 5th–6th centuries, where it functioned as an ordinary verb of perception. Its consecrated Buddhist sense develops gradually: Nara-period Hossō scholasticism uses 見 in the sense of 'views' (見解, kenge) — the right and wrong views catalogued in Abhidharma psychology. The specific compound 見性 arrives with the Chan transmission in the Kamakura period; Eisai's Kōzen Gokokuron (1198) and Dōgen's Shōbōgenzō (1230s–1250s) both engage 見性 as a technical term, with Dōgen notably problematizing whether seeing one's nature can be parsed as subject seeing object. In ordinary modern Japanese 見る is the workaday verb for looking at anything — the contemplative register belongs to the classical Buddhist stratum."
+    },
+    {
+      "char": "性",
+      "strokes": 8,
+      "radical": "忄",
+      "gloss": "Nature, inherent disposition — the life-force (生) of the heart-mind (忄); in Chan/Zen the intrinsic character of all things, identified directly with Buddha-nature.",
+      "pinyin": "xìng",
+      "on_readings": ["しょう", "せい"],
+      "kun_readings": ["さが"],
+      "components": [
+        { "char": "忄", "meaning": "heart-mind radical (vertical form of 心, 3 strokes) — locates nature in the cognitive-affective organ", "strokes": 3 },
+        { "char": "生", "meaning": "life, birth, to arise (5 strokes) — the nature one is born with; the life-energy expressing through the heart-mind", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "心 (heart) beside 生 (life/birth) — the inborn quality of the heart-mind, already a phono-semantic compound by the Qin period",
+          "notes": "The combination of heart-mind and life/birth encodes the idea of inborn disposition: what the heart-mind is by nature, not what it becomes through cultivation. Classical Chinese philosophical usage distinguishes nature (性) from emotion (情) precisely on this axis — 性 is what you were born with; 情 is how it moves in response to circumstances."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "忄 (vertical heart-mind radical, 3 strokes) on the left beside 生 (life, 5 strokes) on the right — 8 strokes total",
+          "notes": "The simplified left-side radical 忄 is the vertical form of 心, appearing in dozens of psycho-spiritual characters: 情 (emotion), 愛 (love), 悟 (awaken), 慈 (compassion). 性 among them names the underlying nature that all these movements express or obscure. In Buddhist usage 自性 (jishō, self-nature) and 仏性 (busshō, Buddha-nature) both use 性 to point at the innermost character of things."
+        }
+      ],
+      "doctrinal_notes": "One of the most philosophically active characters in East Asian thought, carrying simultaneous Confucian (innate moral nature), Daoist (spontaneous natural character), and Buddhist (intrinsic nature of phenomena, Buddha-nature) registers. In Chan/Zen, 見性 ('seeing one's nature') names the breakthrough into this innermost character — not the nature of one individual self, but the Buddha-nature that all beings and phenomena share. Dōgen's radical rereading in the 'Busshō' fascicle proposes that all being is Buddha-nature (有仏性), not that all beings have Buddha-nature — a shift that repositions 性 from a property to an identity.",
+      "japanese_transmission": "Arrives with the first wave of Chinese script adoption, where it carries the Confucian sense of innate moral nature — the term is central to Mencius's teaching on the goodness of human nature (性善説, seizen setsu). Buddhist registers layer on in the Nara period: Hossō Yogācāra distinguishes multiple types of nature (種性, shushō) corresponding to different paths of liberation. The specifically Chan/Zen load — 自性, 見性, 仏性 — arrives with the Kamakura transmission and becomes the primary register in which 性 is philosophically active in Japanese Zen discourse. The kun reading さが (innate character, fate, nature) preserves a distinctly Japanese nuance of disposition as something fated or characteristic of a type — a sense that surfaces in literary contexts more than doctrinal ones."
+    },
+    {
+      "char": "菩",
+      "strokes": 11,
+      "radical": "艹",
+      "gloss": "Phonetic vessel for Sanskrit bodhi — a grass canopy sheltering what reaches upward; a character defined by the sound it carries rather than the image it depicts.",
+      "pinyin": "pú",
+      "on_readings": ["ぼ"],
+      "kun_readings": [],
+      "components": [
+        { "char": "艹", "meaning": "grass/plant radical (3 strokes) — the top cover of the character, a conventional classifier", "strokes": 3 },
+        { "char": "菩", "meaning": "undivided below the radical — 者 provides the phonetic element; the full character is a phonetic loan for Sanskrit bud-/bodhi", "strokes": 8 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Buddhist transliteration period (3rd–7th century CE)",
+          "form_description": "艹 (grass radical) over a phonetic component — assembled to render the sound of Sanskrit 'bo' in 菩提 (bodhi) and 菩薩 (bodhisattva)",
+          "notes": "菩 has no independent Chinese meaning; it was coined specifically to transliterate Sanskrit. The grass radical is a classifier convention, not a semantic clue. Buddhist translators working from Sanskrit or Central Asian originals in the Eastern Han (2nd century CE) and Six Dynasties periods assembled characters like 菩 precisely to fit the phonetic needs of Sanskrit terms that had no Chinese equivalents."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "艹 (3 strokes) over a complex phonetic body — 11 strokes total",
+          "notes": "In usage, 菩 never appears alone — it functions only as the first character of 菩提 (bodai, bodhi) or 菩薩 (bosatsu, bodhisattva). Its phonetic origin means the character's history is entirely the history of Buddhist textual transmission into Chinese, not native semantic development."
+        }
+      ],
+      "doctrinal_notes": "菩 is the first character of two of the most important terms in Mahāyāna Buddhism: 菩提 (bodai, bodhi — awakening) and 菩薩 (bosatsu, bodhisattva — awakening being). In both cases it renders the Sanskrit root bud- (to awaken). Because the character has no independent Chinese semantic content, its entire meaning is contextual — it points immediately and exclusively to the Sanskrit doctrinal vocabulary it was coined to carry.",
+      "japanese_transmission": "Arrives with the first wave of Buddhist scriptural transmission in the Nara period (710–794). 菩薩 (bosatsu) is among the earliest Sanskrit-derived terms in Japanese Buddhism, appearing in 8th-century temple records and ritual texts. 菩提 arrives alongside it as the standard rendering of bodhi. Both compounds were fully integrated into Japanese Buddhist vocabulary before the Heian period (794–1185), and both remain in active use in all schools of Japanese Buddhism today. The kun reading is empty — 菩 has no native Japanese phonology because it was always already a foreign sound-loan."
+    },
+    {
+      "char": "提",
+      "strokes": 12,
+      "radical": "扌",
+      "gloss": "To lift up, to present — a hand holding something aloft; in 菩提 it completes the phonetic rendering of Sanskrit bodhi, its sense of upholding resonating quietly with awakening's elevation.",
+      "pinyin": "tí",
+      "on_readings": ["だい", "てい"],
+      "kun_readings": ["さ.げる"],
+      "components": [
+        { "char": "扌", "meaning": "hand radical (simplified form of 手, 3 strokes) — the semantic element: an act of the hand", "strokes": 3 },
+        { "char": "是", "meaning": "to be, correct, right (9 strokes) — phonetic element, provides the tí sound", "strokes": 9 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "手 (hand) beside 是 (phonetic) — a phono-semantic compound: the hand doing what 是 sounds like",
+          "notes": "The primary meaning in non-Buddhist contexts is to lift, to carry by hand, to bring forward — as in 提案 (teian, proposal: bringing something forward), 提供 (teikyō, to offer: holding out for another). The combination of hand and the phonetic is standard seal-script composition."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "扌 (hand radical, 3 strokes) on the left beside 是 (9 strokes) — 12 strokes total",
+          "notes": "In non-Buddhist usage 提 appears in 提案 (proposal), 提供 (provision, offering), 前提 (premise, what is put forward first). In Buddhist usage it appears almost exclusively as the second character of 菩提 — phonetically completing the Sanskrit bodhi — and 提唱 (teishō, a Zen master's formal Dharma presentation: the act of holding up and presenting a teaching)."
+        }
+      ],
+      "doctrinal_notes": "In 菩提 (bodai, bodhi), 提 functions primarily as a phonetic complement. But its intrinsic meaning — upholding, presenting, lifting into view — carries a latent semantic resonance with the concept it helps render: bodhi as what the practice holds up and presents, or what one lifts toward. The compound 提唱 (teishō, formal Dharma presentation) shows this register directly: the master 提 (holds up, presents) the teaching.",
+      "japanese_transmission": "Arrives with the Buddhist scriptural transmission in the Nara period as part of the compound 菩提. Its independent meaning (to lift, carry, present) also enters Japanese in compounds like 前提 (zentei, premise) and 提案 (teian, proposal), which are classical Chinese coinages naturalized into Japanese. The on reading だい in 菩提 and てい in 提案/提供 preserve the two main phonetic registers of the character. In modern Japanese, 提 is common in formal and academic contexts through these compound terms."
+    },
+    {
+      "char": "大",
+      "strokes": 3,
+      "radical": "大",
+      "gloss": "Vastness, fullness — a person with arms spread wide, occupying the full span of space; in 大悟 the qualifier of realization so complete it leaves no remainder.",
+      "pinyin": "dà",
+      "on_readings": ["だい", "たい"],
+      "kun_readings": ["おお"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A person (人) with both arms extended horizontally — the full lateral span of a human body",
+          "notes": "The oracle bone form is one of the most transparent pictographs in the writing system: a person making themselves as large as possible. The arms spread wide convey not merely size but fullness, the occupation of maximum space. This embodied sense of wholeness-through-extension carries into 大悟: the great awakening is not awakening-plus-something-else but awakening that has occupied its full span, leaving no contracted corner of delusion."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "Three strokes — a horizontal stroke (arms), a diagonal left, a diagonal right (legs): one of the simplest characters in the script",
+          "notes": "At three strokes, 大 is among the least complex characters in the writing system, yet it functions as a radical for 天 (heaven — a person under the sky), 夫 (husband — a full grown person), and 太 (great, extreme — 大 with an additional dot of excess). The simplicity of the character is itself legible: vastness, when truly depicted, needs few strokes."
+        }
+      ],
+      "doctrinal_notes": "In 大悟 (daigo), 大 qualifies the awakening as thorough, complete, whole — contrasted with 小悟 (shōgo), partial or preliminary glimpses of insight. The qualifier does not mean the awakening is metaphysically greater but that it is structurally complete: no remainder of delusion from which to recover, no need for further consolidation. Chan/Zen literature also uses 大 in 大死 (daishi, the great death of the ego-self that precedes awakening) and 大疑 (daigi, the great doubt that fuels koan practice) — in each case 大 signals not merely quantity but a qualitative completeness that transforms the experience from ordinary to decisive.",
+      "japanese_transmission": "One of the most ancient and frequent characters in Japanese writing — present from the earliest stratum of Japanese literacy and carrying no specialized Buddhist introduction because it was already a general classical Chinese word for 'great, large' before Buddhism arrived. Its doctrinal uses in Zen (大悟, 大死, 大疑) are Kamakura-period arrivals via the Chan transmission, but they ride on a character so thoroughly embedded in Japanese that no special transmission was required. The prefix 大 (ō/dai) is extraordinarily productive in modern Japanese: 大学 (university), 大会 (major assembly), 大臣 (minister of state) — it retains the sense of something at full span."
+    },
+    {
+      "char": "頓",
+      "strokes": 13,
+      "radical": "頁",
+      "gloss": "Sudden, abrupt, all-at-once — a head bowing abruptly to the ground; in 頓悟 the Southern school's defining qualifier, marking awakening as instantaneous rather than cumulative.",
+      "pinyin": "dùn",
+      "on_readings": ["とん"],
+      "kun_readings": ["にわか.に"],
+      "components": [
+        { "char": "屯", "meaning": "to assemble, to gather — phonetic element providing the dùn sound, 4 strokes", "strokes": 4 },
+        { "char": "頁", "meaning": "head, page — the semantic element: a head bowing or stopping abruptly, 9 strokes", "strokes": 9 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "頁 (head) beside 屯 (phonetic) — the head component signals the abrupt bowing or stopping motion that gives 頓 its core meaning",
+          "notes": "The primary classical meaning: to bow the head to the ground in salutation or submission, especially the abrupt full-body prostration of kowtow. Extended to: sudden, abrupt, all-at-once. The motion of bowing — the entire body's sudden shift from upright to prostrate — provides the image of instantaneous transformation."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "屯 (4 strokes) on the left beside 頁 (head/page radical, 9 strokes) — 13 strokes total",
+          "notes": "頁 as a radical appears in characters involving the head: 頭 (head), 顔 (face), 願 (to wish/vow — bowing the head in prayer). 頓 among them names the abrupt movement of the head — and by extension any abrupt, all-at-once quality. The contrast with 漸 (gradual, step-by-step) is structurally built in: 頓悟 vs 漸悟 is the defining fault-line of Tang-dynasty Chan."
+        }
+      ],
+      "doctrinal_notes": "In 頓悟 (tongo), 頓 marks the Southern school's doctrinal claim that genuine awakening arrives instantaneously — not at the end of a cumulative path of purification but as a single breakthrough that is complete in itself. The opposing term is 漸悟 (zengo, gradual awakening), associated with the Northern school's teaching of progressive purification. The Platform Sutra presents Huineng's sudden-awakening teaching as the authentic Chan transmission precisely against the gradual approach: 頓 is not mere quickness but a claim about the structure of awakening itself — it does not arrive in stages because there is no gap between recognizing one's nature and being it.",
+      "japanese_transmission": "Arrives with the Chan transmission in the Kamakura period (late 12th–13th centuries), embedded in the vocabulary of the Platform Sutra and the Rinzai koan curriculum. The 頓漸 (tonzen, sudden-gradual) debate was a live doctrinal controversy in Tang-dynasty China and remains a conceptual framework in Japanese Zen: Rinzai tends to foreground 頓 (sudden breakthrough through koan), while Sōtō tends to sidestep the contrast through shikantaza (just sitting), which Dōgen frames as practice-realization rather than either sudden or gradual. In modern Japanese, 頓 survives primarily in set compounds: 頓悟 (sudden awakening), 頓死 (sudden death), 頓智 (quick wit, quick-wittedness) — all carrying the sense of an abrupt, complete event."
     }
   ]

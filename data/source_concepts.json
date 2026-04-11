@@ -73,5 +73,21 @@
       "language": "English / German",
       "gloss": "systematic empirical inquiry into the natural world; organized, methodical knowledge production",
       "notes": "The German Wissenschaft (systematic organized knowledge, including humanistic disciplines) fits the coinage 科学 better than English 'science,' which by the mid-19th century meant primarily natural science."
+    },
+    {
+      "id": "jianxing",
+      "term": "jiànxìng / kenshō",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "seeing one's nature — the direct perceptual breakthrough into Buddha-nature; the foundational Chan awakening event expressed as a transitive act of sight",
+      "notes": "Not a translation from Sanskrit: 見性 is a Chan Chinese formulation crystallized in the Platform Sutra slogan 見性成仏 ('seeing one's nature, becoming Buddha'). The Sanskrit closest to it would be buddha-dhātu-darśana (seeing the Buddha-element) or ātma-darśana (seeing the self/nature), but Chan teachers developed the concept independently from the formulation 'what is one's nature?' as a meditation question. The critical doctrinal tension is whether 見 (seeing) implies a subject that sees and an object (性, nature) that is seen — Dōgen problematizes this in 'Busshō,' arguing that if Buddha-nature is all-encompassing, the subject-object grammar of 見性 must be dissolved."
+    },
+    {
+      "id": "dunwu",
+      "term": "dùnwù / tongo",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "sudden awakening — the Southern school's doctrine that genuine enlightenment arrives as an instantaneous, structurally complete breakthrough rather than through gradual accumulation of insight",
+      "notes": "A Chinese Buddhist doctrinal formation with no direct Sanskrit antecedent — the sudden/gradual (頓漸, dùnjiàn) distinction is a controversy internal to Tang-dynasty Chan, not a translation of an Indian debate. The Platform Sutra presents Huineng's teaching as sudden (頓) against Shenxiu's gradual (漸) approach. The doctrinal claim of 頓悟 is not merely that awakening is fast but that it is structurally instantaneous — there is no partial or incomplete awakening that then completes itself over time. The awakening either sees through completely (大悟, great awakening) or has not yet arrived. This raises the pedagogical question of what practice is for if awakening cannot be accumulated: the Chan answer is that practice removes the obscurations preventing recognition of what is already fully present."
     }
   ]
