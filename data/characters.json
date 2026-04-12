@@ -485,6 +485,402 @@
       "japanese_transmission": "One of the most ancient and frequent characters in Japanese writing — present from the earliest stratum of Japanese literacy and carrying no specialized Buddhist introduction because it was already a general classical Chinese word for 'great, large' before Buddhism arrived. Its doctrinal uses in Zen (大悟, 大死, 大疑) are Kamakura-period arrivals via the Chan transmission, but they ride on a character so thoroughly embedded in Japanese that no special transmission was required. The prefix 大 (ō/dai) is extraordinarily productive in modern Japanese: 大学 (university), 大会 (major assembly), 大臣 (minister of state) — it retains the sense of something at full span."
     },
     {
+      "char": "即",
+      "strokes": 7,
+      "radical": "卩",
+      "gloss": "Immediately, just-this — a kneeling figure beside a vessel of food, the moment of approaching to eat; in Buddhist usage the marker of immediate identity rather than mediated relation.",
+      "pinyin": "jí",
+      "on_readings": ["そく"],
+      "kun_readings": ["すなわ.ち"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "A kneeling person beside a raised food vessel — the moment of approaching to eat",
+          "notes": "The original image is concrete: a person kneeling at a meal, just about to eat. From this concrete sense the abstract meaning of 'immediately, just at this moment, right here' develops. Classical Chinese commentators emphasized that 即 names not merely temporal immediacy but a relationship of identity — 'just this and not other.'"
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "An upper element (vessel) over 卩 (kneeling figure radical) — 7 strokes total",
+          "notes": "In modern Japanese 即 functions as the literary 'namely, that is to say' (すなわ.ち) and as the prefix marking immediate succession or identity: 即時 (sokuji, immediately), 即位 (sokui, accession), 即心是仏 (sokushin zebutsu, this very mind is Buddha)."
+        }
+      ],
+      "doctrinal_notes": "In Buddhist usage 即 carries the heaviest doctrinal weight in compounds asserting non-dual identity. 色即是空 (form is precisely emptiness) — the Heart Sutra's pivotal formula — uses 即 to assert that form and emptiness are not two related things but identically one. 即心是仏 (this very mind is Buddha) — the Mazu Daoyi formulation that became a Chan/Zen slogan — uses 即 to collapse the distance between the practitioner's actual functioning mind and Buddhahood. The 即 in these formulas is doing precise work: it refuses any mediating relation. Not 'mind is connected to Buddha' or 'mind leads to Buddha,' but mind is, just-this, Buddha. The character is the workhorse of non-dualist assertion in East Asian Buddhist vocabulary.",
+      "japanese_transmission": "First-wave character, present from the Nara period and used in the standard Buddhist non-dualist formulas from the earliest stratum of Japanese Buddhist literature. Its load-bearing register belongs to Mahāyāna doctrinal vocabulary throughout, with the Chan/Zen slogans of the Kamakura period (即心是仏) reactivating its potency for the practical pedagogy of the Zen tradition."
+    },
+    {
+      "char": "是",
+      "strokes": 9,
+      "radical": "日",
+      "gloss": "Is, this, correct — the verb of identification and the demonstrative pointing at what is the case; in Buddhist non-dual formulas the copula that does the load-bearing identifying work.",
+      "pinyin": "shì",
+      "on_readings": ["ぜ", "し"],
+      "kun_readings": ["これ"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "日 (sun) over 正 (correct, upright) — the sun standing straight, that which is correctly so",
+          "notes": "The classical etymology connects 是 to the sun at its highest point, the moment of unmistakable position. From this the meanings 'correct, this very thing, is' develop. In classical Chinese 是 is the standard demonstrative ('this') and one of the standard copulas ('is')."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "日 (sun, 4 strokes) over 疋 (variant of 正, 5 strokes) — 9 strokes total",
+          "notes": "In modern Japanese 是 is rare outside of fixed phrases and Buddhist or classical contexts. It survives in 是非 (zehi, 'right and wrong' or 'by all means') and in the Buddhist non-dual formulas: 色即是空 (shiki soku ze kū, form is precisely emptiness), 即心是仏 (sokushin zebutsu, this very mind is Buddha)."
+        }
+      ],
+      "doctrinal_notes": "In the cardinal Buddhist non-dual formulas, 是 is the copula doing the identification. 色即是空 — form precisely is emptiness. 即心是仏 — this mind is Buddha. The character's function in these formulas is grammatical but doctrinally heavy: 是 is what makes the assertion an identity rather than a comparison or association. Read carefully, the 是 in these formulas refuses any reading that would treat the two terms it joins as separate entities being related. It says they are, just-this, the same.",
+      "japanese_transmission": "Arrives with first-wave Buddhist transmission as part of the technical vocabulary for translating Mahāyāna sutras. The Heart Sutra's 色即是空 — the most chanted line in East Asian Buddhism — keeps 是 in active liturgical use across all Japanese Buddhist schools to the present day, even though the character is otherwise rare in modern Japanese."
+    },
+    {
+      "char": "身",
+      "strokes": 7,
+      "radical": "身",
+      "gloss": "Body, person — originally a pictograph of a pregnant woman in profile; the lived body as the site of practice and the locus of awakening, not its obstacle.",
+      "pinyin": "shēn",
+      "on_readings": ["しん"],
+      "kun_readings": ["み"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A pregnant woman in profile, the swollen abdomen clearly visible",
+          "notes": "The original meaning is 'pregnant body' — the woman whose body has become the site of new life. From this concrete sense the meaning extends to: the body generally, oneself, one's person. The pictographic origin is among the more vivid in the writing system."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "7 strokes — a vertical structure preserving the curved shape of the original",
+          "notes": "In ordinary Japanese 身 covers the body, oneself, a person, and one's social position. In Chan/Zen vocabulary it appears in the load-bearing compound 身心 (body-mind) and in 身心脱落 (casting off body-mind), Dōgen's term for his pivotal awakening."
+        }
+      ],
+      "doctrinal_notes": "In 身心一如 (shinjin ichinyo, body-mind as one) and 身心脱落 (shinjin datsuraku, casting off body-mind), 身 is paired with 心 (heart-mind) to name the unified field of embodied experience. The doctrinal point is to refuse a dualism between body and mind: practice happens in and as the embodied person, not in a disembodied consciousness that uses the body as its instrument. Dōgen's emphasis on zazen as the activity of the whole body-mind, not merely a mental discipline conducted while the body sits still, is built on this refusal.",
+      "japanese_transmission": "First-wave character, mapped onto the native Japanese word み (mi, body, oneself) from the earliest stratum of Japanese literacy. Its doctrinal weight in 身心 compounds belongs primarily to the Kamakura Zen transmission, in which Dōgen's writings make the body-mind unity a foundational principle."
+    },
+    {
+      "char": "一",
+      "strokes": 1,
+      "radical": "一",
+      "gloss": "One, single, unity — the most elemental stroke; in Buddhist usage the qualifier of unity, identity, and the single condition that holds across apparent multiplicity.",
+      "pinyin": "yī",
+      "on_readings": ["いち", "いつ"],
+      "kun_readings": ["ひと.つ"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A single horizontal stroke",
+          "notes": "The simplest character in the writing system: a single horizontal line. The semantic content is direct — the number one, oneness, unity. From this primitive sense the character extends to: the same, identical, single, undivided."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "1 stroke — a single horizontal line, unchanged from the oracle bone form",
+          "notes": "Functionally one of the most common characters in Japanese, appearing in countless compounds: 一人 (hitori, one person), 一日 (ichinichi, one day), 一切 (issai, all), 一如 (ichinyo, oneness-suchness), 統一 (tōitsu, unification), 第一 (daiichi, first)."
+        }
+      ],
+      "doctrinal_notes": "In Buddhist compounds 一 carries the load of unity and non-duality. 一如 (ichinyo, oneness-suchness) names the single thusness that holds across apparent multiplicity. 一切 (issai, all, the totality) extends 'one' to mean 'one and the same throughout.' 身心一如 (body-mind as one) refuses the body-mind dualism by asserting their identity. The character is small but doctrinally heavy — every claim about non-duality in East Asian Buddhism is built on the work 一 does in compounds.",
+      "japanese_transmission": "First-wave character, the most common numeral and one of the most frequent characters overall in Japanese writing. Its doctrinal use in Buddhist compounds is integral to the vocabulary from the Nara period onward."
+    },
+    {
+      "char": "自",
+      "strokes": 6,
+      "radical": "自",
+      "gloss": "Self, oneself, from — originally a pictograph of the nose; in Chinese philosophical and Buddhist usage the root of self-reference and the marker of what arises spontaneously from a thing itself.",
+      "pinyin": "zì",
+      "on_readings": ["じ", "し"],
+      "kun_readings": ["みずか.ら", "おの.ずから"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A stylized depiction of a nose viewed from the front",
+          "notes": "The original meaning is 'nose,' and the original use of 自 to mean 'self' may derive from the gesture of pointing at one's nose to indicate oneself — a gesture still common in modern Chinese and Japanese culture. The semantic shift from 'nose' to 'self' is one of the more vivid in classical Chinese."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "6 strokes — a rectangular form with horizontal interior strokes, fully abstract from the original pictograph",
+          "notes": "The 'nose' meaning has been entirely displaced by the 'self / from / by oneself' meanings. 自 is productive in compounds: 自分 (jibun, oneself), 自然 (shizen, nature, what is so of itself), 自性 (jishō, self-nature), 自由 (jiyū, freedom, 'from oneself'), 自我 (jiga, ego)."
+        }
+      ],
+      "doctrinal_notes": "In 自性 (jishō, self-nature), 自 carries the Sanskrit svabhāva that Madhyamaka Buddhism most insistently denies — the inherent, independent self-existence that things would need in order to exist apart from their causes. Nāgārjuna's argument is that nothing has 自性, because everything arises in dependence on conditions. In Tathāgatagarbha and Chan/Zen contexts the term is sometimes used positively — 'see one's self-nature, become Buddha' — creating a doctrinal tension that careful commentators have to manage. The character is also central to 自然 (shizen, what is so of itself, nature) and to the Chan/Zen vocabulary of spontaneity (自由, 自在 — freedom, self-mastery).",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period and immediately mapped onto the native Japanese reflexive みずから (mizukara, by oneself) and the adverbial おのずから (onozukara, of itself, naturally). The Buddhist register of 自性 arrives with the Nara-period scholastic transmission. Its modern productivity is enormous — 自 is one of the most common characters in Japanese and appears in countless compounds across all registers."
+    },
+    {
+      "char": "法",
+      "strokes": 8,
+      "radical": "氵",
+      "gloss": "Dharma — water flowing in its proper course; the Buddha's teaching, the order of phenomena, and the law of how things are, all carried in a single character.",
+      "pinyin": "fǎ",
+      "on_readings": ["ほう", "ほっ"],
+      "kun_readings": ["のり"],
+      "components": [
+        { "char": "氵", "meaning": "water radical (3 strokes) — semantic element: a process flowing in its course, regulated by its nature", "strokes": 3 },
+        { "char": "去", "meaning": "to go (5 strokes) — semantic and partially phonetic element: the going-out, the departure, what proceeds", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "氵 (water) beside an earlier complex element including 廌 (a mythical horned creature of justice) — water and the creature that judges",
+          "notes": "The classical etymology connects 法 to a mythical tradition in which a horned beast was used in trials of justice — water (氵) representing the leveling principle, the beast representing the discernment of right from wrong. The character was simplified early in its history to drop the beast component, leaving the modern form. The semantic core: a regulated, principled order — what flows in its proper course, the way things go."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "氵 (3 strokes) on the left beside 去 (5 strokes) — 8 strokes total",
+          "notes": "In ordinary classical Chinese 法 means 'law, statute, method, principle.' Buddhist translators recruited it to render Sanskrit dharma — the Buddha's teaching, the constitutive elements of phenomena, and the law of how things are — exploiting the polysemy of the original. In modern Japanese 法 covers law (法律), method (方法), and dharma (仏法), with the religious register marked by context."
+        }
+      ],
+      "doctrinal_notes": "法 is the East Asian rendering of Sanskrit dharma, one of the most polysemous and load-bearing terms in Buddhist vocabulary. Dharma covers: (1) the Buddha's teaching as a body of doctrine, (2) the elementary constituents of phenomenal experience as analyzed in Abhidharma psychology, (3) the law or principle of how things are, and (4) phenomenon or thing in the most general sense. 法 carries all four registers, with context determining which is foreground. In compounds: 仏法 (the Buddha's teaching), 諸法 (all phenomena), 法性 (the nature of dharmas), 法界 (the dharma-realm), 法身 (the dharma-body of a Buddha). Chan/Zen exploits the polysemy: 法 can be the formal teaching to be transmitted and simultaneously the bare reality of things prior to any teaching about them.",
+      "japanese_transmission": "Arrives with the first wave of Buddhist transmission in the Nara period as the standard rendering of Sanskrit dharma. The native Japanese word のり (nori, law, principle) is mapped onto it as the kun reading. The character is among the most frequent in Japanese Buddhist vocabulary and appears in countless compounds across all schools. The non-Buddhist sense of 'law, method' also enters Japanese early and remains the dominant register in legal and technical contexts (法律 hōritsu, 方法 hōhō)."
+    },
+    {
+      "char": "真",
+      "strokes": 10,
+      "radical": "目",
+      "gloss": "True, real, genuine — the unfeigned condition of a thing as it is, prior to ornamentation or distortion; in Buddhist usage the qualifier of reality as it is before conceptual elaboration.",
+      "pinyin": "zhēn",
+      "on_readings": ["しん"],
+      "kun_readings": ["ま", "まこと"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "A complex form combining elements possibly related to a vessel and observation",
+          "notes": "The original etymology is disputed; Han-period commentators connected it to the image of an immortal or Daoist sage in their unaltered nature. The semantic core that survives is unambiguous: 真 names what is real and unfeigned, contrasted with 偽 (false, fabricated)."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "10 strokes — a vertical structure with 目 (eye) embedded in the upper portion",
+          "notes": "Used across Chinese and Japanese for 'true, real, genuine.' Productive in compounds: 真理 (shinri, truth), 真実 (shinjitsu, fact, truth), 真如 (shinnyo, suchness), 真心 (magokoro, sincere heart). The Buddhist register in 真如 is technical."
+        }
+      ],
+      "doctrinal_notes": "In 真如 (shinnyo), 真 names reality as it is in itself, prior to and beyond conceptual elaboration. The character pairs with 如 (thusness, just-as-it-is) to render Sanskrit tathatā — the suchness of phenomena, their nature when not overlaid by the discriminating activity of the mind. 真 in this compound is doing limiting work: it specifies that the 'thusness' in question is not appearance but the actual reality, the true thusness as opposed to a mistaken or partial one.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period and immediately mapped onto the native Japanese word まこと (sincerity, truth). Its Buddhist register develops with the Nara-period Yogācāra and Madhyamaka transmissions, in which 真如 (Sanskrit tathatā) becomes a load-bearing technical term. In modern Japanese 真 is one of the most common characters and carries a wide range of senses from doctrinal to colloquial."
+    },
+    {
+      "char": "如",
+      "strokes": 6,
+      "radical": "女",
+      "gloss": "Thusness, just-as — to be like, to correspond, to be in accordance; in Buddhist usage the suchness of phenomena, their condition just as they are without conceptual overlay.",
+      "pinyin": "rú",
+      "on_readings": ["にょ", "じょ"],
+      "kun_readings": ["ごと.し"],
+      "components": [
+        { "char": "女", "meaning": "woman radical (3 strokes) — semantic element with disputed origin in this character", "strokes": 3 },
+        { "char": "口", "meaning": "mouth (3 strokes) — semantic element: a mouth speaking what corresponds, what is in accordance", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "女 (woman) beside 口 (mouth) — semantic logic disputed",
+          "notes": "Classical commentators offered various accounts: a woman speaking in accordance, or 女 as phonetic with 口 as semantic. The semantic core that survives is the sense of 'being like, being in accordance, just as.' From this concrete sense the abstract meaning of 'thusness' (the way a thing is) develops."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "女 (3 strokes) beside 口 (3 strokes) — 6 strokes total",
+          "notes": "In ordinary Japanese 如 functions as the literary 'just as, like' (ごと.し). Its load-bearing Buddhist use is in 真如 (shinnyo, suchness) and 如来 (nyorai, Tathāgata, 'thus-come' — the standard epithet of a Buddha). Both terms render Sanskrit tathā and its derivatives — the 'thus' that names reality as it is."
+        }
+      ],
+      "doctrinal_notes": "In 真如 (shinnyo, suchness) and 如来 (nyorai, Tathāgata, 'thus-come one'), 如 renders Sanskrit tathā — the 'thus' that names things as they are without conceptual addition. The doctrinal point of 如 is its refusal to add anything: reality as it is requires no characterization beyond 'just thus.' The Tathāgata is one who has 'thus come' and 'thus gone' — one whose movement is in accordance with the suchness of things rather than against it. The compound 真如 doubles the emphasis: the true thusness, reality just as it is and not otherwise.",
+      "japanese_transmission": "Arrives with the first wave of Buddhist scriptural transmission in the Nara period as part of the technical vocabulary for translating Sanskrit tathatā and tathāgata. The compounds 真如 and 如来 are both fully integrated into Japanese Buddhist usage from the earliest period and remain stable across all Japanese Buddhist schools. The kun reading ごと.し survives in literary and classical Japanese as the conjunction 'just as, like,' but the doctrinal register belongs to the Buddhist stratum."
+    },
+    {
+      "char": "開",
+      "strokes": 12,
+      "radical": "門",
+      "gloss": "To open — two hands lifting the bar from a closed gate; in 開悟 the verb of inception, naming the moment awakening first dawns as the opening of what was closed.",
+      "pinyin": "kāi",
+      "on_readings": ["かい"],
+      "kun_readings": ["ひら.く", "あ.く"],
+      "components": [
+        { "char": "門", "meaning": "gate (8 strokes) — the semantic frame: doors of a closed gate, between which the action takes place", "strokes": 8 },
+        { "char": "开", "meaning": "two hands lifting (4 strokes in simplified form) — the semantic element: hands raising the bar that holds the gate shut", "strokes": 4 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "門 (gate) with an interior element depicting two hands and a bar — the act of removing the bar",
+          "notes": "The original image is concrete: hands lifting the bar from a closed gate. From this concrete sense the meaning extends to: opening generally, beginning, inaugurating, making accessible. The figural use in 開悟 (opening to awakening) preserves the structural sense — what was closed becomes accessible."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "門 (8 strokes) framing an interior element — 12 strokes total",
+          "notes": "In modern Japanese 開 is widely productive: 開く (hiraku, to open), 開始 (kaishi, commencement), 開発 (kaihatsu, development), 開悟 (kaigo, opening to awakening). The doctrinal register in 開悟 is technical and confined to Buddhist usage."
+        }
+      ],
+      "doctrinal_notes": "In 開悟 (kaigo, opening to awakening), 開 is the verb of inception. The character does not name the completeness of awakening — that is 大悟 — but the moment of opening, the breakthrough through which awakening first becomes accessible. The figural logic is consistent with 開 elsewhere: what was closed off becomes available, the gate is unbarred, the path is opened. In Chan/Zen contexts 開悟 tends to be used for the initial breakthrough moment rather than for the full and final realization, though the line between 開悟 and the more emphatic 大悟 is not always sharply drawn.",
+      "japanese_transmission": "First-wave character, present in Japan from the earliest stratum of literacy and immediately mapped onto the native Japanese verbs ひらく (hiraku) and あく (aku). Its doctrinal use in 開悟 arrives with the Chan transmission in the Kamakura period and remains a stable but not dominant term in the Zen vocabulary of awakening — less prominent than 悟り or 大悟 but a recognized formulation. In ordinary modern Japanese 開 is one of the most common characters and carries no Buddhist resonance outside of fixed compounds."
+    },
+    {
+      "char": "成",
+      "strokes": 6,
+      "radical": "戈",
+      "gloss": "To become, to complete — a halberd marking the moment a thing reaches its full form; in 成仏 the verb of attainment, becoming what one already structurally is.",
+      "pinyin": "chéng",
+      "on_readings": ["せい", "じょう"],
+      "kun_readings": ["な.る", "な.す"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "戈 (halberd) with a small mark — possibly indicating completion or settlement",
+          "notes": "The original sense is disputed. Some commentators read the halberd as marking the moment of victory or settlement of an affair; others see it as a phonetic component. The semantic core that survives into classical and modern usage is unambiguous: 成 names the moment a thing reaches its completed form."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "6 strokes — a complex form with 戈 (halberd) on the right side",
+          "notes": "In modern Japanese, 成 is widely productive: 成る (naru, to become), 完成 (kansei, completion), 成功 (seikō, success), 成仏 (jōbutsu, becoming Buddha). Across these uses the underlying logic is consistent — a process reaching its fulfilled form."
+        }
+      ],
+      "doctrinal_notes": "In 成仏 (jōbutsu, becoming Buddha) and 見性成仏 (kenshō jōbutsu, seeing one's nature, becoming Buddha), 成 is the verb of attainment. The doctrinal subtlety is that the becoming is not the production of something new but the manifestation of what was already structurally the case. Chan/Zen exploits this tension: 成仏 is what practice aims at and simultaneously what one already is — the becoming is not a transition between states but a recognition that requires no transition.",
+      "japanese_transmission": "First-wave character, mapped onto the native Japanese verb なる (naru, to become) from the earliest stratum of Japanese literacy. Its load-bearing Buddhist use in 成仏 arrives with the Nara-period Buddhist transmission and remains stable across all Japanese Buddhist schools — every tradition uses 成仏 as the standard verb for attaining Buddhahood. In modern colloquial Japanese 成仏 also functions as a euphemism for dying peacefully, with the implication that the deceased has reached liberation."
+    },
+    {
+      "char": "仏",
+      "strokes": 4,
+      "radical": "亻",
+      "gloss": "Buddha — a person (亻) marked as transcendent or extraordinary; phonetic transliteration of Sanskrit buddha, the awakened one, foundational to all Buddhist vocabulary in East Asia.",
+      "pinyin": "fó",
+      "on_readings": ["ぶつ", "ふつ"],
+      "kun_readings": ["ほとけ"],
+      "components": [
+        { "char": "亻", "meaning": "person radical (vertical form of 人, 2 strokes) — the semantic element: a Buddha is a kind of person, an awakened being", "strokes": 2 },
+        { "char": "厶", "meaning": "private, self (2 strokes) — phonetic element in the simplified form", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Buddhist transliteration period (3rd–7th century CE)",
+          "form_description": "Traditional 佛: 亻 (person) beside 弗 (phonetic, providing the fó sound) — assembled to render Sanskrit buddha",
+          "notes": "The traditional form 佛 was coined specifically to transliterate Sanskrit buddha. The 亻 radical signals that the referent is a kind of person; 弗 provides the phonetic value. The character has no native Chinese semantic content prior to Buddhist usage — it was assembled from existing components to fit the doctrinal vocabulary."
+        },
+        {
+          "period": "Postwar Japanese script reform (1946)",
+          "form_description": "Simplified to 仏 (4 strokes): 亻 (person) beside 厶 (a simple residual element)",
+          "notes": "The Japanese postwar simplification (新字体, shinjitai) replaces 弗 with 厶, reducing the stroke count substantially. The simplified form is now universal in Japanese print. Mainland Chinese simplified script uses 佛 → 佛 (no change in PRC simplification, though traditional 佛 remains in Taiwan and Hong Kong)."
+        }
+      ],
+      "doctrinal_notes": "The single most important character in Buddhist vocabulary. 仏 is the Buddha — Śākyamuni in his historical reference, the awakened ones generally as a class, and the Buddha-nature in beings as a doctrinal claim. The character appears in countless compounds: 仏教 (Buddhism), 仏性 (Buddha-nature), 仏心 (Buddha-mind), 成仏 (becoming Buddha), 念仏 (recitation of the Buddha's name). Chan/Zen's distinctive contribution is the assertion that the Buddha is not elsewhere — not a deity to be supplicated, not a historical figure to be venerated from a distance, but the very functioning of one's own awakened nature: 即心是仏 (this very mind is Buddha).",
+      "japanese_transmission": "Arrives in Japan with the formal introduction of Buddhism in the 6th century CE — traditionally dated to 538 or 552 with the Korean Baekje court's gift of Buddhist images and texts to the Yamato court. The character is among the earliest Buddhist loans into Japanese and has been continuously in use since. The kun reading ほとけ (hotoke) is a native Japanese word with disputed etymology — possibly from 'hotoborkeshi' (one who has cooled passion) or from a Korean loan — that became the standard kun reading. In modern Japanese 仏 covers the full range of Buddhist meanings and also functions as a respectful term for the dead (ほとけさま, hotokesama), reflecting the cultural identification of death with attaining Buddhahood through 成仏."
+    },
+    {
+      "char": "死",
+      "strokes": 6,
+      "radical": "歹",
+      "gloss": "Death — a person bowing beside the residue of bones; in Chan/Zen the figural ego-death (大死) that must precede genuine awakening, the dissolution of the seer-seen structure.",
+      "pinyin": "sǐ",
+      "on_readings": ["し"],
+      "kun_readings": ["し.ぬ"],
+      "components": [
+        { "char": "歹", "meaning": "bone fragment, residue of death (4 strokes) — semantic element naming what is left after life departs", "strokes": 4 },
+        { "char": "匕", "meaning": "person bowed or kneeling (2 strokes) — semantic element: a figure in mourning posture", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A bone fragment beside a kneeling figure — a person mourning beside the remains of the dead",
+          "notes": "The original image is concrete and ritual: a living person in attendance on the residue of one who has died. The semantic logic carries: 死 names not the abstract event of dying but the relationship between the living and what death has left behind."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "歹 (bone fragment, 4 strokes) on the left beside 匕 (kneeling figure, 2 strokes) — 6 strokes total",
+          "notes": "The pictographic logic remains visible. 死 functions in everyday Japanese as the standard verb for dying (死ぬ shinu). Its doctrinal weight in Chan/Zen is concentrated in compounds like 大死 (daishi, the great death) and 生死 (shōji, birth-and-death) — in each case the term is used not to name biological death but the structural transformations of consciousness that the figure of death allows the tradition to point at."
+        }
+      ],
+      "doctrinal_notes": "In Chan/Zen, 死 is used in two doctrinally important compounds. In 生死 (shōji), it pairs with 生 (birth) to name saṃsāra — the cycle of birth-and-death from which awakening liberates, but which Dōgen's Shōji fascicle insists is the very locus of liberation. In 大死 (daishi, the great death), 死 names the figural ego-death that must precede genuine awakening: the complete dissolution of the ordinary subject-object structure of consciousness, the death of the self that grasps at experience as its possession. The Linji school in particular emphasizes 大死 as the necessary condition for 大悟 — only one who has died the great death can be born into the great life that awakening reveals.",
+      "japanese_transmission": "First-wave character, present from the earliest stratum of Japanese literacy and immediately mapped onto the native Japanese verb しぬ (shinu, to die). Its doctrinal use in Chan/Zen compounds — 大死, 生死, 死活 — arrives with the Kamakura transmission and remains technical, confined to Buddhist contexts. In ordinary modern Japanese 死 is the workaday term for death and dying."
+    },
+    {
+      "char": "始",
+      "strokes": 8,
+      "radical": "女",
+      "gloss": "Beginning, inception — the moment a process initiates; in 始覚 the qualifier marking awakening as something arrived at by a particular practitioner at a particular time, contrasted with 本覚's structural priority.",
+      "pinyin": "shǐ",
+      "on_readings": ["し"],
+      "kun_readings": ["はじ.める", "はじ.まる"],
+      "components": [
+        { "char": "女", "meaning": "woman radical (3 strokes) — semantic element with associations to origin and birth", "strokes": 3 },
+        { "char": "台", "meaning": "platform, foundation (5 strokes) — phonetic element providing the shǐ sound", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "女 (woman) beside 台 (phonetic) — semantic and phonetic elements",
+          "notes": "Classical commentators glossed 始 as the moment a thing first comes into being — explicitly tied through the female radical to images of birth and origin. The semantic logic is straightforward: 始 names the first instant of any process, the inception point from which a thing extends."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "女 (3 strokes) on the left beside 台 (5 strokes) — 8 strokes total",
+          "notes": "In modern usage 始 is the workhorse character for 'begin, start': 始める (hajimeru, to start), 開始 (kaishi, commencement), 始末 (shimatsu, beginning and end of an affair). Its doctrinal weight in 始覚 is technical and almost entirely confined to Tendai and Zen contexts."
+        }
+      ],
+      "doctrinal_notes": "In 始覚 (shikaku, acquired or initiated enlightenment), 始 marks the temporal arrival of awakening for a particular practitioner — the moment recognition first dawns, in contrast to 本覚 (hongaku) which marks awakening as the structural prior. The pair are not opposed positions but two moments of a single doctrine: 本覚 names what is realized; 始覚 names the realizing of it. The Awakening of Faith treatise systematizes this distinction, and Tendai theology elaborates it into a rich account of the relationship between intrinsic and acquired modes of awakening.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period as the standard term for 'beginning, inception.' Its doctrinal use in 始覚 arrives with the Heian Tendai transmission of the Awakening of Faith and its commentaries — Saichō and his successors elaborate the 本覚/始覚 distinction as a foundational theological frame. The doctrinal usage is technical and remains so; in ordinary modern Japanese 始 has no Buddhist resonance."
+    },
+    {
+      "char": "本",
+      "strokes": 5,
+      "radical": "木",
+      "gloss": "Root, origin, foundation — a tree (木) with a mark at its base; the original ground from which a thing extends, recruited in Buddhist usage to name what is intrinsically and originally the case.",
+      "pinyin": "běn",
+      "on_readings": ["ほん"],
+      "kun_readings": ["もと"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "木 (tree) with a horizontal mark or thickening at its base — pointing to the root",
+          "notes": "An indicative-character (指事) construction: the tree's root is marked rather than depicted as a separate object. The semantic logic is concrete and immediate — what is at the base of the tree is its root, its origin, the place it grows from."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "木 (4 strokes) with a horizontal mark crossing the central vertical at its base — 5 strokes total",
+          "notes": "The added stroke at the base remains visible in the modern form. From 'tree's root' the meaning extends to: origin, foundation, fundamental principle, the source. In Buddhist contexts 本 marks what is original, intrinsic, prior to elaboration — as in 本来 (originally), 本性 (original nature), 本心 (original mind), 本覚 (original enlightenment)."
+        }
+      ],
+      "doctrinal_notes": "In 本覚 (hongaku, original enlightenment), 本 carries the load of Tendai-derived doctrine that awakening is not acquired through practice but is the originally and always already realized condition of all beings. The character also pairs with 始 (acquired) in the doctrinal contrast 本覚/始覚, and stands at the head of many key Zen compounds: 本来面目 (original face), 本心 (original mind), 本性 (original nature). In each case 本 names not a temporal first but a structural prior — what is the case before delusion's elaboration ever began.",
+      "japanese_transmission": "First-wave character, present from the earliest stratum of Japanese literacy and immediately mapped onto the native Japanese word もと (root, origin, basis). Its doctrinal weight in Japanese Buddhism develops in two waves: first with the Heian-period transmission of Tendai (Saichō, early 9th century), which makes 本覚 a central theological category; and again with Kamakura Zen, where 本来面目 (original face) and related compounds carry Chan's claim that what practice realizes is what was always already the case. The character is also one of the most common in modern Japanese — used as the counter for long thin objects, as the word for 'book' (本), and in countless compounds — but its philosophical register remains marked and Buddhist."
+    },
+    {
+      "char": "覚",
+      "strokes": 12,
+      "radical": "見",
+      "gloss": "Wakefulness, awareness — to wake from sleep, to come to perception; in Buddhist usage the standing condition of being awake, contrasted with the event-character of 悟.",
+      "pinyin": "jué",
+      "on_readings": ["かく"],
+      "kun_readings": ["おぼ.える", "さ.ます", "さ.める"],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "An upper element related to 學 (learn) over 見 (see) — perception arising through learning, or seeing in the wakeful state",
+          "notes": "Traditional 覺 is a complex character; the simplified 覚 (used in modern Japanese and simplified Chinese) preserves the 見 base. The semantic core: a wakeful mode of perception, contrasted with the dulled or sleeping mode."
+        },
+        {
+          "period": "Regular script (楷書), simplified",
+          "form_description": "An upper canopy element over 見 (see, 7 strokes) — 12 strokes total in the Japanese simplified form",
+          "notes": "The simplified form preserves 見 at the bottom — wakefulness as a kind of seeing. In Buddhist usage 覚 covers both the act of waking up and the standing condition of being awake; it is thus a more processual and ongoing term than 悟, which names the discrete event of awakening."
+        }
+      ],
+      "doctrinal_notes": "覚 is the Sino-Japanese character most often used to render Sanskrit buddha (the awakened one) in its etymological aspect — a Buddha is one who has woken up. The compound 仏 (Buddha) originally transliterated the Sanskrit phonetically, but doctrinal commentary consistently glosses it through 覚. In Tendai and Zen, 覚 functions as a standing condition rather than an event: 本覚 (original wakefulness) and 始覚 (acquired wakefulness) are paired as the two doctrinal poles of how beings are related to their awakened nature. Dōgen often prefers 覚 over 悟 precisely because 覚 names a continuous condition rather than a one-time breakthrough — practice as the activity of an already-awake nature, not a striving toward a future event.",
+      "japanese_transmission": "Arrives with the first wave of Buddhist scriptural translation in the Nara period, where it is the standard character for translating buddha as 'the awakened one' and for the verbal sense of waking up. Its doctrinal sophistication develops through Heian Tendai: Saichō's introduction of the 本覚思想 (hongaku shisō, original-enlightenment thought) makes 覚 a load-bearing term in Tendai theology, and from Tendai it passes into the later Kamakura schools — including Zen, where Dōgen engages it critically. In ordinary modern Japanese the character has a wide range of uses: 覚える (oboeru, to remember/learn), 覚醒 (kakusei, awakening from sleep), 感覚 (kankaku, sensation) — the doctrinal register survives in fixed Buddhist compounds."
+    },
+    {
+      "char": "漸",
+      "strokes": 14,
+      "radical": "氵",
+      "gloss": "Gradually, by degrees — water seeping in increments; in 漸悟 the structural opposite of 頓, marking awakening conceived as progressive deepening rather than instantaneous breakthrough.",
+      "pinyin": "jiàn",
+      "on_readings": ["ぜん"],
+      "kun_readings": ["ようや.く", "ようよ.う", "やや", "すす.む"],
+      "components": [
+        { "char": "氵", "meaning": "water radical (3 strokes) — the semantic element: a process of incremental seeping or flowing", "strokes": 3 },
+        { "char": "斬", "meaning": "to cut (11 strokes) — phonetic element providing the jiàn sound, originally also semantic in the sense of cutting into stages", "strokes": 11 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "氵 (water) beside 斬 (phonetic) — water flowing or soaking in by stages",
+          "notes": "The original sense draws on the image of water soaking gradually into ground or rising slowly in a vessel — a process whose direction is unmistakable but whose progress is incremental. From this concrete sense the abstract meaning of 'gradually, by degrees' emerges in classical usage."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "氵 (3 strokes) on the left beside 斬 (11 strokes) — 14 strokes total",
+          "notes": "In modern Japanese 漸 survives in formal compounds: 漸進 (zenshin, gradual progress), 漸増 (zenzō, gradual increase), 漸次 (zenji, by degrees). Its load-bearing doctrinal use is 漸悟 — paired structurally with 頓悟 in the Tang-dynasty Chan controversy and inherited as a conceptual frame in Japanese Zen."
+        }
+      ],
+      "doctrinal_notes": "In 漸悟 (zengo), 漸 marks awakening as something approached through stages — the Northern school's position that purification of obscurations and the deepening of insight occur progressively. The character does not name slowness so much as cumulative direction: the practitioner advances by degrees toward a result that is not given all at once. The polemical opposition with 頓 in Chan historiography is so structurally rigid that 漸 in Buddhist contexts almost never appears without its sudden counterpart in the background.",
+      "japanese_transmission": "Arrives in Japan as part of the general classical-Chinese vocabulary in the Nara period, where it carries the ordinary sense of 'gradually, step by step.' Its consequential Buddhist register is Kamakura: the 頓漸 (sudden-gradual) controversy reaches Japan with the Chan transmission, and 漸悟 enters Japanese Zen discourse as the structural foil against which 頓悟 is defined. Outside of doctrinal contexts, 漸 in modern Japanese is restricted to formal and literary compounds — it has no everyday colloquial life."
+    },
+    {
       "char": "頓",
       "strokes": 13,
       "radical": "頁",

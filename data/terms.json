@@ -347,5 +347,298 @@
       "false_friends": [
         { "char": "漸悟", "language": "Japanese/Chinese", "divergence": "漸悟 (zengo, gradual awakening) is 頓悟's structural opposite: the Northern school's position that purification and insight deepen progressively, stage by stage. The Platform Sutra's framing of Huineng vs Shenxiu is the canonical presentation of the debate. Chan historiography heavily favored 頓悟, but modern scholars point out that what was called 漸悟 in the polemical context was a legitimate and sophisticated position — the difference is partly about emphasis and pedagogy rather than a clean doctrinal division." }
       ]
+    },
+    {
+      "id": "shinjin-ichinyo",
+      "characters": "身心一如",
+      "romaji_on": "shinjin ichinyo",
+      "on_reading": "しんじんいちにょ",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "shinjin-ichinyo-concept",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["kokoro", "bussho", "hossho", "jisho"],
+      "components": [
+        { "char": "身", "meaning": "body, person — the lived embodied being, here named alongside 心 to refuse the body-mind dualism" },
+        { "char": "心", "meaning": "heart-mind — the cognitive-affective organ, here named alongside 身 as the second face of a single field" },
+        { "char": "一", "meaning": "one, single, unified — the qualifier asserting that body and mind are not two but one" },
+        { "char": "如", "meaning": "thusness, just-as — the suffix completing the formula: body-mind is one in its very thusness, not made one by addition" }
+      ],
+      "translation_range": [
+        { "rendering": "body and mind as one", "emphasis": "literal — preserves the four components of the original; standard scholarly rendering" },
+        { "rendering": "body-mind unity", "emphasis": "compact — flattens the doctrinal precision somewhat but is widely used in popular Zen literature" },
+        { "rendering": "the oneness of body and mind", "emphasis": "expansive — most idiomatic English; loses the punch of the four-character compactness" }
+      ],
+      "conceptual_remainder": "The doctrinal point of 身心一如 is not to make a metaphysical claim about the relation between two pre-existing things called body and mind. It is to refuse the very framing on which such a question would arise. The Cartesian division between mental substance and bodily substance is the kind of thing this formula is meant to prevent from getting started. What English renderings struggle with is precisely this preventive function: 'body and mind are one' in English sounds like a positive metaphysical assertion about their relationship, while in Dōgen's usage it is closer to a refusal — they are not two in the first place, and the formula merely names the single field of embodied experience that practice actually engages. The word 如 at the end is doing important work: it specifies that the unity is not constructed or achieved but is the suchness, the bare way things actually are. Reading 身心一如 as if it were arguing for a unity that needs to be brought about misses the doctrinal grammar entirely.",
+      "doctrinal_weight": "Foundational to Dōgen's account of zazen and to Sōtō Zen practice generally. If body and mind are one, then zazen is not a mental discipline that the body sits passively through but the activity of the whole embodied person — the body sitting in zazen posture is itself doing the work, not merely housing it. This shapes the entire Sōtō pedagogy: precise attention to posture, breathing, and physical alignment is not preparatory to the real practice but is the practice. The formula also has implications for how awakening is described. The closely related 身心脱落 (shinjin datsuraku, casting off body-mind) — Dōgen's term for his own awakening under Rujing — uses the same body-mind compound to mark the dropping away of the dualistic structure that the formula 身心一如 refuses in advance.",
+      "false_friends": [
+        { "char": "身心脱落", "language": "Japanese", "divergence": "身心脱落 (shinjin datsuraku, casting off body-mind) is the partner formulation in Dōgen's vocabulary. 身心一如 names the structural unity of body and mind; 身心脱落 names the awakening event in which the dualistic grasping of body-mind as separate things drops away. The two formulas are doctrinally consistent: the casting off in 身心脱落 is the recognition of what 身心一如 names as already the case." }
+      ]
+    },
+    {
+      "id": "jisho",
+      "characters": "自性",
+      "romaji_on": "jisho",
+      "on_reading": "じしょう",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "svabhava",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["bussho", "kensho", "hossho", "shinnyo", "kokoro"],
+      "components": [
+        { "char": "自", "meaning": "self, own — the marker of intrinsic, internal origin; the very thing Madhyamaka denies any phenomenon possesses" },
+        { "char": "性", "meaning": "nature, inherent character — here paired with 自 to render Sanskrit svabhāva, own-nature" }
+      ],
+      "translation_range": [
+        { "rendering": "self-nature", "emphasis": "literal — the standard rendering, used in both Madhyamaka and Chan/Zen scholarly contexts" },
+        { "rendering": "own-being", "emphasis": "Indological — closer to the structure of Sanskrit svabhāva; preferred in technical Madhyamaka translation" },
+        { "rendering": "intrinsic essence", "emphasis": "philosophical — captures the metaphysical commitment Madhyamaka denies; risks suggesting that Chan affirms an essence" },
+        { "rendering": "original nature", "emphasis": "Chan-inflected — used when 自性 appears positively in the formula 見性 (seeing one's nature); risks losing the Madhyamaka critical force" }
+      ],
+      "conceptual_remainder": "自性 is the term where Madhyamaka and Tathāgatagarbha-influenced strands of Buddhism most visibly collide. Madhyamaka uses 自性 (Sanskrit svabhāva) only in the negative — there is no 自性, nothing has inherent independent self-existence. Chan/Zen, especially through the Platform Sutra and the Tathāgatagarbha tradition behind it, uses 自性 positively — see your own self-nature, the self-nature is originally pure. The terminological collision is not a contradiction but a difference of usage that careful readers have to track. The 自性 Madhyamaka denies is metaphysical: an inherent essence that would make a thing what it is independent of all causes. The 自性 Chan affirms is closer to the lived sense of one's own functioning prior to discriminating activity — the nature one sees in 見性. Dōgen and other careful Chan/Zen thinkers preserve both senses by being attentive to context. What English renderings cannot easily carry is this dual usage — 'self-nature' in English does not signal whether the term is being deployed critically (in the Madhyamaka register) or affirmatively (in the Chan/Tathāgatagarbha register). Reading any specific occurrence requires knowing which doctrinal tradition the speaker is working within.",
+      "doctrinal_weight": "Centrally important across multiple Buddhist doctrinal traditions. In Madhyamaka, the denial of 自性 is the core argument: nothing has inherent self-existence because everything arises dependently. In Yogācāra, the analysis of three natures (三性, sanshō) — imagined nature, dependent nature, and perfected nature — uses 性 in a different but related technical sense. In Chan/Zen, 自性 functions positively as the nature to be seen (見性) and is identified with Buddha-nature (仏性) in the Platform Sutra and subsequent literature. The terminological dual life of 自性 — as both what Madhyamaka denies and what Chan affirms — is one of the most discussed problems in East Asian Buddhist doctrinal history."
+    },
+    {
+      "id": "hossho",
+      "characters": "法性",
+      "romaji_on": "hossho",
+      "on_reading": "ほっしょう",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "dharmata",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["bussho", "shinnyo", "ku", "kokoro"],
+      "components": [
+        { "char": "法", "meaning": "dharma — the constitutive elements of phenomena, in this compound treated as a class whose nature is being named" },
+        { "char": "性", "meaning": "nature, inherent character — here naming the intrinsic character that all dharmas share by virtue of being dharmas" }
+      ],
+      "translation_range": [
+        { "rendering": "dharma-nature", "emphasis": "literal — preserves the technical specificity; standard in scholarly contexts" },
+        { "rendering": "the nature of phenomena", "emphasis": "expansive — clarifies what dharmas are without recourse to the technical Sanskrit; less compact" },
+        { "rendering": "essence of things", "emphasis": "older — risks importing essentialist metaphysics that Madhyamaka denies" }
+      ],
+      "conceptual_remainder": "法性 is doctrinally unstable across the Buddhist traditions that use it. In Madhyamaka the nature of dharmas is emptiness (śūnyatā) — they have no inherent self-existence — and so 法性 names a structural absence rather than a positive substance. In Tathāgatagarbha-influenced thought 法性 is more positively construed: the nature of phenomena is luminous, awakened, identified with the Tathāgatagarbha. East Asian Buddhism inherits both readings and rarely chooses cleanly between them. Dōgen's 'Hosshō' fascicle in the Shōbōgenzō refuses to let the term settle into a static reference: 法性 is treated dynamically as the constant self-manifestation of dharmas in their actuality, not as an underlying ground from which dharmas derive. What English renderings struggle to carry is precisely this instability — 'dharma-nature' in English sounds like the name of a thing, while in the Buddhist usage it is more like the name of a question that different schools answer differently.",
+      "doctrinal_weight": "A technical term used across Madhyamaka, Yogācāra, Tathāgatagarbha, Huayan, Tiantai/Tendai, and Chan/Zen literature, but rarely a centerpiece. In the Chan/Zen vocabulary it tends to be invoked less than 仏性, 心, or 真如 — perhaps because its abstraction makes it less suitable for the immediate, practical orientation of Chan teaching. The Shōbōgenzō 'Hosshō' fascicle is the most sustained Japanese treatment of the term and is essential reading for anyone trying to understand how Dōgen handles the relationship between universal nature claims and the actuality of particular phenomena."
+    },
+    {
+      "id": "shinnyo",
+      "characters": "真如",
+      "romaji_on": "shinnyo",
+      "on_reading": "しんにょ",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "tathata",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["bussho", "ku", "kokoro", "hongaku"],
+      "components": [
+        { "char": "真", "meaning": "true, real, genuine — limits the thusness in question to actual reality rather than appearance or partial seeing" },
+        { "char": "如", "meaning": "thusness, just-as — renders Sanskrit tathā, the bare 'thus' of reality as it is without conceptual addition" }
+      ],
+      "translation_range": [
+        { "rendering": "suchness", "emphasis": "standard scholarly rendering — preserves the deflationary force of the original; 'such' as the minimal characterization that adds nothing" },
+        { "rendering": "thusness", "emphasis": "alternative scholarly — closer to the literal Sanskrit tathā; less idiomatic in English" },
+        { "rendering": "true reality", "emphasis": "interpretive — risks suggesting tathatā is a special metaphysical entity, which Madhyamaka denies" },
+        { "rendering": "the absolute", "emphasis": "older Indological — imports neo-Hegelian metaphysical baggage that the Buddhist concept emphatically refuses" }
+      ],
+      "conceptual_remainder": "The hardest thing about 真如 is that it is not a thing. The doctrinal point of the term is precisely that reality, when seen as it is, requires no special characterization beyond 'just thus.' Any predicate one might add — true, ultimate, eternal, pure — is already a concept overlaid on the bare fact. English 'suchness' and 'thusness' come closer than 'reality' or 'absolute' precisely because they are linguistically empty: they signal that something is being pointed at without saying what. What English renderings tend to lose is this deflationary force. 真如 is constantly being read as the name of a metaphysical substance — the eternal ground, the cosmic reality, the noumenal absolute — and Madhyamaka-influenced commentators have to keep reasserting that it names nothing of the kind. The trap is built into nominalization: as soon as 真如 is treated as a noun referring to a thing, the doctrinal point is lost. Dōgen handles this by using the term verbally and dynamically, refusing to let it settle into a static reference.",
+      "doctrinal_weight": "One of the central technical terms of East Asian Buddhist philosophy, appearing across Madhyamaka, Yogācāra, Tathāgatagarbha, Huayan, Tiantai/Tendai, and Chan/Zen literatures. The Awakening of Faith elaborates 真如 as the absolute ground that is also the source of conditioned phenomena, an account that becomes load-bearing for East Asian doctrinal systems but that Madhyamaka strains of the tradition find dangerously close to substantialism. In Chan/Zen, 真如 is invoked sparingly compared to 仏性 or 心 — the Chan preference is for terms that point at the practitioner's own functioning rather than at metaphysical absolutes — but it remains a recognized technical category. The compound 真如本性 (the original nature as suchness) appears in the Platform Sutra as one of several formulations of what awakening recognizes."
+    },
+    {
+      "id": "mushin",
+      "characters": "無心",
+      "romaji_on": "mushin",
+      "on_reading": "むしん",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "wuxin-no-mind",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["mu", "kokoro", "ku", "do", "satori"],
+      "components": [
+        { "char": "無", "meaning": "no, without — the bare negative; here applied not to the existence of mind but to the grasping, fixating activity by which mind ordinarily constructs an objectified self" },
+        { "char": "心", "meaning": "heart-mind — the cognitive-affective organ; in 無心 the unobstructed flow that remains when the discriminating activity ceases" }
+      ],
+      "translation_range": [
+        { "rendering": "no-mind", "emphasis": "literal — preserves the structural negation; standard in Western Zen literature" },
+        { "rendering": "no-thought", "emphasis": "interpretive — closer to the related term 無念 (munen); risks losing the 心 register" },
+        { "rendering": "non-grasping awareness", "emphasis": "expanded — clarifies what is being negated, but loses the compactness of the original" },
+        { "rendering": "mindlessness", "emphasis": "misleading — suggests inattention or absence of consciousness, the opposite of what 無心 names" }
+      ],
+      "conceptual_remainder": "The standard English 'no-mind' is structurally honest but invites a misreading: that 無心 names the absence of consciousness or the cessation of mental activity. This is precisely wrong. 無心 is not unconsciousness but the unobstructed functioning of consciousness when it is not grasping at its own contents. The Chan/Zen claim is that the ordinary mind is constantly fixating — labeling, judging, comparing, holding — and this fixating activity is what generates the sense of a separate self standing apart from experience. When the fixating stops, what remains is not nothing but a clearer and more responsive mode of awareness. The English idiom that comes closest is the 'flow state' of contemporary psychology — but the analogy is imperfect because flow is described phenomenologically while 無心 is a doctrinal term about the structure of the mind. What English translations cannot easily carry is the precise doctrinal claim: 無心 is not a state to be achieved but the natural condition of mind that becomes available when the artificial activity of grasping is set down.",
+      "doctrinal_weight": "Central to the Linji/Rinzai pedagogical tradition and increasingly influential in the broader cultural reception of Zen in Japan and the West. In doctrinal contexts the term names the goal-state of meditative practice: not blankness but clear, responsive, non-grasping awareness. In the Tokugawa period 無心 migrated outward from strictly Buddhist contexts into the discourse of the artistic and martial 'ways' (道) — kendō, kyūdō, sadō, shodō — where it names the state of skilled action in which conscious deliberation no longer interferes with technique. This cultural extension has been one of the most successful exports of Zen vocabulary and shapes the Western reception of Zen aesthetics through D.T. Suzuki, Eugen Herrigel's Zen in the Art of Archery, and the popular literature on 'Zen and the art of...' — though the popular versions tend to lose the doctrinal precision of the original.",
+      "false_friends": [
+        { "char": "無念", "language": "Japanese/Chinese", "divergence": "無念 (munen, no-thought) is closely related to 無心 and often paired with it. The Platform Sutra makes 無念 the central category of Huineng's teaching: not the absence of thought but thought that does not stick to objects. 無心 emphasizes the heart-mind register; 無念 emphasizes the discursive-thought register. In practice the terms overlap, but doctrinal commentators sometimes distinguish them: 無心 is the underlying condition; 無念 is its expression in the moment-to-moment activity of cognition." },
+        { "char": "不覚", "language": "Japanese", "divergence": "不覚 (fukaku, un-wakefulness, unconsciousness) names the negative state that 無心 emphatically is not. 不覚 is the absence of awareness — being asleep, being inattentive, being deluded. 無心 is awareness without grasping. Confusing the two collapses 無心 into precisely what it is meant to name the absence of." }
+      ]
+    },
+    {
+      "id": "bussho",
+      "characters": "仏性",
+      "romaji_on": "bussho",
+      "on_reading": "ぶっしょう",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "buddha-dhatu",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["kensho", "kokoro", "satori", "hongaku", "bodai"],
+      "components": [
+        { "char": "仏", "meaning": "Buddha — the awakened one; here functioning as a qualifying noun for 性, naming the kind of nature in question" },
+        { "char": "性", "meaning": "nature, inherent character — the inborn quality of the heart-mind; in 仏性 the intrinsic awakened nature shared by all beings" }
+      ],
+      "translation_range": [
+        { "rendering": "Buddha-nature", "emphasis": "standard universal rendering — used without alternative in scholarly and practice contexts" },
+        { "rendering": "Buddhahood as nature", "emphasis": "interpretive — foregrounds the structural rather than possessive sense; closer to Dōgen's reading" },
+        { "rendering": "the Buddha-element", "emphasis": "older Indological — calques Sanskrit buddha-dhātu literally; less idiomatic in English" }
+      ],
+      "conceptual_remainder": "The standard English 'Buddha-nature' tends to be heard as a possession relation: beings have Buddha-nature in the way they might have a property or a faculty. Dōgen's reading in the Shōbōgenzō 'Busshō' fascicle dismantles this. The classical Mahāyāna formula 一切衆生悉有仏性 (all sentient beings without exception have Buddha-nature) can be reparsed, Dōgen argues, as 'all being-time is Buddha-nature' or 'all existence is Buddha-nature' — not a relation between beings and a property they possess but an identification of beings themselves with the awakened nature. What English renderings struggle to carry is precisely this grammatical move: in Chinese the syntactic ambiguity of 有 (have/exist) makes Dōgen's rereading possible, while English 'have' rules it out from the start. The doctrinal stake is enormous — under the possession reading, Buddha-nature is something to be recognized within oneself; under Dōgen's reading, there is nothing other than Buddha-nature, and the very notion of a self that recognizes it is already a confusion.",
+      "doctrinal_weight": "The single most consequential doctrinal claim of East Asian Mahāyāna Buddhism. The assertion that all beings have (or are) Buddha-nature underwrites the entire architecture of Chan/Zen practice: there is nothing to acquire, only what is intrinsic to be recognized. The Mahāyāna Mahāparinirvāṇa Sūtra is the canonical source of the formula 一切衆生悉有仏性, and the doctrine spreads from there throughout Tendai, Huayan, Pure Land, and Chan/Zen. Dōgen's 'Busshō' fascicle is the most sustained philosophical treatment of the term in East Asian Buddhism — a long, dense, syntactically experimental text that reads the classical formula multiple ways simultaneously and refuses any single resolution. The fascicle is essential reading for anyone trying to understand what 仏性 actually commits its adherents to.",
+      "false_friends": [
+        { "char": "自性", "language": "Japanese/Chinese", "divergence": "自性 (jishō) is closer to the Sanskrit svabhāva (own-nature, inherent self-existence) — the very thing Madhyamaka philosophy denies has independent reality. 仏性 is closer to buddha-dhātu (Buddha-element) and is the affirmative claim about what all beings share. The two terms run in opposite philosophical directions even though both contain 性. Tathāgatagarbha thought sometimes uses 自性 in a positive sense (the original self-nature is the Buddha-nature), creating doctrinal complications that Madhyamaka-influenced thinkers have to manage." },
+        { "char": "本覚", "language": "Japanese", "divergence": "本覚 (hongaku, original enlightenment) is the wakefulness-specific articulation of what 仏性 names more broadly. 仏性 is the intrinsic Buddha-nature in beings; 本覚 specifies that nature as already awake rather than potentially awakenable. Tendai theology sometimes uses the terms interchangeably, though doctrinally 本覚 is the stronger claim." }
+      ]
+    },
+    {
+      "id": "kaigo",
+      "characters": "開悟",
+      "romaji_on": "kaigo",
+      "on_reading": "かいご",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "bodhi",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["satori", "daigo", "tongo", "kensho", "bodai"],
+      "components": [
+        { "char": "開", "meaning": "to open — the verb of inception, naming the moment a closed gate is unbarred; here marks awakening as the breakthrough through which what was inaccessible becomes available" },
+        { "char": "悟", "meaning": "awakening — the heart-mind's recognition of its own nature; the event whose initial dawning 開 specifies" }
+      ],
+      "translation_range": [
+        { "rendering": "opening to awakening", "emphasis": "literal — preserves the figural force of 開 as unbarring rather than mere occurrence" },
+        { "rendering": "awakening", "emphasis": "loose — collapses 開悟 into the general category of 悟り; loses the inception-specific nuance" },
+        { "rendering": "initial breakthrough", "emphasis": "interpretive — foregrounds the position of 開悟 in the awakening sequence as the first moment, prior to the structural completeness of 大悟" }
+      ],
+      "conceptual_remainder": "開悟 sits in a cluster of awakening terms — 悟り, 見性, 大悟, 開悟 — whose distinctions are real but rarely sharply maintained in practice. The term that 開悟 most clearly marks off is 大悟: 開悟 names the inception, 大悟 names the completion. The opening of the gate is not the arrival at the destination, only the moment the path becomes available to walk. What English renderings cannot easily carry is the figural specificity of 開: the awakening is described not as a flash of insight or a moment of clarity but as the unbarring of something that had been closed. The closure was the discriminating mind's grip on the way things appear; the opening is the moment that grip relaxes enough for the actual nature of things to become accessible. The figure has a doctrinal advantage over 'flash of insight' or 'sudden clarity' — it implies that what is now accessible was always already there, blocked only by the closure of the gate, not absent.",
+      "doctrinal_weight": "Less prominent than 悟り, 大悟, or 見性 in the Chan/Zen vocabulary of awakening, but a recognized term across all Zen lineages. 開悟 tends to appear in narrative contexts — the records of monks' awakening experiences — where it marks the moment a particular practitioner first broke through. It is not typically used in doctrinal exposition the way 大悟 is, perhaps because its inceptive sense makes it less suitable for the heavy doctrinal claims about the structure of awakening. The term remains useful precisely because it does not commit the speaker to claims about the depth or completeness of what occurred, only to the fact that something opened."
+    },
+    {
+      "id": "jobutsu",
+      "characters": "成仏",
+      "romaji_on": "jobutsu",
+      "on_reading": "じょうぶつ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "buddhahood-attainment",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["satori", "kensho", "bodai", "hongaku"],
+      "components": [
+        { "char": "成", "meaning": "to become, to complete — the verb of attainment, here marking the becoming-Buddha that is also the recognition of what is already the case" },
+        { "char": "仏", "meaning": "Buddha — the awakened one; in Chan/Zen identified with one's own original nature rather than with a remote venerated figure" }
+      ],
+      "translation_range": [
+        { "rendering": "becoming Buddha", "emphasis": "literal — preserves the verbal structure of the Chinese; standard in scholarly contexts" },
+        { "rendering": "attaining Buddhahood", "emphasis": "nominal — shifts the emphasis from the verb to the result; closer to the Sanskrit abstract buddhatva" },
+        { "rendering": "realizing Buddhahood", "emphasis": "Dōgen-inflected — foregrounds 成仏 as the manifestation of what was already the case rather than the production of something new" }
+      ],
+      "conceptual_remainder": "The verbal structure of 成仏 — becoming, not being — is doing precise doctrinal work that English nominal renderings tend to flatten. To say one becomes a Buddha implies a transition between two states, an ordinary self that becomes an awakened one. Chan/Zen exploits this implication and then dissolves it: yes, one becomes a Buddha, but the becoming is the recognition of what one already structurally is, not the acquisition of a new substance. The slogan 見性成仏 (kenshō jōbutsu, seeing one's nature is becoming Buddha) collapses the temporal sequence — the seeing and the becoming are not two events but one. What English renderings cannot easily carry is this collapse: 'becoming' in English implies temporal progression, while 成 in this technical context names the moment of structural completion which is also the moment of recognition that the completion was always already given. In Pure Land contexts the term carries a different valence — 成仏 there is the result of birth in the Pure Land, achieved through the salvific power of Amida — but the underlying claim that becoming Buddha is the practitioner's actual horizon is shared across schools.",
+      "doctrinal_weight": "The verb-of-art for the soteriological goal of all Mahāyāna Buddhism. Every East Asian Buddhist school agrees that 成仏 is what the path is for, and disagreements between schools are largely disagreements about how 成仏 happens: through devotion to Amida (Pure Land), through chanting the title of the Lotus Sutra (Nichiren), through recognition of one's own nature in this very life (Zen). In Chan/Zen the term carries the additional radical implication that 成仏 is not deferred to a future rebirth but is available in the present moment to anyone who can see through the discriminating mind: the Platform Sutra's 即時成仏 (in this very moment, becoming Buddha) is the strong form of the claim. Modern colloquial Japanese also uses 成仏 as a euphemism for dying peacefully — the deceased is said to have 'become Buddha,' which preserves the doctrinal claim that death rightly understood is itself liberation."
+    },
+    {
+      "id": "daishi",
+      "characters": "大死",
+      "romaji_on": "daishi",
+      "on_reading": "だいし",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "daishi-great-death",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["daigo", "satori", "kensho", "tongo"],
+      "components": [
+        { "char": "大", "meaning": "great, vast, complete — qualifies the death as thoroughgoing rather than partial; the ego-death from which no remainder of the ordinary self returns" },
+        { "char": "死", "meaning": "death — used figurally for the cessation of the discriminating subject-object structure of consciousness, not biological death" }
+      ],
+      "translation_range": [
+        { "rendering": "the great death", "emphasis": "literal — preserves the figural force of the Chinese; the standard rendering in Chan/Zen scholarship" },
+        { "rendering": "ego-death", "emphasis": "interpretive — clarifies what is dying without the figure of literal death; loses the connection to 大悟 as the rebirth that follows" },
+        { "rendering": "great cessation", "emphasis": "softer — avoids the violence of 'death' but loses the doctrinal precision of the figure" }
+      ],
+      "conceptual_remainder": "The figural use of death in 大死 is doing precise work that English readings often blur. Chan/Zen does not claim that the practitioner literally dies, nor that some metaphysical entity called 'the ego' is annihilated. The claim is that the structure by which experience is ordinarily organized — a self that has experiences, an object that the self grasps — must completely cease for genuine awakening to occur. The figure of death is the most precise analogy ordinary experience provides for this kind of cessation: the only thing one knows that completely stops without partial preservation. What English renderings miss is that the figural death is paired structurally with a figural rebirth: 絶後再蘇 (revival after the cutting-off) is part of the formula. 大死 is not nihilism but the necessary clearing for what comes after — and what comes after is described not as a different self but as a transformed mode of functioning in which the seer-seen structure no longer holds.",
+      "doctrinal_weight": "Central to the Linji/Rinzai pedagogy of koan practice. The koan's purpose is not to be solved but to drive the practitioner to the point at which the discriminating mind exhausts itself entirely — and this exhaustion is what 大死 names. Hakuin Ekaku's eighteenth-century revival of Rinzai practice in Japan placed particular emphasis on 大死 as the indispensable condition for 大悟. The pairing 大死一番、絶後再蘇 (great death one time, revival after the cutting-off) is a stock formulation in Hakuin's writings and in the Rinzai instructional literature he influenced. Sōtō Zen tends to be less invested in the figure, partly because Dōgen's framework of practice-realization (修証一等) does not require a structural rupture between practice and awakening — and 大死 names exactly such a rupture.",
+      "false_friends": [
+        { "char": "生死", "language": "Japanese", "divergence": "生死 (shōji, birth-and-death) names saṃsāra — the cycle of conditioned existence. 大死 names the figural ego-death that interrupts this cycle from within. They are not opposed but operate at different levels: 生死 is the condition; 大死 is the event that transforms the practitioner's relationship to the condition." }
+      ]
+    },
+    {
+      "id": "shikaku",
+      "characters": "始覚",
+      "romaji_on": "shikaku",
+      "on_reading": "しかく",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "shikaku",
+      "transmission_wave": "tendai",
+      "neighbor_ids": ["hongaku", "satori", "kensho", "daigo"],
+      "components": [
+        { "char": "始", "meaning": "beginning, inception — the temporal moment a process initiates; here marks awakening as something arrived at by a particular practitioner at a particular time" },
+        { "char": "覚", "meaning": "wakefulness, awareness — the standing condition of being awake; in 始覚 the condition that comes to be recognized through practice and study" }
+      ],
+      "translation_range": [
+        { "rendering": "acquired enlightenment", "emphasis": "standard scholarly rendering — captures the contrast with 本覚 as something a particular person comes into rather than something always-already-the-case" },
+        { "rendering": "initiated enlightenment", "emphasis": "interpretive — foregrounds 始 as the inception of recognition rather than the cumulative attainment of a result" },
+        { "rendering": "incipient enlightenment", "emphasis": "older translations — risks suggesting a partial or preliminary version, which the doctrine does not strictly imply" }
+      ],
+      "conceptual_remainder": "The difficulty of 始覚 is that it sounds like the doctrine of someone who does not believe in 本覚 — as if 始覚 named awakening as something that begins for a person who did not previously have it. This is exactly what the doctrine does not mean. 始覚 is the moment 本覚 is recognized, not the moment it begins to exist. English renderings struggle here because 'acquired' suggests gaining something new, while the technical claim is closer to: there is a first moment in which what was always the case becomes apparent to a particular consciousness. The pair 本覚/始覚 is the Tendai resolution of a problem the Awakening of Faith had created — how to affirm that all beings are intrinsically awakened without making practice unnecessary. The answer: 本覚 is the structural truth, 始覚 is its temporal recognition, and the two are not separate things but two faces of one event.",
+      "doctrinal_weight": "Inseparable from 本覚 — the two terms function as a doctrinal pair and were rarely treated independently in the Tendai theological tradition that elaborated them. Dōgen's relationship to the pair is characteristically subtle: he resists frameworks that would separate practice from the awakening it occasions, and his formula 修証一等 (oneness of practice and realization) can be read as a way of dissolving the temporal separation between 本覚 and 始覚 — practice does not precede realization in time but is itself the manifestation of the awakening it might appear to seek. The Bendōwa essay engages this question directly. Outside Dōgen, the 本覚/始覚 frame remained the dominant theological vocabulary of Japanese Tendai through the medieval period and influenced Pure Land and Nichiren thought as well.",
+      "false_friends": [
+        { "char": "本覚", "language": "Japanese", "divergence": "本覚 (hongaku) and 始覚 are not opposed positions but the two moments of a single doctrine. Reading them as competing accounts of what awakening is misses the structure: 本覚 names the structural truth that awakening is always-already-the-case; 始覚 names the temporal recognition by a particular practitioner. The difficulty of holding both together — without privileging either — is what makes the doctrine philosophically interesting." }
+      ]
+    },
+    {
+      "id": "hongaku",
+      "characters": "本覚",
+      "romaji_on": "hongaku",
+      "on_reading": "ほんがく",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "hongaku",
+      "transmission_wave": "tendai",
+      "neighbor_ids": ["satori", "kensho", "bodai", "daigo"],
+      "components": [
+        { "char": "本", "meaning": "root, origin, original — what is the case prior to and beneath the elaborations of delusion; here marks awakening as a structural rather than temporal priority" },
+        { "char": "覚", "meaning": "wakefulness, awareness — the standing condition of being awake; in 本覚 the ongoing condition that is intrinsic to all beings rather than achieved by them" }
+      ],
+      "translation_range": [
+        { "rendering": "original enlightenment", "emphasis": "standard scholarly rendering — preserves the structural sense of 本 as 'originally already' rather than 'in the past'" },
+        { "rendering": "intrinsic awakening", "emphasis": "interpretive — foregrounds that hongaku is not a memory of a former state but a description of the present condition of all beings" },
+        { "rendering": "primordial enlightenment", "emphasis": "older translations — risks reading 本 as a temporal first, which the doctrine explicitly rules out" }
+      ],
+      "conceptual_remainder": "本覚 makes a claim that is structurally easy to state but doctrinally treacherous: all beings are originally and always already awakened. The treachery lies in the inferences the claim seems to license. If awakening is already the case, why practice at all? Medieval Japanese Tendai elaborated answers — practice is not the cause of awakening but its expression, the activity through which what is already true is recognized — but the doctrine has always carried a risk of collapsing into a quietism in which practice becomes optional and ethical effort superfluous. What English renderings cannot easily carry is the precise doctrinal stake: 本覚 is not a metaphysical assertion about a primordial state but a soteriological claim about what practice is doing when it does anything. Dōgen reads it through this lens — not denying hongaku but refusing the inference that would make practice merely decorative.",
+      "doctrinal_weight": "本覚思想 (hongaku shisō, original-enlightenment thought) was the dominant theological framework of medieval Japanese Tendai and shaped the entire intellectual environment in which the Kamakura Buddhist reformers wrote. Hōnen, Shinran, Nichiren, and Dōgen each had to position themselves against or within hongaku — it was the air they breathed. Dōgen's distinctive contribution is to take hongaku seriously without allowing it to dissolve practice. The Bendōwa argument that practice and realization are one (修証一等) is partly a response to the hongaku problem: if practice is itself the manifestation of original enlightenment, then practice is not optional even though awakening is intrinsic. The Shōbōgenzō fascicle 'Bendōwa' addresses this directly. Modern Japanese scholarship (notably Hakamaya Noriaki and the 'Critical Buddhism' movement of the 1980s–90s) has argued that hongaku represents a deviation from authentic Buddhism into something closer to Hindu Vedānta — a controversial position that has reopened the question of what the doctrine actually commits its proponents to.",
+      "false_friends": [
+        { "char": "始覚", "language": "Japanese", "divergence": "始覚 (shikaku, acquired or initiated enlightenment) is the structural counterpart of 本覚: awakening as something attained through practice, the recognition by a particular person at a particular time of what 本覚 names as always-already-the-case. The pair are not opposed positions but two moments of a single doctrine — 本覚 is what is realized; 始覚 is the realizing of it. The difficulty arises only if one tries to make them into competing accounts of what awakening is." },
+        { "char": "仏性", "language": "Japanese", "divergence": "仏性 (busshō, Buddha-nature) is the broader concept of which 本覚 is the wakefulness-specific articulation. 仏性 names the intrinsic Buddha-nature in beings; 本覚 names that nature specifically as already awake rather than potentially awakenable. The Tendai tradition sometimes uses the terms interchangeably, but doctrinally 本覚 is the stronger claim — it does not say beings can become Buddhas but that they already are." }
+      ]
+    },
+    {
+      "id": "zengo",
+      "characters": "漸悟",
+      "romaji_on": "zengo",
+      "on_reading": "ぜんご",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "jianwu",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["tongo", "satori", "daigo", "kensho"],
+      "components": [
+        { "char": "漸", "meaning": "gradually, by degrees — water seeping incrementally; the structural opposite of 頓, marking awakening as a process whose progress accumulates" },
+        { "char": "悟", "meaning": "awakening — the heart-mind's recognition of its own nature; the event whose mode 漸 here characterizes as cumulative rather than instantaneous" }
+      ],
+      "translation_range": [
+        { "rendering": "gradual awakening", "emphasis": "standard scholarly rendering — accurately conveys 漸 as a doctrinal claim about mode and structure rather than mere temporal duration" },
+        { "rendering": "gradual enlightenment", "emphasis": "traditional — carries the standard distortions of 'enlightenment' as a state achieved through cultivation" },
+        { "rendering": "progressive realization", "emphasis": "interpretive — foregrounds the structural claim that insight deepens stage by stage, with each level preparing the conditions for the next" }
+      ],
+      "conceptual_remainder": "漸悟 is almost always read through the lens of its polemical opposition to 頓悟, and this framing distorts the position it actually names. The Northern school thinkers tarred as 漸 advocates did not deny that recognition of one's nature is structurally instantaneous; they emphasized that the conditions for that recognition must be cultivated, that the obscurations preventing it must be progressively cleared, and that practice has work to do even if its result is not built up brick by brick. What English renderings cannot easily carry is this distinction between gradual cultivation (which 漸悟 affirms) and gradual awakening in the sense of an awakening that is itself fifty percent complete (which is incoherent and which no serious Chan thinker held). The Platform Sutra's caricature has so dominated the historiography that the actual texture of the position the term names is recoverable only through careful reading against the tradition's own polemic.",
+      "doctrinal_weight": "漸悟 is the doctrinal foil against which the Southern school of Chan defined itself, attributed in the Platform Sutra to Shenxiu and the Northern school. The polemical opposition shaped the entire subsequent self-understanding of Chan/Zen as the tradition of sudden awakening. Modern scholarship — beginning with the Dunhuang manuscript discoveries of the early twentieth century — has substantially rehabilitated the so-called Northern school, showing that its actual teachings were more sophisticated and closer to the Southern position than the Platform Sutra allows. In Japanese Zen, 漸悟 survives mostly as a conceptual category invoked to characterize what authentic Zen is not — though Sōtō practice, with its emphasis on continuous practice-realization, has sometimes been characterized (by Rinzai partisans) as effectively gradualist, a charge that Dōgen's writings explicitly anticipate and refuse.",
+      "false_friends": [
+        { "char": "頓悟", "language": "Japanese/Chinese", "divergence": "頓悟 (tongo) and 漸悟 are presented in Chan historiography as the defining doctrinal opposition between Southern and Northern schools. The opposition is real but the polemical framing exaggerates the distance: most actual Chan teachers accommodated both moments — sustained cultivation (漸) and instantaneous recognition (頓) — within their pedagogy. The flat opposition is a heuristic, not a complete description of the historical positions." }
+      ]
     }
   ]

@@ -83,6 +83,102 @@
       "notes": "Not a translation from Sanskrit: 見性 is a Chan Chinese formulation crystallized in the Platform Sutra slogan 見性成仏 ('seeing one's nature, becoming Buddha'). The Sanskrit closest to it would be buddha-dhātu-darśana (seeing the Buddha-element) or ātma-darśana (seeing the self/nature), but Chan teachers developed the concept independently from the formulation 'what is one's nature?' as a meditation question. The critical doctrinal tension is whether 見 (seeing) implies a subject that sees and an object (性, nature) that is seen — Dōgen problematizes this in 'Busshō,' arguing that if Buddha-nature is all-encompassing, the subject-object grammar of 見性 must be dissolved."
     },
     {
+      "id": "sokushin-zebutsu-concept",
+      "term": "jí xīn shì fó / sokushin zebutsu",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "this very mind is Buddha — Mazu Daoyi's cardinal Chan formula asserting that the presently functioning mind is itself Buddhahood, with no gap, no mediation, and no future state to be reached",
+      "notes": "Attributed to Mazu Daoyi (709–788), the Tang-dynasty Chan master whose teaching shaped the Hongzhou school and through it the entire later Chan/Zen tradition. The formula appears in the Mumonkan (Gateless Gate) Case 30 and in the Blue Cliff Record Case 73. Mazu's biography records that he later modified the formula to 非心非仏 (not mind, not Buddha) when he saw students clinging to 即心是仏 as a doctrinal position to be held — the modification preserves the doctrinal point while breaking the attachment to its formulation. The two formulas together model the characteristic Chan refusal to let any teaching become a fixed position the practitioner can rest in."
+    },
+    {
+      "id": "shinjin-ichinyo-concept",
+      "term": "shinjin ichinyo",
+      "devanagari": null,
+      "language": "Japanese (Dōgen)",
+      "gloss": "body-mind as one — the doctrinal claim that the lived body and the heart-mind are not two separable entities but a single field of embodied experience, foundational to Dōgen's account of zazen as the activity of the whole person",
+      "notes": "Not directly a translation from Sanskrit. The phrase crystallizes a position with deep roots in Mahāyāna nondualism but takes its specifically Japanese articulation in Dōgen's Shōbōgenzō, where the unity of body and mind is repeatedly affirmed against any framing that would treat practice as a mental discipline conducted in a separable body. The doctrinal stake is significant: if body and mind are one, then zazen is not the mind sitting in a body but the whole embodied person engaging in a single integrated activity, and the gradualist temptation to treat the body as the obstacle to mental clarity is dissolved at its root."
+    },
+    {
+      "id": "svabhava",
+      "term": "svabhāva",
+      "devanagari": "स्वभाव",
+      "language": "Sanskrit",
+      "gloss": "own-nature, inherent self-existence — the doctrinally contested notion that a thing has an independent, intrinsic essence that constitutes it apart from its causes and relations",
+      "notes": "The central target of Madhyamaka critique. Nāgārjuna's Mūlamadhyamakakārikā argues at length that nothing has svabhāva, because everything arises dependently on causes and conditions, and what arises dependently cannot also exist independently. The Chinese rendering 自性 preserves the structure: 自 (self) + 性 (nature). The doctrinal tension is that East Asian Tathāgatagarbha-influenced traditions sometimes use 自性 positively — to refer to one's original Buddha-nature as 'self-nature' — creating an apparent collision with Madhyamaka's denial. Careful Chan/Zen commentators distinguish two senses: the svabhāva that Madhyamaka denies (inherent independent essence) and the 自性 that Chan affirms (the nature of mind that is to be seen, which is itself empty of svabhāva in the Madhyamaka sense). The terminological collision is real and has generated centuries of doctrinal exegesis."
+    },
+    {
+      "id": "dharmata",
+      "term": "dharmatā",
+      "devanagari": "धर्मता",
+      "language": "Sanskrit",
+      "gloss": "the nature of dharmas — the intrinsic, defining character of phenomena; what dharmas are in themselves prior to any conceptual or practical sorting",
+      "notes": "An abstract noun formed from dharma, parallel in formation to tathatā (suchness) from tathā (thus). Dharmatā names the nature of phenomena considered as a whole — what they share by virtue of being phenomena at all. In Madhyamaka the answer to 'what is the nature of dharmas?' is emptiness (śūnyatā): dharmas have no inherent self-nature, and that absence is their dharmatā. The Chinese rendering 法性 (fǎxìng, hosshō) preserves the abstract structure but lets later doctrinal traditions read it in different ways — sometimes as the bare absence Madhyamaka points at, sometimes as a positive ground in Tathāgatagarbha-influenced readings. Dōgen devotes a Shōbōgenzō fascicle to 法性, treating it as a dynamic and constantly self-manifesting reality rather than a static metaphysical substrate."
+    },
+    {
+      "id": "tathata",
+      "term": "tathatā",
+      "devanagari": "तथता",
+      "language": "Sanskrit",
+      "gloss": "suchness, thusness — the true nature of reality just as it is, prior to and beyond all conceptual elaboration; the way things are when not overlaid by the discriminating activity of mind",
+      "notes": "Central term of Yogācāra and Madhyamaka thought, derived from the simple Sanskrit demonstrative tathā ('thus, in this way'). Tathatā names not a special metaphysical substance but the bare fact of things being as they are — a deflationary rather than inflationary concept. The Awakening of Faith treatise treats tathatā as the absolute ground; later East Asian elaborations sometimes hypostatize it as a metaphysical reality, against which the Madhyamaka strain of the tradition consistently warns. The Chinese rendering 真如 doubles the emphasis with 真 (true) — the true thusness, as opposed to a mistaken or partial one. The compound is doctrinally inseparable from the epithet 如来 (Tathāgata, 'thus-come'), which makes the same word the name of a Buddha."
+    },
+    {
+      "id": "wuxin-no-mind",
+      "term": "wúxīn / mushin",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "no-mind — awareness free from fixation, clinging, and the discriminating self-reference of the ordinary ego; the unobstructed functioning of consciousness when it is not grasping at its own contents",
+      "notes": "A Chan Chinese formulation rather than a translation from Sanskrit, though it has affinities with the Sanskrit acitta and with the Mādhyamika critique of clinging. The term enters Chan vocabulary by the Tang period and becomes central to the Linji/Rinzai pedagogical tradition. The 'no' of 無心 does not mean the absence of consciousness — that would be 不覚 (un-wakefulness) or simple unconsciousness — but the absence of the grasping, fixating activity by which the ordinary mind constructs an objectified self separate from its experience. 無心 as a positive term names the unobstructed flow that is uncovered when this construction stops. The term has substantial life outside Buddhist texts as well: in Japanese aesthetics and the martial arts traditions of the Tokugawa period (kendō, kyūdō, sadō, shodō), 無心 names the state of skilled action in which technique has become so internalized that conscious deliberation no longer interferes."
+    },
+    {
+      "id": "buddha-dhatu",
+      "term": "buddha-dhātu / tathāgatagarbha",
+      "devanagari": "बुद्धधातु",
+      "language": "Sanskrit",
+      "gloss": "Buddha-nature; the Buddha-element or womb of the Tathāgata — the doctrine that all sentient beings possess (or are) the intrinsic nature of awakening, the seed or substrate of Buddhahood",
+      "notes": "Two distinct but overlapping Sanskrit terms — buddha-dhātu (the Buddha-element) and tathāgatagarbha (the womb or embryo of the Tathāgata) — converge in the East Asian rendering 仏性 (Chinese fóxìng, Japanese busshō). The doctrine is elaborated in scriptures like the Tathāgatagarbha Sūtra, the Śrīmālādevī Sūtra, and most importantly the Mahāyāna Mahāparinirvāṇa Sūtra, which contains the foundational claim that all sentient beings have Buddha-nature (一切衆生悉有仏性). Dōgen's radical rereading in the Shōbōgenzō 'Busshō' fascicle proposes that this should be read not as a possession relation ('all beings have Buddha-nature') but as an identity ('all being is Buddha-nature') — a syntactic reanalysis with major doctrinal consequences."
+    },
+    {
+      "id": "buddhahood-attainment",
+      "term": "buddhatva / bodhi-prāpti",
+      "devanagari": "बुद्धत्व",
+      "language": "Sanskrit",
+      "gloss": "Buddhahood — the attained condition of being a fully awakened one; the ultimate horizon of Buddhist soteriology, in Mahāyāna understood as the goal of the bodhisattva path",
+      "notes": "Sanskrit buddhatva is the abstract noun formed from buddha (awakened one); buddha-prāpti is the action of attaining Buddhahood. East Asian Buddhism renders this through the verbal compound 成仏 (jōbutsu), in which the verb of becoming (成) is doing the load-bearing work. The Chan/Zen claim that 成仏 is not the production of something new but the manifestation of what one already is — 見性成仏, seeing one's nature is becoming Buddha — works on the Chinese-Japanese verbal structure in a way that Sanskrit's nominal abstraction does not directly invite. The doctrine of universal Buddhahood (一切衆生悉有仏性) is the necessary condition for this reading."
+    },
+    {
+      "id": "daishi-great-death",
+      "term": "dàsǐ / daishi",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "the great death — the figural ego-death that must precede genuine awakening; the complete dissolution of the ordinary subject-object structure of consciousness, after which one is 'born into the great life' of awakening",
+      "notes": "Not a translation from Sanskrit but a Chan Chinese formulation that crystallized in the Linji/Rinzai lineage. The compound is paired structurally with 大悟 (great awakening): the great death is what 大悟 requires as its precondition. The phrase 大死一番、絶後再蘇 (great death one time, then revival after the cutting-off) is a stock Chan formulation describing the sequence: a complete cessation of the discriminating self, followed by a re-emergence into a transformed mode of functioning. The figural language of death is doing precise doctrinal work: it names the kind of transformation awakening requires by analogy to the only experience of total cessation ordinary life provides."
+    },
+    {
+      "id": "shikaku",
+      "term": "shikaku / shǐjué",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "acquired or initiated enlightenment — awakening as it arrives for a particular practitioner at a particular time, the recognition of what 本覚 (hongaku) names as always-already-the-case",
+      "notes": "Like 本覚, a Chinese-Japanese doctrinal formation rooted in the Awakening of Faith. The Tendai tradition elaborated 始覚 as the necessary counterpart of 本覚: without 始覚, 本覚 would be a metaphysical claim with no practical purchase; without 本覚, 始覚 would be the production of something new rather than the recognition of what is. The two terms together describe a single relationship — they are not competing accounts of awakening but two perspectives on one event. Dōgen's 修証一等 (oneness of practice and realization) can be read as a way of holding both moments together without privileging either."
+    },
+    {
+      "id": "hongaku",
+      "term": "hongaku / běnjué",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "original enlightenment — the doctrine that all sentient beings are intrinsically and originally awakened, with practice and acquired enlightenment (始覚) understood as the recognition rather than the production of what is always already the case",
+      "notes": "Not directly a translation from Sanskrit but a Chinese-Japanese doctrinal formation rooted in the Awakening of Faith (大乗起信論, Dasheng qixin lun), a sixth-century treatise of disputed authorship that became foundational for East Asian Buddhism. Hongaku thought reaches its most elaborated form in medieval Japanese Tendai, where it develops into a systematic theology of intrinsic awakening that influenced all subsequent Japanese Buddhism — the Pure Land schools, Zen, and Nichiren. Dōgen's relationship to hongaku is complex and central: he interrogates its potential to collapse into a quietism that denies the necessity of practice, while himself developing a position that practice is not separate from the original enlightenment it might seem to seek."
+    },
+    {
+      "id": "jianwu",
+      "term": "jiànwù / zengo",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "gradual awakening — the Northern school's doctrine that genuine enlightenment is reached through progressive purification, sustained practice, and the stage-by-stage removal of defilements rather than through a single instantaneous breakthrough",
+      "notes": "The structural counterpart to 頓悟 (dùnwù). The Platform Sutra polemically associates 漸悟 with Shenxiu and the Northern school, framing it as inferior to Huineng's sudden teaching. Modern scholarship has rehabilitated the so-called Northern school: what was caricatured as a doctrine of grinding incremental purification was in fact a sophisticated practice tradition that did not deny the suddenness of recognition but emphasized the cultivation needed to occasion and stabilize it. The 頓漸 distinction is best read as a difference of pedagogical emphasis within Chan, not as a clean opposition between awakening and non-awakening."
+    },
+    {
       "id": "dunwu",
       "term": "dùnwù / tongo",
       "devanagari": null,

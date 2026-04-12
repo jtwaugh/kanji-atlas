@@ -1,9 +1,11 @@
+import { useRef } from 'react';
 import { Link, Route, Routes, useLocation } from 'react-router-dom';
 import AtlasView from './views/atlas/AtlasView.jsx';
 import TermView from './views/term/TermView.jsx';
 import CharacterView from './views/character/CharacterView.jsx';
 import QuizView from './views/quiz/QuizView.jsx';
 import DebugView from './views/debug/DebugView.jsx';
+import TocSheet from './components/TocSheet.jsx';
 
 function ReferrerStrip() {
   const location = useLocation();
@@ -44,6 +46,7 @@ function ReferrerStrip() {
 }
 
 export default function App() {
+  const mainRef = useRef(null);
   return (
     <div className="flex h-full w-full flex-col">
       <header className="flex items-center justify-between border-b border-border px-6 py-3">
@@ -57,7 +60,7 @@ export default function App() {
         </nav>
       </header>
       <ReferrerStrip />
-      <main className="min-h-0 flex-1 overflow-y-auto">
+      <main ref={mainRef} className="min-h-0 flex-1 overflow-y-auto">
         <Routes>
           <Route path="/" element={<AtlasView />} />
           <Route path="/term/:chars" element={<TermView />} />
@@ -66,6 +69,7 @@ export default function App() {
           <Route path="/debug" element={<DebugView />} />
         </Routes>
       </main>
+      <TocSheet scrollContainerRef={mainRef} />
     </div>
   );
 }

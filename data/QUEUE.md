@@ -4,21 +4,21 @@ Enlightenment and awakening
 [x] 菩提 — bodai (Ch. pútí) — Bodhi; the liberating wisdom of a Buddha regarding the true nature of all things. Treeleaf Zendo
 [x] 大悟 — daigo — "Great realization"; deep, thorough enlightenment, contrasted with One River Zen preliminary glimpses or partial insight One River Zen (小悟 shōgo).
 [x] 頓悟 — tongo (Ch. dùnwù) — "Sudden enlightenment"; awakening as an instantaneous breakthrough, Terebess Asia Online the hallmark of the Southern School of Chan.
-漸悟 — zengo (Ch. jiànwù) — "Gradual enlightenment"; awakening attained through progressive stages of practice and deepening insight.
-本覚 — hongaku — "Original enlightenment"; the Tendai-influenced doctrine that all beings are inherently awakened Feng Shui Source — a concept Dōgen critically interrogated.
-始覚 — shikaku — "Acquired enlightenment"; awakening attained through practice, Feng Shui Source standing in dialectical tension with hongaku.
-大死 — daishi — "The great death"; complete dissolution of ego-consciousness that precedes genuine awakening.
-成仏 — jōbutsu — "Becoming Buddha"; the attainment of full Buddhahood, Encyclopedia of Buddhism the ultimate horizon of practice.
-開悟 — kaigo — "Opening to awakening"; the breakthrough moment of realization.
+[x] 漸悟 — zengo (Ch. jiànwù) — "Gradual enlightenment"; awakening attained through progressive stages of practice and deepening insight.
+[x] 本覚 — hongaku — "Original enlightenment"; the Tendai-influenced doctrine that all beings are inherently awakened Feng Shui Source — a concept Dōgen critically interrogated.
+[x] 始覚 — shikaku — "Acquired enlightenment"; awakening attained through practice, Feng Shui Source standing in dialectical tension with hongaku.
+[x] 大死 — daishi — "The great death"; complete dissolution of ego-consciousness that precedes genuine awakening.
+[x] 成仏 — jōbutsu — "Becoming Buddha"; the attainment of full Buddhahood, Encyclopedia of Buddhism the ultimate horizon of practice.
+[x] 開悟 — kaigo — "Opening to awakening"; the breakthrough moment of realization.
 
 Mind, nature, and Buddha-nature
-仏性 — busshō (Ch. fóxìng) — Buddha-nature; the intrinsic awakened nature of all beings; SotozenWikipedia subject of Dōgen's radical reinterpretation ("all existence is Buddha-nature") in the Shōbōgenzō "Busshō" fascicle.
-心 — shin / kokoro (Ch. xīn) — Mind; heart-mind; the fundamental locus of awareness, intention, and awakening in Zen discourse.
-無心 — mushin (Ch. wúxīn) — "No-mind"; awareness free from fixation, clinging, and ego-attachment; Kanji Soul a central concept in Zen practice and aesthetics. Fabrizio Musacchio
-真如 — shinnyo (Ch. zhēnrú) — Tathatā; "suchness" or "thusness"; the true nature of reality as it is, prior to and beyond all conceptual elaboration. Zen Buddha
-法性 — hosshō (Ch. fǎxìng) — "Dharma-nature"; the intrinsic nature of all phenomena; title of a Shōbōgenzō fascicle.
-自性 — jishō (Ch. zìxìng) — "Self-nature"; one's inherent essence, as invoked in the phrase 見性成仏 ("seeing self-nature, becoming Buddha").
-身心一如 — shinjin ichinyo — "Body-mind as one"; the non-duality of physical and mental experience, Academia.edu foundational to Dōgen's embodied Zen.
+[x] 仏性 — busshō (Ch. fóxìng) — Buddha-nature; the intrinsic awakened nature of all beings; SotozenWikipedia subject of Dōgen's radical reinterpretation ("all existence is Buddha-nature") in the Shōbōgenzō "Busshō" fascicle.
+[x] 心 — shin / kokoro (Ch. xīn) — Mind; heart-mind; the fundamental locus of awareness, intention, and awakening in Zen discourse.
+[x] 無心 — mushin (Ch. wúxīn) — "No-mind"; awareness free from fixation, clinging, and ego-attachment; Kanji Soul a central concept in Zen practice and aesthetics. Fabrizio Musacchio
+[x] 真如 — shinnyo (Ch. zhēnrú) — Tathatā; "suchness" or "thusness"; the true nature of reality as it is, prior to and beyond all conceptual elaboration. Zen Buddha
+[x] 法性 — hosshō (Ch. fǎxìng) — "Dharma-nature"; the intrinsic nature of all phenomena; title of a Shōbōgenzō fascicle.
+[x] 自性 — jishō (Ch. zìxìng) — "Self-nature"; one's inherent essence, as invoked in the phrase 見性成仏 ("seeing self-nature, becoming Buddha").
+[x] 身心一如 — shinjin ichinyo — "Body-mind as one"; the non-duality of physical and mental experience, Academia.edu foundational to Dōgen's embodied Zen.
 即心是仏 — sokushin zebutsu — "This very mind is Buddha"; a cardinal Zen formula affirming that the presently functioning mind is itself Buddhahood Sotozen (Mumonkan Case 30; Blue Cliff Record Case 73).
 平常心是道 — byōjōshin kore dō (Ch. píngcháng xīn shì dào) — "Ordinary mind is the Way"; attributed to Mazu Daoyi, expressing that the everyday mind — without contrivance — is the path itself Sotozen (Mumonkan Case 19).
 仏心 — busshin (Ch. fóxīn) — "Buddha-mind"; the awakened mind; Dharma-rain Zen is called 仏心宗 (busshinshū), "the Buddha-mind school." Wikipedia
