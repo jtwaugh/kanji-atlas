@@ -349,6 +349,551 @@
       ]
     },
     {
+      "id": "shosan",
+      "characters": "小参",
+      "romaji_on": "shosan",
+      "on_reading": "しょうさん",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "shosan-informal-assembly",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["jodo", "mondo", "teisho", "dokusan", "sanzen"],
+      "components": [
+        { "char": "小", "meaning": "small, informal — the qualifier distinguishing this assembly from the grand formality of 上堂" },
+        { "char": "参", "meaning": "to approach, to study under — the movement of approaching the master, here in a collective and less formal mode" }
+      ],
+      "translation_range": [
+        { "rendering": "informal assembly", "emphasis": "functional — captures the contrast with the formal jōdō" },
+        { "rendering": "informal dharma dialogue", "emphasis": "interpretive — emphasizes the dialogic character of the format" },
+        { "rendering": "shōsan", "emphasis": "untranslated — used in practice contexts" }
+      ],
+      "conceptual_remainder": "The English 'informal' can mislead by suggesting that shōsan is casual or unserious. The 小 of 小参 marks a different mode of formality, not a different level of seriousness. In the Chan/Zen monastic schedule, shōsan is the complement of jōdō: where jōdō is the abbot's formal address from the high seat in the dharma hall, shōsan is a more intimate gathering in which the teaching may be more spontaneous, the question-and-answer more extended, and the ritual framing less elaborate. The doctrinal content may be no different; what changes is the form. Reading shōsan as 'less serious than jōdō' misses the institutional logic entirely — some of the most consequential teaching exchanges in the Chan/Zen records happen in the shōsan format precisely because the informality allows for a more direct encounter.",
+      "doctrinal_weight": "Part of the institutional toolkit of Chan/Zen monastic teaching alongside jōdō, teishō, mondō, and dokusan. The Song-dynasty recorded sayings collections include shōsan addresses alongside jōdō addresses, and the format is integral to the monastic schedule during ango and sesshin. In contemporary Western Zen practice shōsan has been widely adopted as a public question-and-answer format, sometimes taking the form of a 'dharma dialogue' in which any member of the community may ask a question and receive a response in front of the full assembly."
+    },
+    {
+      "id": "jodo",
+      "characters": "上堂",
+      "romaji_on": "jodo",
+      "on_reading": "じょうどう",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "jodo-ascending-hall",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["mondo", "teisho", "dokusan", "sanzen", "denpo"],
+      "components": [
+        { "char": "上", "meaning": "to ascend, upper — the vertical movement of the abbot rising to the teaching seat" },
+        { "char": "堂", "meaning": "hall — the formal institutional space of the dharma hall, where the assembly gathers to receive instruction" }
+      ],
+      "translation_range": [
+        { "rendering": "ascending the hall", "emphasis": "literal — preserves the ritual action and the institutional space" },
+        { "rendering": "formal convocation", "emphasis": "interpretive — captures the institutional gravity of the occasion" },
+        { "rendering": "formal dharma address", "emphasis": "functional — emphasizes the content over the ritual form" },
+        { "rendering": "jōdō", "emphasis": "untranslated — used in monastic practice contexts" }
+      ],
+      "conceptual_remainder": "The English renderings tend to lose the ritual specificity of the compound. 上 names a physical ascent — the abbot climbs to the high seat — and 堂 names a physical space — the dharma hall. The compound describes a body moving through institutional space, not merely a person giving a talk. The ritual form is doctrinally significant: the abbot's ascent to the high seat enacts the authority of the teaching lineage, the assembly's gathering enacts the community's readiness to receive, and the exchange that follows (whether a formal address or spontaneous mondō) is framed by this ritual context as a demonstration of realized insight rather than an ordinary communication. What English renderings can lose is this embodied institutional dimension. 'Formal dharma address' sounds like a speech; jōdō is a ritual event.",
+      "doctrinal_weight": "One of the primary forms of public teaching in Chan/Zen monasticism, alongside teishō (formal commentary on a koan) and mondō (question-and-answer exchange). The Song-dynasty recorded sayings collections (語録) preserve large numbers of jōdō addresses and are among the primary sources for understanding how Chan masters actually taught. The format is more spontaneous than teishō and may include mondō with assembly members. In contemporary Japanese Zen monasteries jōdō remains part of the formal schedule, particularly during ango and sesshin."
+    },
+    {
+      "id": "sanzen",
+      "characters": "参禅",
+      "romaji_on": "sanzen",
+      "on_reading": "さんぜん",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "sanzen-going-to-zen",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["dokusan", "mondo", "menju", "zazen", "bendo"],
+      "components": [
+        { "char": "参", "meaning": "to approach, to visit for instruction — the verb of the student's initiative; the movement of going to the master" },
+        { "char": "禅", "meaning": "Zen, meditation — the school and the practice that the student approaches" }
+      ],
+      "translation_range": [
+        { "rendering": "going to Zen", "emphasis": "literal — preserves the 参 (approaching) and 禅 (Zen); slightly unusual in English" },
+        { "rendering": "private interview", "emphasis": "functional — captures the practical format when sanzen is used as a synonym for dokusan" },
+        { "rendering": "Zen study", "emphasis": "broad — captures the wider sense of approaching a master for Zen training" },
+        { "rendering": "sanzen", "emphasis": "untranslated — preferred in practice contexts" }
+      ],
+      "conceptual_remainder": "The English 'going to Zen' is an unusually transparent rendering — it says exactly what the Chinese says, which is a student going to (approaching, visiting) Zen (the master, the practice, the tradition). What the rendering can lose is the weight of the 参. In Chan/Zen vocabulary 参 is never casual: it names the student's full gesture of approach, the submission of oneself to the encounter with the teacher. When the Gateless Gate says 参禅は須らく祖師の関を透すべし (Zen study requires passing through the barrier of the patriarchs), the 参禅 names not just meditation but the whole enterprise of approaching Zen practice with the seriousness the patriarchs' barrier demands. The compound is structurally simple but doctrinally heavy — it names everything the student brings to the encounter: the initiative, the vulnerability, the readiness to be met, tested, and potentially broken by the master's response.",
+      "doctrinal_weight": "Functions both as a general term for engaging in Zen practice (approaching a master, entering training) and as a specific institutional term for the private interview with the master during sesshin. In the Gateless Gate's preface, Wumen uses 参禅 to name the entire enterprise of Zen practice: 参禅は須らく祖師の関を透すべし — 'engaging in Zen requires passing through the barrier of the patriarchs.' This usage treats 参禅 as the broadest possible term for the student's engagement with the Chan/Zen tradition, encompassing zazen, koan study, interview with the master, and the eventual breakthrough. In institutional practice, some Rinzai lineages use sanzen rather than dokusan as the primary term for the interview format, while others maintain the terminological distinction."
+    },
+    {
+      "id": "dokusan",
+      "characters": "独参",
+      "romaji_on": "dokusan",
+      "on_reading": "どくさん",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "dokusan-private-interview",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["mondo", "teisho", "menju", "denpo", "kensho"],
+      "components": [
+        { "char": "独", "meaning": "alone, privately — the qualifier that makes the encounter one-to-one, singular, and confidential" },
+        { "char": "参", "meaning": "to approach, to visit for instruction — the verb of the student's initiative in going to the master" }
+      ],
+      "translation_range": [
+        { "rendering": "private interview", "emphasis": "standard — captures the one-on-one confidential character; the universal rendering in Western Zen" },
+        { "rendering": "individual consultation", "emphasis": "formal — used in some scholarly contexts" },
+        { "rendering": "dokusan", "emphasis": "untranslated — preferred in practice contexts to preserve the institutional specificity" }
+      ],
+      "conceptual_remainder": "The English 'private interview' captures the format but can miss the doctrinal stakes. A dokusan is not a counseling session or a pedagogical consultation. It is the crucible of the koan practice: the student has been sitting with a koan for hours, days, or months, and enters the master's room to present whatever understanding has arisen. The master evaluates not the intellectual content of the response but whether the student has seen through the koan — whether the conceptual framework the koan is designed to shatter has actually broken. The evaluation is typically wordless: a bell, a gesture, a shout, or simply 'go sit again.' What English renderings can lose is the compressed intensity of the form. A dokusan lasts minutes, not hours. The student enters, prostrates, presents, receives the master's response, and leaves. The brevity is not a convenience but a feature: the koan is not something to be discussed but something to be demonstrated, and demonstration requires no elaboration.",
+      "doctrinal_weight": "The core mechanism of Rinzai koan training and the institutional form that distinguishes Rinzai pedagogy from Sōtō's shikantaza approach. The rhythm of sesshin in a Rinzai monastery is structured around dokusan: periods of intensive zazen alternate with opportunities to approach the master, and the student's progress through the koan curriculum is measured by the master's evaluations in dokusan. Formal recognition of the student's kenshō typically happens in dokusan, and the completion of the koan curriculum is certified through accumulated dokusan evaluations. Sōtō Zen uses a related but less central form, sometimes called 面山 (menzan) or simply 独参, in which the encounter is less oriented toward koan presentation and more toward general practice guidance. In Western Zen both Rinzai and Sōtō centers offer regular dokusan, though the format and function vary considerably between lineages."
+    },
+    {
+      "id": "teisho",
+      "characters": "提唱",
+      "romaji_on": "teisho",
+      "on_reading": "ていしょう",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "teisho-formal-presentation",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["mondo", "denpo", "menju", "bendo"],
+      "components": [
+        { "char": "提", "meaning": "to hold up, to present — the gesture of lifting something before the assembly for examination" },
+        { "char": "唱", "meaning": "to chant, to proclaim — the vocal act of public presentation; the teaching expressed through the master's voice" }
+      ],
+      "translation_range": [
+        { "rendering": "formal dharma talk", "emphasis": "functional — captures the institutional context; common in Western Zen centers" },
+        { "rendering": "dharma presentation", "emphasis": "interpretive — preserves the 提 (presenting) sense" },
+        { "rendering": "teishō", "emphasis": "untranslated — preferred in practice contexts to mark the distinction from ordinary lecturing" }
+      ],
+      "conceptual_remainder": "The English 'dharma talk' sounds like a lecture — an expert conveying information to an audience. This misses the doctrinal distinction that 提唱 marks. A teishō is not an explanation but a demonstration. The master is not explaining what a koan means in intellectual terms; the master is demonstrating the insight the koan points at through voice, timing, silence, gesture, and the selection of what is said and unsaid. What English renderings can lose is this performative dimension. 'Talk' in English suggests the transmission of propositional content; 提唱 is closer to a musical performance — the master enacts the teaching rather than describing it. The traditional instruction to teishō audiences in the Rinzai tradition is to listen not with the analytical mind but with the whole body — to receive the presentation as one would receive music, through resonance rather than comprehension. This instruction makes no sense if teishō is understood as a lecture; it makes perfect sense if teishō is understood as a demonstration of realized insight expressed through the medium of the voice.",
+      "doctrinal_weight": "One of the primary institutional forms of Zen teaching, alongside mondō (question-and-answer) and dokusan (private interview). In the Rinzai tradition teishō is closely associated with the formal koan curriculum: the master presents a koan with its commentaries, verse, and associated capping phrases as a unified demonstration. In the Sōtō tradition teishō has a broader range, sometimes covering doctrinal exposition of the Shōbōgenzō or other Sōtō texts. In contemporary Western Zen practice, teishō is the standard term for the formal dharma talk given during sesshin and regular practice, though the performative-demonstrative character of the traditional form is sometimes diluted into a more lecture-like format."
+    },
+    {
+      "id": "mondo",
+      "characters": "問答",
+      "romaji_on": "mondo",
+      "on_reading": "もんどう",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "mondo-dialogue",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["denpo", "menju", "busshin", "kensho", "satori"],
+      "components": [
+        { "char": "問", "meaning": "to ask, to question — the student's side of the exchange; the question that opens a conceptual frame expecting an answer within it" },
+        { "char": "答", "meaning": "to answer, to respond — the master's side; in Chan/Zen the response that characteristically refuses the frame the question opens" }
+      ],
+      "translation_range": [
+        { "rendering": "question-and-answer", "emphasis": "literal — preserves the dialogic structure; standard scholarly rendering" },
+        { "rendering": "formal dialogue", "emphasis": "interpretive — emphasizes the institutional context within which mondō takes place" },
+        { "rendering": "Zen dialogue", "emphasis": "loose — identifies the form with the school; risks suggesting that all Zen teaching is dialogic" },
+        { "rendering": "mondō", "emphasis": "untranslated — preserves the technical specificity; standard in Zen practice contexts" }
+      ],
+      "conceptual_remainder": "The English 'question-and-answer' tends to suggest a symmetrical exchange: a question is posed, an answer is given, information is transmitted. Chan/Zen mondō is structurally asymmetrical. The student's question opens a conceptual frame — 'what is the Way?', 'what is Buddha?', 'what is the meaning of Bodhidharma's coming from the West?' — and expects a response within that frame. The master's answer characteristically refuses the frame: Zhaozhou says 'the cypress tree in the garden,' Mazu says 'this very mind is Buddha,' Nanquan says 'ordinary mind is the Way.' The pedagogical function is not to transmit the content of the answer but to occasion the student's seeing-through of the framework in which the question made sense. What English renderings can lose is precisely this asymmetry. 'Question-and-answer' in English sounds like a format for conveying information; in Chan/Zen it is a format for breaking through the conceptual structure that makes information seem like what is needed. The best mondō exchanges in the koan literature are precisely the ones in which the answer has no informational content at all — and the student who tries to extract a lesson from the answer has already missed what the master was doing.",
+      "doctrinal_weight": "The primary pedagogical form of Chan/Zen, underlying the entire koan literature. The Gateless Gate, the Blue Cliff Record, and the Book of Serenity are composed almost entirely of recorded mondō exchanges with verse and prose commentary. The form is distinctive within Buddhist literature — earlier Buddhist traditions used dialogue as a vehicle for doctrinal exposition (the Buddha answers a student's question with a teaching), while Chan mondō uses dialogue as a vehicle for breaking through conceptual frameworks rather than building them. Mondō also takes institutional form as a formal practice: in jōdō (ascending the hall) ceremonies, the abbot engages in spontaneous mondō with members of the assembly, and in hossenshiki (dharma combat ceremony), the shuso engages in mondō with assembled questioners. In both cases the mondō is understood as a public demonstration of realized insight rather than an exchange of information."
+    },
+    {
+      "id": "menju",
+      "characters": "面授",
+      "romaji_on": "menju",
+      "on_reading": "めんじゅ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "menju-face-to-face",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["denpo", "busshin", "kensho", "bendo"],
+      "components": [
+        { "char": "面", "meaning": "face — the directness of physical co-presence; here the qualifier that makes the transmission personal and unmediated" },
+        { "char": "授", "meaning": "to grant, to bestow — the formal act of conferring; here the master's side of the transaction" }
+      ],
+      "translation_range": [
+        { "rendering": "face-to-face transmission", "emphasis": "standard — the universal rendering in scholarly and practice contexts" },
+        { "rendering": "direct personal transmission", "emphasis": "interpretive — clarifies what 'face-to-face' implies without the literal body reference" },
+        { "rendering": "intimate transmission", "emphasis": "older — captures the closeness of the encounter but can sound sentimental in English" }
+      ],
+      "conceptual_remainder": "The English 'face-to-face transmission' captures the physical dimension but can miss the doctrinal claim embedded in it. Dōgen's insistence on 面授 is not merely an institutional preference for in-person encounters over textual or visionary ones. It is a claim about the structure of what is transmitted: the awakened mind can only be recognized by another awakened mind in the living encounter between two embodied persons. Texts can transmit information; dreams can transmit impressions; but the recognition that constitutes dharma succession requires the full presence of master and disciple, face to face, in the same room at the same time. What English renderings can lose is the necessity that Dōgen is asserting. 'Face-to-face' in English sounds like one option among several — a preferred mode of communication. In Dōgen's usage it is the only legitimate mode. The Shōbōgenzō 'Menju' fascicle argues at length that any school that claims transmission without face-to-face encounter is mistaken about what transmission is.",
+      "doctrinal_weight": "Subject of a Shōbōgenzō fascicle and one of Dōgen's most characteristic doctrinal insistences. The emphasis on face-to-face encounter shapes the entire institutional structure of Sōtō Zen: the relationship between master and disciple is the primary unit of the school, and the lineage chart (血脈, kechimyaku) traces the succession of these face-to-face encounters from Śākyamuni to the present. Dōgen's claim that he received authentic face-to-face transmission from Tiantong Rujing in China is the foundational legitimating assertion of the Sōtō school in Japan. The concept also has practical implications for how transmission is understood in contemporary Western Zen, where the question of what constitutes authentic face-to-face encounter (and whether long-distance or digital interactions can serve as substitutes) has become a topic of ongoing institutional debate."
+    },
+    {
+      "id": "denpo",
+      "characters": "伝法",
+      "romaji_on": "denpo",
+      "on_reading": "でんぽう",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "dharma-transmission",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["busshin", "bussho", "kensho", "satori", "bendo"],
+      "components": [
+        { "char": "伝", "meaning": "to transmit, to pass on — the verb of lineage; one person giving to another what can only be given person-to-person" },
+        { "char": "法", "meaning": "dharma — the Buddha's teaching, here understood not as doctrine but as the awakened mind itself, passed from master to disciple" }
+      ],
+      "translation_range": [
+        { "rendering": "dharma transmission", "emphasis": "standard — the universal scholarly and practice rendering" },
+        { "rendering": "transmission of the teaching", "emphasis": "expansive — clarifies what dharma means in context, but risks reducing the transmission to doctrinal content" },
+        { "rendering": "lineage transmission", "emphasis": "institutional — emphasizes the lineage function over the doctrinal content" }
+      ],
+      "conceptual_remainder": "The standard English 'dharma transmission' is so universally used in Western Zen that its doctrinal content can be taken for granted. But the compound is making a very specific claim: what is transmitted from master to disciple is not a body of knowledge, not a technique, not even an experience, but the awakened mind itself, recognized in the disciple by the master's formal acknowledgment. The 法 in 伝法 is not dharma-as-teaching but dharma-as-reality — the actual way things are, the awakened functioning of mind, recognized in one person by another who has already been recognized in the same way. The lineage that results — Śākyamuni to Mahākāśyapa to Ānanda through the Indian and Chinese patriarchs to the present teacher — is not primarily a historical succession of people who happened to teach but a structural chain of recognition: each link is a moment at which one awakened mind recognizes another. What English renderings can lose is this structural character. 'Dharma transmission' in English easily sounds like 'teaching transmission' — the passing on of information or technique — while the Chan/Zen claim is that what is transmitted has no informational content at all. The transmission is the recognition, and the recognition is what constitutes the lineage.",
+      "doctrinal_weight": "The institutional mechanism that constitutes Chan/Zen as a distinct Buddhist school. Without 伝法, there is no lineage, and without lineage, there is (in the Chan/Zen self-understanding) no authentic teaching. The lineage charts (血脈, kechimyaku) that trace the succession from Śākyamuni to the present teacher are among the most important institutional documents in a Zen temple. Dōgen's insistence on the authenticity of his own lineage — received from Tiantong Rujing in China — is a foundational claim of Sōtō Zen, and disputes about the authenticity of transmission have shaped the institutional history of Japanese Zen from the Kamakura period to the present. The institution has also been one of the most criticized aspects of contemporary Zen, with scholars and practitioners questioning whether institutional transmission always corresponds to authentic realization."
+    },
+    {
+      "id": "hotsu-bodaishin",
+      "characters": "発菩提心",
+      "romaji_on": "hotsu bodaishin",
+      "on_reading": "ほつぼだいしん",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "bodhicitta",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["bodai", "satori", "bendo", "gyoji", "do"],
+      "components": [
+        { "char": "発", "meaning": "to emit, to arise, to arouse — the verb of inception; the first moment at which the aspiration goes forth" },
+        { "char": "菩", "meaning": "phonetic loan for Sanskrit bo- (from bodhi)" },
+        { "char": "提", "meaning": "phonetic complement for Sanskrit -dhi; together with 菩 forms 菩提 (bodai, bodhi, awakening)" },
+        { "char": "心", "meaning": "heart-mind — the cognitive-affective organ; here the mind that first turns toward awakening" }
+      ],
+      "translation_range": [
+        { "rendering": "arousing the mind of awakening", "emphasis": "literal — preserves the verbal force of 発 and the compound structure; standard scholarly rendering" },
+        { "rendering": "generating bodhicitta", "emphasis": "hybrid — uses the Sanskrit bodhicitta alongside an English verb; common in Mahāyāna scholarly contexts" },
+        { "rendering": "aspiring to awakening", "emphasis": "loose — captures the sense of aspiration but loses the specific claim about the mind turning" }
+      ],
+      "conceptual_remainder": "The English 'arousing the mind of awakening' is structurally accurate but tends to be heard as an act of will — the practitioner decides to seek awakening. The doctrinal tradition is more careful. The 発 names an arising rather than a manufacturing: the aspiration arises in the practitioner, and the practitioner participates in its arising, but the aspiration is not produced by the practitioner's effort alone. The Mahāyāna tradition treats the arising of bodhicitta as one of the most significant events in the entire arc of a being's existence — the turning point at which the long accumulation of conditions finally produces the aspiration to benefit all beings. Dōgen's treatment in the Shōbōgenzō 'Hotsu Bodaishin' fascicle goes further: the aspiration to awaken is already itself an expression of the awakening it seeks. The mind that arouses bodhicitta is already, in that moment, functioning as the awakened mind — because only an awakened mind would seek awakening for the benefit of others rather than for itself. This is consistent with Dōgen's broader position that practice is not a means to awakening but its expression.",
+      "doctrinal_weight": "Foundational to the entire Mahāyāna Buddhist path and strongly emphasized by Dōgen. The arising of bodhicitta is the moment at which the ordinary person's spiritual trajectory shifts from the accumulation of merit for personal benefit to the bodhisattva path of seeking awakening for the benefit of all sentient beings. All Mahāyāna vows and practices presuppose 発菩提心 as their ground. Dōgen devotes a Shōbōgenzō fascicle to the topic and treats it as the essential first step of practice — not a preliminary one-time event but the ongoing motivational ground that sustains 行持 (continuous practice) across the practitioner's entire life."
+    },
+    {
+      "id": "bendo",
+      "characters": "弁道",
+      "romaji_on": "bendo",
+      "on_reading": "べんどう",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "bendo-negotiating-way",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["do", "zazen", "gyoji", "shikantaza"],
+      "components": [
+        { "char": "弁", "meaning": "to exert oneself, to negotiate — the verb of wholehearted engagement; practice as throwing oneself into the work rather than following instructions" },
+        { "char": "道", "meaning": "the Way — the cosmic ordering principle, the moral path, and the Buddhist mārga, all carried in a single character; here the counterpart to the practitioner's exertion" }
+      ],
+      "translation_range": [
+        { "rendering": "negotiating the Way", "emphasis": "literal — preserves the active, dialogical sense of 弁; the Way is engaged with, not merely followed" },
+        { "rendering": "wholehearted engagement in the Way", "emphasis": "expansive — clarifies what 弁 is doing without the formal English connotations of 'negotiation'" },
+        { "rendering": "practicing the Way", "emphasis": "loose — collapses 弁 into the generic vocabulary of practice; loses the distinctive emphasis on active exertion and engagement" }
+      ],
+      "conceptual_remainder": "The English 'practicing the Way' collapses something that the Chinese-Japanese preserves: the difference between following a path and engaging with a counterpart. 弁道 names the latter. The 弁 implies a dialogical relationship between the practitioner and the Way — the Way responds to the practitioner's exertion, and the practitioner is transformed by the Way's response. This is closer to 'negotiation' than to 'practice' in the English sense, though the English word 'negotiation' carries connotations of compromise and deal-making that are foreign to the Buddhist context. What English renderings struggle to carry is the precise balance between effort and receptivity that 弁道 names: the practitioner exerts themselves fully, but the exertion is not the production of a result — it is the engagement with a Way that has its own movement and responds to the engagement in its own way. The Bendōwa essay bears this out: Dōgen describes zazen not as something the practitioner does to the Way but as the Way doing itself through the practitioner's participation.",
+      "doctrinal_weight": "Title of Dōgen's foundational essay 弁道話 (Bendōwa, 'A Talk on Negotiating the Way'), the text in which he introduces all of his major doctrinal categories to a Japanese audience for the first time: the oneness of practice and realization, the self-receiving samādhi of zazen, the universality of shikantaza, the priority of the meditation school's teaching over other Buddhist approaches. The essay is structured as a dialogue between a questioner and Dōgen and addresses fundamental questions about the nature and necessity of Zen practice. It is essential reading for any serious engagement with Sōtō Zen doctrine and the primary text through which the rest of the Shōbōgenzō is to be read."
+    },
+    {
+      "id": "gyoji",
+      "characters": "行持",
+      "romaji_on": "gyoji",
+      "on_reading": "ぎょうじ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "gyoji-continuous-practice",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["zazen", "shikantaza", "do", "jijuyu-zanmai"],
+      "components": [
+        { "char": "行", "meaning": "practice, activity, going — the directed activity that constitutes the Buddhist path" },
+        { "char": "持", "meaning": "to sustain, to uphold, to maintain — the temporal continuity that qualifies the practice as unbroken" }
+      ],
+      "translation_range": [
+        { "rendering": "continuous practice", "emphasis": "standard — captures the temporal emphasis of 持; used across scholarly and practice contexts" },
+        { "rendering": "sustained practice", "emphasis": "alternative — emphasizes the effort of sustaining rather than the unbroken continuity" },
+        { "rendering": "the ongoing activity of the Way", "emphasis": "interpretive — reads 行持 through Dōgen's framework, in which the activity belongs to the Way rather than to the practitioner" }
+      ],
+      "conceptual_remainder": "The English 'continuous practice' captures the temporal emphasis of 行持 but can mislead in two ways. First, it can suggest that the practitioner's effort must be unbroken — that any interruption or lapse constitutes a failure of 行持. This is not the doctrinal claim. Dōgen's reading of 行持 treats the continuity as belonging to the Way rather than to the practitioner's effort: the Way's activity sustains itself through the practitioner, across lapses and interruptions, and the practitioner's part is to participate in rather than to generate the continuity. Second, 'continuous practice' can suggest an intensified version of ordinary practice — more hours, more sessions, more sustained attention. This too misses the doctrinal point. The continuity of 行持 is structural, not quantitative: it names the fact that the practice-realization relationship is never interrupted because it is never established in the first place as a temporal sequence with a beginning and an end. Reading 行持 through the related concept of 行持道環 (the circle of the Way in continuous practice), the continuity is circular rather than linear — practice sustains realization, realization sustains practice, and neither precedes or follows the other.",
+      "doctrinal_weight": "Subject of a major two-part Shōbōgenzō fascicle in which Dōgen surveys the continuous practice of the buddhas and patriarchs across generations. The fascicle is one of Dōgen's most expansive and historically oriented writings, moving through Śākyamuni, Bodhidharma, Huineng, and the great Tang and Song masters to trace the unbroken lineage of 行持. The doctrinal point is that the continuity of practice across the generations is not merely historical — a succession of people who happened to practice — but structural: the practice sustains itself through the practitioners who participate in it, and the lineage is the visible form of this self-sustaining activity. The compound is inseparable from the related concept of 行持道環 (gyōji dōkan, the circle of the Way in continuous practice), which figures the practice-realization relationship as a self-sustaining circle."
+    },
+    {
+      "id": "jijuyu-zanmai",
+      "characters": "自受用三昧",
+      "romaji_on": "jijuyu zanmai",
+      "on_reading": "じじゅゆうざんまい",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "jijuyu-zanmai-concept",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["zazen", "shikantaza", "zanmai", "kokoro"],
+      "components": [
+        { "char": "自", "meaning": "self, own — the marker that the receiving and employing happen by and for the practice itself, not from any external source" },
+        { "char": "受", "meaning": "to receive — the verb of accepting; here applied to the samādhi that receives itself" },
+        { "char": "用", "meaning": "to use, to employ — the verb of putting into action; here applied to the samādhi that employs itself" },
+        { "char": "三", "meaning": "phonetic loan for Sanskrit sa- — first character of the transliterated samādhi" },
+        { "char": "昧", "meaning": "phonetic loan for Sanskrit -mā(dhi) — second character of the transliterated samādhi" }
+      ],
+      "translation_range": [
+        { "rendering": "self-receiving and self-employing samādhi", "emphasis": "literal — preserves both verbs and the transliterated samādhi; standard scholarly rendering" },
+        { "rendering": "self-fulfilling samādhi", "emphasis": "interpretive — captures the sense that the samādhi is complete in itself without invoking the technical terminology" },
+        { "rendering": "self-authenticating samādhi", "emphasis": "interpretive — emphasizes that the samādhi requires no external verification" }
+      ],
+      "conceptual_remainder": "Jijuyū zanmai is one of Dōgen's most precise doctrinal formulations and one of the hardest to render into English without losing its grammatical structure. The compound 自受 (self-receiving) and the implied 自用 (self-employing) work as a pair that describes a closed loop: the samādhi receives itself from itself and employs itself in itself, with no external giver and no external purpose. What English renderings struggle to carry is the precise refusal of two ordinary framings at once. First, the samādhi is not received from outside: not from the meditation object, not from the teacher, not from a future state of awakening to be reached. The samādhi gives itself. Second, the samādhi is not employed for some further purpose: not as a tool for cultivating wisdom, not as a stage on a graduated path. The samādhi is its own employment. Together these two refusals describe a practice that is complete in itself, requiring no support from outside and serving no goal beyond itself. The doctrinal stake is precisely the same as 修証一等 (oneness of practice and realization): if practice is the activity of awakening rather than a means to it, then the samādhi of practice cannot be located in the framework of means and ends. Reading the formulation in Bendōwa, Dōgen is careful to insist that this self-sufficiency does not make practice solipsistic or disconnected from the world — the self that the samādhi receives from is not the egoic self but the awakened functioning that is itself the field in which all beings appear.",
+      "doctrinal_weight": "One of the most distinctive Sōtō doctrinal formulations and a key term for understanding what Dōgen means by zazen. The Bendōwa essay introduces the term and uses it to specify what kind of samādhi zazen is: not a graduated meditative attainment in a hierarchy of states, not an instrument for cultivating wisdom, but a samādhi complete in itself that is the very activity of awakening. The formulation is doctrinally inseparable from 修証一等 (the oneness of practice and realization) — the two terms describe the same Sōtō position from different angles, one through the structure of practice and realization, the other through the structure of samādhi as self-receiving. The compound is rarely encountered outside Sōtō doctrinal contexts and is one of the marks of a careful Dōgen reader."
+    },
+    {
+      "id": "ango",
+      "characters": "安居",
+      "romaji_on": "ango",
+      "on_reading": "あんご",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "varsha-rain-retreat",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["zazen", "shikantaza", "sesshin", "kinhin"],
+      "components": [
+        { "char": "安", "meaning": "peace, settled, at ease — the qualifier of the dwelling, naming the mode of residence the practice period institutes" },
+        { "char": "居", "meaning": "to dwell, to reside — the verb of being-in-place; the period is a sustained dwelling, not a passive interval" }
+      ],
+      "translation_range": [
+        { "rendering": "rain retreat", "emphasis": "historical — preserves the connection to the Indian Buddhist varṣā; standard in scholarly contexts" },
+        { "rendering": "practice period", "emphasis": "functional — captures the contemporary monastic usage where the seasonal connection has weakened" },
+        { "rendering": "dwelling in peace", "emphasis": "literal — preserves the character meanings; less common in practice contexts" },
+        { "rendering": "ango", "emphasis": "untranslated — preferred in Zen practice contexts" }
+      ],
+      "conceptual_remainder": "The English 'rain retreat' carries useful historical information — the Indian Buddhist origin in the monsoon — but in contemporary East Asian and Japanese monastic usage the seasonal connection has weakened or vanished. Japanese ango periods are scheduled by the institutional calendar, not by weather. What persists is not the meteorological occasion but the institutional shape: a period (typically 90 days, though contemporary practice often shortens this) during which a monastic community commits to sustained communal practice, with specific ceremonial markers like the appointment of the shuso (head student) at the start and the hossenshiki (dharma combat ceremony) at the conclusion. What English renderings can lose is precisely this institutional density. 'Rain retreat' in English suggests a period of waiting out the weather; 'practice period' is functional but loses the weight of the institutional structure. The Japanese term carries both: the historical depth of the Indian institution and the present institutional form of Japanese monastic life. The doctrinal point of ango is that sustained practice requires sustained community: the gathering of practitioners under one roof for an extended period institutes conditions that no individual practice schedule can replicate.",
+      "doctrinal_weight": "One of the oldest continuously observed institutions of Buddhist monasticism, dating to the Indian Buddhist origin of the rains retreat. Throughout the East Asian Buddhist world, ango remains the principal institutional occasion for sustained communal practice and is the context in which several other key practices and roles take their meaning: the shuso (首座, head student for the practice period), the hossenshiki (法戦式, dharma combat ceremony at the period's conclusion), and the formal sesshin retreats that often punctuate the longer ango. In contemporary Japanese Zen monasticism, ango is the framework within which monastic life is organized into discrete cycles of intensive practice and lighter preparation periods. Western Zen centers have adopted ango as the institutional shape of their longer training periods, often scheduled to fit Western practitioners' availability rather than the traditional 90 days."
+    },
+    {
+      "id": "zanmai",
+      "characters": "三昧",
+      "romaji_on": "zanmai",
+      "on_reading": "ざんまい",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "samadhi",
+      "transmission_wave": "first-wave",
+      "neighbor_ids": ["zazen", "shikantaza", "sesshin", "kokoro", "mushin"],
+      "components": [
+        { "char": "三", "meaning": "phonetic loan for Sanskrit sa- — does not contribute its numerical meaning of 'three' to the compound" },
+        { "char": "昧", "meaning": "phonetic loan for Sanskrit -mā(dhi) — does not contribute its semantic meaning of 'dim, obscure' to the compound" }
+      ],
+      "translation_range": [
+        { "rendering": "samādhi", "emphasis": "Sanskrit retained — standard in scholarly contexts; preserves the technical specificity" },
+        { "rendering": "meditative absorption", "emphasis": "interpretive — captures the technical sense in idiomatic English" },
+        { "rendering": "concentration", "emphasis": "loose — risks suggesting effortful focus, which is not what samādhi names" },
+        { "rendering": "complete absorption", "emphasis": "in non-meditative contexts — the colloquial Japanese sense of zanmai as being totally absorbed in something (e.g., 読書三昧, dokusho zanmai, being absorbed in reading)" }
+      ],
+      "conceptual_remainder": "The Sanskrit samādhi names a unified mode of attention in which mind and object converge into a single field — not the focusing of attention on an object, but the dissolution of the distance between attention and what it attends to. What English renderings can lose is precisely this collapse of the subject-object structure. 'Concentration' in English implies effortful focus by a subject onto an object, which is not what samādhi names. 'Absorption' is closer but tends to suggest losing oneself in something, which still preserves the dual structure (the self that is lost, the something it is lost in). The technical Sanskrit and Buddhist usage is closer to: a mode of awareness in which the discriminating activity that constructs subject and object has stopped, and what remains is a single unified field of presence. In Chan/Zen contexts, samādhi is sometimes characterized not as a special state to be achieved through gradualist progress but as the natural mode of awareness that becomes available when grasping ceases — closer to mushin (no-mind) than to a technical attainment in a hierarchy of meditative stages. The Japanese colloquial usage of zanmai for non-meditative absorption (読書三昧, being absorbed in reading; 旅行三昧, being absorbed in travel) preserves this informal sense and reflects the term's escape from strictly technical meditative contexts into the broader vocabulary of total engagement.",
+      "doctrinal_weight": "One of the three pillars of the early Buddhist path (śīla-samādhi-prajñā, ethics-concentration-wisdom) and one of the foundational categories of Buddhist meditation psychology across all schools. In Abhidharma analysis, samādhi is classified into multiple types and stages — the four jhānas of form-meditation, the four arūpa-jhānas of formless meditation, and the various special samādhis named in particular sutras. Mahāyāna scriptures dramatically expand the catalog: the Lotus Sutra describes the Buddha entering the 'samādhi of infinite meanings,' the Avataṃsaka Sutra describes the 'ocean-seal samādhi,' and so on. In Chan/Zen, the catalog is largely set aside in favor of the more direct framing of samādhi as the natural mode of awakened functioning. Dōgen's term 自受用三昧 (jijuyū zanmai, self-receiving and self-employing samādhi) is his name for zazen as a self-fulfilling, self-authenticating meditative activity — and the use of 三昧 in the compound shows how the Sanskrit term remains in active doctrinal use even in the school most committed to non-gradualist framings of practice."
+    },
+    {
+      "id": "sesshin",
+      "characters": "摂心",
+      "romaji_on": "sesshin",
+      "on_reading": "せっしん",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "sesshin-retreat",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["zazen", "shikantaza", "kinhin", "kokoro"],
+      "components": [
+        { "char": "摂", "meaning": "to gather, to draw in — the verb of gathering scattered things into unity; here the action of drawing the mind into singleness" },
+        { "char": "心", "meaning": "heart-mind — the cognitive-affective organ being gathered; the same mind that 平常心是道 names as already the Way, here brought into the sustained attention required by intensive practice" }
+      ],
+      "translation_range": [
+        { "rendering": "intensive retreat", "emphasis": "descriptive — captures the institutional form without rendering the literal characters; common in popular usage" },
+        { "rendering": "gathering the mind", "emphasis": "literal — preserves the verbal force of 摂; less common but doctrinally precise" },
+        { "rendering": "sesshin", "emphasis": "untranslated — preferred in Zen practice contexts to preserve the institutional specificity" }
+      ],
+      "conceptual_remainder": "The English 'intensive retreat' captures the institutional shape of sesshin but loses the precise grammatical work the characters do. 摂心 is verbal in structure: the practice is the gathering of the mind, not a place where the gathered mind is housed or a duration during which gathering happens. What is doing the gathering is not the practitioner's effortful focus but the convergence of all the conditions of monastic life onto a single direction. The schedule, the silence, the tight ritual structure, the absence of casual conversation, the reduction of sleep, the regulation of meals — all of these together do the work of 摂. The practitioner's part is to allow the conditions to do their work, not to add their own grasping effort to what the structure already accomplishes. What English renderings can lose is precisely this externalization of the gathering. 'Gathering the mind' in English easily slides toward suggesting that the practitioner is gathering their own scattered attention through effortful focus, while in the institutional usage 摂心 names what the retreat itself does to the participant who allows it to. The doctrinal stake is significant: if the gathering were primarily the practitioner's effort, sesshin would be a technique of attentional discipline; in the actual usage it is closer to a structured environment in which the practitioner's ordinary scattering is interrupted from outside.",
+      "doctrinal_weight": "Central to the institutional life of all Japanese Zen monasteries and to most Western Zen centers. The traditional sesshin schedule is intensive: typically five to seven days of zazen periods of 30–50 minutes each, separated by brief kinhin and meal periods, with formal silence maintained throughout. Both Rinzai and Sōtō practice sesshin, though the schedules differ in detail. In Rinzai sesshin, the intensification is closely linked to koan practice: the conditions of the retreat are designed to drive the practitioner to the point at which the koan can do its work. In Sōtō sesshin, the intensification supports shikantaza: the conditions converge on allowing the practice to be exactly what it is without the distractions that ordinary life imposes. Sesshin is not a Western invention or a contemporary adaptation; it has been the principal occasion for intensive practice in Chan/Zen monasticism for many centuries."
+    },
+    {
+      "id": "kinhin",
+      "characters": "経行",
+      "romaji_on": "kinhin",
+      "on_reading": "きんひん",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "kinhin-walking-meditation",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["zazen", "shikantaza", "do", "kokoro"],
+      "components": [
+        { "char": "経", "meaning": "to pass through, to traverse — the verbal sense of the character that elsewhere names sutras as the threading of doctrine; here naming the sustained passage of walking meditation" },
+        { "char": "行", "meaning": "walking, going, practice — the action of walking that is the form of the practice, with the doctrinal weight of 'practice' in the background" }
+      ],
+      "translation_range": [
+        { "rendering": "walking meditation", "emphasis": "literal — the standard rendering, used in scholarly and practice contexts" },
+        { "rendering": "mindful walking", "emphasis": "interpretive — risks importing the technical 'mindfulness' vocabulary of contemporary Western Buddhism" },
+        { "rendering": "kinhin", "emphasis": "untranslated — preferred in Zen practice contexts" }
+      ],
+      "conceptual_remainder": "The doctrinal point of kinhin is easy to miss when it is described as a break or transition between periods of zazen. In some practical accounts kinhin sounds like a stretch break — necessary for the body but not itself the practice. This is exactly what the term refuses. Kinhin is the practice continued in a different physical form. The same quality of embodied attention that characterizes zazen carries through into the activity of walking, and the walking is engaged with the same care: slow, deliberate, fully embodied, with no admixture of any other goal. What English renderings can lose is precisely this continuity. 'Walking meditation' in English easily slides toward suggesting that one meditates while walking — an attentive walk — when the technical claim is closer to: walking as the form the practice takes when seated meditation is interrupted for physical reasons. The activity is not mind-meditating-while-body-walks but the whole embodied person walking with the same mode of presence that the same person sits with. The Sōtō principle of practice-realization unity (修証一等) extends naturally to kinhin: the walking is not preparing for or alternating with practice but is itself the activity of practice in walking form.",
+      "doctrinal_weight": "Integral to the daily schedule of Chan/Zen monastic practice from at least the Tang period onward. The practice is described in the Chanyuan Qinggui (禪苑清規, the early Chan monastic code) and is preserved in the rules of Japanese Zen monasteries. Both Rinzai and Sōtō practice kinhin between periods of zazen, though the pace and form differ slightly between schools (Rinzai kinhin tends to be faster, Sōtō slower). In contemporary Western Zen practice, kinhin is sometimes treated as primarily ergonomic — a way to relieve the body between long sitting periods — but the traditional understanding treats it as continuous with zazen rather than as relief from it."
+    },
+    {
+      "id": "shikantaza",
+      "characters": "只管打坐",
+      "romaji_on": "shikantaza",
+      "on_reading": "しかんたざ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "shikantaza-concept",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["zazen", "do", "kokoro", "satori", "mushin"],
+      "components": [
+        { "char": "只", "meaning": "only, just — the restrictive particle that refuses any addition to the bare activity; doctrinally crucial in the formula" },
+        { "char": "管", "meaning": "single channel, exclusively — pairs with 只 to intensify the restrictive force from 'only' to 'wholly'" },
+        { "char": "打", "meaning": "to do, to perform — turns 'sit' into 'do sitting,' marking the act as actively performed rather than passively undergone" },
+        { "char": "坐", "meaning": "to sit — the act of sitting that is the entire content of the practice" }
+      ],
+      "translation_range": [
+        { "rendering": "just sitting", "emphasis": "literal — preserves the restrictive force of 只管 and the verbal structure of 打坐; standard scholarly and practice rendering" },
+        { "rendering": "wholehearted sitting", "emphasis": "interpretive — captures the single-mindedness of 只管 in more idiomatic English" },
+        { "rendering": "objectless meditation", "emphasis": "descriptive — clarifies what is being refused (objects to focus on) without invoking the literal sitting; risks losing the embodied specificity" },
+        { "rendering": "shikantaza", "emphasis": "untranslated — preferred in Sōtō practice contexts to preserve the term's technical specificity" }
+      ],
+      "conceptual_remainder": "Shikantaza is the practice that English most consistently misreads. The two most common misreadings — 'sitting and doing nothing' and 'mindful sitting' — both import precisely the goal-orientation that the formula 只管 is meant to refuse. Sitting and doing nothing makes shikantaza into a passive state to be achieved; mindful sitting makes it into a technique of attention applied to the act of sitting. Neither captures what Dōgen actually means. The 只管 (just, single-mindedly) is doing dialectical work: it refuses both the addition of any technique to the bare sitting and the inference that the sitting is therefore aimless or without content. The sitting is the content. There is nothing further. The 打 (do) prevents the formula from being read as advocating mere physical posture: shikantaza is something one does, an active engagement, not a position one passively assumes. What English renderings cannot easily carry is the precise grammatical interplay of all four characters. 'Just sitting' in English is structurally accurate but tends to flatten into one of the two misreadings on its own. Reading shikantaza correctly requires holding all four moments together: the singularity (只), the exclusivity (管), the activity (打), and the sitting (坐). When all four are present, the practice is what Dōgen says it is: the activity of awakening expressed in the form of sitting, with no further goal because awakening is not a future state but the very activity practice consists in.",
+      "doctrinal_weight": "The signature practice and doctrinal commitment of Sōtō Zen, distinguishing the school sharply from Rinzai's koan-centered practice. The doctrinal frame is Dōgen's principle of the oneness of practice and realization (修証一等): if practice is itself the manifestation of awakening rather than a means to it, then any technique that treats practice as instrumental — pointing it at some further goal — already misses the point. Shikantaza is the practice that holds the principle in its purest form: just sit, because the sitting is itself the activity of the awakening that any other practice would be aiming at. The Fukanzazengi is the foundational instruction text; the Bendōwa essay provides the doctrinal exposition. Shikantaza has been the subject of considerable cross-school debate within Japanese Zen: Rinzai partisans have sometimes characterized it as quietist or as a form of subtle gradualism, while Sōtō partisans have responded that any practice aimed at a further goal already misses the structural unity of practice and realization. The debate continues into the contemporary period and shapes the practical pedagogy of both lineages.",
+      "false_friends": [
+        { "char": "黙照禅", "language": "Japanese/Chinese", "divergence": "黙照禅 (mokushō zen, silent illumination Zen) is the related Caodong/Sōtō practice traced to Hongzhi Zhengjue. The two terms overlap heavily — both name objectless meditation in the Caodong/Sōtō lineage — but the emphases differ slightly. 黙照 emphasizes the silent and luminous quality of the awareness; 只管打坐 emphasizes the active doing of the sitting. Read together, they describe the same practice from complementary angles." },
+        { "char": "看話禅", "language": "Japanese/Chinese", "divergence": "看話禅 (kanna zen, koan-introspecting Zen) is the structural opposite of shikantaza in Chan/Zen pedagogy. Kanna zen uses the koan as the focal object of meditation; shikantaza refuses any focal object. The two practices have generated centuries of inter-school debate about which is more authentic to the Chan/Zen tradition." }
+      ]
+    },
+    {
+      "id": "zazen",
+      "characters": "坐禅",
+      "romaji_on": "zazen",
+      "on_reading": "ざぜん",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "dhyana",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["do", "kokoro", "mushin", "satori", "kensho"],
+      "components": [
+        { "char": "坐", "meaning": "to sit — the verb of the act of sitting; in zazen the entire physical activity of the practice, taken with full literalness in Sōtō" },
+        { "char": "禅", "meaning": "meditation, dhyāna — the focused absorption that the school takes its name from and that the act of sitting is the form of" }
+      ],
+      "translation_range": [
+        { "rendering": "seated meditation", "emphasis": "literal — the standard scholarly rendering, preserves both characters' force" },
+        { "rendering": "sitting meditation", "emphasis": "verbal — slightly more emphatic on the act of sitting; common in practice instruction contexts" },
+        { "rendering": "Zen meditation", "emphasis": "loose — collapses the practice into the school's name; misses the doctrinal point that 坐 and 禅 are doing distinct work" },
+        { "rendering": "zazen", "emphasis": "untranslated — preserves the technical specificity; standard in Western Zen literature" }
+      ],
+      "conceptual_remainder": "The English 'seated meditation' is structurally accurate but tends to flatten the doctrinal distinctiveness of zazen as a particular kind of meditative practice. Most Buddhist meditation traditions involve sitting; what distinguishes zazen is not the posture but the way the posture is treated. In the Chan/Zen tradition — and especially in Dōgen's Sōtō articulation — zazen is not the mind doing something while the body sits still. It is the entire embodied activity of sitting in a particular way, and the activity is itself the practice rather than a vehicle for practice. The body is not a passive container for the mental work; the alignment of the spine, the position of the legs, the placement of the hands, the orientation of the gaze, the regulation of the breath — all of these are integral to what zazen is. What English renderings can lose is precisely this radical priority of the embodied act. Dōgen's Fukanzazengi treats the postural details with almost obsessive precision because the practice is the posture in action, not a mental discipline that the posture supports. The Sōtō claim that practice and realization are one (修証一等) flows from this understanding: zazen does not lead to awakening because zazen is itself the activity of awakening, the embodied form that the awakened mind takes when it sits.",
+      "doctrinal_weight": "The central practice of all Chan/Zen lineages and the activity around which the entire school is organized. The school's name (禅宗, the meditation school) takes its identity from this practice. Within the broader Chan/Zen tradition, the relationship between zazen and other practices — koan study, sutra recitation, manual labor, ritual — has been the subject of doctrinal differentiation between schools. Rinzai integrates zazen with koan practice, treating sitting as the medium in which the koan is engaged. Sōtō, following Dōgen, treats zazen as the central activity that requires no further supplement: shikantaza (just sitting) is the full and sufficient practice. Both lineages agree on the centrality of zazen; they differ on what zazen is doing. The Fukanzazengi (Universal Recommendation of Zazen) is Dōgen's foundational essay on the practice and the basic text of Sōtō zazen instruction; the Rinzai tradition uses different instructional texts but treats zazen with equivalent centrality."
+    },
+    {
+      "id": "mujo-bussho",
+      "characters": "無常仏性",
+      "romaji_on": "mujo bussho",
+      "on_reading": "むじょうぶっしょう",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "mujo-bussho",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["bussho", "hongaku", "shinnyo", "hossho"],
+      "components": [
+        { "char": "無", "meaning": "no, without — here the negation that combines with 常 to form 無常 (impermanence)" },
+        { "char": "常", "meaning": "constant, always — here negated by 無 to form 'not-constant,' impermanence" },
+        { "char": "仏", "meaning": "Buddha — the awakened one; here qualifying 性 to name the kind of nature in question" },
+        { "char": "性", "meaning": "nature, inherent character — here paired with 仏 to name Buddha-nature, identified by Dōgen with impermanence itself" }
+      ],
+      "translation_range": [
+        { "rendering": "impermanence is Buddha-nature", "emphasis": "literal — preserves Dōgen's syntactic identification; standard scholarly rendering" },
+        { "rendering": "impermanence-Buddha-nature", "emphasis": "compact — preserves the four-character compactness as a single hyphenated unit; foregrounds that this is a single concept rather than a sentence" },
+        { "rendering": "the Buddha-nature of impermanence", "emphasis": "loose — softens the identity to a possessive relation; loses Dōgen's doctrinal point" }
+      ],
+      "conceptual_remainder": "Dōgen's 無常仏性 collapses an apparent doctrinal contradiction in East Asian Buddhism. The Three Dharma Seals identify all conditioned things as impermanent (諸行無常); Tathāgatagarbha-influenced sutras affirm Buddha-nature as constant (常住, 常). For most commentators these two claims sit in tension and require reconciliation — perhaps Buddha-nature is the unconditioned exception to impermanence, perhaps impermanence applies to phenomena while Buddha-nature is at a different level. Dōgen's move is to refuse the reconciliation by identifying the two: impermanence is not the obstacle to Buddha-nature, not its opposite, not even its companion; it is Buddha-nature. What this means is that the constancy attributed to Buddha-nature must be reread. It is not the absence of change but the mode in which change actually occurs — the very arising and passing of phenomena, seen as the activity of Buddha-nature itself rather than as its concealment. What English renderings struggle to carry is the doctrinal precision of the identification. 'Impermanence is Buddha-nature' in English sounds either trivially true (impermanence is everywhere, so of course it is also wherever Buddha-nature is) or paradoxically false (Buddha-nature is supposed to be the unchanging absolute). Dōgen's actual claim is neither: it is that the very arising and passing that constitutes phenomenal experience is the very thing that the doctrine of Buddha-nature has been pointing at all along, and any reading of Buddha-nature that opposes it to change has missed what Buddha-nature actually is.",
+      "doctrinal_weight": "One of Dōgen's most distinctive and philosophically dense doctrinal moves, formulated in the Shōbōgenzō 'Busshō' fascicle. The fascicle as a whole is a sustained reading and rereading of the Mahāyāna Mahāparinirvāṇa Sūtra's claim that all sentient beings have Buddha-nature, and 無常仏性 emerges from Dōgen's argument that the standard reading of this claim — beings as one thing, Buddha-nature as another property they possess — is wrong, and that the correct reading identifies beings, time, impermanence, and Buddha-nature as a single ongoing actuality. The formulation has been the subject of extensive modern Sōtō scholarship, including the Critical Buddhism debates of the 1980s–90s, in which Hakamaya Noriaki and others have argued that Dōgen's hongaku-leaning formulations represent a deviation from authentic Buddhism and that the Buddhist tradition properly understood should resist any identification of conditioned phenomena with an absolute. The debate remains unresolved and continues to shape contemporary Sōtō thought.",
+      "false_friends": [
+        { "char": "本覚", "language": "Japanese", "divergence": "本覚 (hongaku, original enlightenment) and 無常仏性 are both formulations affirming the intrinsic awakened nature of all beings, but they go in opposite metaphysical directions. 本覚 affirms a constant, original awakening; 無常仏性 identifies awakening with impermanence itself. Dōgen's relationship to hongaku is complex — he engages it without simply endorsing it, and his 無常仏性 formulation can be read as an attempt to preserve the universal-Buddha-nature claim of hongaku while refusing the metaphysical substantialism that hongaku risks." }
+      ]
+    },
+    {
+      "id": "honshin",
+      "characters": "本心",
+      "romaji_on": "honshin",
+      "on_reading": "ほんしん",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "original-mind",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["kokoro", "busshin", "bussho", "kensho", "hongaku"],
+      "components": [
+        { "char": "本", "meaning": "root, origin, original — marks the mind in its original condition rather than its present elaborated form" },
+        { "char": "心", "meaning": "heart-mind — the cognitive-affective organ; in 本心 the mind seen in its undefiled, non-grasping mode" }
+      ],
+      "translation_range": [
+        { "rendering": "original mind", "emphasis": "literal — the standard rendering, used widely in Chan/Zen scholarship and practice contexts" },
+        { "rendering": "the mind as it originally is", "emphasis": "expansive — clarifies that 'original' is structural rather than temporal" },
+        { "rendering": "true mind", "emphasis": "interpretive — emphasizes that 本心 is the actual mind contrasted with the obscured one; risks losing the structural sense of 本" }
+      ],
+      "conceptual_remainder": "The 本 in 本心 is doing the same structural work it does in 本覚 (original enlightenment) and 本来面目 (original face). It does not name a temporal first — a mind one had as a child, a mind one had before this lifetime, a mind in some primordial past. It names the structural prior: what is the case beneath and prior to the elaborations of delusion that ordinarily cover it over. The original mind is the present mind, seen as it actually is. What English renderings can lose is precisely this anti-temporal force. 'Original mind' in English easily slides toward suggesting a former state to be recovered, while in the Chan/Zen technical usage 本心 is the present mind recognized rather than the past mind remembered. The Platform Sutra's 不識本心、学法無益 (not recognizing the original mind, learning the dharma is useless) is the doctrinal anchor: what the practitioner is being asked to recognize is right here, right now, not somewhere else in time.",
+      "doctrinal_weight": "Centrally important to the Chan/Zen vocabulary of awakening. The Platform Sutra places 本心 alongside 本性 (original nature) as the two terms that name what awakening recognizes — and the parallel grammar of 識本心 (recognizing the original mind) and 見本性 (seeing the original nature) suggests that the two terms are functionally a single doctrine seen from two angles. 本心 emphasizes the cognitive-affective register; 本性 emphasizes the nature register. Recognizing one is recognizing the other. The compound has remained in active doctrinal use across all Japanese Zen schools and appears in the standard vocabulary of practice instruction.",
+      "false_friends": [
+        { "char": "本性", "language": "Japanese/Chinese", "divergence": "本性 (honshō, original nature) is the partner formulation, parallel in structure and function. 本心 emphasizes the heart-mind register; 本性 emphasizes the nature register. The Platform Sutra uses both side by side and the doctrinal difference is one of emphasis rather than referent. Reading either term in isolation from its partner risks losing the parallelism Chan/Zen uses to make its point." },
+        { "char": "仏心", "language": "Japanese/Chinese", "divergence": "仏心 (busshin, Buddha-mind) and 本心 (honshin, original mind) overlap heavily but the qualifiers do different work. 仏心 names mind by reference to its awakened mode (Buddha); 本心 names it by reference to its original structural condition (root, origin). The two terms describe the same actuality from different angles — the awakened mode is the original condition seen as awakened." }
+      ]
+    },
+    {
+      "id": "busshin",
+      "characters": "仏心",
+      "romaji_on": "busshin",
+      "on_reading": "ぶっしん",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "buddha-mind",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["bussho", "kokoro", "sokushin-zebutsu", "kensho", "satori"],
+      "components": [
+        { "char": "仏", "meaning": "Buddha — the awakened one; here functioning as a qualifier of mind, naming the kind of mind in question" },
+        { "char": "心", "meaning": "heart-mind — the cognitive-affective organ; in 仏心 the awakened mode of the same heart-mind that all beings already have" }
+      ],
+      "translation_range": [
+        { "rendering": "Buddha-mind", "emphasis": "literal — the standard rendering, used in scholarly and practice contexts alike" },
+        { "rendering": "the awakened mind", "emphasis": "interpretive — clarifies what the qualifier 'Buddha' is doing without loss of doctrinal precision" },
+        { "rendering": "the mind of Buddha", "emphasis": "possessive — risks suggesting that 仏心 names the mind possessed by a particular awakened being, rather than the awakened mode of mind generally" }
+      ],
+      "conceptual_remainder": "仏心 sits in close relationship with 仏性 (Buddha-nature), 自性 (self-nature), and 心 (heart-mind) more generally. The distinguishing feature of 仏心 is its emphasis on the cognitive-affective register — mind in the act of functioning, not nature as an underlying substrate. Where 仏性 names what beings have or are by virtue of being beings, 仏心 names the awakened mode of the activity that beings carry on whenever they perceive, think, feel, or act. The Chan/Zen claim is that this awakened mode is not a different mode from the ordinary one but the ordinary one freed of the obstructions that ordinarily make it look otherwise. What English renderings can lose is precisely this functional emphasis. 'Buddha-mind' in English easily slides toward sounding like the name of a special faculty or state, while in the technical Chinese-Japanese usage it is closer to: the mind, when it is functioning as it actually is. The school's self-designation as 仏心宗 (the Buddha-mind school) makes this register central — what Chan/Zen claims to transmit is not a doctrine about mind but the awakened functioning of mind itself, recognized in the disciple by the master's pointing.",
+      "doctrinal_weight": "Inseparable from the Chan/Zen self-understanding as a tradition of mind-to-mind transmission. The phrase 以心伝心 (i shin den shin, transmitting mind by mind) and the school's self-designation as 仏心宗 (busshinshū, the Buddha-mind school) both frame the entire Chan/Zen project as the recognition and transmission of 仏心. The doctrinal claim is precise: what passes from master to disciple in authentic transmission is not a body of doctrine, not a technique, not even an experience, but the recognition by the disciple of the awakened mind that is already functioning in them — a recognition occasioned by the master's pointing but constituted by the disciple's own seeing. The Bodhidharma legend — the Indian monk who brought 仏心 transmission to China — is the foundational narrative of this self-understanding, and the line of patriarchs through Huineng to the Tang and Song masters traces the unbroken transmission of 仏心 across generations.",
+      "false_friends": [
+        { "char": "仏性", "language": "Japanese/Chinese", "divergence": "仏性 (busshō, Buddha-nature) and 仏心 (busshin, Buddha-mind) overlap heavily but emphasize different registers. 仏性 names the intrinsic nature; 仏心 names the awakened mode of cognitive-affective functioning. The two terms are often used interchangeably in popular contexts, but doctrinal commentators distinguish them: 仏性 is what one is, 仏心 is what one does (or rather, what is done) when functioning as awakened." }
+      ]
+    },
+    {
+      "id": "byojoshin-kore-do",
+      "characters": "平常心是道",
+      "romaji_on": "byojoshin kore do",
+      "on_reading": "びょうじょうしんこれどう",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "byojoshin-kore-do-concept",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["kokoro", "do", "sokushin-zebutsu", "mushin"],
+      "components": [
+        { "char": "平", "meaning": "level, even, unexceptional — the qualifier marking what is on the same level as everything else, not elevated above it" },
+        { "char": "常", "meaning": "constant, always — the qualifier marking what is always already there, the constant condition rather than a special state" },
+        { "char": "心", "meaning": "heart-mind — the cognitive-affective organ, here the everyday functioning mind that all beings already have" },
+        { "char": "是", "meaning": "is — the copula doing the identification; the verb that turns the assertion into a non-dual identity claim" },
+        { "char": "道", "meaning": "the Way — the Daoist cosmic principle, the Confucian path of cultivation, and the Buddhist mārga, all carried in a single character" }
+      ],
+      "translation_range": [
+        { "rendering": "ordinary mind is the Way", "emphasis": "literal — preserves the leveling force of 平常 and the identification of 是; standard scholarly rendering" },
+        { "rendering": "everyday mind is the Way", "emphasis": "compact — slightly more colloquial in English without losing doctrinal force" },
+        { "rendering": "the everyday mind is the path", "emphasis": "alternative — uses 'path' for 道 to foreground the Buddhist mārga register over the Daoist cosmic register" }
+      ],
+      "conceptual_remainder": "The formula is constantly misread as quietist permission to do nothing special — the everyday mind is already the Way, so why practice? Mazu and the koan tradition consistently refuse this reading. The doctrinal point is not that the ordinary mind is the Way without further qualification but that the ordinary mind is the Way when it is not generating the obstructions that ordinarily make it seem otherwise. The mind that practice engages is the ordinary mind one already has — the only mind there is — and what practice does is not produce a different mind but allow the ordinary mind to function without the discriminating activity that ordinarily covers over its actual nature. What English renderings struggle to carry is the precise dialectical position. The formula is meant to refuse two errors at once: (1) seeking the Way in some extraordinary state or special practice, and (2) concluding from the rejection of (1) that no practice is needed. The koan tradition resolves this dialectical balance through the second half of the Mumonkan Case 19 exchange, in which Nansen warns Jōshū that aiming at 平常心是道 as a goal already moves away from it.",
+      "doctrinal_weight": "One of the most cited Chan/Zen formulas, second perhaps only to 即心是仏 in its concentration of the Hongzhou school's radical claim that nothing is to be sought outside the ordinary functioning of mind. The Mumonkan Case 19 exchange between Nansen and Jōshū is the canonical presentation: Jōshū asks 'what is the Way?', Nansen says 'ordinary mind is the Way,' Jōshū asks whether one should aim at it, Nansen says aiming already moves away from it. The exchange models the dialectical movement of Chan teaching — affirm the radical identity, then refuse the very framework that would let the affirmation become a doctrinal goal. The formula has had enormous influence on the Japanese cultural reception of Zen, particularly in the development of the Tokugawa-era 'ways' (道) of skilled practice — kendō, sadō, kadō — in which the ordinary functioning of the practitioner is itself the locus of mastery."
+    },
+    {
+      "id": "sokushin-zebutsu",
+      "characters": "即心是仏",
+      "romaji_on": "sokushin zebutsu",
+      "on_reading": "そくしんぜぶつ",
+      "module": "classical",
+      "semantic_field_id": "mind-and-consciousness",
+      "source_concept_id": "sokushin-zebutsu-concept",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["kokoro", "bussho", "kensho", "satori", "jobutsu"],
+      "components": [
+        { "char": "即", "meaning": "immediately, just-this — the marker of immediate identity rather than mediated relation; refuses any gap between the terms it joins" },
+        { "char": "心", "meaning": "heart-mind — the cognitive-affective organ in its actual present functioning, not an ideal or future mind" },
+        { "char": "是", "meaning": "is — the copula doing the identification; in non-dual formulas the verb that turns the assertion into a claim of identity rather than association" },
+        { "char": "仏", "meaning": "Buddha — the awakened one, here predicated of the practitioner's own present mind without any deferral or condition" }
+      ],
+      "translation_range": [
+        { "rendering": "this very mind is Buddha", "emphasis": "literal — preserves the immediacy of 即 and the identification of 是; standard scholarly rendering" },
+        { "rendering": "mind itself is Buddha", "emphasis": "compact — slightly less emphatic on the 'this very' immediacy" },
+        { "rendering": "the mind is the Buddha", "emphasis": "loose — flattens the four-character compactness and softens the doctrinal punch" }
+      ],
+      "conceptual_remainder": "The formula's English renderings tend to lose the precise grammatical force of 即 and 是 working together. 即 marks immediate identity — not 'mind connects to Buddha' or 'mind contains Buddha,' but mind, just-this. 是 then turns the immediate identification into a copular assertion. Together they refuse any reading that would treat mind and Buddha as two related things. The doctrinal stake is that Buddhahood is not deferred to a future attainment, not located in a remote venerated figure, not the property of a special practice or state, but is the very functioning of the practitioner's actual mind right now. What English renderings struggle with is the implied refusal of every framing that would soften the claim. To say 'this very mind is Buddha' in English sounds like an inspirational metaphor; in Mazu's usage it is closer to a doctrinal declaration that any other framing of the relationship between mind and Buddha is wrong. Mazu's later modification of the formula to 非心非仏 (not mind, not Buddha) preserves the same point by negation — the formula is meant to break the practitioner out of the framework of seeking Buddha elsewhere, not to install a new doctrinal proposition to be held.",
+      "doctrinal_weight": "One of the most concentrated doctrinal slogans in the entire Chan/Zen tradition. Attributed to Mazu Daoyi (709–788), it functions as a one-line summary of the radical Chan claim that nothing is to be sought outside the practitioner's own present functioning. The formula appears as Mumonkan Case 30 and Blue Cliff Record Case 73, in both cases as the entry point for koan study. Its later modification by Mazu himself to 非心非仏 (not mind, not Buddha) is doctrinally important: the second formulation prevents 即心是仏 from being held as a position one rests in. Together the two formulas model the dialectical movement of Chan teaching — affirm the radical identity, then refuse the affirmation when it becomes a thing held — and they remain among the most cited Chan formulas in the Japanese Zen tradition.",
+      "false_friends": [
+        { "char": "非心非仏", "language": "Japanese/Chinese", "divergence": "非心非仏 (hi shin hi butsu, not mind, not Buddha) is Mazu's own later modification of 即心是仏. The two formulas are not contradictory but dialectical: 即心是仏 affirms identity to break the framework of seeking Buddha elsewhere; 非心非仏 negates that very affirmation to prevent the practitioner from settling into it as a doctrinal position. Reading either formula in isolation misses the dynamic the pair is doing." },
+        { "char": "見性成仏", "language": "Japanese/Chinese", "divergence": "見性成仏 (kenshō jōbutsu, seeing one's nature, becoming Buddha) is the parallel formulation that emphasizes the cognitive event of recognition rather than the immediate identification. 即心是仏 collapses mind and Buddha; 見性成仏 traces the moment of breakthrough recognition. The two formulas describe the same doctrinal point from different angles — one structural, one experiential." }
+      ]
+    },
+    {
       "id": "shinjin-ichinyo",
       "characters": "身心一如",
       "romaji_on": "shinjin ichinyo",

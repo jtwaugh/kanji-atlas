@@ -485,6 +485,764 @@
       "japanese_transmission": "One of the most ancient and frequent characters in Japanese writing — present from the earliest stratum of Japanese literacy and carrying no specialized Buddhist introduction because it was already a general classical Chinese word for 'great, large' before Buddhism arrived. Its doctrinal uses in Zen (大悟, 大死, 大疑) are Kamakura-period arrivals via the Chan transmission, but they ride on a character so thoroughly embedded in Japanese that no special transmission was required. The prefix 大 (ō/dai) is extraordinarily productive in modern Japanese: 大学 (university), 大会 (major assembly), 大臣 (minister of state) — it retains the sense of something at full span."
     },
     {
+      "char": "小",
+      "strokes": 3,
+      "radical": "小",
+      "gloss": "Small, minor, informal — a thing divided into smaller parts; in 小参 the qualifier marking the assembly as informal and intimate rather than grand and ceremonial.",
+      "pinyin": "xiǎo",
+      "on_readings": ["しょう"],
+      "kun_readings": ["ちい.さい", "こ", "お"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "Three small dots or strokes — the depiction of something being divided into tiny parts",
+          "notes": "The original image shows something being made small or being divided. At 3 strokes, 小 remains one of the simplest characters in the writing system."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "3 strokes — a vertical stroke flanked by two dots",
+          "notes": "In modern Japanese 小 is among the most common characters. In Zen institutional vocabulary it appears in 小参 (shōsan, informal assembly), contrasted with the grander 上堂 (jōdō, ascending the hall)."
+        }
+      ],
+      "doctrinal_notes": "In 小参 (shōsan, informal assembly), 小 does not diminish the teaching but marks a different mode: less formal, more intimate, more dialogic. The contrast with 上堂 is institutional rather than doctrinal — the same master teaching the same community, but in a more relaxed format.",
+      "japanese_transmission": "First-wave character, among the most elementary in the writing system."
+    },
+    {
+      "char": "上",
+      "strokes": 3,
+      "radical": "一",
+      "gloss": "Above, to ascend, upper — a mark above a baseline indicating what is higher; in 上堂 the verb of ascending to the high seat from which the abbot addresses the assembly.",
+      "pinyin": "shàng",
+      "on_readings": ["じょう", "しょう"],
+      "kun_readings": ["うえ", "あ.がる", "のぼ.る"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A short horizontal stroke above a longer baseline — an indicative character pointing upward",
+          "notes": "One of the simplest indicative characters: a mark above a line meaning 'up, above.' At 3 strokes in its modern form, it remains one of the most elementary characters in the writing system."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "3 strokes — two horizontals with a vertical connecting them",
+          "notes": "In modern Japanese 上 is among the most common characters. Its Zen register in 上堂 names the formal act of the abbot ascending the high seat to address the assembly."
+        }
+      ],
+      "doctrinal_notes": "In 上堂 (jōdō, ascending the hall), 上 names the vertical movement of the abbot to the high seat — the ritual elevation that marks the transition from ordinary monastic activity to formal dharma convocation.",
+      "japanese_transmission": "First-wave character, present from the earliest stratum of Japanese literacy."
+    },
+    {
+      "char": "堂",
+      "strokes": 11,
+      "radical": "土",
+      "gloss": "Hall, main building — the formal space of assembly and instruction; in 上堂 the institutional space the abbot ascends to address.",
+      "pinyin": "táng",
+      "on_readings": ["どう"],
+      "kun_readings": [],
+      "components": [
+        { "char": "尚", "meaning": "to esteem, still (8 strokes) — phonetic and semantic: what is esteemed, the elevated space", "strokes": 8 },
+        { "char": "土", "meaning": "earth (3 strokes) — the ground on which the hall is built", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "尚 (esteem) over 土 (earth) — an esteemed building on the earth",
+          "notes": "The semantic core: the main hall, the formal building, the space of assembly. From this the meanings 'hall, court, formal space' all develop. In Buddhist usage 堂 names the functional spaces of the monastery: 法堂 (hattō, dharma hall), 禅堂 (zendō, meditation hall), 僧堂 (sōdō, monks' hall)."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "尚 (8 strokes) over 土 (3 strokes) — 11 strokes total",
+          "notes": "In modern Japanese 堂 appears in 食堂 (shokudō, dining hall), 堂々 (dōdō, dignified), 本堂 (hondō, main temple hall). The Zen institutional register includes the three principal monastery halls: 法堂, 禅堂, 僧堂."
+        }
+      ],
+      "doctrinal_notes": "In 上堂 (jōdō, ascending the hall), 堂 names the dharma hall (法堂) that the abbot enters and ascends to deliver formal instruction. The institutional space is doctrinally significant: the 法堂 is the space where dharma is formally conveyed, distinct from the meditation hall (禅堂) and the monks' hall (僧堂). The abbot's ascent to the high seat in the 法堂 is one of the most formal ritual acts in the Zen monastic calendar.",
+      "japanese_transmission": "First-wave character, present from the Nara period in its general meaning of hall. Its Buddhist register in 法堂, 禅堂, 僧堂 and the institutional vocabulary of Zen monasticism is preserved from the earliest period of Japanese Buddhism."
+    },
+    {
+      "char": "独",
+      "strokes": 9,
+      "radical": "犭",
+      "gloss": "Alone, solitary — the single animal that goes apart from the pack; in 独参 the qualifier that makes the interview private and singular.",
+      "pinyin": "dú",
+      "on_readings": ["どく"],
+      "kun_readings": ["ひと.り"],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "Traditional 獨: 犭 (animal) beside 蜀 (solitary insect/caterpillar) — a creature that goes alone",
+          "notes": "The original sense is the solitary animal, the creature that does not keep to the pack. From this the meanings 'alone, by oneself, independently, solely' all develop."
+        },
+        {
+          "period": "Regular script (楷書), simplified",
+          "form_description": "Simplified 独 (9 strokes) — 犭 beside a reduced phonetic element",
+          "notes": "In modern Japanese 独 is widely productive: 独り (hitori, alone), 独立 (dokuritsu, independence), 独特 (dokutoku, unique), 独参 (dokusan, private interview). The sense of singleness-and-privacy is consistent across all uses."
+        }
+      ],
+      "doctrinal_notes": "In 独参 (dokusan, private interview with the master), 独 specifies that the encounter is one-to-one: a single student meeting a single master, alone, with no audience. The privacy is not an incidental convenience but a doctrinal requirement — the kind of exchange that dokusan facilitates cannot happen in public. The student presents their understanding of a koan; the master evaluates it; the exchange is intimate, direct, and unrepeatable.",
+      "japanese_transmission": "First-wave character, present from the Nara period. Its Zen register in 独参 arrives with the Kamakura Rinzai transmission and is one of the foundational institutional terms of the Rinzai koan practice system."
+    },
+    {
+      "char": "参",
+      "strokes": 8,
+      "radical": "厶",
+      "gloss": "To approach, to visit, to study under — the movement of going to a teacher; in Zen vocabulary the verb of the student approaching the master for instruction.",
+      "pinyin": "cān",
+      "on_readings": ["さん"],
+      "kun_readings": ["まい.る"],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "Traditional 參: a complex form with multiple components suggesting approach or visitation",
+          "notes": "The character has accumulated multiple senses through its history: 'three' (an ancient variant), 'to approach, to visit,' 'to study,' 'to contemplate.' In Buddhist usage the 'to approach for instruction' sense dominates."
+        },
+        {
+          "period": "Regular script (楷書), simplified",
+          "form_description": "Simplified 参 (8 strokes)",
+          "notes": "In Japanese Zen vocabulary 参 appears in 独参 (dokusan, private interview), 参禅 (sanzen, going to Zen), 参学 (sangaku, studying under a master), 参堂 (sandō, entering the meditation hall). Across all uses 参 names the student's movement toward the teacher — the approach, the arrival, the submission to instruction."
+        }
+      ],
+      "doctrinal_notes": "In 独参 (dokusan, private interview) and 参禅 (sanzen, going to Zen), 参 is the verb of the student's initiative. The movement is not the teacher summoning the student but the student approaching the teacher — the initiative belongs to the one who seeks instruction. In Rinzai practice the student's approach during sesshin has specific ritual forms: the ringing of a bell to request dokusan, the walking to the master's room, the prostrations at entry. Each element ritualizes the 参 — the student's movement of approach.",
+      "japanese_transmission": "First-wave character, present from the Nara period. Its Chan/Zen register in 独参, 参禅, and related compounds arrives with the Kamakura transmission and is integral to the institutional vocabulary of Rinzai practice."
+    },
+    {
+      "char": "唱",
+      "strokes": 11,
+      "radical": "口",
+      "gloss": "To chant, to proclaim, to present aloud — a mouth singing or declaring; in 提唱 the verb of public vocal presentation that makes a teaching a demonstration rather than an explanation.",
+      "pinyin": "chàng",
+      "on_readings": ["しょう"],
+      "kun_readings": ["とな.える"],
+      "components": [
+        { "char": "口", "meaning": "mouth radical (3 strokes) — semantic element: an action of the voice", "strokes": 3 },
+        { "char": "昌", "meaning": "prosperous, the sun rising (8 strokes) — phonetic element", "strokes": 8 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "口 (mouth) beside 昌 (phonetic) — the mouth chanting or proclaiming",
+          "notes": "The semantic core is the public vocal act: singing, chanting, proclaiming. From this concrete sense the meanings 'to advocate, to initiate, to present publicly' all develop."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "口 (3 strokes) beside 昌 (8 strokes) — 11 strokes total",
+          "notes": "In modern Japanese 唱 appears in 合唱 (gasshō, chorus), 唱歌 (shōka, singing), 提唱 (teishō, formal dharma presentation). The vocal register is consistent across all uses."
+        }
+      ],
+      "doctrinal_notes": "In 提唱 (teishō, formal dharma presentation), 唱 is the verb of public vocal presentation — the master chanting or proclaiming the teaching. The compound makes the teaching act a vocal performance rather than an explanation: the master 提 (holds up, presents) and 唱 (proclaims, chants) the dharma. In Chan/Zen the distinction between 提唱 (demonstration of insight through vocal presentation) and ordinary lecturing is doctrinally significant: a teishō is not an explanation of a koan but a demonstration of the master's own realized understanding, expressed through the voice.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period in its general meaning of singing and chanting. Its load-bearing Zen use in 提唱 arrives with the Kamakura transmission and remains the standard term for a formal dharma talk in Japanese Zen."
+    },
+    {
+      "char": "問",
+      "strokes": 11,
+      "radical": "口",
+      "gloss": "To ask, to question — a mouth at a gate, seeking entry; in 問答 the first half of the dialogic encounter between master and student.",
+      "pinyin": "wèn",
+      "on_readings": ["もん"],
+      "kun_readings": ["と.う", "と.い"],
+      "components": [
+        { "char": "門", "meaning": "gate (8 strokes) — semantic frame: the threshold at which the question is posed", "strokes": 8 },
+        { "char": "口", "meaning": "mouth (3 strokes) — semantic element: the mouth speaking at the gate", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "口 (mouth) inside 門 (gate) — a mouth speaking at a closed gate, seeking entry",
+          "notes": "The original image is vivid: someone at a closed gate, using their voice to seek admittance. From this the meanings 'to ask, to question, to inquire' all develop. The semantic logic is consistent — to question is to stand at the threshold of knowledge and seek entry."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "門 (8 strokes) framing 口 (3 strokes) — 11 strokes total",
+          "notes": "In modern Japanese 問 is the standard character for asking and questioning: 質問 (shitsumon, question), 問題 (mondai, problem), 問答 (mondō, question-and-answer). In Chan/Zen 問 is doctrinally loaded because the koan tradition is built on questions — the student's question, the master's response, the questioning that drives practice."
+        }
+      ],
+      "doctrinal_notes": "In 問答 (mondō, question-and-answer) and throughout the koan literature, 問 carries the weight of the student's approach to the master. Chan/Zen treats the question as a full gesture — not merely a request for information but an expression of the student's present understanding, a demonstration of where they stand. The master's evaluation of the student often begins with the question, not the answer.",
+      "japanese_transmission": "First-wave character, present from the Nara period. Its Chan/Zen register as the dialogic vehicle of master-student encounter arrives with the Kamakura transmission."
+    },
+    {
+      "char": "答",
+      "strokes": 12,
+      "radical": "竹",
+      "gloss": "To answer, to respond — a bamboo container receiving what is poured in; in 問答 the second half of the dialogic encounter, the master's response that may shatter the question's frame entirely.",
+      "pinyin": "dá",
+      "on_readings": ["とう"],
+      "kun_readings": ["こた.える"],
+      "components": [
+        { "char": "竹", "meaning": "bamboo radical (6 strokes) — semantic or classificatory element", "strokes": 6 },
+        { "char": "合", "meaning": "to fit together, to meet (6 strokes) — semantic and phonetic: a response that meets the question", "strokes": 6 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "竹 (bamboo) over 合 (to fit/meet)",
+          "notes": "The semantic logic of 合 (to fit, to meet) in the lower half is transparent: an answer fits or meets a question, responding to what has been asked. The bamboo radical is classificatory."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "竹 (6 strokes) over 合 (6 strokes) — 12 strokes total",
+          "notes": "In modern Japanese 答 is the standard character for answering: 回答 (kaitō, reply), 答案 (tōan, answer to a test), 応答 (ōtō, response), 問答 (mondō, question-and-answer). In Chan/Zen the master's answer to the student's question is itself a teaching act — and the most characteristic teaching act involves refusing the frame of the question entirely."
+        }
+      ],
+      "doctrinal_notes": "In 問答 (mondō, question-and-answer), 答 names the master's response. In Chan/Zen the answer is not an answer in the informational sense — it does not provide the content the question requests. The master's 答 may be a shout, a blow, a gesture, a counter-question, or a statement that seems to have nothing to do with what was asked. The doctrinal function of the 答 is not to convey information but to shatter the conceptual framework the question opens and to occasion a direct seeing that no answer could provide.",
+      "japanese_transmission": "First-wave character, present from the Nara period. Its Chan/Zen register arrives with the Kamakura transmission and the importation of the koan literature."
+    },
+    {
+      "char": "面",
+      "strokes": 9,
+      "radical": "面",
+      "gloss": "Face, surface, aspect — a pictograph of the human face; in 面授 the qualifier of directness, naming transmission that happens face-to-face with no intermediary.",
+      "pinyin": "miàn",
+      "on_readings": ["めん"],
+      "kun_readings": ["おも", "おもて", "つら"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A stylized human face in frontal view — an eye or the outline of a face",
+          "notes": "The original pictograph depicts the human face as the site of direct encounter. The semantic core: the face as what meets you, what you see when you look directly at another person."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "9 strokes — a rectangular frame with interior elements suggesting facial features",
+          "notes": "In modern Japanese 面 is widely productive: 面接 (mensetsu, interview), 面目 (menboku, face/honor), 表面 (hyōmen, surface), 本来面目 (honrai menmoku, original face). Its Buddhist register includes the landmark Zen phrase 本来面目 ('what is your original face?') and the technical compound 面授 (menju, face-to-face transmission)."
+        }
+      ],
+      "doctrinal_notes": "In 面授 (menju, face-to-face transmission), 面 names the directness that Dōgen considers essential to authentic lineage: the master and the disciple must be physically co-present, face-to-face, for the transmission to be real. The character is also doctrinally active in 本来面目 (honrai menmoku, 'your original face before your parents were born'), one of the paradigmatic Zen questioning phrases — the face as what is most directly and immediately present, prior to all elaboration.",
+      "japanese_transmission": "First-wave character, present from the earliest stratum of Japanese literacy. Its Chan/Zen register — 面授, 本来面目 — arrives with the Kamakura transmission."
+    },
+    {
+      "char": "授",
+      "strokes": 11,
+      "radical": "扌",
+      "gloss": "To grant, to bestow, to confer — a hand giving; the verb that designates formal, authoritative bestowal, contrasted with the mutual passing of 伝.",
+      "pinyin": "shòu",
+      "on_readings": ["じゅ"],
+      "kun_readings": ["さず.ける"],
+      "components": [
+        { "char": "扌", "meaning": "hand radical (3 strokes) — semantic element: an action of the hand", "strokes": 3 },
+        { "char": "受", "meaning": "to receive (8 strokes) — phonetic and partly semantic: the giving that corresponds to a receiving", "strokes": 8 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "扌 (hand) beside 受 (receive) — the hand that gives to the one who receives",
+          "notes": "The semantic logic is transparent: 授 is the giving side of what 受 names from the receiving side. The 扌 radical specifies that this is an action of the hand — a deliberate, formal act of bestowal rather than an accidental or impersonal transfer."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "扌 (3 strokes) beside 受 (8 strokes) — 11 strokes total",
+          "notes": "In modern Japanese 授 appears in 授業 (jugyō, class/lesson — the teacher giving), 教授 (kyōju, professor), 授与 (juyo, conferral), 面授 (menju, face-to-face bestowal). In all cases 授 names a formal, authoritative act of giving — the teacher's side of the transaction."
+        }
+      ],
+      "doctrinal_notes": "In 面授 (menju, face-to-face transmission), 授 names the formal act of the master bestowing transmission on the disciple. The character specifies the directionality: 伝 (transmit) names the act of passing; 授 names the act of conferring — from master to disciple, from authority to recipient. The 授 in 面授 carries the institutional weight of formal, recognized bestowal.",
+      "japanese_transmission": "First-wave character, present from the Nara period across educational and ritual registers. Its Buddhist use in 授戒 (jukai, conferring the precepts) and 面授 (menju, face-to-face transmission) belongs to the monastic institutional vocabulary preserved in all Japanese Buddhist schools."
+    },
+    {
+      "char": "伝",
+      "strokes": 6,
+      "radical": "亻",
+      "gloss": "To transmit, to pass on — a person carrying something to another; the verb at the heart of the Chan/Zen self-understanding as a lineage of mind-to-mind transmission.",
+      "pinyin": "chuán",
+      "on_readings": ["でん"],
+      "kun_readings": ["つた.える", "つた.わる"],
+      "components": [
+        { "char": "亻", "meaning": "person radical (2 strokes) — semantic element: a person performing the action of transmission", "strokes": 2 },
+        { "char": "云", "meaning": "to say (4 strokes in simplified form) — phonetic element", "strokes": 4 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "Traditional 傳: 亻 (person) beside a complex phonetic-semantic element — a person carrying something to another",
+          "notes": "The original sense is the act of passing something from one person to another — transmission, relay, conveyance. From this the meanings 'to pass down, to transmit, to bequeath, to narrate' all develop."
+        },
+        {
+          "period": "Regular script (楷書), simplified",
+          "form_description": "Simplified Japanese 伝 (6 strokes), traditional 傳 (13 strokes)",
+          "notes": "In modern Japanese 伝 is widely productive: 伝える (tsutaeru, to convey), 伝説 (densetsu, legend), 伝統 (dentō, tradition), 伝法 (denpō, dharma transmission). The character is structurally central to the Chan/Zen vocabulary of lineage."
+        }
+      ],
+      "doctrinal_notes": "In 伝法 (denpō, dharma transmission) and 以心伝心 (ishin denshin, transmission from mind to mind), 伝 carries the entire weight of the Chan/Zen self-understanding as a lineage. What is transmitted is not a body of doctrine but the awakened mind itself, recognized in the disciple by the master. The character's concrete sense — one person passing something to another — is doing precise doctrinal work: transmission requires both a giver and a receiver, and the unbroken chain from Śākyamuni through the Indian and Chinese patriarchs to the present teacher constitutes the legitimacy of the school.",
+      "japanese_transmission": "First-wave character, present from the Nara period. Its load-bearing Chan/Zen register — 伝法, 伝灯, 以心伝心 — arrives with the Kamakura transmission and becomes one of the most important characters in the institutional vocabulary of Japanese Zen."
+    },
+    {
+      "char": "発",
+      "strokes": 9,
+      "radical": "癶",
+      "gloss": "To emit, to arise, to send forth — the moment of departure or inception; in 発菩提心 the verb naming the first arising of the aspiration to awakening.",
+      "pinyin": "fā",
+      "on_readings": ["はつ", "ほつ"],
+      "kun_readings": ["た.つ"],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "A complex form combining elements of departure and emission",
+          "notes": "The semantic core: the moment of emission, the instant something goes forth from a source. From this the meanings 'to depart, to send, to arise, to develop, to emit' all develop."
+        },
+        {
+          "period": "Regular script (楷書), simplified",
+          "form_description": "Simplified Japanese 発 (9 strokes), traditional 發 (12 strokes)",
+          "notes": "In modern Japanese 発 is extremely productive: 発見 (hakken, discovery), 出発 (shuppatsu, departure), 発展 (hatten, development). In Buddhist usage 発 names the arising or generating of something new — as in 発菩提心 (hotsu bodaishin, arousing the mind of awakening), where 発 names the first arising of the aspiration."
+        }
+      ],
+      "doctrinal_notes": "In 発菩提心 (hotsu bodaishin, arousing the mind of awakening), 発 is the verb of inception — the first moment at which the aspiration to awakening arises in a practitioner. The on reading ほつ (hotsu) in this compound preserves a specifically Buddhist phonological register. The character does precise doctrinal work: it names the aspiration as something that arises rather than something that is manufactured by effort, while simultaneously acknowledging that the practitioner must actively participate in its arising.",
+      "japanese_transmission": "First-wave character, present from the Nara period in its general meaning. Its Buddhist register in 発菩提心 and related compounds is preserved across all Japanese Buddhist schools."
+    },
+    {
+      "char": "弁",
+      "strokes": 5,
+      "radical": "廾",
+      "gloss": "To exert oneself, to negotiate, to discern — in modern Japanese a simplification that collapses several traditional characters; in 弁道 the verb of wholeheartedly engaging the Way.",
+      "pinyin": "biàn",
+      "on_readings": ["べん"],
+      "kun_readings": [],
+      "graphic_evolution": [
+        {
+          "period": "Traditional forms",
+          "form_description": "Pre-simplification, the distinct traditional characters 辨 (to discern), 辯 (to argue), and 瓣 (a petal) are all collapsed into the simplified 弁",
+          "notes": "The postwar Japanese script reform (1946) merged three distinct traditional characters into the simplified 弁. In 弁道, the relevant traditional form is 辨 (to discern, to manage, to exert oneself in a matter) — which carries the sense of actively engaging with and working through something."
+        },
+        {
+          "period": "Regular script (楷書), simplified",
+          "form_description": "5 strokes — the simplified form standardized in modern Japanese",
+          "notes": "In modern Japanese 弁 covers a wide semantic range: 弁護士 (bengoshi, lawyer), 弁当 (bentō, packed lunch), 弁別 (benbetsu, discrimination). The relevant sense for 弁道 is the exertion-and-engagement sense of the traditional 辨: to throw oneself into the work of something, to negotiate or manage a matter with full commitment."
+        }
+      ],
+      "doctrinal_notes": "In 弁道 (bendō, negotiating the Way), 弁 carries the sense of active, wholehearted engagement — not merely walking the path but throwing oneself into it with full commitment. Dōgen's foundational essay is titled 弁道話 (Bendōwa, 'A Talk on Negotiating the Way'), and the 弁 in the title names what Dōgen means by practice: not a technique applied to the Way but a full-bodied engagement with it, an exertion that is simultaneously a negotiation — working with and through the Way rather than simply following instructions about it.",
+      "japanese_transmission": "The traditional form 辨 arrives with the first wave of Chinese writing; the simplified 弁 is a postwar creation. Its load-bearing Zen use in 弁道 and 弁道話 belongs to Dōgen's Sōtō vocabulary and is one of the most characteristic terms in his writings."
+    },
+    {
+      "char": "持",
+      "strokes": 9,
+      "radical": "扌",
+      "gloss": "To hold, to sustain, to maintain — a hand keeping something in place over time; in 行持 the verb that qualifies practice as sustained and continuous rather than episodic.",
+      "pinyin": "chí",
+      "on_readings": ["じ"],
+      "kun_readings": ["も.つ"],
+      "components": [
+        { "char": "扌", "meaning": "hand radical (3 strokes) — semantic element: an action of the hand", "strokes": 3 },
+        { "char": "寺", "meaning": "temple (6 strokes) — phonetic element providing the chí/jì sound", "strokes": 6 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "扌 (hand) beside 寺 (phonetic) — the hand sustaining over time",
+          "notes": "The semantic core is holding over time — not the act of picking up but the sustained maintenance of what has been taken up. From this the meanings 'to keep, to maintain, to sustain, to uphold' all develop."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "扌 (3 strokes) beside 寺 (6 strokes) — 9 strokes total",
+          "notes": "In modern Japanese 持 is one of the most common characters: 持つ (motsu, to hold), 維持 (iji, maintenance), 持続 (jizoku, continuity), 支持 (shiji, support). In Buddhist usage 持 appears in 行持 (gyōji, sustained practice) and 持戒 (jikai, upholding the precepts). The temporal emphasis — holding over time — is consistent across all uses."
+        }
+      ],
+      "doctrinal_notes": "In 行持 (gyōji, continuous practice), 持 qualifies the 行 (practice, activity) as sustained and unbroken over time. The Shōbōgenzō fascicle of the same name treats 持 with maximum seriousness: the practice that constitutes the Way is not episodic or intermittent but continuous, sustained by and sustaining itself across all moments without interruption. The 持 of 行持 is doing the work of temporal continuity: the practice does not stop and start but holds itself in place across the practitioner's entire life — and indeed across the generations of the lineage.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period in its general meaning of holding and sustaining. Its Buddhist register in 持戒 (upholding the precepts) and 行持 (continuous practice) develops with the scholastic and Chan/Zen transmissions respectively."
+    },
+    {
+      "char": "受",
+      "strokes": 8,
+      "radical": "又",
+      "gloss": "To receive — two hands passing and receiving an object; the verb of accepting what is given, including the gift of dharma transmission and the receiving of one's own samādhi.",
+      "pinyin": "shòu",
+      "on_readings": ["じゅ"],
+      "kun_readings": ["う.ける"],
+      "components": [
+        { "char": "爫", "meaning": "grasping hand from above (4 strokes) — the giving hand", "strokes": 4 },
+        { "char": "又", "meaning": "right hand (2 strokes) — the receiving hand", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "Two hands with an object passing between them — the act of giving and receiving",
+          "notes": "The original image is a transaction: an object passing from one hand to another. The character originally meant both 'to give' and 'to receive' — the unified action of transmission. Later 授 (with the hand radical added) became the verb of giving, while 受 specialized as the verb of receiving."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "8 strokes — the upper hand element over the lower hand",
+          "notes": "In modern Japanese 受 is the workhorse verb for receiving: 受ける (ukeru, to receive), 受験 (juken, taking an exam), 受信 (jushin, receiving a signal). In Buddhist usage 受 names one of the five skandhas (sensation, vedanā) and appears in compounds like 受戒 (jukai, receiving the precepts) and 自受用 (jijuyū, self-receiving)."
+        }
+      ],
+      "doctrinal_notes": "In 自受用三昧 (jijuyū zanmai, self-receiving and self-employing samādhi), 受 names the receiving that the samādhi does of itself. The compound 自受 — receiving by oneself, receiving from oneself — describes a samādhi that is not received from any external source: not from the object of meditation, not from a teacher, not from a future state. The samādhi is its own giver and its own receiver. Dōgen's use of the term frames zazen as a practice that does not depend on external occasion: the activity is sufficient to itself.",
+      "japanese_transmission": "First-wave character, present from the Nara period in its general meaning of receiving. The Buddhist register develops with the early scholastic transmission and is preserved across all Japanese Buddhist schools. Its load-bearing Sōtō use in 自受用 belongs specifically to Dōgen's vocabulary."
+    },
+    {
+      "char": "用",
+      "strokes": 5,
+      "radical": "用",
+      "gloss": "To use, to employ, function — a vessel or tool put to its purpose; in 自受用 the verb naming the samādhi that employs itself, requiring no external application.",
+      "pinyin": "yòng",
+      "on_readings": ["よう"],
+      "kun_readings": ["もち.いる"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "A bucket or vessel with handles — an instrument put to its purpose",
+          "notes": "The original image is a usable object — a bucket, a vessel, an instrument designed to be employed. From this concrete sense the meanings 'to use, to apply, to put to work' all develop. By the classical period 用 functions as the standard verb of utility and as a noun meaning 'use, function, application.'"
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "5 strokes — preserves the rectangular vessel shape",
+          "notes": "In modern Japanese 用 is widely productive: 用いる (mochiiru, to use), 使用 (shiyō, use), 用事 (yōji, business), 用心 (yōjin, caution). In Buddhist usage 用 functions in the philosophical pair 体用 (tai-yō, substance and function), one of the foundational categories of East Asian doctrinal analysis."
+        }
+      ],
+      "doctrinal_notes": "In 自受用三昧 (jijuyū zanmai), 用 names the employing of the samādhi by itself. The compound 自受用 — receiving and employing oneself — describes a samādhi that is not put to use for some further purpose because it is already the activity it would be put to use for. The character also belongs to the broader doctrinal pair 体用 (substance and function), in which 用 names the active functioning of what 体 names as the underlying ground. Dōgen's use of 用 in 自受用三昧 emphasizes that zazen is active employment of the awakened mode of awareness, not passive abiding in it.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period in the full range of its meanings. Its load-bearing philosophical use in 体用 and Dōgen's signature compound 自受用三昧 belongs to the imported Buddhist doctrinal vocabulary."
+    },
+    {
+      "char": "安",
+      "strokes": 6,
+      "radical": "宀",
+      "gloss": "Peace, ease, settledness — a woman beneath a roof; in 安居 the qualifier of the dwelling that supports sustained communal practice.",
+      "pinyin": "ān",
+      "on_readings": ["あん"],
+      "kun_readings": ["やす.い"],
+      "components": [
+        { "char": "宀", "meaning": "roof radical (3 strokes) — semantic element: the shelter of a dwelling", "strokes": 3 },
+        { "char": "女", "meaning": "woman (3 strokes) — semantic element: a woman in the safety of the dwelling", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "宀 (roof) over 女 (woman) — a woman seated peacefully under a roof",
+          "notes": "The original image is concrete and domestic: a woman beneath the shelter of a roof, suggesting peace, security, and settled dwelling. From this concrete sense the abstract meanings of 'peaceful, easy, settled, content' all develop."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "宀 (3 strokes) over 女 (3 strokes) — 6 strokes total",
+          "notes": "In modern Japanese 安 is widely productive: 安心 (anshin, peace of mind), 安全 (anzen, safety), 安価 (anka, cheap), 安居 (ango, the rain retreat). The Buddhist register in 安居 is technical, naming the formal practice period of communal monastic dwelling."
+        }
+      ],
+      "doctrinal_notes": "In 安居 (ango, the rain retreat), 安 names the settledness of the dwelling that the practice period requires. The retreat is not merely a duration but a particular mode of dwelling — peaceful, settled, removed from travel and external engagement, supportive of the sustained practice the period is designed to enable. The character contributes the sense that what makes the period a retreat is precisely the quality of settledness it institutes, the way it stabilizes the conditions of practice for those who enter it.",
+      "japanese_transmission": "First-wave character, present from the Nara period across Buddhist and secular registers. Its load-bearing Buddhist use in 安居 is preserved in monastic vocabulary across all Japanese Buddhist schools and goes back to the Indian Buddhist rain-retreat (varṣā) that the compound originally translated."
+    },
+    {
+      "char": "居",
+      "strokes": 8,
+      "radical": "尸",
+      "gloss": "To dwell, to reside, to stay — a body settled in place; in 安居 the second character that completes the formula 'dwelling in peace,' naming the sustained occupation of a place of practice.",
+      "pinyin": "jū",
+      "on_readings": ["きょ"],
+      "kun_readings": ["い.る"],
+      "components": [
+        { "char": "尸", "meaning": "body (3 strokes) — semantic element: a person settled in posture", "strokes": 3 },
+        { "char": "古", "meaning": "old (5 strokes) — phonetic element", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "尸 (body) over 古 (phonetic) — a body settled in a place",
+          "notes": "The semantic core is dwelling — settling in a place, residing, being-in-place rather than moving through. From this concrete sense the meanings 'to live, to stay, to occupy' all develop."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "尸 (3 strokes) over 古 (5 strokes) — 8 strokes total",
+          "notes": "In modern Japanese 居 is the workhorse verb for being-in-place: 居る (iru, to be present), 住居 (jūkyo, residence), 同居 (dōkyo, living together). The Buddhist register in 安居 retains the verbal sense of dwelling — the practice period is a sustained dwelling in a place of practice."
+        }
+      ],
+      "doctrinal_notes": "In 安居 (ango, the rain retreat), 居 contributes the verbal sense of dwelling. The compound is not 'rain retreat' as a passive temporal interval but 'peaceful dwelling' as an active mode of residence: the participants are doing something throughout the period — they are dwelling, in the strong sense of inhabiting the place of practice with sustained presence. The Indian Buddhist origin (varṣā, the rains retreat) was practical — monks gathered to avoid travel during the rainy season — but the character 居 makes the practice into something more than a calendar accommodation: it is a mode of being-in-place that the retreat institutes.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period in its general meaning of dwelling. Its Buddhist register in 安居 belongs to the imported monastic vocabulary and is preserved in all Japanese Buddhist schools that maintain formal practice periods."
+    },
+    {
+      "char": "三",
+      "strokes": 3,
+      "radical": "一",
+      "gloss": "Three — three horizontal strokes; in Buddhist usage the marker of triadic structures (Three Treasures, Three Vehicles, Three Dharma Seals) and one of the phonetic components of 三昧 (samādhi).",
+      "pinyin": "sān",
+      "on_readings": ["さん"],
+      "kun_readings": ["みっ.つ", "み"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "Three horizontal strokes stacked",
+          "notes": "The simplest possible representation of the number three: three lines. The character has been visually unchanged since the oracle bone period — three strokes for three things."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "3 strokes — three horizontal lines, identical to the original form",
+          "notes": "Functionally one of the most common characters in Japanese, appearing in countless compounds. In Buddhist usage 三 marks the many triadic structures of doctrine: 三宝 (the Three Treasures: Buddha, Dharma, Sangha), 三乗 (the Three Vehicles), 三法印 (the Three Dharma Seals). In 三昧 (samādhi), 三 functions phonetically rather than numerically, transliterating the Sanskrit sa-."
+        }
+      ],
+      "doctrinal_notes": "In 三昧 (zanmai, samādhi), 三 is doing phonetic rather than semantic work — it transliterates the first syllable of the Sanskrit samādhi without bringing its numerical meaning into play. This is unusual for 三, which normally carries its numerical sense even in compounds. The phonetic loan reflects the early translation period's strategy of using existing characters for their sound when no native semantic equivalent was available.",
+      "japanese_transmission": "First-wave character, present from the earliest stratum of Japanese literacy. Its phonetic use in 三昧 belongs to the imported Buddhist vocabulary and is one of the more notable cases of a common Chinese character being recruited for sound rather than meaning."
+    },
+    {
+      "char": "昧",
+      "strokes": 9,
+      "radical": "日",
+      "gloss": "Dim, obscure, dawn — the sun barely visible at dawn or dusk; in 三昧 the second character that completes the phonetic transliteration of Sanskrit samādhi.",
+      "pinyin": "mèi",
+      "on_readings": ["まい"],
+      "kun_readings": [],
+      "components": [
+        { "char": "日", "meaning": "sun radical (4 strokes) — semantic element related to the dim or obscured sun", "strokes": 4 },
+        { "char": "未", "meaning": "not yet (5 strokes) — phonetic element providing the mèi sound", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "日 (sun) beside 未 (not yet) — the sun not yet fully risen",
+          "notes": "The original sense is the dimness of dawn or dusk — the sun present but not yet (or no longer) fully illuminating. From this the meanings 'dim, obscure, ignorant, hidden' all develop. The character is rare in non-Buddhist Japanese contexts."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "日 (4 strokes) beside 未 (5 strokes) — 9 strokes total",
+          "notes": "In modern Japanese 昧 appears almost exclusively in the compound 三昧 (zanmai, samādhi) and occasionally in 曖昧 (aimai, ambiguous, vague). The character has no significant independent life in modern Japanese."
+        }
+      ],
+      "doctrinal_notes": "In 三昧 (zanmai, samādhi), 昧 functions phonetically — completing the transliteration of Sanskrit samā-dhi. The character has no independent semantic content in this compound; its presence is determined entirely by the need to render the Sanskrit sound. This is a typical strategy of the early Buddhist translation period for Sanskrit terms with no native conceptual equivalent: assemble characters phonetically and let context teach the meaning.",
+      "japanese_transmission": "Arrives in Japan as part of the Buddhist transliteration vocabulary of the Nara period and is preserved primarily in the compound 三昧, which remains in active doctrinal use across all Japanese Buddhist schools. The character has no native Japanese semantic life outside Buddhist contexts."
+    },
+    {
+      "char": "摂",
+      "strokes": 13,
+      "radical": "扌",
+      "gloss": "To gather, to draw in, to take hold of — a hand collecting and holding; in 摂心 the verb of gathering the scattered mind into singleness through intensive practice.",
+      "pinyin": "shè",
+      "on_readings": ["せつ"],
+      "kun_readings": ["おさ.める"],
+      "components": [
+        { "char": "扌", "meaning": "hand radical (3 strokes) — semantic element: an action of the hand", "strokes": 3 },
+        { "char": "聶", "meaning": "phonetic element (10 strokes in simplified form)", "strokes": 10 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "扌 (hand) beside 聶 (phonetic) — the hand gathering or taking hold",
+          "notes": "The semantic core is the action of the hand drawing things together, gathering the scattered, taking hold of what would otherwise disperse. From this concrete sense the meanings 'to manage, to control, to assume responsibility for' all develop. In Buddhist usage 摂 takes on the additional sense of 'to embrace, to take in' — as in the Buddha's compassionate embrace of all sentient beings."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "Simplified Japanese 摂 (13 strokes), traditional 攝 (21 strokes) — substantial simplification",
+          "notes": "In modern Japanese 摂 appears in compounds like 摂取 (sesshu, taking in), 摂理 (setsuri, providence, the gathering of principles), 摂政 (sesshō, regency — gathering up the power of state). Its load-bearing Zen use is in 摂心 (sesshin, gathering the mind), the term for an intensive meditation retreat."
+        }
+      ],
+      "doctrinal_notes": "In 摂心 (sesshin, gathering the mind), 摂 names the action of drawing the scattered mind into singleness — the gathering that intensive meditation practice accomplishes. The compound is doing precise doctrinal work: a sesshin retreat is not merely a long period of sitting but a structured environment in which all the conditions of monastic life converge to support the gathering of the mind into the unified attention that practice requires. The 摂 is not the practitioner's effort to focus but the practice's drawing-in of attention, the result of an environment in which everything supports the same single direction.",
+      "japanese_transmission": "Arrives with the first wave of Buddhist transmission in the Nara period and develops a substantial Buddhist register through Mahāyāna doctrinal vocabulary. Its specifically Zen use in 摂心 belongs to the Kamakura transmission and the subsequent development of Japanese Zen monastic practice."
+    },
+    {
+      "char": "経",
+      "strokes": 11,
+      "radical": "糸",
+      "gloss": "Threads of a loom, sustained passing-through — the warp threads that organize woven fabric, extended to scripture as the threading of doctrine, and to the act of passing through or undergoing.",
+      "pinyin": "jīng",
+      "on_readings": ["きょう", "けい"],
+      "kun_readings": ["へ.る"],
+      "components": [
+        { "char": "糸", "meaning": "thread radical (6 strokes) — semantic element: the warp threads of a loom", "strokes": 6 },
+        { "char": "圣", "meaning": "phonetic element (5 strokes in simplified form)", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "糸 (thread) beside an element depicting the warp threads stretched on a loom",
+          "notes": "The original meaning is the warp threads of a loom — the longitudinal threads that hold the structure of the fabric while the weft passes through them. From this concrete sense the meanings 'the underlying structure, the canonical thread, scripture' (as that which threads doctrine together) and 'to pass through, to undergo, to elapse' (as the weft passes through the warp) all develop."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "Simplified Japanese 経 (11 strokes), traditional 經 (13 strokes) — 糸 (thread) beside the phonetic element",
+          "notes": "In Buddhist usage 経 is the standard character for sutra (Sanskrit sūtra, literally 'thread') — the canonical scriptures of Buddhism, conceived as the thread on which doctrine is strung. The verbal sense 'to pass through, to undergo' survives in 経過 (keika, the passing of time) and 経験 (keiken, experience, what one has passed through). In 経行 (kinhin, walking meditation) the verbal sense is in play: passing through the practice space in a sustained traversal."
+        }
+      ],
+      "doctrinal_notes": "In 経 as 'sutra,' the character renders Sanskrit sūtra — itself a word meaning 'thread' or 'cord,' applied to canonical texts conceived as threading doctrinal points together in a continuous narrative. In 経行 (kinhin, walking meditation), the verbal sense is doing the work: 経 names the passing-through, the sustained traversal that walking meditation enacts. The semantic continuity between the noun 'sutra' and the verb 'pass through' is not accidental — both involve a continuous thread that holds together what would otherwise be discrete moments.",
+      "japanese_transmission": "Arrives with the first wave of Buddhist transmission as the standard rendering of Sanskrit sūtra. The compound 仏経 (the Buddha's sutras) and the names of specific sutras (心経, the Heart Sutra; 法華経, the Lotus Sutra) integrate the character into Japanese Buddhist vocabulary at the foundational level. The verbal sense survives in non-Buddhist compounds and in the technical Zen term 経行."
+    },
+    {
+      "char": "行",
+      "strokes": 6,
+      "radical": "行",
+      "gloss": "Walking, going, conduct, practice — a crossroads with figures in motion; the action of going, extended to all directed activity including the path of Buddhist practice.",
+      "pinyin": "xíng",
+      "on_readings": ["こう", "ぎょう", "あん"],
+      "kun_readings": ["い.く", "おこな.う"],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A pictograph of a crossroads — two intersecting paths viewed from above",
+          "notes": "The original image is concrete: a crossroads where paths meet, the place of going and coming. From this the meanings 'to go, to walk, to travel' all develop, and from the verb of going the meanings 'conduct, action, practice' extend. By the classical period 行 covers the full range from physical walking to ritual practice to moral conduct."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "6 strokes — preserves the crossroads structure with two parallel verticals connected by horizontals",
+          "notes": "In Japanese 行 has multiple readings reflecting its semantic range: こう (going, traveling), ぎょう (action, practice, line), あん (special compounds like 行脚 angya, religious pilgrimage). It appears in countless compounds: 行く (iku, to go), 行動 (kōdō, action), 行為 (kōi, deed), 修行 (shugyō, practice), 行持 (gyōji, sustained practice), 経行 (kinhin, walking meditation)."
+        }
+      ],
+      "doctrinal_notes": "行 is one of the most polysemous and load-bearing characters in Buddhist vocabulary. As 'practice' it covers the entire field of Buddhist activity — meditation, study, ethical conduct, ritual. As 'going' it provides the verbal core of compounds like 経行 (walking meditation) and 行脚 (pilgrimage). In Yogācāra psychology 行 (xíng / saṃskāra) names one of the five aggregates (skandha), referring to mental formations or volitional impulses. Across all these uses the underlying logic is consistent: 行 names directed activity, the going-toward that constitutes both physical walking and the sustained practice of the Buddhist path.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period in the full range of its meanings. Its load-bearing Buddhist registers — practice, conduct, mental formations — develop with the Nara-period scholastic transmission and are preserved across all Japanese Buddhist schools. The compound 修行 (shugyō, religious practice) is one of the most commonly used Buddhist terms in modern Japanese."
+    },
+    {
+      "char": "只",
+      "strokes": 5,
+      "radical": "口",
+      "gloss": "Only, just, simply — a restrictive particle marking what is the case and nothing more; in 只管 the marker of unmixed singularity, doing one thing without admixture.",
+      "pinyin": "zhǐ",
+      "on_readings": ["し"],
+      "kun_readings": ["ただ"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "口 (mouth) with two diverging strokes below — possibly a particle marker spoken from the mouth",
+          "notes": "The semantic core is restrictive: 'only this and not other.' From this the meanings 'just, merely, simply, alone' all develop. In modern usage 只 functions as the literary 'only, just' (ただ in kun reading)."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "5 strokes — 口 (3 strokes) above two diverging strokes",
+          "notes": "In modern Japanese 只 is used in literary and formal contexts. Its load-bearing Zen use is in the compound 只管 (shikan, single-mindedly, purely), which forms the first half of 只管打坐 (shikantaza, just sitting) — Dōgen's name for objectless meditation."
+        }
+      ],
+      "doctrinal_notes": "In 只管 (shikan) and 只管打坐 (shikantaza, just sitting), 只 is the restrictive particle that does the doctrinal work of refusing any addition to the bare activity of sitting. 'Just' sit — not sit-and-something-else, not sit-in-order-to-achieve, not sit-while-thinking-about, but just sit. The 只 is small but doctrinally crucial: it is the character that prevents zazen from being mixed with any other goal or technique. Sōtō Zen's identity as the school of objectless meditation is built on this restrictive force.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period in literary and formal usage. Its load-bearing Zen use in 只管打坐 belongs specifically to Dōgen's Sōtō tradition, in which the compound becomes the school's signature term for the practice of objectless sitting."
+    },
+    {
+      "char": "管",
+      "strokes": 14,
+      "radical": "竹",
+      "gloss": "A pipe, a tube; to manage, to be in charge — extended through grammatical use as a particle of single-minded focus; in 只管 the second character that intensifies 'only' to 'wholly, exclusively'.",
+      "pinyin": "guǎn",
+      "on_readings": ["かん"],
+      "kun_readings": ["くだ"],
+      "components": [
+        { "char": "竹", "meaning": "bamboo radical (6 strokes) — semantic element: the original referent is a bamboo pipe", "strokes": 6 },
+        { "char": "官", "meaning": "official (8 strokes) — phonetic and partly semantic element: a pipe that has charge of something, a conduit that manages flow", "strokes": 8 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "竹 (bamboo) over 官 (official) — a bamboo conduit",
+          "notes": "The original meaning is concrete: a bamboo pipe, used for conducting water, sound, or other things in a single channel. From this the meaning extends to: tube, pipe, channel, and figuratively to managing or being in charge of something — exercising control over a single domain."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "竹 (6 strokes) over 官 (8 strokes) — 14 strokes total",
+          "notes": "In ordinary Japanese 管 means 'pipe, tube' (as in 管楽器, kangakki, wind instruments) and 'to manage' (管理, kanri, management). Its function in 只管 is grammatical: paired with 只, it intensifies the restrictive force from 'only' to 'exclusively, wholly.' The compound 只管 functions adverbially in classical Chinese as 'single-mindedly, purely, exclusively.'"
+        }
+      ],
+      "doctrinal_notes": "In 只管打坐 (shikantaza, just sitting), 管 combines with 只 to form the adverbial compound 只管 (shikan), which intensifies the restrictive force of 只 alone. The semantic logic of pairing 'only' with 'pipe/channel' is consistent: a single channel admits only one flow at a time, single-mindedly conducting one thing through to its destination. 只管打坐 is the practice of sitting through a single channel — the activity of sitting is admitted whole and unmixed, with no admixture of goal or technique.",
+      "japanese_transmission": "First-wave character, present in Japan from the Nara period in its concrete and managerial senses. Its grammatical use as the second half of 只管 belongs to classical Chinese adverbial usage and is preserved in Japanese primarily through the Sōtō Zen vocabulary of 只管打坐."
+    },
+    {
+      "char": "打",
+      "strokes": 5,
+      "radical": "扌",
+      "gloss": "To strike, to do, to carry out — a hand performing an action; in 打坐 the verb that turns 'sit' into 'do sitting,' marking the act as something performed rather than merely undergone.",
+      "pinyin": "dǎ",
+      "on_readings": ["だ", "た"],
+      "kun_readings": ["う.つ"],
+      "components": [
+        { "char": "扌", "meaning": "hand radical (3 strokes) — semantic element: an action of the hand", "strokes": 3 },
+        { "char": "丁", "meaning": "nail, the fourth heavenly stem (2 strokes) — phonetic element", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "扌 (hand) beside 丁 (phonetic) — the hand striking",
+          "notes": "The primary meaning is 'to strike, to hit' — a concrete physical action of the hand. By extension 打 functions in classical Chinese as a generic verb of doing, performing, or carrying out an action: the hand engaged in any task. This generalized usage makes 打 productive as a verbal prefix in compounds."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "扌 (3 strokes) beside 丁 (2 strokes) — 5 strokes total",
+          "notes": "In modern Japanese 打 is widely productive as both 'strike' (打撃, dageki, blow) and as a generic verbal prefix (打開, dakai, breakthrough). In 打坐 (taza), 打 turns the noun 坐 (sitting) into a verbal phrase: doing-sitting, performing-sitting, the act of sitting carried out as an action."
+        }
+      ],
+      "doctrinal_notes": "In 只管打坐 (shikantaza, just sitting), 打 is doing precise grammatical work: it turns 坐 (sit) into 打坐 (do sitting, perform sitting), naming the act as something actively performed rather than passively assumed. The compound 只管打坐 thus reads more precisely as 'just-doing-sitting' — single-mindedly engaging in the activity of sitting, with no admixture of any other goal or technique. The 打 prevents the practice from being read as mere physical posture: zazen is something one does, an activity carried out, not a position one occupies.",
+      "japanese_transmission": "First-wave character, present in Japanese writing from the Nara period in its general meaning of 'striking, hitting, doing.' Its grammatical use in 打坐 belongs to Chan/Zen technical vocabulary and is preserved in Japanese primarily through the Sōtō term 只管打坐."
+    },
+    {
+      "char": "坐",
+      "strokes": 7,
+      "radical": "土",
+      "gloss": "To sit — two persons facing each other on the ground; the act of sitting that the practice of zazen takes as its entire physical form.",
+      "pinyin": "zuò",
+      "on_readings": ["ざ"],
+      "kun_readings": ["すわ.る"],
+      "components": [
+        { "char": "土", "meaning": "earth radical (3 strokes) — the ground on which the sitting takes place", "strokes": 3 },
+        { "char": "人", "meaning": "person (2 strokes), repeated as two figures facing each other above the earth", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "Two figures facing each other above the earth element — persons sitting on the ground in mutual presence",
+          "notes": "The original image is concrete and relational: two persons sitting facing each other on the earth. The semantic core is the act of sitting as a sustained presence, not merely the postural position. From this concrete sense the meaning extends to all forms of sitting, including the meditative."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "7 strokes — two 人 elements above 土",
+          "notes": "Distinct from 座 (also pronounced ざ in Japanese), which adds a covering element and means 'seat' as a noun. 坐 is the verb of the act of sitting; 座 is the place or position where one sits. In Buddhist contexts 坐禅 uses the verbal 坐 to name the act of sitting in meditation, while 座席 (seki/seat) and 高座 (kōza/high seat) use the nominal 座."
+        }
+      ],
+      "doctrinal_notes": "In 坐禅 (zazen, seated meditation), 坐 names the entire physical activity of the practice. Sōtō Zen takes this with extreme literalness: the activity of zazen is precisely the activity of sitting — not what the mind does while the body sits still, but what the whole embodied person does in the act of sitting. Dōgen's Fukanzazengi (Universal Recommendation of Zazen) treats the postural details of 坐 — the position of the legs, the alignment of the spine, the position of the hands, the orientation of the eyes — as integral to the practice rather than preparatory to it. The character 坐 carries this full weight: zazen is the activity of sitting, all the way down.",
+      "japanese_transmission": "First-wave character, present in Japan from the Nara period in its general meaning of 'sitting.' Its load-bearing Zen use in 坐禅 arrives with the Kamakura transmission of Chan: Eisai (Rinzai) and Dōgen (Sōtō) both establish 坐禅 as the central practice of their respective lineages, and 坐 in this technical sense remains the primary vocabulary of Japanese Zen practice instruction to the present day."
+    },
+    {
+      "char": "禅",
+      "strokes": 13,
+      "radical": "示",
+      "gloss": "Meditation, contemplation, dhyāna — the focused absorption of meditation, transliterated and reabsorbed into Chinese as the name of the school built around it.",
+      "pinyin": "chán",
+      "on_readings": ["ぜん"],
+      "kun_readings": [],
+      "components": [
+        { "char": "示", "meaning": "altar/spirit radical (4 strokes) — semantic element marking the religious register", "strokes": 4 },
+        { "char": "単", "meaning": "single, simple (9 strokes in simplified form) — phonetic element providing the chán sound", "strokes": 9 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Buddhist transliteration period (3rd–7th century CE)",
+          "form_description": "Traditional 禪: 示 (altar) beside 單 (phonetic) — assembled to render the Sanskrit dhyāna",
+          "notes": "The character was assembled to phonetically transliterate the Sanskrit dhyāna (or Pali jhāna) — the focused absorption of meditation as analyzed in Buddhist psychology. The 示 radical signals the religious-meditative register; 單 (and its simplified form 单) provides the chán sound. The traditional form 禪 is still used in Taiwan and Hong Kong; mainland China and Japan use the simplified 禅."
+        },
+        {
+          "period": "Postwar Japanese script reform (1946)",
+          "form_description": "Simplified to 禅 (13 strokes): 示 beside the simplified 単",
+          "notes": "The character functions both as the noun for meditation (the activity) and as the name of the school built around the practice (Chan in Chinese, Zen in Japanese, Sŏn in Korean, Thiền in Vietnamese). The fact that the school takes its name from the practice rather than from any doctrinal content is itself doctrinally significant."
+        }
+      ],
+      "doctrinal_notes": "禅 carries two distinct but inseparable senses in East Asian Buddhist vocabulary. As a common noun, it names the meditative absorption (dhyāna) that all Buddhist traditions practice in some form. As a proper noun, it names the school of Chinese Buddhism — and its descendants in Korea, Japan, and Vietnam — that takes meditation as the central activity through which awakening is occasioned. The school's name is 禪宗 (the meditation school), and its self-understanding emphasizes that what makes it distinctive is not a body of doctrine but a particular relationship to the practice of meditation. The Chan/Zen claim is that doctrine, sutra study, and ritual practice are all subordinate to direct meditative engagement with the nature of mind, and the character 禪 encodes this priority.",
+      "japanese_transmission": "Arrives in Japan as part of the general Buddhist meditative vocabulary in the Nara and Heian periods, but becomes a distinct school name only with Eisai's introduction of Rinzai Zen (1191) and Dōgen's introduction of Sōtō Zen (1227). From the Kamakura period onward, 禅 in Japanese refers primarily to the Chan/Zen school as a distinct institutional and practice tradition, while the more general meditative sense survives in compounds like 禅定 (zenjō, meditative absorption)."
+    },
+    {
+      "char": "平",
+      "strokes": 5,
+      "radical": "干",
+      "gloss": "Level, even, ordinary — a flat balance scale; in Chan/Zen vocabulary the qualifier of the unexceptional everyday in which the Way is directly available.",
+      "pinyin": "píng",
+      "on_readings": ["へい", "びょう"],
+      "kun_readings": ["たい.ら", "ひら"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "A flat horizontal element with vertical balance — possibly a balance scale or a level surface",
+          "notes": "The semantic core is consistent: 平 names what is level, balanced, even. From this it extends to 'peaceful' (the leveling of conflict), 'flat' (geometric levelness), and 'ordinary' (what is unexceptional, on the same level as everything else). The Chan/Zen use of 平 in 平常 (ordinary, everyday) is the third sense — what is on the level of everything else, unexceptional."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "5 strokes — a balanced symmetric form preserving the leveling sense",
+          "notes": "In modern Japanese 平 is widely productive: 平和 (heiwa, peace), 平等 (byōdō, equality), 平凡 (heibon, ordinary), 平成 (Heisei, the era name 1989–2019), and the Chan compound 平常心 (byōjōshin, ordinary mind)."
+        }
+      ],
+      "doctrinal_notes": "In 平常心是道 (ordinary mind is the Way), 平 contributes the sense of what is on the level — unexceptional, not elevated above the everyday. The doctrinal point of the formula is precisely that the Way is not found in extraordinary states or special practices but in the ordinary functioning of the mind right now. 平 is doing the leveling work: the Way is on the same level as everyday experience, not above it.",
+      "japanese_transmission": "First-wave character, present in Japan from the Nara period across legal, administrative, and Buddhist registers. Its load-bearing Chan/Zen use in 平常心 arrives with the Kamakura transmission and is preserved in the canonical formula 平常心是道."
+    },
+    {
+      "char": "常",
+      "strokes": 11,
+      "radical": "巾",
+      "gloss": "Constant, ordinary, always — what holds steady through change; in Chan/Zen the qualifier of the unchanging everyday from which the Way is never absent.",
+      "pinyin": "cháng",
+      "on_readings": ["じょう"],
+      "kun_readings": ["つね", "とこ"],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "An upper element over 巾 (cloth radical) — possibly a long garment that hangs constantly",
+          "notes": "The semantic core: what is constant, what does not change, what is always there. From this the meanings 'usual, ordinary, eternal, the norm' all develop. In Buddhist contexts 常 takes on a contested doctrinal weight: the Three Dharma Seals declare that all conditioned things are 無常 (impermanent), so 常 is structurally a problematic predicate — yet it appears positively in compounds like 常住 (eternally abiding) and 涅槃常住 (nirvāṇa eternally abiding) in Tathāgatagarbha-influenced traditions."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "11 strokes — an upper element over 巾",
+          "notes": "In modern Japanese 常 carries the senses 'usual, ordinary, always, constant': 常識 (jōshiki, common sense), 日常 (nichijō, everyday), 常時 (jōji, always), 平常心 (byōjōshin, ordinary mind). The Buddhist sense of 'eternally abiding' is technical and confined to doctrinal contexts."
+        }
+      ],
+      "doctrinal_notes": "In 平常心 (ordinary mind) and 平常心是道 (ordinary mind is the Way), 常 contributes the sense of what is always already there — the constancy of the everyday mode of mind through all moments of experience. Combined with 平 (level, unexceptional), 平常 names what is unexceptionally present and constantly available. The Chan/Zen use is doctrinally sharp: the Way is not what arises during special practice or extraordinary states but the constant ordinary functioning of mind across all moments.",
+      "japanese_transmission": "First-wave character, present from Nara times across multiple registers. Its doctrinal use in Mahāyāna Buddhism is contested: the Three Dharma Seals make 無常 (impermanence) a foundational claim, while Tathāgatagarbha and certain Mahāyāna sutras affirm 常 as a positive predicate of Buddha-nature. The Chan/Zen use in 平常心 sidesteps the debate by using 常 in the everyday sense rather than the metaphysical sense."
+    },
+    {
       "char": "即",
       "strokes": 7,
       "radical": "卩",

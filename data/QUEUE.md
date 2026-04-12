@@ -19,33 +19,33 @@ Mind, nature, and Buddha-nature
 [x] 法性 — hosshō (Ch. fǎxìng) — "Dharma-nature"; the intrinsic nature of all phenomena; title of a Shōbōgenzō fascicle.
 [x] 自性 — jishō (Ch. zìxìng) — "Self-nature"; one's inherent essence, as invoked in the phrase 見性成仏 ("seeing self-nature, becoming Buddha").
 [x] 身心一如 — shinjin ichinyo — "Body-mind as one"; the non-duality of physical and mental experience, Academia.edu foundational to Dōgen's embodied Zen.
-即心是仏 — sokushin zebutsu — "This very mind is Buddha"; a cardinal Zen formula affirming that the presently functioning mind is itself Buddhahood Sotozen (Mumonkan Case 30; Blue Cliff Record Case 73).
-平常心是道 — byōjōshin kore dō (Ch. píngcháng xīn shì dào) — "Ordinary mind is the Way"; attributed to Mazu Daoyi, expressing that the everyday mind — without contrivance — is the path itself Sotozen (Mumonkan Case 19).
-仏心 — busshin (Ch. fóxīn) — "Buddha-mind"; the awakened mind; Dharma-rain Zen is called 仏心宗 (busshinshū), "the Buddha-mind school." Wikipedia
-本心 — honshin — "Original mind"; the inherently pure, undefiled mind prior to the arising of delusion.
-無常仏性 — mujō busshō — "Impermanence-is-Buddha-nature"; Dōgen's radical identification of impermanence itself with Buddha-nature in the "Busshō" fascicle.
+[x] 即心是仏 — sokushin zebutsu — "This very mind is Buddha"; a cardinal Zen formula affirming that the presently functioning mind is itself Buddhahood Sotozen (Mumonkan Case 30; Blue Cliff Record Case 73).
+[x] 平常心是道 — byōjōshin kore dō (Ch. píngcháng xīn shì dào) — "Ordinary mind is the Way"; attributed to Mazu Daoyi, expressing that the everyday mind — without contrivance — is the path itself Sotozen (Mumonkan Case 19).
+[x] 仏心 — busshin (Ch. fóxīn) — "Buddha-mind"; the awakened mind; Dharma-rain Zen is called 仏心宗 (busshinshū), "the Buddha-mind school." Wikipedia
+[x] 本心 — honshin — "Original mind"; the inherently pure, undefiled mind prior to the arising of delusion.
+[x] 無常仏性 — mujō busshō — "Impermanence-is-Buddha-nature"; Dōgen's radical identification of impermanence itself with Buddha-nature in the "Busshō" fascicle.
 
 Practice and meditation
-坐禅 — zazen (Ch. zuòchán) — "Seated meditation"; the central practice of Zen Buddhism — sitting in meditative absorption. WikipediaZen-in-the-woods
-只管打坐 — shikantaza — "Just sitting"; objectless, technique-free meditation that is the hallmark of Sōtō Zen; The Wisdom ExperienceMountainrainzen wholehearted sitting without seeking any particular state.
-経行 — kinhin (Ch. jīngxíng) — "Walking meditation"; Empty Bowl Zendo slow, mindful walking Greatwave practiced between periods of seated zazen. Mbzc
-摂心 — sesshin — "Gathering the mind"; an intensive meditation retreat, GreatwaveEmpty Bowl Zendo typically five to seven days One River Zen of near-continuous zazen.
-安居 — ango — "Dwelling in peace"; an intensive communal training period Wikipedia (traditionally 90 days), originating in the Indian Buddhist rain-retreat. Treeleaf Zendo
-三昧 — zanmai (Ch. sānmèi) — Samādhi; deep, one-pointed meditative absorption; concentrated, unified awareness.
-自受用三昧 — jijuyū zanmai — "Self-receiving and self-employing samādhi"; Dōgen's term (from Bendōwa) for zazen as a self-fulfilling, self-authenticating meditative activity. SotozenThe Dewdrop
-行持 — gyōji — "Continuous practice"; the sustained, ceaseless activity of the Buddhist Way; Sotozen subject of a major Shōbōgenzō fascicle.
-弁道 — bendō — "Negotiating the Way"; wholehearted engagement in practice; title of Dōgen's foundational essay Bendōwa.
-発菩提心 — hotsu bodaishin — "Arousing the mind of awakening"; generating bodhicitta, the essential first step of the Mahāyāna path, strongly emphasized by Dōgen.
-伝法 — denpō — "Dharma transmission"; Wikipedia formal recognition of a disciple as a dharma heir, continuing the lineage from Śākyamuni Buddha. Mbzc
-面授 — menju — "Face-to-face transmission"; the direct, intimate passing of dharma from master to disciple, Sotozen which Dōgen considered essential to authentic lineage.
+[x] 坐禅 — zazen (Ch. zuòchán) — "Seated meditation"; the central practice of Zen Buddhism — sitting in meditative absorption. WikipediaZen-in-the-woods
+[x] 只管打坐 — shikantaza — "Just sitting"; objectless, technique-free meditation that is the hallmark of Sōtō Zen; The Wisdom ExperienceMountainrainzen wholehearted sitting without seeking any particular state.
+[x] 経行 — kinhin (Ch. jīngxíng) — "Walking meditation"; Empty Bowl Zendo slow, mindful walking Greatwave practiced between periods of seated zazen. Mbzc
+[x] 摂心 — sesshin — "Gathering the mind"; an intensive meditation retreat, GreatwaveEmpty Bowl Zendo typically five to seven days One River Zen of near-continuous zazen.
+[x] 安居 — ango — "Dwelling in peace"; an intensive communal training period Wikipedia (traditionally 90 days), originating in the Indian Buddhist rain-retreat. Treeleaf Zendo
+[x] 三昧 — zanmai (Ch. sānmèi) — Samādhi; deep, one-pointed meditative absorption; concentrated, unified awareness.
+[x] 自受用三昧 — jijuyū zanmai — "Self-receiving and self-employing samādhi"; Dōgen's term (from Bendōwa) for zazen as a self-fulfilling, self-authenticating meditative activity. SotozenThe Dewdrop
+[x] 行持 — gyōji — "Continuous practice"; the sustained, ceaseless activity of the Buddhist Way; Sotozen subject of a major Shōbōgenzō fascicle.
+[x] 弁道 — bendō — "Negotiating the Way"; wholehearted engagement in practice; title of Dōgen's foundational essay Bendōwa.
+[x] 発菩提心 — hotsu bodaishin — "Arousing the mind of awakening"; generating bodhicitta, the essential first step of the Mahāyāna path, strongly emphasized by Dōgen.
+[x] 伝法 — denpō — "Dharma transmission"; Wikipedia formal recognition of a disciple as a dharma heir, continuing the lineage from Śākyamuni Buddha. Mbzc
+[x] 面授 — menju — "Face-to-face transmission"; the direct, intimate passing of dharma from master to disciple, Sotozen which Dōgen considered essential to authentic lineage.
 
 Teacher-student encounter and dialogue
-問答 — mondō (Ch. wèndá) — Formal question-and-answer exchange between master and student; the dialogic mode underlying most koan records.
-提唱 — teishō — A master's formal commentary on a koan or Zen text, Greatwave understood as a demonstration of realized insight rather than an explanation.
-独参 — dokusan — Private one-on-one interview with a Zen master Greatwave in which the student presents understanding of a koan; the core of Rinzai training.
-参禅 — sanzen — "Going to Zen"; private interview with a master, One River ZenMbzc emphasizing the student's initiative in approaching the teacher.
-上堂 — jōdō (Ch. shàngtáng) — "Ascending the hall"; formal convocation in which the abbot addresses the full assembly from the high seat, Mbzc sometimes engaging in mondō.
-小参 — shōsan (Ch. xiǎocān) — "Informal assembly"; a less formal dharma dialogue in which the teacher offers a short talk and holds exchange with attendees.
+[x] 問答 — mondō (Ch. wèndá) — Formal question-and-answer exchange between master and student; the dialogic mode underlying most koan records.
+[x] 提唱 — teishō — A master's formal commentary on a koan or Zen text, Greatwave understood as a demonstration of realized insight rather than an explanation.
+[x] 独参 — dokusan — Private one-on-one interview with a Zen master Greatwave in which the student presents understanding of a koan; the core of Rinzai training.
+[x] 参禅 — sanzen — "Going to Zen"; private interview with a master, One River ZenMbzc emphasizing the student's initiative in approaching the teacher.
+[x] 上堂 — jōdō (Ch. shàngtáng) — "Ascending the hall"; formal convocation in which the abbot addresses the full assembly from the high seat, Mbzc sometimes engaging in mondō.
+[x] 小参 — shōsan (Ch. xiǎocān) — "Informal assembly"; a less formal dharma dialogue in which the teacher offers a short talk and holds exchange with attendees.
 法戦式 — hossenshiki — "Dharma combat ceremony"; ritualized public exchange of Zen questions and answers, typically marking the shuso's completion of a practice period.
 室内 — shitsunai — "Within the room"; private, esoteric instruction given by a master; also denotes a lineage's body of koan teachings transmitted in the interview room.
 
