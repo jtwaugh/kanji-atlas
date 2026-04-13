@@ -1664,5 +1664,221 @@
       ],
       "doctrinal_notes": "In 頓悟 (tongo), 頓 marks the Southern school's doctrinal claim that genuine awakening arrives instantaneously — not at the end of a cumulative path of purification but as a single breakthrough that is complete in itself. The opposing term is 漸悟 (zengo, gradual awakening), associated with the Northern school's teaching of progressive purification. The Platform Sutra presents Huineng's sudden-awakening teaching as the authentic Chan transmission precisely against the gradual approach: 頓 is not mere quickness but a claim about the structure of awakening itself — it does not arrive in stages because there is no gap between recognizing one's nature and being it.",
       "japanese_transmission": "Arrives with the Chan transmission in the Kamakura period (late 12th–13th centuries), embedded in the vocabulary of the Platform Sutra and the Rinzai koan curriculum. The 頓漸 (tonzen, sudden-gradual) debate was a live doctrinal controversy in Tang-dynasty China and remains a conceptual framework in Japanese Zen: Rinzai tends to foreground 頓 (sudden breakthrough through koan), while Sōtō tends to sidestep the contrast through shikantaza (just sitting), which Dōgen frames as practice-realization rather than either sudden or gradual. In modern Japanese, 頓 survives primarily in set compounds: 頓悟 (sudden awakening), 頓死 (sudden death), 頓智 (quick wit, quick-wittedness) — all carrying the sense of an abrupt, complete event."
+    },
+    {
+      "char": "戦",
+      "strokes": 13,
+      "radical": "戈",
+      "gloss": "Battle, combat, contest — a weapon wielded in ordered struggle; in 法戦 the character transfers the figure of combat from the battlefield to the ritual exchange of dharma questions.",
+      "pinyin": "zhàn",
+      "on_readings": ["せん"],
+      "kun_readings": ["いくさ", "たたか.う", "おのの.く"],
+      "components": [
+        { "char": "単", "meaning": "single, simple (9 strokes in simplified form) — phonetic element providing the sen sound", "strokes": 9 },
+        { "char": "戈", "meaning": "dagger-axe, weapon (4 strokes) — the semantic radical: a tool of war, placing the character in the sphere of armed struggle", "strokes": 4 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "An element involving 戈 (dagger-axe) alongside a phonetic component — the weapon marks the semantic field of combat",
+          "notes": "The traditional form 戰 is more complex; the modern Japanese 戦 is a simplification standardized in the postwar shinjitai reform. The semantic core is stable across all periods: 戈 signals that whatever is happening, it is happening as armed contest — a meeting of forces under the sign of a weapon."
+        },
+        {
+          "period": "Regular script (楷書), simplified",
+          "form_description": "単 (9 strokes) on the left beside 戈 (4 strokes) — 13 strokes total in the Japanese simplified form",
+          "notes": "In ordinary Japanese 戦 covers war (戦争), battle (戦闘), strategy (戦略), and the verbal sense of fighting or trembling (戦く). Its figural use in 法戦 preserves the combat register while transferring the action onto the field of dharma exchange — the sense is not metaphorical softening but tonal intensification."
+        }
+      ],
+      "doctrinal_notes": "In 法戦式 (hossenshiki, dharma combat ceremony), 戦 is doing figural work that readers sometimes want to defuse but should not. The compound names the formal ritual exchange of Zen questions and answers as a literal combat — not a softened or metaphorical one. The figure preserves what ordinary pedagogical language flattens: that the encounter between practitioners is an occasion for the strongest forces each can bring to bear on the dharma, and that the ritual structure is the arena in which this contest is held. Related compounds: 法戦 (dharma combat), 戦闘 (combat, battle).",
+      "japanese_transmission": "First-wave character present in Japanese writing from the earliest periods as the standard rendering for war, battle, and contest. The traditional form 戰 was simplified to 戦 in the postwar shinjitai reform. The figural Buddhist register of 法戦 arrives with the Chan transmission in the Kamakura period, embedded in the monastic vocabulary of Rinzai and Sōtō Zen. The everyday range and the specialized monastic use coexist without confusion because the compound 法戦 signals the religious context unambiguously."
+    },
+    {
+      "char": "式",
+      "strokes": 6,
+      "radical": "弋",
+      "gloss": "Form, pattern, ceremony — a prescribed shape that an action takes; in monastic vocabulary the ritual container that distinguishes formal from informal observance.",
+      "pinyin": "shì",
+      "on_readings": ["しき"],
+      "kun_readings": [],
+      "components": [
+        { "char": "工", "meaning": "work, craft (3 strokes) — semantic element: a structured, made form", "strokes": 3 },
+        { "char": "弋", "meaning": "stake, peg (3 strokes) — phonetic element providing the shì sound", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "工 (work) beside 弋 (phonetic stake) — a crafted form fixed to a standard",
+          "notes": "The semantic core is stable from early usage: a prescribed form or pattern that an action or object conforms to. From this concrete sense the range extends to: ritual ceremony (the form that an observance takes), mathematical formula (the standard shape of an equation), model or type."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "工 (3 strokes) beside 弋 (3 strokes) — 6 strokes total",
+          "notes": "In modern Japanese 式 is among the most productive suffixes for naming ceremonies: 結婚式 (wedding), 卒業式 (graduation), 入学式 (enrollment). In monastic contexts it marks the distinction between the ritually bounded event and the ongoing flow of practice: 法戦式 is a ceremony in the strong sense, with defined beginning, defined form, and defined end."
+        }
+      ],
+      "doctrinal_notes": "In 法戦式 (hossenshiki), 式 marks the exchange as a ceremony — a ritually bounded event with prescribed form — rather than a spontaneous occurrence of dharma combat. The distinction matters: 法戦 alone could name any vigorous encounter between practitioners; 法戦式 names the specific ritual event that marks a practice period's culmination, with choreographed questions, responses, and public witnessing. The suffix 式 places the combat within a ceremonial container that distinguishes it from the informal exchanges of daily monastic life.",
+      "japanese_transmission": "First-wave character present in Japanese from the Nara period as the standard term for a prescribed form or pattern. Its productivity as a ceremonial suffix develops through the classical period and remains dominant in modern Japanese: nearly every named ceremony in contemporary Japanese life is constructed as X式. The monastic use in 法戦式 arrives with the Chan transmission in the Kamakura period and is preserved in both Rinzai and Sōtō training regulations."
+    },
+    {
+      "char": "室",
+      "strokes": 9,
+      "radical": "宀",
+      "gloss": "Room, chamber — an enclosed interior space under a roof; in 室内 the particular inner chamber where a master receives students for private, esoteric instruction.",
+      "pinyin": "shì",
+      "on_readings": ["しつ"],
+      "kun_readings": ["むろ"],
+      "components": [
+        { "char": "宀", "meaning": "roof radical (3 strokes) — the semantic frame: an enclosed space under a roof", "strokes": 3 },
+        { "char": "至", "meaning": "to arrive, to reach (6 strokes) — phonetic and partially semantic element: the place one arrives at, the destination within a dwelling", "strokes": 6 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "宀 (roof) over 至 (arriving) — a place one enters beneath a roof",
+          "notes": "The original sense is concrete: an inner room of a dwelling, the chamber one reaches after entering the outer hall. From this concrete sense the meaning extends to any enclosed or bounded interior space: a room, a chamber, a compartment."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "宀 (3 strokes) over 至 (6 strokes) — 9 strokes total",
+          "notes": "In ordinary Japanese 室 names a room, a cabin, or a bounded interior: 教室 (classroom), 居室 (living room), 研究室 (laboratory). In Zen monastic use 室 is the master's private chamber — the room where dokusan is given and where the transmitted, esoteric core of the lineage is held. The compound 室内 (within the room) carries this specialized sense."
+        }
+      ],
+      "doctrinal_notes": "In 室内 (shitsunai, within the room), 室 names the physical and institutional space of the master's private chamber where one-on-one interviews occur and where the lineage's transmitted teachings — its koan curriculum, its encounter language, its esoteric answers — are passed directly from teacher to student. The figure is architectural and exclusive: 室内 marks what is inside the room as doctrinally distinct from what is said in public teishō or jōdō. The term's technical use in Rinzai curriculum contexts (where 'the shitsunai' names the entire body of transmitted koan responses held within a lineage) preserves this spatial logic.",
+      "japanese_transmission": "First-wave character present in Japanese from the Nara period as the standard term for a room or inner chamber. Its monastic specialization arrives with the Chan transmission in the Kamakura period, embedded in the vocabulary of the dokusan interview and the transmitted koan curriculum. In modern Japanese the ordinary architectural sense and the specialized monastic sense coexist: 室内 in everyday Japanese means simply 'indoors,' while in Zen contexts it names the specific interior of the master's teaching chamber."
+    },
+    {
+      "char": "内",
+      "strokes": 4,
+      "radical": "冂",
+      "gloss": "Inside, within, inner — what lies enclosed within a boundary; in 室内 the spatial preposition that locates teaching within the master's private chamber rather than the public hall.",
+      "pinyin": "nèi",
+      "on_readings": ["ない", "だい"],
+      "kun_readings": ["うち"],
+      "components": [
+        { "char": "冂", "meaning": "open box radical (2 strokes) — the semantic frame: a bounded enclosure", "strokes": 2 },
+        { "char": "入", "meaning": "to enter (2 strokes) — semantic element: the act of going inside the enclosure", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "An enclosure with an element showing entry — the figure of something going inside a bounded space",
+          "notes": "The original image is concrete: something or someone entering into an enclosed space. From this concrete sense the abstract meaning of 'interior, inside, within' develops in classical usage, along with the relational sense of 'inner' as opposed to 'outer' (内外, nèiwài, inside and outside)."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "冂 (2 strokes) enclosing 入 (2 strokes) — 4 strokes total",
+          "notes": "In modern Japanese 内 is one of the most common characters and carries a wide range of relational senses: inside (内部), within (以内), one's own household (家内), and the socially intimate in-group (the distinction 内/外 structures much of Japanese social vocabulary). The monastic use in 室内 is a specialization of the general spatial sense."
+        }
+      ],
+      "doctrinal_notes": "In 室内 (shitsunai, within the room), 内 does the relational work of distinguishing what is held inside the master's chamber from what is communicated outside it. The character is not neutral: it carries the social and doctrinal weight of the Japanese 内/外 distinction, marking what is in-group and esoteric as opposed to what is public and exoteric. In the Rinzai koan curriculum, 内 is the spatial figure for the transmitted, lineage-internal answers that have no public circulation — what is 室内 stays 室内.",
+      "japanese_transmission": "First-wave character present in Japanese writing from the earliest periods and mapped directly onto the native Japanese word うち (uchi, inside, within, one's own group). The character's productivity in modern Japanese is enormous, covering physical interiority, social in-group membership, temporal boundaries (within a period), and possessive intimacy. The monastic specialization in 室内 borrows the general spatial and relational sense without modification."
+    },
+    {
+      "char": "公",
+      "strokes": 4,
+      "radical": "八",
+      "gloss": "Public, open, official — what belongs to or is visible to the common body rather than held in private; in 公案 the character that marks a Chan case as publicly circulating precedent rather than private instruction.",
+      "pinyin": "gōng",
+      "on_readings": ["こう", "く"],
+      "kun_readings": ["おおやけ"],
+      "components": [
+        { "char": "八", "meaning": "to divide, to part (2 strokes) — semantic element: opening out, making accessible", "strokes": 2 },
+        { "char": "厶", "meaning": "private, enclosed (2 strokes) — the semantic element that 八 opens: the private broken open into the public", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "八 (divide) over 厶 (private) — the classical etymology reads this as the opening up of what was private into the public sphere",
+          "notes": "The Shuowen Jiezi glosses 公 as the opposite of 私 (private) — what is 公 is what is opened out from private enclosure into common access. From this core sense come the meanings of public office (公務), official (公式), and common/shared (公共). The figure is ethical as well as spatial: 公 names fairness and impartiality, the stance that does not enclose what should be shared."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "八 (2 strokes) over 厶 (2 strokes) — 4 strokes total",
+          "notes": "In modern Japanese 公 is productive across many registers: 公共 (public), 公的 (official), 公園 (public park), 公平 (fairness). The compound 公案 (kōan) preserves an older Tang-dynasty legal sense — 公 as 'official, pertaining to the magistrate's court' — where 公案 originally named a public legal case before being recruited by Chan as a figure for the recorded precedents of master-student encounter."
+        }
+      ],
+      "doctrinal_notes": "In 公案 (kōan), 公 is not doing the general 'public' work the character carries in modern Japanese but a more specific legal-administrative work. The compound originates in Tang-dynasty magistrate's vocabulary: 公案 is the magistrate's public docket, the case-file held on the official's desk that records a precedent-setting judgment. Chan teachers recruited the term to name the recorded encounters of the ancestors precisely because the legal figure preserved the sense of precedent — a case decided, publicly attested, and available as a standard against which later cases can be measured. The ethical and juridical resonances are inseparable from the pedagogical use.",
+      "japanese_transmission": "First-wave character present in Japanese writing from the Nara period and mapped onto the native Japanese word おおやけ (ōyake, public, open, the common). Its productivity in ordinary Japanese covers public office, common access, and impartial fairness. The specialized Chan use in 公案 arrives in Japan with the Kamakura Zen transmission and preserves the Tang-dynasty legal register that most contemporary Japanese speakers no longer hear when they use the character in everyday contexts."
+    },
+    {
+      "char": "案",
+      "strokes": 10,
+      "radical": "木",
+      "gloss": "Case, file, docket, plan — a wooden writing-table on which documents are laid out for consideration; in 公案 the record of a Chan encounter treated as a precedent-setting case.",
+      "pinyin": "àn",
+      "on_readings": ["あん"],
+      "kun_readings": [],
+      "components": [
+        { "char": "安", "meaning": "peace, calm (6 strokes) — phonetic element providing the àn sound; also semantic in the sense of a settled place", "strokes": 6 },
+        { "char": "木", "meaning": "tree, wood (4 strokes) — the semantic radical: a wooden object, originally a writing-table or desk", "strokes": 4 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "安 (settled) over 木 (wood) — a wooden surface on which things are laid to be settled",
+          "notes": "The original concrete meaning is a low wooden writing-table or tray — the surface on which a magistrate laid out documents for consideration. From this concrete sense the meaning extends metonymically: first to the documents laid on the table (a case, a file), then to the content of those documents (a plan, a proposal, a judgment). The compound 公案 preserves the earliest juridical sense: the magistrate's official case-file."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "安 (6 strokes) over 木 (4 strokes) — 10 strokes total",
+          "notes": "In modern Japanese 案 is productive in the extended senses: 案内 (guidance, information), 提案 (proposal), 法案 (legislative bill), 案件 (case, matter). The concrete sense of the wooden table is no longer active, but the metonymy from table to case-file to proposal is preserved in the compound vocabulary. The Chan use in 公案 holds closest to the early juridical sense: the case before the bench."
+        }
+      ],
+      "doctrinal_notes": "In 公案 (kōan), 案 carries the juridical and documentary sense that has faded from most modern uses of the character. The compound 公案 is literally 'public case-file' — the magistrate's docket on which precedent-setting judgments are recorded. Chan teachers recruited the figure because the magistrate's case-file is not a discussion or a hypothesis but a recorded decision: the case was decided, the precedent is set, and later cases can be measured against it. The Zen koan inherits this structure — the ancestor's response to the question was not an opinion to be weighed but a move that decided the matter, and the student approaches it as a living precedent to meet rather than a puzzle to solve.",
+      "japanese_transmission": "Arrives in Japanese in the Nara period as part of the general classical-Chinese vocabulary, initially with its range of administrative and documentary senses. Its specialized Chan use in 公案 enters Japan with the Kamakura Zen transmission, where the legal-documentary figure is preserved as a technical term of Rinzai koan practice. In modern Japanese the ordinary senses (proposal, plan, case) have taken over everyday use, and the specialized koan sense is restricted to Zen contexts."
+    },
+    {
+      "char": "話",
+      "strokes": 13,
+      "radical": "言",
+      "gloss": "Speech, talk, story — what is said in words; in 話頭 the character that names the spoken utterance whose 'head' (critical phrase) becomes the object of meditative concentration.",
+      "pinyin": "huà",
+      "on_readings": ["わ"],
+      "kun_readings": ["はな.す", "はなし"],
+      "components": [
+        { "char": "言", "meaning": "speech, word (7 strokes) — the semantic radical: the register of spoken language", "strokes": 7 },
+        { "char": "舌", "meaning": "tongue (6 strokes) — phonetic and semantic element: the organ of speech, the physical source of the spoken word", "strokes": 6 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "言 (speech) beside 舌 (tongue) — speech coming from the tongue",
+          "notes": "The semantic logic is transparent: speech produced by the physical organ of speech. From this concrete sense the meaning extends to: what is said, a conversation, a story, a topic of discussion. The character is structurally and semantically linked to 言 (word) but names specifically the embodied, vocal aspect of speech rather than the abstract word."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "言 (7 strokes) beside 舌 (6 strokes) — 13 strokes total",
+          "notes": "In modern Japanese 話 is among the most common characters and covers speech in nearly all its registers: 会話 (conversation), 電話 (telephone), 童話 (children's story), 話題 (topic). The Chan-specific use in 話頭 preserves the sense of 'a particular utterance' — the specific saying or exchange that the practitioner concentrates on — rather than speech in general."
+        }
+      ],
+      "doctrinal_notes": "In 話頭 (watō, Ch. huàtóu, 'head of the word'), 話 names the complete utterance — the koan as a whole saying or exchange — from which the 頭 (head, critical phrase) is isolated for meditative concentration. The distinction between 話 and 話頭 is structural and important: 話 is the whole story or dialogue, 話頭 is the single critical phrase or word at its decisive point that the practitioner holds in awareness. In Dahui Zonggao's kanhua (koan-introspecting) method, the practitioner does not meditate on the full 話 but on its 頭 — the pivotal point where the meaning concentrates.",
+      "japanese_transmission": "First-wave character present in Japanese writing from the Nara period as the standard rendering for speech and spoken discourse. Its everyday productivity in modern Japanese is enormous — 話 is among the first characters Japanese children learn. The specialized Chan use in 話頭 arrives with the Kamakura transmission and remains a technical term of Rinzai kōan practice, preserving the Dahui-derived distinction between the full utterance and its critical phrase."
+    },
+    {
+      "char": "頭",
+      "strokes": 16,
+      "radical": "頁",
+      "gloss": "Head, top, beginning — the head of a body, by extension the top or leading edge of anything; in 話頭 the decisive critical phrase at the head of a koan utterance.",
+      "pinyin": "tóu",
+      "on_readings": ["とう", "ず", "と"],
+      "kun_readings": ["あたま", "かしら", "こうべ"],
+      "components": [
+        { "char": "豆", "meaning": "bean, ritual vessel (7 strokes) — phonetic element providing the tóu sound", "strokes": 7 },
+        { "char": "頁", "meaning": "head, page radical (9 strokes) — the semantic element: a head, the top of the body", "strokes": 9 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "豆 (phonetic) beside 頁 (head radical) — a head, with phonetic marker",
+          "notes": "The semantic core is stable: the head of a body. From this concrete sense the meaning extends to the top, the leading edge, the beginning, or the principal point of anything — a counting suffix for animals (頭 for cattle and horses), the leader of a group (頭目), the start of something (頭から). The sense of 'the critical or decisive point' emerges naturally from 'the head of the matter.'"
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "豆 (7 strokes) beside 頁 (9 strokes) — 16 strokes total",
+          "notes": "In modern Japanese 頭 is one of the most semantically rich characters: anatomical head (頭), the top of something (先頭), a numerical counter for large animals, leader (頭領). The Chan specialization in 話頭 draws on the sense of 'the head, the point, the critical place' — not the anatomical head but the decisive locus of a matter."
+        }
+      ],
+      "doctrinal_notes": "In 話頭 (watō, huàtóu), 頭 does not mean 'head' in the anatomical sense but 'the head of' — the leading edge, the critical point, the place where the matter concentrates. The compound names the single phrase or word at which the koan's entire force converges: in Zhaozhou's 'Does a dog have Buddha-nature? — 無,' the 話頭 is the bare 無, the point at which the whole exchange concentrates. Dahui Zonggao's kanhua method instructs the practitioner to hold this critical phrase in awareness without interpretation, letting it function as the focal point of meditative inquiry. The choice of 頭 for this function is precise: not the whole body of the saying but the head, not the full argument but its decisive edge.",
+      "japanese_transmission": "First-wave character present in Japanese writing from the Nara period and mapped onto the native Japanese words あたま (atama, head), かしら (kashira, head, chief), and こうべ (kōbe, head, literary). Its productivity across registers — anatomical, positional, and figurative — is characteristic of the oldest stratum of Sino-Japanese vocabulary. The specialized Chan use in 話頭 arrives with the Kamakura transmission and preserves the figurative sense of 'the leading edge of a matter' that was already active in Tang-dynasty colloquial Chinese when Dahui systematized the kanhua method."
     }
   ]

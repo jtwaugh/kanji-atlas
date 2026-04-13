@@ -46,12 +46,12 @@ Teacher-student encounter and dialogue
 [x] 参禅 — sanzen — "Going to Zen"; private interview with a master, One River ZenMbzc emphasizing the student's initiative in approaching the teacher.
 [x] 上堂 — jōdō (Ch. shàngtáng) — "Ascending the hall"; formal convocation in which the abbot addresses the full assembly from the high seat, Mbzc sometimes engaging in mondō.
 [x] 小参 — shōsan (Ch. xiǎocān) — "Informal assembly"; a less formal dharma dialogue in which the teacher offers a short talk and holds exchange with attendees.
-法戦式 — hossenshiki — "Dharma combat ceremony"; ritualized public exchange of Zen questions and answers, typically marking the shuso's completion of a practice period.
-室内 — shitsunai — "Within the room"; private, esoteric instruction given by a master; also denotes a lineage's body of koan teachings transmitted in the interview room.
+[x] 法戦式 — hossenshiki — "Dharma combat ceremony"; ritualized public exchange of Zen questions and answers, typically marking the shuso's completion of a practice period.
+[x] 室内 — shitsunai — "Within the room"; private, esoteric instruction given by a master; also denotes a lineage's body of koan teachings transmitted in the interview room.
 
 Koans and encounter dialogue
-公案 — kōan (Ch. gōng'àn) — "Public case"; a recorded dialogue, question, or episode from the Chan masters used as a focus for meditative inquiry to provoke direct insight beyond conceptual understanding. New World Encyclopedia +3
-話頭 — watō (Ch. huàtóu) — "Head of the word"; the critical phrase or key point of a koan on which the practitioner concentrates during meditation; Patheos the basis of kānhuà (kanna) Zen.
+[x] 公案 — kōan (Ch. gōng'àn) — "Public case"; a recorded dialogue, question, or episode from the Chan masters used as a focus for meditative inquiry to provoke direct insight beyond conceptual understanding. New World Encyclopedia +3
+[x] 話頭 — watō (Ch. huàtóu) — "Head of the word"; the critical phrase or key point of a koan on which the practitioner concentrates during meditation; Patheos the basis of kānhuà (kanna) Zen.
 看話禅 — kanna zen (Ch. kānhuà chán) — "Koan-introspecting Zen"; Sotozen meditation through sustained inquiry into a koan's critical phrase, Mbzc associated with the Linji/Rinzai lineage and systematized by Dahui Zonggao. Wikipedia
 黙照禅 — mokushō zen (Ch. mòzhào chán) — "Silent illumination Zen"; Sotozen objectless sitting in quiet awareness, associated with the Caodong/Sōtō lineage and traced to Hongzhi Zhengjue.
 着語 — jakugo (Ch. zhuóyǔ) — "Capping phrase"; a short verse or literary allusion appended to a koan passage to express or demonstrate insight; central to the Rinzai koan curriculum. Wikipedia

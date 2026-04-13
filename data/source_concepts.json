@@ -361,5 +361,37 @@
       "language": "Classical Chinese / Japanese",
       "gloss": "sudden awakening — the Southern school's doctrine that genuine enlightenment arrives as an instantaneous, structurally complete breakthrough rather than through gradual accumulation of insight",
       "notes": "A Chinese Buddhist doctrinal formation with no direct Sanskrit antecedent — the sudden/gradual (頓漸, dùnjiàn) distinction is a controversy internal to Tang-dynasty Chan, not a translation of an Indian debate. The Platform Sutra presents Huineng's teaching as sudden (頓) against Shenxiu's gradual (漸) approach. The doctrinal claim of 頓悟 is not merely that awakening is fast but that it is structurally instantaneous — there is no partial or incomplete awakening that then completes itself over time. The awakening either sees through completely (大悟, great awakening) or has not yet arrived. This raises the pedagogical question of what practice is for if awakening cannot be accumulated: the Chan answer is that practice removes the obscurations preventing recognition of what is already fully present."
+    },
+    {
+      "id": "hossenshiki-dharma-combat",
+      "term": "fǎzhànshì / hossenshiki",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "dharma combat ceremony — the formal ritual exchange of Zen questions and answers in which the shuso (head seat) faces the assembly and responds to their challenges, marking the culmination of a practice period and the shuso's emergence as a teacher in training",
+      "notes": "Not a translation from Sanskrit but a Chan/Zen monastic institution developed in Song-dynasty China and transmitted to Japan in the Kamakura period. The ceremony presents the shuso publicly for the first time as a respondent rather than a student: the shuso takes the teacher's seat, and members of the assembly rise in turn to pose dharma questions. The shuso must answer each challenge in real time and in the high-stakes register of Zen encounter language — the exchange is neither an examination in the academic sense nor an ordinary mondō but something between them, conducted under the sign of ritual combat. The figure of 戦 (combat) is not a softened metaphor: the ceremony preserves the Chan insistence that dharma encounter is a real contest of understanding, with the ritual form protecting and intensifying rather than diluting the stakes. Dōgen's Eihei Shingi preserves detailed instructions for the ceremony, and hossenshiki remains a live institution in both Sōtō and Rinzai training today."
+    },
+    {
+      "id": "shitsunai-within-the-room",
+      "term": "shìnèi / shitsunai",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "within the room — the spatial and institutional figure for the esoteric, lineage-internal teaching held in the master's private chamber; by extension the body of transmitted koan responses and encounter answers that circulate only within a lineage's dokusan chamber",
+      "notes": "A Chan/Zen institutional concept with no direct Sanskrit antecedent. The literal sense is simply 'inside the room' — specifically the room in which dokusan (private interview) is conducted. The specialized technical sense is more consequential: shitsunai denotes the entire body of transmitted koan responses, capping phrases, and encounter formulations held within a particular lineage, passed only from teacher to student in the privacy of the dokusan chamber and never published. In the Rinzai koan curriculum the shitsunai is a living oral and gestural tradition distinct from the printed koan collections (Gateless Gate, Blue Cliff Record): the printed collections preserve the main cases, but the shitsunai preserves the lineage's specific transmitted responses to each case — the answers the student must present in dokusan to pass the koan. The spatial figure is doctrinally load-bearing: what is shitsunai cannot be made public without ceasing to be shitsunai. The distinction between public teishō and private shitsunai instruction structures the Rinzai transmission system at every level."
+    },
+    {
+      "id": "gongan-public-case",
+      "term": "gōng'àn / kōan",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "public case — a recorded encounter between master and student (or master and master) from the Chan ancestors, taken as a precedent-setting case and used as an object of meditative inquiry; the literary and pedagogical genre through which the Chan tradition transmits its understanding of what awakening is",
+      "notes": "Originally a term of Tang-dynasty Chinese magistrate's vocabulary: 公案 was the magistrate's public docket, the case-file recording a precedent-setting judgment. Chan teachers recruited the term in the late Tang and early Song to name the recorded encounters of the ancestors, exploiting the juridical figure's precise structure: a case once decided is a precedent available to all later cases, and the student approaches the ancestor's response as a living precedent to meet rather than as a puzzle to solve or an opinion to weigh. The systematic use of 公案 as meditation objects — kanhua or koan-introspecting Zen — is associated with Dahui Zonggao (1089–1163) in the Linji lineage, who developed the method of concentrating on the 話頭 (huàtóu, critical phrase) of a case rather than analyzing the case as a whole. The koan literature comprises both compilations (Gateless Gate, Blue Cliff Record, Book of Serenity) and the lineage-internal shitsunai traditions preserving each lineage's transmitted responses. The doctrinal stake is that the koan is not a problem to solve but a precedent to enact — the student must demonstrate the ancestor's understanding in the student's own body and voice, not describe it."
+    },
+    {
+      "id": "huatou-critical-phrase",
+      "term": "huàtóu / watō",
+      "devanagari": null,
+      "language": "Classical Chinese / Japanese",
+      "gloss": "head of the word — the single critical phrase or word at the decisive point of a koan utterance, isolated from the full case and held in meditative awareness as the focal point of concentrated inquiry; the technical core of Dahui Zonggao's kanhua method",
+      "notes": "A Chan term systematized by Dahui Zonggao (1089–1163) in the Linji lineage as a reform of koan practice. Dahui's innovation was to distinguish the full 話 (the entire recorded case) from its 頭 (its head, its critical point) and to instruct practitioners to concentrate on the 頭 alone rather than analyzing the full case. For Zhaozhou's famous dog-Buddha-nature koan, the 話頭 is the bare 無 (Ch. wú, no) — not the question that precedes it or the commentary that surrounds it but the single word at which the exchange concentrates its force. The practitioner holds this critical phrase in awareness without interpretation, without seeking an answer, allowing it to function as a concentrated focal point that the discriminating mind cannot dissolve. Dahui's method was partly polemical: he framed it against what he called 'silent illumination' Zen (黙照禅, attributed to Hongzhi Zhengjue and the Caodong/Sōtō lineage), arguing that sitting without an object gave the dull mind nothing to work against. The kanhua/watō method became the characteristic practice of Song-dynasty Linji Chan and was transmitted to Japan as the core of the Rinzai curriculum. Modern Korean Seon also centers on hwadu (the Korean reading of 話頭) practice as the dominant meditation method."
     }
   ]

@@ -1185,5 +1185,108 @@
       "false_friends": [
         { "char": "頓悟", "language": "Japanese/Chinese", "divergence": "頓悟 (tongo) and 漸悟 are presented in Chan historiography as the defining doctrinal opposition between Southern and Northern schools. The opposition is real but the polemical framing exaggerates the distance: most actual Chan teachers accommodated both moments — sustained cultivation (漸) and instantaneous recognition (頓) — within their pedagogy. The flat opposition is a heuristic, not a complete description of the historical positions." }
       ]
+    },
+    {
+      "id": "hossenshiki",
+      "characters": "法戦式",
+      "romaji_on": "hossenshiki",
+      "on_reading": "ほっせんしき",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "hossenshiki-dharma-combat",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["mondo", "teisho", "dokusan", "ango", "sanzen", "jodo"],
+      "components": [
+        { "char": "法", "meaning": "dharma — the Buddha's teaching, the bare reality of things, the matter at stake in the encounter; here the object of contest between the shuso and the assembly" },
+        { "char": "戦", "meaning": "combat, battle — not a softened metaphor but the real figure of contest; marks the exchange as a genuine meeting of forces rather than a polite quiz" },
+        { "char": "式", "meaning": "ceremony, ritual form — the choreographed container that bounds the combat, distinguishing the ritual event from the informal exchanges of daily monastic life" }
+      ],
+      "translation_range": [
+        { "rendering": "dharma combat ceremony", "emphasis": "literal — preserves the three-part structure of the compound and keeps the combat figure intact; the standard rendering in contemporary Zen scholarship and practice communities" },
+        { "rendering": "dharma encounter ceremony", "emphasis": "softer — reduces the combat figure to 'encounter' to avoid connotations of violence; loses the doctrinal precision of 戦" },
+        { "rendering": "shuso ceremony", "emphasis": "institutional — names the event by its primary participant rather than its form; common in practical monastic contexts where the term names a point on the practice-period calendar" }
+      ],
+      "conceptual_remainder": "The three-character compound is structurally precise and resists flattening. 法 names the stakes — the dharma itself, what is actually being contested. 戦 names the mode — combat, with the figure's full weight preserved rather than softened. 式 names the container — ceremony, the ritual form that distinguishes the event from any informal exchange. Each character does work the others cannot, and English renderings that drop or soften any of them distort the institution. The figure of combat is particularly vulnerable to softening: contemporary translators sometimes substitute 'encounter' or 'dialogue' for 戦, reasoning that Zen is peaceful and combat connotes violence. But the Chan tradition's insistence on 戦 is deliberate and doctrinal: the dharma encounter is a real contest of understanding, and pretending otherwise — substituting a gentler figure — misrepresents what the ceremony is doing. What the combat is not is physical violence; what it is, is the strongest force each participant can bring to bear on the matter at stake. The ritual container (式) is what makes the combat possible and productive: without the ceremonial form, the combat would be chaos or cruelty; with it, the combat becomes pedagogy.",
+      "doctrinal_weight": "Institutionally central to both Sōtō and Rinzai training. In Sōtō the ceremony is prescribed in Dōgen's Eihei Shingi and remains a required culmination of the ango (practice period): the shuso (head seat) of the period takes the teacher's chair and responds to questions from the assembly, publicly demonstrating a readiness to function as a respondent rather than a student. In Rinzai the ceremony serves a similar institutional function, marking the shuso's emergence. The public character of the event is structurally important — unlike dokusan (which is private and esoteric), hossenshiki is open and witnessed, a formal testimony to the community that the shuso has undergone the work of the practice period and can now speak from the seat of the responder. The ceremony preserves in contemporary monastic life the Song-dynasty Chan insistence that dharma is transmitted in public encounter as well as in private interview — a counterbalance to the shitsunai esotericism that the dokusan tradition otherwise concentrates."
+    },
+    {
+      "id": "shitsunai",
+      "characters": "室内",
+      "romaji_on": "shitsunai",
+      "on_reading": "しつない",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "shitsunai-within-the-room",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["dokusan", "sanzen", "mondo", "teisho", "menju", "hossenshiki"],
+      "components": [
+        { "char": "室", "meaning": "room, inner chamber — specifically the master's private interview room where dokusan is given; an architectural figure for exclusive interior space" },
+        { "char": "内", "meaning": "within, inside — the relational preposition that locates teaching inside the chamber rather than in the public hall; carries the social weight of the Japanese 内/外 (in-group/out-group) distinction" }
+      ],
+      "translation_range": [
+        { "rendering": "within the room", "emphasis": "literal — preserves the spatial figure that organizes the term's doctrinal logic" },
+        { "rendering": "the interview-room teaching", "emphasis": "interpretive — foregrounds the institutional setting (dokusan) in which shitsunai material is transmitted" },
+        { "rendering": "esoteric transmission", "emphasis": "conceptual — names the function without preserving the architectural figure; risks losing the specific Rinzai pedagogical institution the term names" },
+        { "rendering": "the shitsunai", "emphasis": "untranslated — treats the term as a proper noun of Rinzai monastic vocabulary, used in scholarly discussion of the transmitted koan tradition" }
+      ],
+      "conceptual_remainder": "The spatial figure is not decorative but load-bearing. 室内 names what is physically inside the dokusan room — the master's chamber — and then, by a precise metonymy, the entire body of teaching that is transmitted only in that physical location. The shift from architectural to institutional is not a weakening of the figure but its doctrinal point: what is shitsunai is what requires the physical co-presence of master and student in the interview chamber, and therefore cannot be transmitted by text, recording, or public teishō. English renderings that drop the spatial figure — 'esoteric tradition,' 'oral transmission' — lose the institutional specificity the term carries. The Rinzai shitsunai is not esoteric in the general sense of 'secret' but in the precise sense of 'held in the room,' a spatial constraint on transmission that follows directly from Dōgen's emphasis on 面授 (menju, face-to-face transmission) and from the broader Chan conviction that what is transmitted in dharma succession is not information but the awakened mind itself, which can only be recognized in the direct encounter between two persons.",
+      "doctrinal_weight": "Structurally central to the Rinzai koan curriculum. The printed koan collections (Gateless Gate, Blue Cliff Record, Book of Serenity) preserve the main cases, verses, and prose commentaries, and are freely available in scholarly editions and translations. But the student working through a koan under a Rinzai teacher is not expected to produce responses derived from the printed collections; the student must present answers that match the lineage's transmitted shitsunai — the specific sequence of demonstrations, capping phrases, and gestures held within the teacher's lineage and passed only in the dokusan chamber. Different lineages preserve different shitsunai, and the differences are consequential: a response acceptable in one lineage may not be acceptable in another. The shitsunai is therefore both a concrete body of transmitted material and a structural argument about what koan practice is: a living oral-gestural tradition rather than a textual one, depending on physical co-presence and direct master-student encounter. Sōtō practice does not center the shitsunai in the same way, largely because Dōgen's emphasis on shikantaza and on practice-realization (修証一等) does not require the same apparatus of transmitted koan answers, but the structural logic of esoteric room-held teaching appears in Sōtō as well in the form of lineage documents and face-to-face ceremonies.",
+      "false_friends": [
+        { "char": "室内", "language": "Japanese (everyday)", "divergence": "In ordinary modern Japanese 室内 means simply 'indoors' — the opposite of 屋外 (outdoors). A sign reading 室内禁煙 is 'no smoking indoors,' with no monastic resonance whatsoever. The Zen technical sense is a specialization restricted to Rinzai training contexts, and the ambiguity between the everyday and the technical reading is a characteristic feature of Zen vocabulary that has not been fully absorbed into general Japanese consciousness." }
+      ]
+    },
+    {
+      "id": "koan",
+      "characters": "公案",
+      "romaji_on": "koan",
+      "on_reading": "こうあん",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "gongan-public-case",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["mu", "mondo", "teisho", "dokusan", "shitsunai", "hossenshiki"],
+      "components": [
+        { "char": "公", "meaning": "public, official — specifically the Tang-dynasty legal sense of 'pertaining to the magistrate's court'; marks the case as publicly attested rather than privately held" },
+        { "char": "案", "meaning": "case, docket, file — originally the wooden writing-table on which documents were laid; by metonymy the case-file itself, the record of a precedent-setting judgment" }
+      ],
+      "translation_range": [
+        { "rendering": "koan", "emphasis": "untranslated — the dominant rendering in English scholarship and practice; treats the term as a naturalized loanword that has entered English without translation" },
+        { "rendering": "public case", "emphasis": "literal — preserves the Tang juridical figure that the compound originally carries; useful in contexts where the etymology is doing doctrinal work" },
+        { "rendering": "Zen riddle", "emphasis": "popular — framing common in twentieth-century Western writing on Zen; distortingly suggests that the koan is a puzzle with a clever solution, which is precisely what serious Chan practice denies" },
+        { "rendering": "precedent case", "emphasis": "juridical — foregrounds the legal-documentary figure; useful for explaining the structural logic of koan practice as the meeting of a decided precedent rather than the solving of a problem" }
+      ],
+      "conceptual_remainder": "The Tang-dynasty magistrate's case-file is the figure the compound carries, and the juridical structure is not incidental. A magistrate's 公案 is a public record of a precedent-setting judgment — a case decided, attested, and available as a standard against which later cases can be measured. When Chan teachers recruited the term for recorded encounters of the ancestors, they preserved this structural logic: the ancestor's response in the recorded exchange is not an opinion to be weighed or a puzzle to be solved but a precedent to be met. The student is required to demonstrate the ancestor's understanding in the student's own body and voice — to enact the precedent rather than explain it. What English renderings of 'koan' as 'Zen riddle' or 'paradox' cannot carry is precisely this juridical structure: the koan is not a problem whose solution is uncertain but a case whose precedent is settled, and the student's task is to present an answer that matches what the ancestor did. The difficulty of koan practice is not the cognitive difficulty of finding a clever answer but the existential difficulty of becoming the kind of person who can enact the precedent the case records.",
+      "doctrinal_weight": "The primary pedagogical vehicle of Rinzai Zen and the organizing principle of Song-dynasty Linji Chan. Dahui Zonggao's (1089–1163) systematization of kanhua (koan-introspecting) practice established koan meditation as a structured curriculum: the student concentrates on the 話頭 (critical phrase) of a case held in dokusan with the teacher, presents an understanding, receives the teacher's acceptance or redirection, and works through a sequence of cases over years or decades. The printed collections — Gateless Gate (1228), Blue Cliff Record (1125), Book of Serenity (1224) — preserve the main cases, verses, and prose commentaries; the shitsunai preserves each lineage's transmitted responses to them. Dōgen's relationship to koan practice is complex: he was trained in the Chinese koan tradition and includes hundreds of koan passages in the Shōbōgenzō, but he refused the kanhua method's separation of the 話頭 from the full case and preferred to develop commentaries that engaged the entire exchange. Sōtō practice therefore engages koans as objects of textual study and teishō rather than as structured meditation objects in the Rinzai sense — a difference of method within a shared inheritance of the koan literature.",
+      "false_friends": [
+        { "char": "話頭", "language": "Japanese/Chinese", "divergence": "話頭 (watō) is not a synonym for 公案 but a component of it: the 話頭 is the single critical phrase or word at the decisive point of a 公案, isolated for meditative concentration. Dahui's method distinguished 公案 (the whole case) from 話頭 (its head) and instructed practitioners to concentrate on the 話頭 rather than analyzing the 公案 as a whole. Collapsing the distinction blurs the structural logic of kanhua practice." },
+        { "char": "無", "language": "Japanese/Chinese", "divergence": "無 (mu) is a specific koan — the 話頭 of Zhaozhou's dog-Buddha-nature case, the first case of the Gateless Gate — not the genre of koan as such. Popular writing sometimes treats 無 as synonymous with 'the koan,' but the relationship is specific: 無 is the paradigmatic first koan of Rinzai curriculum, not a synonym for koan in general." }
+      ]
+    },
+    {
+      "id": "wato",
+      "characters": "話頭",
+      "romaji_on": "wato",
+      "on_reading": "わとう",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "huatou-critical-phrase",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["koan", "mu", "mondo", "dokusan", "teisho"],
+      "components": [
+        { "char": "話", "meaning": "speech, utterance, the full saying — the complete recorded exchange or dialogue, the whole koan as spoken event" },
+        { "char": "頭", "meaning": "head, leading edge, critical point — not the anatomical head but the decisive locus of a matter, the single point at which the whole concentrates" }
+      ],
+      "translation_range": [
+        { "rendering": "critical phrase", "emphasis": "standard scholarly rendering — accurately conveys 頭 as the decisive point rather than the anatomical head; the most common rendering in English Chan scholarship" },
+        { "rendering": "head of the word", "emphasis": "literal — preserves the figure of 頭 as the leading edge of 話; useful in contexts where the etymology is doing doctrinal work" },
+        { "rendering": "key phrase", "emphasis": "interpretive — flattens the figure of 頭 into 'key' but captures the functional sense; sometimes used in contemporary practice literature" },
+        { "rendering": "huatou", "emphasis": "untranslated (Chinese) — common in scholarship on Chinese Chan and Korean Seon, where the practice is typically discussed under its Chinese reading" }
+      ],
+      "conceptual_remainder": "The structural distinction between 話 and 話頭 is the technical innovation at the center of Dahui's kanhua method, and English renderings that blur it lose the point. 話 is the full recorded exchange — the entire koan as a verbal event, including the question, the response, and any surrounding commentary. 話頭 is the single critical phrase or word at the decisive point of that exchange — the pivot on which its force concentrates. For Zhaozhou's dog-Buddha-nature koan, the 話 is the whole case (a monk asks whether a dog has Buddha-nature; Zhaozhou says 無); the 話頭 is the bare 無, isolated from question and context and held alone in awareness. Dahui's instruction is that the practitioner concentrates on the 話頭 without interpretation, without seeking an answer, without allowing the discriminating mind to construct a response — letting the critical phrase function as a concentrated focal point that the mind cannot dissolve. The method exploits a specific cognitive mechanism: a phrase held without interpretive access generates an internal pressure of unresolved attention that, sustained long enough, brings the discriminating mind to the exhaustion that 大死 (the great death) names. What English renderings miss is that 話頭 is not a topic to think about but a point to hold — the distinction is between thinking about 無 (which Dahui considered a mistake) and holding 無 as a bare presence in awareness (which he considered the practice).",
+      "doctrinal_weight": "The technical core of Song-dynasty Linji kanhua Zen and, through its transmission to Japan, of the Rinzai koan curriculum. Dahui Zonggao systematized 話頭 practice partly as a polemical alternative to 黙照禅 (mokushōzen, silent illumination), the Caodong/Sōtō practice of sitting without an object. Dahui's argument was that objectless sitting gave the dull practitioner nothing to work against and risked collapsing into mere torpor; the 話頭 provided a concentrated focal point that the mind could not escape and could not resolve by ordinary thinking. The polemic was consequential: it established the doctrinal fault-line between Linji/Rinzai (koan-introspecting) and Caodong/Sōtō (silent illumination) that persists today, and it made 話頭 the technical signature of Rinzai practice. Korean Seon inherits the Chinese tradition directly and centers on hwadu (the Korean reading of 話頭) practice as the dominant meditation method across modern Korean Buddhism. Dōgen's critique of Dahui was partly a refusal of the 話頭 method: Dōgen objected to isolating the critical phrase from the full case and preferred to engage koans as whole textual events, treating them as objects of commentary and teishō rather than as concentrated meditation points. The Shōbōgenzō is full of koan material but is not structured as a kanhua curriculum.",
+      "false_friends": [
+        { "char": "公案", "language": "Japanese/Chinese", "divergence": "公案 (kōan) and 話頭 are not synonyms but related at different structural levels. 公案 names the full recorded case, including question, response, and commentary. 話頭 names the single critical phrase extracted from the case for meditative concentration. Collapsing the distinction flattens the technical logic of Dahui's kanhua method, which depends precisely on the move from the full case (which the discriminating mind can analyze) to the critical phrase (which it cannot)." },
+        { "char": "念仏", "language": "Japanese", "divergence": "念仏 (nembutsu, Pure Land recitation of Amida's name) is sometimes compared to 話頭 practice because both involve sustained concentration on a single phrase. The comparison is structurally illuminating but doctrinally limited: nembutsu is invocation, grounded in faith in Amida's vow; 話頭 is inquiry, grounded in the absence of any answer the practitioner can produce. The phenomenological overlap is real — a practitioner holding 無 and a practitioner chanting Namu Amida Butsu are both sustaining a single phrase in awareness over long periods — but the soteriological structures are entirely different." }
+      ]
     }
   ]
