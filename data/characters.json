@@ -1880,5 +1880,165 @@
       ],
       "doctrinal_notes": "In 話頭 (watō, huàtóu), 頭 does not mean 'head' in the anatomical sense but 'the head of' — the leading edge, the critical point, the place where the matter concentrates. The compound names the single phrase or word at which the koan's entire force converges: in Zhaozhou's 'Does a dog have Buddha-nature? — 無,' the 話頭 is the bare 無, the point at which the whole exchange concentrates. Dahui Zonggao's kanhua method instructs the practitioner to hold this critical phrase in awareness without interpretation, letting it function as the focal point of meditative inquiry. The choice of 頭 for this function is precise: not the whole body of the saying but the head, not the full argument but its decisive edge.",
       "japanese_transmission": "First-wave character present in Japanese writing from the Nara period and mapped onto the native Japanese words あたま (atama, head), かしら (kashira, head, chief), and こうべ (kōbe, head, literary). Its productivity across registers — anatomical, positional, and figurative — is characteristic of the oldest stratum of Sino-Japanese vocabulary. The specialized Chan use in 話頭 arrives with the Kamakura transmission and preserves the figurative sense of 'the leading edge of a matter' that was already active in Tang-dynasty colloquial Chinese when Dahui systematized the kanhua method."
+    },
+    {
+      "char": "看",
+      "strokes": 9,
+      "radical": "目",
+      "gloss": "To watch, to look at with sustained attention — a hand shading the eye to see far; in Chan 看話 the word for the practitioner's concentrated inward looking at the critical phrase of a koan.",
+      "pinyin": "kàn",
+      "on_readings": ["かん"],
+      "kun_readings": ["み.る"],
+      "components": [
+        { "char": "手", "meaning": "hand (4 strokes, written 龵 when stacked above 目) — the semantic element raised as a visor above the eye", "strokes": 4 },
+        { "char": "目", "meaning": "eye (5 strokes) — the semantic element: the organ of sight, shielded by the hand to see into the distance", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "A hand placed above an eye — the pictographic figure of shading the eye to see far",
+          "notes": "The semantic logic is transparent and unusually vivid: a hand raised above the eye as a visor, the bodily posture of someone straining to see into the distance. From this concrete sense the meaning extends to concentrated looking in general, and then to watching over, minding, guarding. The character preserves its pictorial clarity into the modern form more than most compounds of this era."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "手 above 目 — 9 strokes total",
+          "notes": "In modern Japanese 看 is less common as a standalone word than 見 but is productive in compounds of sustained attention: 看病 (nursing the sick), 看守 (guard), 看板 (signboard, literally 'board to be looked at'), 看過 (overlook). The sense of 'looking at with concentration and duration' — rather than a single glance — is what survives across all these uses."
+        }
+      ],
+      "doctrinal_notes": "In 看話禅 (kanna zen, Ch. kànhuà chán) the character names the practitioner's mode of looking at the 話頭 — not an analytical reading, not a glancing notice, but the sustained, concentrated, non-discursive regard of the critical phrase as a focal point of meditative inquiry. The figure of the hand shading the eye to see far is apt: the practitioner is not looking at what is near and obvious but at something that requires effort of attention to see at all. Dahui Zonggao's choice of 看 (rather than, say, 念 to 'keep in mind' or 思 to 'think about') is doctrinally precise — the 話頭 is held as something seen, not as something thought. Looking, unlike thinking, can be sustained without generating content.",
+      "japanese_transmission": "Arrives with the general Sino-Japanese lexical stock in the early literary period and becomes technical vocabulary in Rinzai Zen through the transmission of kànhuà (kanna) practice from Song-dynasty China. In the modern Japanese lexicon 看 is firmly settled in the register of sustained attention and care — the connotations that 看病 and 看護 (nursing) preserve — which aligns with the Chan use of 看 for the practitioner's concentrated looking at a koan phrase."
+    },
+    {
+      "char": "語",
+      "strokes": 14,
+      "radical": "言",
+      "gloss": "Word, speech, saying — the articulate unit of discourse; in Chan 着語 / 下語 the short phrase offered as a compressed response to a koan case.",
+      "pinyin": "yǔ",
+      "on_readings": ["ご"],
+      "kun_readings": ["かた.る", "かた.らう"],
+      "components": [
+        { "char": "言", "meaning": "speech, word (7 strokes) — the semantic radical: the register of articulate language", "strokes": 7 },
+        { "char": "吾", "meaning": "I, myself (7 strokes) — phonetic element providing the yǔ / go sound; the pairing suggests speech as what issues from a speaker", "strokes": 7 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "言 (speech) beside 吾 (I) — speech as what comes from the self",
+          "notes": "The pairing is phonetic in origin (吾 supplies the yǔ / go sound) but semantically suggestive: speech as what issues from a particular speaker, not the abstract phenomenon of language but the spoken word of someone. The character is one of the densely productive speech-family graphs built on 言."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "言 (7 strokes) beside 吾 (7 strokes) — 14 strokes total",
+          "notes": "In modern Japanese 語 covers both the concrete sense of a spoken word or phrase and the abstract sense of language as a system: 単語 (vocabulary word), 物語 (tale, narrative), 日本語 (the Japanese language), 語学 (language study). In the Chan technical senses 着語 and 下語 the character carries the concrete sense — a specific phrase produced as a response — rather than the abstract."
+        }
+      ],
+      "doctrinal_notes": "In 着語 (jakugo, capping phrase) and 下語 (agyo, appended words), 語 names the short phrase offered as a compressed response to a koan case. The grammatical figure is important: the 語 is a particular thing said, not the general category of speech; it is offered, placed, or set down in response to a specific case. The Rinzai koan curriculum treats these phrases as units of demonstration — a phrase that fits the case is an enactment of insight, a phrase that does not fit is rejected — and the phrase books (notably the Zenrin Kushū) catalog the repertoire from which students draw. 語 here is not speech as expression of opinion but speech as matched offering.",
+      "japanese_transmission": "First-wave character among the productive core of the Sino-Japanese speech-family graphs, present in Japanese writing from the Nara period. Its productivity in compounds is enormous and the character is internalized at the most basic stratum of Japanese literacy. The Chan specializations 着語 and 下語 arrive with the Kamakura transmission of koan practice and remain technical vocabulary of Rinzai monastic training."
+    },
+    {
+      "char": "黙",
+      "strokes": 15,
+      "radical": "黒",
+      "gloss": "Silence, to be silent — the suspension of speech; in Chan 黙照 the silence paired with illumination as the two inseparable aspects of zazen in the Caodong/Sōtō tradition.",
+      "pinyin": "mò",
+      "on_readings": ["もく", "ぼく"],
+      "kun_readings": ["だま.る", "もだ.す"],
+      "components": [
+        { "char": "黒", "meaning": "black (11 strokes) — semantic and phonetic element: the dark, the obscured, the register of what is withdrawn from view or voice", "strokes": 11 },
+        { "char": "犬", "meaning": "dog (4 strokes) — semantic element; the traditional etymology invokes a dog going after prey silently, without barking", "strokes": 4 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "黒 (black) beside 犬 (dog) — the standard etymological account invokes the figure of a dog stalking silently",
+          "notes": "The Shuowen Jiezi explains the character as 'a dog that follows silently in pursuit,' and whatever the actual origin, the association of the character with the suspension of vocal expression is stable across its history. The 黒 component also contributes the phonetic value mò / moku and suggests the register of the darkened, the unspoken, the withdrawn from view."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "黒 (11 strokes) with 犬 (4 strokes) beside it — 15 strokes total",
+          "notes": "In modern Japanese 黙 is active in compounds of silence and the refusal of speech: 沈黙 (silence), 黙想 (silent contemplation), 黙殺 (to ignore without comment), 暗黙 (tacit). The character is at home in the register of the deliberately unvoiced — not mere absence of sound but the chosen holding-back of speech."
+        }
+      ],
+      "doctrinal_notes": "In 黙照禅 (mokushō zen, Ch. mòzhào chán), 黙 names the silence that the Caodong/Sōtō tradition pairs with 照 (illumination) as the two inseparable aspects of zazen. The silence is not mental blankness but the suspension of discursive proliferation — the stilling of the mind's habit of producing internal commentary — and Hongzhi Zhengjue's Silent Illumination Inscription (黙照銘) holds that this silence is not preparatory to illumination but is already one face of it. Dahui Zonggao's polemic against 黙照 charged that silence without an object collapses into torpor, and the Linji/Rinzai–Caodong/Sōtō methodological difference turns on whether 黙 is adequate as a meditative condition or requires the focal point of a 話頭 to function.",
+      "japanese_transmission": "Arrives with the general Sino-Japanese lexical stock and is present in Japanese literary language from the earliest Buddhist texts. Its compounds for silence and the unvoiced — 沈黙, 暗黙, 黙想 — are fully naturalized in modern Japanese across all registers. The Chan technical use in 黙照禅 arrives with the Kamakura transmission of Caodong/Sōtō practice through Dōgen and preserves the specific doctrinal sense of silence as one of two inseparable aspects of zazen rather than as mere quietness."
+    },
+    {
+      "char": "照",
+      "strokes": 13,
+      "radical": "灬",
+      "gloss": "To illuminate, to shine upon, to clarify — the steady lighting of what is there to be seen; in Chan 黙照 the clear awareness paired with silence as the two faces of zazen.",
+      "pinyin": "zhào",
+      "on_readings": ["しょう"],
+      "kun_readings": ["て.る", "て.らす", "て.れる"],
+      "components": [
+        { "char": "昭", "meaning": "bright, clear (9 strokes) — phonetic and partially semantic element: the clarity that the lower fire-radical then specifies as shining or illuminating", "strokes": 9 },
+        { "char": "灬", "meaning": "fire radical (variant of 火, 4 strokes) — the semantic element: the source of light that does the illuminating", "strokes": 4 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "昭 (bright) above 灬 (fire) — brightness with fire as its source",
+          "notes": "The layered construction is semantically and phonetically ordered: 昭 is both 'bright' and the phonetic marker providing the zhào sound; the fire radical below specifies that this brightness is the brightness of a light source actively shining, not a static state. The result names the activity of illumination — the ongoing casting of light upon something."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "昭 (9 strokes) above 灬 (4 strokes) — 13 strokes total",
+          "notes": "In modern Japanese 照 is productive across literal and figurative registers: 照明 (lighting), 照合 (cross-checking, literally 'illuminating to match'), 照会 (inquiry, literally 'illuminating an encounter'), 日照 (sunshine), 参照 (reference, literally 'illuminating alongside'). The sense of 'making clear by shining light upon' ranges from the physical to the cognitive without shifting its fundamental meaning."
+        }
+      ],
+      "doctrinal_notes": "In 黙照禅 (mokushō zen), 照 names the luminous clarity of awareness that the Caodong/Sōtō tradition holds as the inseparable companion of 黙 (silence). The figure is precise and doctrinally load-bearing: 照 is not a cognitive grasping or conceptual understanding but the clear, steady lighting of what is present in the meditative field, the aspect of zazen under which phenomena are seen as they are without the interference of discursive commentary. Hongzhi Zhengjue's Silent Illumination Inscription insists that 黙 and 照 are one activity and not two stages — the silence illuminates, the illumination is silent — and this insistence is what Dōgen radicalizes as the unity-formula of shikantaza and practice-realization.",
+      "japanese_transmission": "Arrives with the general Sino-Japanese lexical stock in the early literary period and is productive in Japanese from the Heian period onward across literal and figurative senses of illumination and clarification. The Chan technical use in 黙照 arrives with the Kamakura transmission of Caodong/Sōtō practice and is preserved in Dōgen's writings, where the Chinese inscription's pairing of silence and illumination is inherited and radicalized rather than merely translated."
+    },
+    {
+      "char": "着",
+      "strokes": 12,
+      "radical": "目",
+      "gloss": "To attach, to apply, to come to rest upon — the act of fastening one thing onto another; in Chan 着語 the figure of appending a capping phrase to a recorded koan case.",
+      "pinyin": "zhuó",
+      "on_readings": ["ちゃく", "じゃく"],
+      "kun_readings": ["き.る", "き.せる", "つ.く", "つ.ける"],
+      "components": [
+        { "char": "着", "meaning": "undivided — a variant simplification of 著, itself composed of the grass radical 艹 over 者 (person); the modern 着 form conventionalizes the lower portion and does not decompose cleanly in contemporary use", "strokes": 12 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Classical origin",
+          "form_description": "A variant of 著, historically interchangeable with it",
+          "notes": "着 and 著 were historically the same character and diverged in their orthographic and semantic ranges over time. 著 retains the senses of 'to write, to manifest, the written, the author'; 着 specialized toward the senses of 'to attach, to wear, to come to rest upon, to touch.' In modern Japanese the two are treated as separate characters with partly overlapping readings, and the Rinzai term 着語 uses 着 with its specialized sense of attachment."
+        },
+        {
+          "period": "Modern Japanese",
+          "form_description": "12 strokes; conventionalized simplified form of the classical 著 variant",
+          "notes": "着 is firmly settled in the register of physical and figurative attachment: 着陸 (landing, literally 'attaching to the land'), 到着 (arrival, 'reaching and attaching'), 着用 (to put on, to wear), 執着 (clinging, attachment — the Buddhist sense of unwholesome fixation). The character carries the image of one thing coming to rest upon another and not departing, a figure that the Rinzai term 着語 exploits precisely."
+        }
+      ],
+      "doctrinal_notes": "In 着語 (jakugo, capping phrase), 着 names the act of fastening a short phrase to a recorded koan case — not a commentary that stands apart from the case but a phrase that comes to rest upon it, that attaches to it as a compressed matching response. The figure is spatial and precise: the 着語 adheres to the case rather than explaining it at a distance. The doctrinal stake is that the capping phrase enacts insight by fitting the case, and the 着 (attaching) names exactly this fit. A phrase that does not adhere is simply a phrase; a phrase that does is a 着語. The pronunciation じゃく in this compound — rather than the more common ちゃく — preserves an older Sino-Japanese reading active in Chan technical vocabulary.",
+      "japanese_transmission": "Arrives in Japanese writing as a classical variant of 著 and settles into its modern specialized range during the medieval period. Its productivity in compounds of attachment, arrival, and wearing is characteristic of the practical Sino-Japanese vocabulary. The Chan technical use in 着語 is a specialized survival of the older Buddhist sense of 'attachment' — in its neutral rather than afflictive register, naming the good kind of fit between phrase and case rather than the unwholesome clinging of 執着."
+    },
+    {
+      "char": "下",
+      "strokes": 3,
+      "radical": "一",
+      "gloss": "Below, beneath, to put down — the spatial region beneath a reference line; in Chan 下語 the figure of setting words down beside a koan case as the practitioner's offered response.",
+      "pinyin": "xià",
+      "on_readings": ["か", "げ"],
+      "kun_readings": ["した", "しも", "もと", "さ.げる", "さ.がる", "くだ.る", "くだ.す", "くだ.さる", "お.ろす", "お.りる"],
+      "components": [
+        { "char": "下", "meaning": "undivided — oracle-bone and bronze forms depict a short mark below a long horizontal line, the spatial indicator of 'beneath'; a pictographic indicator sign rather than a decomposable compound", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone and bronze inscription",
+          "form_description": "A short stroke beneath a long horizontal line — an indicator sign for 'below'",
+          "notes": "下 and its counterpart 上 are among the earliest Chinese characters of the indicator-sign type — neither pictographs nor compounds but abstract spatial markers. The long horizontal is the reference line; the short stroke below names the region beneath it. The character is thus semantically pure: it names a spatial relationship directly, without metaphor or phonetic borrowing."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "Horizontal line above, a short vertical with a small stroke below — 3 strokes total",
+          "notes": "In modern Japanese 下 covers the entire range of 'beneath' and 'downward' across literal, figurative, and honorific registers: 下る (to descend, to be given), 下さる (honorific 'to give'), 下位 (lower rank), 地下 (underground), 閣下 (His Excellency, literally 'beneath the chamber'). Its productivity is enormous and its semantic range unusually wide for a 3-stroke character."
+        }
+      ],
+      "doctrinal_notes": "In 下語 (agyo, appended words), 下 names the act of setting or putting words down — not speaking them in debate but placing them as an offering beside the koan case. The figure is important: the student does not argue about the case, does not construct an interpretation to be defended, but sets words down and waits to see whether they fit. The verb 下す (kudasu, to put down, to hand down) is doing the semantic work here, and the parallel with 着 in 着語 is instructive. 着 names the attaching, 下 names the placing; both name modes of offering a phrase to a case without claiming to explain it. The Rinzai tradition's use of 下 in this technical sense preserves the spatial figure of the student's phrase as a thing placed, not a thing argued.",
+      "japanese_transmission": "First-wave character among the earliest Sino-Japanese vocabulary, present in Japanese writing from the Nara period and internalized at the most basic stratum of Japanese literacy. Its enormous productivity across literal, figurative, and honorific registers — from 下さる (honorific 'to give') to 地下 (underground) to 下剋上 (low overthrowing high) — makes it one of the most semantically loaded short characters in the lexicon. The specialized Chan use in 下語 is a technical survival that draws on the everyday sense of 'putting down' and redirects it to the ritual setting of koan training."
     }
   ]

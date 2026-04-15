@@ -52,10 +52,10 @@ Teacher-student encounter and dialogue
 Koans and encounter dialogue
 [x] 公案 — kōan (Ch. gōng'àn) — "Public case"; a recorded dialogue, question, or episode from the Chan masters used as a focus for meditative inquiry to provoke direct insight beyond conceptual understanding. New World Encyclopedia +3
 [x] 話頭 — watō (Ch. huàtóu) — "Head of the word"; the critical phrase or key point of a koan on which the practitioner concentrates during meditation; Patheos the basis of kānhuà (kanna) Zen.
-看話禅 — kanna zen (Ch. kānhuà chán) — "Koan-introspecting Zen"; Sotozen meditation through sustained inquiry into a koan's critical phrase, Mbzc associated with the Linji/Rinzai lineage and systematized by Dahui Zonggao. Wikipedia
-黙照禅 — mokushō zen (Ch. mòzhào chán) — "Silent illumination Zen"; Sotozen objectless sitting in quiet awareness, associated with the Caodong/Sōtō lineage and traced to Hongzhi Zhengjue.
-着語 — jakugo (Ch. zhuóyǔ) — "Capping phrase"; a short verse or literary allusion appended to a koan passage to express or demonstrate insight; central to the Rinzai koan curriculum. Wikipedia
-下語 — agyo (Ch. xiàyǔ) — "Appended words"; synonym of jakugo; standardized phrases students present as part of koan training, collected in phrase books such as the Zenrin Kushū.
+[x] 看話禅 — kanna zen (Ch. kānhuà chán) — "Koan-introspecting Zen"; Sotozen meditation through sustained inquiry into a koan's critical phrase, Mbzc associated with the Linji/Rinzai lineage and systematized by Dahui Zonggao. Wikipedia
+[x] 黙照禅 — mokushō zen (Ch. mòzhào chán) — "Silent illumination Zen"; Sotozen objectless sitting in quiet awareness, associated with the Caodong/Sōtō lineage and traced to Hongzhi Zhengjue.
+[x] 着語 — jakugo (Ch. zhuóyǔ) — "Capping phrase"; a short verse or literary allusion appended to a koan passage to express or demonstrate insight; central to the Rinzai koan curriculum. Wikipedia
+[x] 下語 — agyo (Ch. xiàyǔ) — "Appended words"; synonym of jakugo; standardized phrases students present as part of koan training, collected in phrase books such as the Zenrin Kushū.
 拈提 — nentei (Ch. niāntí) — "Picking up and presenting"; a master's commentary that isolates and expounds the essential point of a koan. Mbzc
 拈古 — nenko (Ch. niāngǔ) — "Picking up the old"; selecting an ancient case and adding commentary; the literary genre underlying koan collections.
 本則 — honsoku (Ch. běnzé) — "Main case"; the core narrative or dialogue of a koan as presented in a collection, before verse and commentary.

@@ -70,5 +70,29 @@
       "tradition": "Sōtō Zen",
       "period": "Dōgen, 1237–1249 (composed in six parts)",
       "notes": "Dōgen's collected monastic regulations for the Eihei-ji community. Six texts covering the temple officers (Chiji Shingi), the conduct of the head cook (Tenzo Kyōkun), the method of eating meals (Fushukuhanpō), and the rituals of the practice period (Bendōhō, Shuryō Shingi, and Taitaiko Goge Jarihō). The central institutional source for the shape of Sōtō monastic life, including the ango practice period and its culminating hossenshiki ceremony. Dōgen's regulations are not mere housekeeping rules but detailed articulations of how practice-realization is enacted in the choreography of daily and ritual life."
+    },
+    {
+      "id": "dahui-shuzhuang",
+      "title": "Letters of Dahui",
+      "title_ja": "大慧書",
+      "tradition": "Linji Chan / Rinzai Zen",
+      "period": "Dahui Zonggao, letters composed and circulated 12th century",
+      "notes": "Dahui Zonggao's (1089–1163) collected letters to disciples, fellow monks, and lay students, compiled and widely circulated as 大慧書 (Ch. Dàhuì Shū). The letters are the primary textual source for kànhuà chán — Dahui's method of concentrating on the 話頭 (critical phrase) of a koan as a sustained meditation object — and for his polemic against the mòzhào chán ('silent illumination') taught in the Caodong lineage. The letters circulated widely in Song-dynasty Chan circles, were transmitted to Japan as part of the Rinzai curriculum, and became foundational reading for Japanese practitioners from the Kamakura period onward. They are notable both for their technical instructions on kanhua practice — including the four prohibitions against interpreting 無 — and for their pastoral voice: Dahui wrote many of them to lay officials attempting to integrate serious Chan practice with public life, and the letters preserve an unusual record of how a Song-dynasty Chan master adapted the koan method for students who were not monastics."
+    },
+    {
+      "id": "hongzhi-mokushomei",
+      "title": "Silent Illumination Inscription",
+      "title_ja": "黙照銘",
+      "tradition": "Caodong Chan / Sōtō Zen",
+      "period": "Hongzhi Zhengjue, 12th century",
+      "notes": "Hongzhi Zhengjue's (1091–1157) short verse-inscription (銘) on the method of mòzhào chán — silent illumination — considered the classical statement of the Caodong lineage's meditative practice. The inscription holds 黙 (silence) and 照 (illumination) together across its lines as the two inseparable aspects of zazen: the suspension of discursive proliferation and the luminous clarity of awareness that rests in and as that suspension. The text is the immediate target of Dahui Zonggao's polemic against silent illumination as mere torpor, and the two texts are usefully read together as the classical articulation of the Linji/Rinzai–Caodong/Sōtō methodological fault-line. Dōgen inherits and radicalizes Hongzhi's position as shikantaza, and Hongzhi's broader corpus — including the Extensive Record of Chan Master Hongzhi and his verse commentaries on koan cases (later incorporated into the Book of Serenity) — forms the immediate Chinese background of Dōgen's Sōtō transmission."
+    },
+    {
+      "id": "zenrin-kushu",
+      "title": "Zenrin Kushū (Anthology of Phrases from the Zen Forest)",
+      "title_ja": "禅林句集",
+      "tradition": "Rinzai Zen",
+      "period": "Compiled by Tōyō Eichō, late 15th century; expanded through the Edo period",
+      "notes": "A large compilation of short phrases drawn from classical Chinese poetry, Confucian and Daoist texts, earlier Chan literature, and vernacular sayings, organized for use in Rinzai koan training as a reservoir of 着語 (jakugo, capping phrases) and 下語 (agyo, appended words). The original compilation is attributed to the Rinzai priest Tōyō Eichō (1428–1504); the text was expanded into its currently-circulating form during the Edo period and remains the standard Japanese phrase book for the Rinzai curriculum. In the koan training system the student presents phrases from the Zenrin Kushū during dokusan as part of passing a case, fitting the phrase to the case as a compressed demonstration of insight: the teacher judges whether the phrase fits. The anthology's register ranges enormously — from dense classical allusion drawn from the Book of Songs or Du Fu to plain vernacular observations about weather and seasons — and its organization preserves the literary and rhetorical fabric of Song-dynasty Chan commentary for use by Japanese practitioners. Standard Rinzai reference editions have appeared throughout the modern period; R. H. Blyth's mid-twentieth-century English selections introduced the work to Western readers."
     }
   ]
