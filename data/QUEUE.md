@@ -56,10 +56,10 @@ Koans and encounter dialogue
 [x] 黙照禅 — mokushō zen (Ch. mòzhào chán) — "Silent illumination Zen"; Sotozen objectless sitting in quiet awareness, associated with the Caodong/Sōtō lineage and traced to Hongzhi Zhengjue.
 [x] 着語 — jakugo (Ch. zhuóyǔ) — "Capping phrase"; a short verse or literary allusion appended to a koan passage to express or demonstrate insight; central to the Rinzai koan curriculum. Wikipedia
 [x] 下語 — agyo (Ch. xiàyǔ) — "Appended words"; synonym of jakugo; standardized phrases students present as part of koan training, collected in phrase books such as the Zenrin Kushū.
-拈提 — nentei (Ch. niāntí) — "Picking up and presenting"; a master's commentary that isolates and expounds the essential point of a koan. Mbzc
-拈古 — nenko (Ch. niāngǔ) — "Picking up the old"; selecting an ancient case and adding commentary; the literary genre underlying koan collections.
-本則 — honsoku (Ch. běnzé) — "Main case"; the core narrative or dialogue of a koan as presented in a collection, before verse and commentary.
-頌古 — juko (Ch. sònggǔ) — "Verse on an old case"; poetic commentary appended to a koan's main case; Xuedou's 100 verses form the basis of the Blue Cliff Record. WikipediaThe Zen Universe
+[x] 拈提 — nentei (Ch. niāntí) — "Picking up and presenting"; a master's commentary that isolates and expounds the essential point of a koan. Mbzc
+[x] 拈古 — nenko (Ch. niāngǔ) — "Picking up the old"; selecting an ancient case and adding commentary; the literary genre underlying koan collections.
+[x] 本則 — honsoku (Ch. běnzé) — "Main case"; the core narrative or dialogue of a koan as presented in a collection, before verse and commentary.
+[x] 頌古 — juko (Ch. sònggǔ) — "Verse on an old case"; poetic commentary appended to a koan's main case; Xuedou's 100 verses form the basis of the Blue Cliff Record. WikipediaThe Zen Universe
 垂示 — suiji (Ch. chuíshì) — "Introductory pointer"; the prefatory remarks by the commentator (e.g., Yuanwu in the Blue Cliff Record) that orient the reader before the main case.
 喝 — katsu (Ch. hè) — The shout used by Zen masters to shatter conceptual thinking; Linji Yixuan's signature teaching device, for which he distinguished four types.
 棒 — bō (Ch. bàng) — The staff or stick wielded by a master as a teaching device; emblematic of Deshan Xuanjian, who declared "Thirty blows whether you speak or not."

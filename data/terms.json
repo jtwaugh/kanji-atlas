@@ -1402,5 +1402,102 @@
         { "char": "着語", "language": "Japanese/Chinese", "divergence": "着語 (jakugo) is the capping phrase in its full authority — the phrase that attaches to the case and is carried forward in the tradition. 下語 is the phrase offered by the student and awaiting the master's recognition. The two terms are often treated as synonyms but the most careful usage preserves the asymmetry: 着 is what the phrase does when it has fit (it attaches), 下 is what the student does in offering the phrase to the judgment of the tradition (they set it down). Collapsing the distinction loses the grammatical directionality that the ritual of dokusan koan training depends on." },
         { "char": "公案", "language": "Japanese/Chinese", "divergence": "公案 (kōan) names the recorded case itself — the full narrative or dialogue that the student is working through. 下語 names the phrase the student offers in response to the case during dokusan. A 公案 has many possible 下語 offered to it across the tradition, and the phrase book compilations preserve the repertoire of offerings from which students draw; the relationship between the two terms is that of case to response-offering, not synonym to synonym." }
       ]
+    },
+    {
+      "id": "nentei",
+      "characters": "拈提",
+      "romaji_on": "nentei",
+      "on_reading": "ねんてい",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "nianti-picking-up-presenting",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["koan", "teisho", "jakugo", "agyo"],
+      "components": [
+        { "char": "拈", "meaning": "to pick up between the fingers, to select delicately — the act of singling out the essential point from the full body of a recorded case" },
+        { "char": "提", "meaning": "to lift up, to present, to hold aloft — the act of bringing the selected point into view for the assembly, making it available for encounter" }
+      ],
+      "translation_range": [
+        { "rendering": "picking up and presenting", "emphasis": "literal — renders both characters and preserves the two-step figural logic: first selecting, then displaying; the most common scholarly rendering" },
+        { "rendering": "expounding the essential point", "emphasis": "functional — names what the commentary does rather than how it does it; clearer in English but loses the manual figure of 拈 (picking up between the fingers)" },
+        { "rendering": "raising a case for commentary", "emphasis": "contextual — clarifies the institutional setting; useful for readers unfamiliar with the koan commentary genre" },
+        { "rendering": "nentei", "emphasis": "untranslated — treats the term as a technical vocabulary item; used in scholarly discussions of koan commentary methodology" }
+      ],
+      "conceptual_remainder": "The figural precision of the compound is doing work that English renderings tend to flatten. 拈 is not 'selecting' in the abstract but picking up between thumb and fingers — a gesture of delicacy and precision, choosing one thing from among many without disturbing the rest. 提 is not 'discussing' but lifting up and presenting — a spatial figure of elevation, holding the point aloft so the assembly can see it. The compound names an act that is at once physical (the master's gesture in the teaching hall), rhetorical (the commentary's structure of isolation and display), and doctrinal (the claim that the essential point of a case can be lifted out and shown without being reduced to a proposition). English renderings like 'commentary' or 'explication' miss all three registers by substituting a cognitive verb for what the Chinese names as a manual act.",
+      "doctrinal_weight": "拈提 is one of the principal modes of Chan/Zen koan commentary, alongside 頌古 (juko, verse commentary) and 拈古 (nenko, selecting an old case). The form is central to the living oral tradition of Zen teaching: a master delivers a 拈提 in a formal dharma hall setting, picking up a recorded case and expounding its essential point for the current assembly. The most celebrated written 拈提 appear in the Blue Cliff Record as Yuanwu Keqin's prose commentaries on the cases, where Yuanwu isolates key turning-points in the recorded dialogue and presents them with commentary that demonstrates rather than explains. The form depends on the master's own realization — a 拈提 that merely paraphrased the case or offered doctrinal analysis would not be 拈提 but lecture — and the tradition has always distinguished between the two."
+    },
+    {
+      "id": "nenko",
+      "characters": "拈古",
+      "romaji_on": "nenko",
+      "on_reading": "ねんこ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "niangu-picking-up-old",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["koan", "nentei", "jakugo", "teisho"],
+      "components": [
+        { "char": "拈", "meaning": "to pick up between the fingers — the act of selecting an ancient case from the archive, singling it out for handling by the current generation" },
+        { "char": "古", "meaning": "old, ancient — the temporal location of the material: cases from the founding generations of the Chan lineage, not dead but awaiting each generation's re-engagement" }
+      ],
+      "translation_range": [
+        { "rendering": "picking up the old", "emphasis": "literal — renders both characters and preserves the figural logic: the master takes up an ancient case by hand; the most direct rendering" },
+        { "rendering": "commentary on an ancient case", "emphasis": "functional — names the result rather than the act; clearer for general readers but loses the 拈 figure of delicate manual selection" },
+        { "rendering": "raising an old case", "emphasis": "contextual — clarifies the institutional setting and the relationship to the koan archive" },
+        { "rendering": "nenko", "emphasis": "untranslated — used in scholarly discussions of Chan literary genres" }
+      ],
+      "conceptual_remainder": "The compound's doctrinal claim is compressed into the pairing of 拈 and 古: the old cases are not closed but can be picked up. This is not a trivial observation — it is the Chan tradition's justification for its entire commentarial enterprise. If the cases recorded in the transmitted literature of the Tang and Song patriarchs were finished — if Zhaozhou's 無 was a historical curiosity rather than a living instrument — then there would be no reason to pick them up, and the koan tradition would be antiquarianism. 拈古 asserts the opposite: the old is available to the living hand, and the act of picking it up is itself a mode of practice. English renderings like 'commentary on old cases' miss this by treating the activity as scholarly rather than practical — as if the commentator stood outside the case and analyzed it rather than entering it and handling it.",
+      "doctrinal_weight": "The foundational genre of the koan collection tradition. Every major koan anthology — the Blue Cliff Record, the Gateless Gate, the Book of Serenity, the Record of Serenity — is an act of 拈古: a later teacher selecting ancient cases and adding commentary. The genre encompasses prose commentary, verse commentary (頌古 juko), pointers (垂示 suiji), and capping phrases (着語 jakugo), all of which are sub-forms of the master act of picking up the old. The tradition traces the formal practice of 拈古 to the Song dynasty, when the proliferation of recorded lamp histories and transmission records made a large archive of cases available for systematic re-engagement."
+    },
+    {
+      "id": "honsoku",
+      "characters": "本則",
+      "romaji_on": "honsoku",
+      "on_reading": "ほんそく",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "benze-main-case",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["koan", "nentei", "nenko", "jakugo"],
+      "components": [
+        { "char": "本", "meaning": "root, origin, foundation — marks the case as the fundamental text to which all commentary refers back, the ground-level narrative that is not itself commentary" },
+        { "char": "則", "meaning": "rule, standard, case — the recorded precedent; used as a counter for koan cases in Chinese and Japanese (第一則 'the first case')" }
+      ],
+      "translation_range": [
+        { "rendering": "main case", "emphasis": "the standard scholarly rendering — names the 本則 as the core narrative within the commentary structure; clear and functional" },
+        { "rendering": "root case", "emphasis": "preserves the 本 register of foundation and origin — the case as the root from which the commentary branches grow" },
+        { "rendering": "original case", "emphasis": "emphasizes the 本則 as the source text that precedes all commentary layers; useful in discussions of the koan collection's editorial architecture" },
+        { "rendering": "honsoku", "emphasis": "untranslated — used in scholarly discussions of koan collection structure" }
+      ],
+      "conceptual_remainder": "What English renderings of 'main case' tend to lose is the juridical register of 則. The character names a decided rule or standard — a precedent — and its use as a counter for koan cases (第一則, 第二則) treats each case as a unit of decided law, not a story or anecdote. The 本則 is not merely the 'main text' in a literary sense but the foundational precedent that the commentator and the student must meet. The analogy with legal precedent is not accidental — 公案 itself is a legal metaphor — and 則 extends it into the structure of the collection: each case is a 則 because it has the authority of a decided standard, and the student's work is to meet the standard the case has set. English 'main case' preserves 'case' but loses the juridical weight of 則 as 'rule, standard, decided precedent.'",
+      "doctrinal_weight": "The structural foundation of the koan collection genre. In the Blue Cliff Record, each of the hundred entries begins with the 本則 — the recorded dialogue or episode — followed by Xuedou's verse (頌古), Yuanwu's pointer (垂示), Yuanwu's prose commentary, and interlinear capping phrases. The 本則 is what the student engages first and most directly; it is the case that must be met in dokusan, the text that the verse and commentary orbit without replacing. In the Gateless Gate the 本則 of each of the 48 cases is followed by Wumen's commentary and verse. The term also functions as a counter: 'the first 則' means 'the first case,' and koan collections are enumerated by 則."
+    },
+    {
+      "id": "juko",
+      "characters": "頌古",
+      "romaji_on": "juko",
+      "on_reading": "じゅこ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "songgu-verse-old-case",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["koan", "nenko", "nentei", "jakugo", "honsoku"],
+      "components": [
+        { "char": "頌", "meaning": "verse, hymn, gāthā — the literary form of the commentary: a formal poem composed in response to the case, demonstrating insight through poetic rather than analytic means" },
+        { "char": "古", "meaning": "old, ancient — the temporal location of the case being versified: ancient dialogues from the founding generations of Chan" }
+      ],
+      "translation_range": [
+        { "rendering": "verse on an old case", "emphasis": "literal — renders both characters and names the genre precisely: a poem composed in response to a recorded ancient case" },
+        { "rendering": "verse commentary", "emphasis": "functional — clarifies the genre's relationship to the koan case it comments on; loses the 古 register of antiquity" },
+        { "rendering": "poetic capping of an old case", "emphasis": "interpretive — connects the genre to the broader tradition of capping phrases and emphasizes the poetic register" },
+        { "rendering": "juko", "emphasis": "untranslated — used in scholarly discussions of Chan literary genres and the Blue Cliff Record's structure" },
+        { "rendering": "songgu", "emphasis": "untranslated (Chinese) — used in scholarship on Song-dynasty Chan and the verse commentary tradition" }
+      ],
+      "conceptual_remainder": "The critical thing English renderings must carry — and usually fail to — is that the verse is not an explanation of the case in poetic form. The 頌古 does not tell the reader what the case means; it responds to the case by creating a parallel aesthetic object that resonates with the case's register without reducing it to a proposition. Xuedou's verses are poems, and they work as poems: through image, compression, juxtaposition, and the rhythms of classical Chinese shi poetry. A 頌古 that could be paraphrased as a doctrinal statement would have failed as a 頌古, because the whole point of the genre is that the insight it carries cannot be paraphrased — it can only be enacted in the register of poetry. English 'verse commentary' is functional but misleading, because 'commentary' implies explanation, and 'verse' implies that the poetic form is decorative rather than essential. The verse form is the content.",
+      "doctrinal_weight": "The verse commentary tradition is one of the highest literary achievements of the Chan/Zen tradition. Xuedou Chongxian's (980–1052) hundred verses on selected koan cases form the textual nucleus of the Blue Cliff Record — Yuanwu Keqin built his prose commentary, pointers, and capping phrases around Xuedou's already-existing verses, and the resulting layered text became the most celebrated koan collection in the tradition. Hongzhi Zhengjue's (1091–1157) hundred verses were later incorporated into the Book of Serenity by Wansong Xingxiu. The genre requires both deep realization of the case and high literary skill — the tradition has always recognized the combination as rare and has accordingly treated the great 頌古 practitioners (Xuedou, Hongzhi) with unusual reverence. In the Rinzai koan curriculum the student encounters 頌古 as part of the layered commentary structure of the Blue Cliff Record; in Sōtō Zen the genre is valued as a model of how realization and literary expression can be unified.",
+      "false_friends": [
+        { "char": "着語", "language": "Japanese/Chinese", "divergence": "着語 (jakugo, capping phrase) is a single phrase or line attached to a koan case; 頌古 (juko) is a complete poem composed in response to the case. The two genres overlap in the Blue Cliff Record's layered structure — Xuedou's verses are 頌古, and Yuanwu's interlinear comments are closer to 着語 — but they differ in scale, form, and ambition: the capping phrase compresses insight into a single line drawn from existing literature, while the verse commentary creates a new poem that stands alongside the case as its poetic companion." },
+        { "char": "拈古", "language": "Japanese/Chinese", "divergence": "拈古 (nenko) is the broader genre of picking up an old case and adding commentary in any form — prose, verse, or extemporaneous oral presentation. 頌古 (juko) is specifically the verse sub-form of 拈古. All 頌古 are acts of 拈古, but not all 拈古 take the form of 頌古: a master's prose commentary or oral 拈提 is also 拈古." }
+      ]
     }
   ]

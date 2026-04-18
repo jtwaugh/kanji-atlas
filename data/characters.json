@@ -2040,5 +2040,113 @@
       ],
       "doctrinal_notes": "In 下語 (agyo, appended words), 下 names the act of setting or putting words down — not speaking them in debate but placing them as an offering beside the koan case. The figure is important: the student does not argue about the case, does not construct an interpretation to be defended, but sets words down and waits to see whether they fit. The verb 下す (kudasu, to put down, to hand down) is doing the semantic work here, and the parallel with 着 in 着語 is instructive. 着 names the attaching, 下 names the placing; both name modes of offering a phrase to a case without claiming to explain it. The Rinzai tradition's use of 下 in this technical sense preserves the spatial figure of the student's phrase as a thing placed, not a thing argued.",
       "japanese_transmission": "First-wave character among the earliest Sino-Japanese vocabulary, present in Japanese writing from the Nara period and internalized at the most basic stratum of Japanese literacy. Its enormous productivity across literal, figurative, and honorific registers — from 下さる (honorific 'to give') to 地下 (underground) to 下剋上 (low overthrowing high) — makes it one of the most semantically loaded short characters in the lexicon. The specialized Chan use in 下語 is a technical survival that draws on the everyday sense of 'putting down' and redirects it to the ritual setting of koan training."
+    },
+    {
+      "char": "拈",
+      "strokes": 8,
+      "radical": "扌",
+      "gloss": "To pick up between the fingers, to take hold of delicately — a hand singling out one thing from among many; in Chan commentary the act of selecting a case or point and holding it up for the assembly's attention.",
+      "pinyin": "niān",
+      "on_readings": ["ねん"],
+      "kun_readings": ["ひね.る"],
+      "components": [
+        { "char": "扌", "meaning": "hand radical (simplified form of 手, 3 strokes) — the semantic element: an act of the hand", "strokes": 3 },
+        { "char": "占", "meaning": "to divine, to occupy (5 strokes) — phonetic element, provides the niān/nen sound", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "手 (hand) beside 占 (phonetic) — a phono-semantic compound: the hand picking something up",
+          "notes": "The primary meaning is to pick up between thumb and fingers — a precise, selective grasp, not a full-handed grip. The character implies delicacy and discrimination: choosing one object from among several and lifting it for inspection."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "扌 (hand radical, 3 strokes) on the left beside 占 (5 strokes) — 8 strokes total",
+          "notes": "In Chan/Zen usage 拈 is almost exclusively institutional: 拈提 (picking up and presenting), 拈古 (picking up the old), 拈華微笑 (picking up the flower and smiling — the origin legend of the Chan transmission). The ordinary Chinese sense of 'to pinch, to twist between the fingers' recedes entirely behind the technical Buddhist usage."
+        }
+      ],
+      "doctrinal_notes": "拈 is the signature verb of Chan/Zen commentary. The foundational myth of the Chan transmission — Śākyamuni holding up a flower (拈華), Mahākāśyapa smiling — places 拈 at the origin of the lineage itself. In the koan commentary tradition 拈 names the master's act of selecting a case from the archive of recorded dialogues and lifting it into view for the current assembly, and the two compounds 拈提 and 拈古 name the two principal modes of this activity: 拈提 (picking up and presenting the essential point) and 拈古 (picking up the old case and adding commentary). The verb carries the full weight of the Chan claim that old cases are not dead archives but living instruments that must be picked up and handled anew in each generation.",
+      "japanese_transmission": "Arrives with the Kamakura transmission of Chan/Zen as part of the specialized koan-commentary vocabulary. The character has no significant pre-Buddhist Japanese usage. In modern Japanese 拈 is rare outside Zen contexts — it appears in 拈華微笑 (nengemishō, the flower-holding origin story), 拈提 (nentei), and 拈古 (nenko), but not in ordinary discourse. The kun reading ひねる (to twist, to pinch) exists but is more commonly written with other characters."
+    },
+    {
+      "char": "古",
+      "strokes": 5,
+      "radical": "口",
+      "gloss": "Old, ancient — that which has passed through ten (十) mouths (口); in Chan usage the reservoir of recorded cases from which every generation of teachers draws its material.",
+      "pinyin": "gǔ",
+      "on_readings": ["こ"],
+      "kun_readings": ["ふる.い", "ふる.す"],
+      "components": [
+        { "char": "十", "meaning": "ten (2 strokes) — the upper element: a large number, suggesting many generations", "strokes": 2 },
+        { "char": "口", "meaning": "mouth (3 strokes) — the lower element: oral transmission, speech, what has been said", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "十 (many, ten) above 口 (mouth) — what has passed through many mouths, what has been said for generations",
+          "notes": "The traditional etymological reading: something told and retold across ten generations is old. The figure is oral rather than visual — antiquity measured not by the look of age but by the depth of its circulation through speech."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "十 (2 strokes) above 口 (3 strokes) — 5 strokes total",
+          "notes": "In modern Japanese 古 is ubiquitous: 古い (furui, old), 古典 (koten, classics), 古代 (kodai, ancient era), 中古 (chūko, medieval or secondhand). In Chan/Zen technical usage it appears in 拈古 (picking up the old), 頌古 (verse on the old), 古則 (old rule/case) — all naming activities that take the archive of ancient cases as their raw material."
+        }
+      ],
+      "doctrinal_notes": "In the koan commentary vocabulary, 古 names the temporal location of the cases being worked: they are old, ancient, from the founding generations. But the Chan claim is that 古 is not merely a historical descriptor — picking up the old (拈古) and versifying the old (頌古) are live acts of engagement with cases that, despite their antiquity, are not resolved or exhausted. The old case remains open to each generation's handling, and the 古 marks not the case's closure but the depth of the tradition that has handled it before the current practitioner takes it up.",
+      "japanese_transmission": "First-wave character, present from the earliest stratum of Japanese literacy and mapped onto the native Japanese word ふるい (old). Its Zen-technical usage in 拈古, 頌古, and 古則 arrives with the Kamakura Chan transmission, layering a specialized commentarial vocabulary onto a character that was already entirely naturalized in ordinary Japanese discourse."
+    },
+    {
+      "char": "則",
+      "strokes": 9,
+      "radical": "刂",
+      "gloss": "Rule, standard, case — a knife (刂) cutting to the measure of a vessel (貝); in koan literature the recorded case as a decided standard against which the student's understanding is measured.",
+      "pinyin": "zé",
+      "on_readings": ["そく"],
+      "kun_readings": ["すなわ.ち"],
+      "components": [
+        { "char": "貝", "meaning": "shell, treasure (7 strokes) — the semantic element: a valued standard, something measured and weighed", "strokes": 7 },
+        { "char": "刂", "meaning": "knife radical (2 strokes) — the cutting element: to cut to measure, to establish a standard", "strokes": 2 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Bronze (金文)",
+          "form_description": "貝 (cowrie shell / treasure) beside 刀 (knife) — to cut according to a standard, to regulate",
+          "notes": "The original figure is economic and juridical: the cowrie shell as a unit of value, the knife as the instrument of measurement. From 'measuring by the standard' the meaning extends to rule, regulation, standard, and then — in koan usage — the recorded case as a precedent that sets the standard."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "貝 (7 strokes) on the left beside 刂 (knife radical, 2 strokes) — 9 strokes total",
+          "notes": "In modern Japanese 則 appears in 規則 (kisoku, regulation), 法則 (hōsoku, law/principle), 原則 (gensoku, general principle). In koan literature 本則 (honsoku, main case) and 古則 (kosoku, old case) use 則 as a counter for koan cases: one 則 is one case. The Blue Cliff Record contains 100 則."
+        }
+      ],
+      "doctrinal_notes": "In 本則 (honsoku, main case), 則 names the koan case as a decided standard — a precedent recorded and available as a measure. The juridical overtone is not accidental: the Chinese term 公案 (gōng'àn, public case) is itself a legal metaphor, and 則 extends the same figure by treating the case as a unit of decided precedent that can be counted, enumerated, and presented. A koan collection is organized by 則 — the Blue Cliff Record has 100 則, the Gateless Gate 48 則 — and the student's work is to meet each 則 on the terms the precedent has set.",
+      "japanese_transmission": "First-wave character, present from the Nara period in legal and administrative vocabulary. Its koan-technical usage as a counter for cases — 第一則 (the first case), 本則 (the main case) — arrives with the Kamakura-period transmission of the Song-dynasty koan collection genre. In modern Japanese 則 is common in legal and scientific registers (規則, 法則) but rare in everyday speech; its Zen usage is specialized and literary."
+    },
+    {
+      "char": "頌",
+      "strokes": 13,
+      "radical": "頁",
+      "gloss": "Verse, hymn, eulogy — a formal poetic composition recited aloud (公) before an audience (頁 as 'head,' i.e. the one who faces and recites); in koan literature the verse commentary that responds to an ancient case.",
+      "pinyin": "sòng",
+      "on_readings": ["じゅ", "しょう"],
+      "kun_readings": ["ほ.める"],
+      "components": [
+        { "char": "公", "meaning": "public, communal (4 strokes) — phonetic element, also carrying the sense of open, public recitation", "strokes": 4 },
+        { "char": "頁", "meaning": "head, page (9 strokes) — the semantic element: originally 'head' (the one who faces the audience), later 'page' (the surface on which text is written)", "strokes": 9 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Seal script (篆書)",
+          "form_description": "公 (phonetic) beside 頁 (head) — a phono-semantic compound: public recitation, a verse spoken or chanted",
+          "notes": "The original sense is a hymn or eulogy — a formal verse composition recited in a ceremonial or public setting. In Buddhist usage 頌 translates Sanskrit gāthā (verse), and the character carries the sense of a verse that is not merely decorative but performative: the recitation does something."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "公 (4 strokes) on the left beside 頁 (9 strokes) — 13 strokes total",
+          "notes": "In Buddhist contexts 頌 appears as the standard rendering of gāthā (verse) in the sūtra translation tradition. In Chan koan commentary 頌古 (verse on an old case) names a specific genre: the poet-commentator composes a verse in response to a recorded case, and the verse is not an explanation of the case but a parallel expression of its insight in a different register. Xuedou Chongxian's hundred 頌古 on koan cases became the basis of the Blue Cliff Record."
+        }
+      ],
+      "doctrinal_notes": "In 頌古 (juko/sòng gǔ, verse on an old case), 頌 names the specific literary form of the verse commentary — a poem composed in response to a koan case that demonstrates the commentator's understanding not through analysis but through the creation of a parallel aesthetic object. The genre's most celebrated practitioner is Xuedou Chongxian (980–1052), whose hundred 頌古 on koan cases were then commented on by Yuanwu Keqin to form the Blue Cliff Record. The verse commentary tradition is one of the highest literary achievements of the Chan tradition, and 頌 as a character carries the weight of that tradition: the verse that stands alongside the case as its poetic companion, not its intellectual servant.",
+      "japanese_transmission": "Arrives in Japanese through two vectors: first as the standard rendering of gāthā in sūtra translation (般若心経 and other texts contain 偈頌 gejū, verse sections), and second as part of the Kamakura koan-commentary vocabulary where 頌古 names the verse-on-a-case genre. In modern Japanese 頌 is rare outside literary and Buddhist contexts — it appears in 頌歌 (shōka, ode/hymn) and in the Zen koan-commentary vocabulary, but not in everyday discourse."
     }
   ]
