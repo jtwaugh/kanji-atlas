@@ -60,10 +60,10 @@ Koans and encounter dialogue
 [x] 拈古 — nenko (Ch. niāngǔ) — "Picking up the old"; selecting an ancient case and adding commentary; the literary genre underlying koan collections.
 [x] 本則 — honsoku (Ch. běnzé) — "Main case"; the core narrative or dialogue of a koan as presented in a collection, before verse and commentary.
 [x] 頌古 — juko (Ch. sònggǔ) — "Verse on an old case"; poetic commentary appended to a koan's main case; Xuedou's 100 verses form the basis of the Blue Cliff Record. WikipediaThe Zen Universe
-垂示 — suiji (Ch. chuíshì) — "Introductory pointer"; the prefatory remarks by the commentator (e.g., Yuanwu in the Blue Cliff Record) that orient the reader before the main case.
-喝 — katsu (Ch. hè) — The shout used by Zen masters to shatter conceptual thinking; Linji Yixuan's signature teaching device, for which he distinguished four types.
-棒 — bō (Ch. bàng) — The staff or stick wielded by a master as a teaching device; emblematic of Deshan Xuanjian, who declared "Thirty blows whether you speak or not."
-拂子 — hossu (Ch. fúzǐ) — Fly-whisk; a short staff with bundled hair wielded ceremonially by a Zen master, symbolizing the authority to teach and transmit dharma.
+[x] 垂示 — suiji (Ch. chuíshì) — "Introductory pointer"; the prefatory remarks by the commentator (e.g., Yuanwu in the Blue Cliff Record) that orient the reader before the main case.
+[x] 喝 — katsu (Ch. hè) — The shout used by Zen masters to shatter conceptual thinking; Linji Yixuan's signature teaching device, for which he distinguished four types.
+[x] 棒 — bō (Ch. bàng) — The staff or stick wielded by a master as a teaching device; emblematic of Deshan Xuanjian, who declared "Thirty blows whether you speak or not."
+[x] 拂子 — hossu (Ch. fúzǐ) — Fly-whisk; a short staff with bundled hair wielded ceremonially by a Zen master, symbolizing the authority to teach and transmit dharma.
 疑団 — gidan — "Ball of doubt"; the concentrated mass of questioning and perplexity that builds during intense koan practice, fueling the drive toward breakthrough. Terebess Asia Online
 
 Monastic structure and ranks

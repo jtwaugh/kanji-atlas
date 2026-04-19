@@ -2148,5 +2148,164 @@
       ],
       "doctrinal_notes": "In 頌古 (juko/sòng gǔ, verse on an old case), 頌 names the specific literary form of the verse commentary — a poem composed in response to a koan case that demonstrates the commentator's understanding not through analysis but through the creation of a parallel aesthetic object. The genre's most celebrated practitioner is Xuedou Chongxian (980–1052), whose hundred 頌古 on koan cases were then commented on by Yuanwu Keqin to form the Blue Cliff Record. The verse commentary tradition is one of the highest literary achievements of the Chan tradition, and 頌 as a character carries the weight of that tradition: the verse that stands alongside the case as its poetic companion, not its intellectual servant.",
       "japanese_transmission": "Arrives in Japanese through two vectors: first as the standard rendering of gāthā in sūtra translation (般若心経 and other texts contain 偈頌 gejū, verse sections), and second as part of the Kamakura koan-commentary vocabulary where 頌古 names the verse-on-a-case genre. In modern Japanese 頌 is rare outside literary and Buddhist contexts — it appears in 頌歌 (shōka, ode/hymn) and in the Zen koan-commentary vocabulary, but not in everyday discourse."
+    },
+    {
+      "char": "垂",
+      "strokes": 8,
+      "radical": "土",
+      "gloss": "To hang down, let fall, bequeath, bestow; in Chan commentarial literature the master's suspending down of prefatory remarks that hang over the case before the student enters it.",
+      "pinyin": "chuí",
+      "on_readings": ["すい"],
+      "kun_readings": ["た.れる", "た.らす"],
+      "components": [
+        { "char": "土", "meaning": "earth, soil (3 strokes) — the base element: something hangs down toward the ground", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone / bronze (甲骨文 / 金文)",
+          "form_description": "A pictographic figure of drooping branches or foliage falling toward the ground — the archetypal image of something suspended and hanging downward",
+          "notes": "The original figure is botanical and gravitational: something hanging down from above toward the earth. From this concrete image the character extends by metaphor to 'bestowing' (hanging something down from a superior to an inferior, as heaven to earth or ruler to subject), 'bequeathing' (letting something hang down through time to later generations), and 'presenting' (suspending a statement down before an audience)."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "An 8-stroke character with the 土 (earth) element at the base — the graphic has drifted from the botanical original but preserves the logic of downward suspension",
+          "notes": "In modern Japanese 垂 appears in 垂直 (suichoku, vertical/perpendicular), 懸垂 (kensui, suspension/pull-up), 垂範 (suihan, setting an example that hangs down for others to follow). The Chan-technical compound 垂示 preserves the ceremonial register of 'suspending down a statement before the assembly.'"
+        }
+      ],
+      "doctrinal_notes": "In 垂示 (suiji, introductory pointer), 垂 names the gesture by which the commentator — typically Yuanwu Keqin in the Blue Cliff Record — hangs his prefatory remarks down over the case. The metaphor of suspension is precise: the pointer does not precede the case in a linear sense but hangs above it, casting its shadow on the reader before the reader meets the case directly. The juridical and ceremonial register of 垂 — the superior letting something fall down to the inferior — is active: the master suspends remarks from the height of his realization, and the student receives them from below.",
+      "japanese_transmission": "First-wave character, present from the Nara period in administrative and literary vocabulary. Its Chan-technical usage in the compound 垂示 arrives with the Kamakura-period transmission of the Song-dynasty koan commentary genre. In modern Japanese the character appears commonly in the compound 垂直 (vertical) and in formal vocabulary for bestowal and suspension, but the Zen compound 垂示 belongs to specialized literary and monastic usage."
+    },
+    {
+      "char": "示",
+      "strokes": 5,
+      "radical": "示",
+      "gloss": "To show, display, reveal; originally the pictograph of an altar upon which offerings are placed — the semantic root of religious showing and divine manifestation.",
+      "pinyin": "shì",
+      "on_readings": ["じ", "し"],
+      "kun_readings": ["しめ.す"],
+      "components": [
+        { "char": "示", "meaning": "undivided — the character is a pictograph of a sacrificial altar (the horizontal top being the stone surface, the vertical and splayed strokes below representing the legs and offerings hanging from it)", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone / bronze (甲骨文 / 金文)",
+          "form_description": "A pictograph of an altar or ancestral-tablet stand: a flat upper surface resting on a base, with offerings hanging from it",
+          "notes": "The original sense is religious and sacrificial: the altar is where the spirits of the ancestors make themselves present and where the living 'show' themselves to the spirits through offerings. From this concrete ritual image the character extends to the abstract sense of 'showing, displaying, making manifest' — and to the radical role in which 示 marks characters dealing with spirit, ritual, omen, and the numinous (神, 祭, 祖, 祇, 祈)."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "A 5-stroke character: a horizontal top stroke, a shorter horizontal stroke beneath it, a vertical through the center, and two splayed legs — a stylized altar",
+          "notes": "In modern Japanese 示 appears in 提示 (teiji, presentation), 指示 (shiji, instruction/directive), 表示 (hyōji, display), 暗示 (anji, suggestion/hint), 開示 (kaiji, disclosure). The altar origin is no longer felt in everyday usage, but the doctrinal register — showing as revelation, making manifest — persists in formal and religious contexts."
+        }
+      ],
+      "doctrinal_notes": "In 垂示 (suiji, introductory pointer), 示 names the act of showing — the commentator does not explain the case but shows something by hanging his remarks down before it. The altar-origin of the character is not accidental to the commentarial genre: the pointer is presented in a ceremonial register, suspended before the assembly in the manner of an offering rather than an argument. In 提示 (teiji) the compound keeps the religious register in muted form: lifting up and showing. In 開示 (kaiji) the opening-and-showing preserves the revelatory sense: disclosure as a making-manifest of what was hidden.",
+      "japanese_transmission": "First-wave character, arrived with the initial Chinese script transmission and present from the Nara period. Foundational to the Japanese writing system as both character and radical: many basic religious-register characters (神, 祭, 社, 祀) use 示 as their semantic element. The Chan-technical use in 垂示 is a specialized extension of the general meaning of 'showing,' activated in the Kamakura-period transmission of Song koan literature."
+    },
+    {
+      "char": "喝",
+      "strokes": 12,
+      "radical": "口",
+      "gloss": "A sharp shout or cry; in Chan a master's explosive vocalization that cuts through conceptual proliferation at the root, emblematically Linji Yixuan's teaching device.",
+      "pinyin": "hè",
+      "on_readings": ["かつ"],
+      "kun_readings": ["しか.る"],
+      "components": [
+        { "char": "口", "meaning": "mouth (3 strokes) — the semantic element: a vocal act, something done with the mouth", "strokes": 3 },
+        { "char": "曷", "meaning": "what, how, why (9 strokes) — phonetic element, originally an interrogative particle", "strokes": 9 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Small seal (小篆)",
+          "form_description": "口 (mouth) beside 曷 (phonetic) — a phono-semantic compound naming a loud vocal act, originally a rebuke, scolding, or angry exclamation",
+          "notes": "The original sense in classical Chinese is a sharp vocal rebuke — to shout angrily, to drive off with a yell. The Chan technical usage specializes this into a teaching device: the 喝 is not a mere scolding but a sudden, explosive cry deployed to sever the student's conceptual grasping at the moment of encounter."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "12 strokes, 口 on the left beside 曷 on the right",
+          "notes": "In modern Japanese 喝 is rare outside Zen vocabulary: it appears in 一喝 (ikkatsu, a single shout / a stern rebuke), 恐喝 (kyōkatsu, threat/intimidation), and as the standalone interjection 喝! In Zen literature the character is iconically associated with the Rinzai lineage and with the figure of Linji Yixuan."
+        }
+      ],
+      "doctrinal_notes": "The 喝 names Linji Yixuan's signature teaching device and stands as the emblematic vocal gesture of the Linji/Rinzai lineage. Linji systematized the shout into four categories, each with a different pedagogical function — the so-called 臨済四喝 (Linji's four shouts): one like the jeweled king's sword, one like a golden-haired lion crouching on the ground, one like a weed-probing pole, and one that is not used as a shout. The distinction insists that the shout is not a single undifferentiated sound but a precise instrument, and Linji's use of it is technical rather than merely dramatic. The doctrinal weight of 喝 is that it works at a level prior to discursive thought: the shout interrupts conceptual proliferation at the exact moment the student is forming a thought, and the interruption itself is the teaching. The Chan claim is that no amount of explanation could do what the shout does, because the work the shout performs is precisely the cutting-off of the medium — words, concepts, discursive attention — through which explanation operates.",
+      "japanese_transmission": "Arrives in Japanese with the Kamakura-period transmission of the Linji lineage as Rinzai Zen. The character and its pronunciation 'katsu!' enter Japanese monastic vocabulary as a direct import from the Chinese Chan tradition. The character is rare in general Japanese usage — it belongs almost entirely to the Zen register — and its presence in a text signals the Rinzai tradition and its pedagogical vocabulary."
+    },
+    {
+      "char": "棒",
+      "strokes": 12,
+      "radical": "木",
+      "gloss": "A staff, stick, or rod; in Chan the teaching instrument wielded by a master — emblematically Deshan Xuanjian — as a direct pedagogical gesture that bypasses discursive response.",
+      "pinyin": "bàng",
+      "on_readings": ["ぼう"],
+      "kun_readings": ["つえ"],
+      "components": [
+        { "char": "木", "meaning": "tree, wood (4 strokes) — the semantic element: the staff is wooden", "strokes": 4 },
+        { "char": "奉", "meaning": "to offer, to present with both hands (8 strokes) — phonetic element, also carrying a register of reverent presentation", "strokes": 8 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Small seal / later script (小篆 / 楷書)",
+          "form_description": "木 (wood) on the left beside 奉 (phonetic, offering with both hands) on the right — 12 strokes total",
+          "notes": "The character is a late coinage relative to the archaic pictographic stratum: it arises as a phono-semantic compound to specify a wooden staff, distinguishing it from other terms for rods, canes, and sticks (杖, 棍). The phonetic 奉 is purely sound-based, but its sense of 'offering with both hands' has been read by some commentators as resonant with the master's ceremonial wielding of the staff."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "12 strokes, 木 (4) on the left beside 奉 (8) on the right",
+          "notes": "In modern Japanese 棒 is common in non-technical vocabulary: 鉄棒 (tetsubō, iron bar / gymnastic horizontal bar), 棒読み (bōyomi, reading in a monotone), 棒グラフ (bō-gurafu, bar graph), 用心棒 (yōjinbō, bodyguard). The Chan-technical use of 棒 as a teaching device is a specialized extension of the general sense."
+        }
+      ],
+      "doctrinal_notes": "The 棒 names the Chan master's staff as a teaching instrument, and it stands alongside the 喝 (shout) as one of the two emblematic non-verbal pedagogical devices of the Linji/Rinzai tradition. The figure associated with the staff above all others is Deshan Xuanjian (782–865), whose declaration — 'Thirty blows whether you speak or not' (道得也三十棒、道不得也三十棒) — compresses the doctrinal point: the staff works at a level prior to the question of whether the student answers correctly. Whether the student speaks, whether the student succeeds in speaking, whether the speaking is right or wrong — none of these is the relevant axis. The staff falls on the place where the speaking and the not-speaking alike are grounded. The pedagogical claim is that discursive content is not the medium of the teaching, and the staff is the instrument by which the teacher demonstrates this. In later koan literature 棒 and 喝 are often paired as 棒喝 — the staff-and-shout — naming the direct, non-discursive pedagogy of the Rinzai tradition as a single complex.",
+      "japanese_transmission": "The character itself arrives in the first-wave transmission of Chinese script and is present in Japanese administrative and literary vocabulary from early periods. Its Chan-technical use in the figure of the teacher's staff arrives with the Kamakura-period transmission of the Linji lineage as Rinzai Zen. In modern Japanese the general sense of 'staff / stick / bar' has far more everyday currency than the Zen technical sense, but in Zen literature and monastic vocabulary 棒 carries the full weight of the Deshan tradition."
+    },
+    {
+      "char": "拂",
+      "strokes": 8,
+      "radical": "扌",
+      "gloss": "To brush away, sweep off, flick aside; in Chan the hand's motion of clearing — extended by metonymy to the fly-whisk (拂子) wielded ceremonially by a master.",
+      "pinyin": "fú",
+      "on_readings": ["ふつ", "ほつ"],
+      "kun_readings": ["はら.う"],
+      "components": [
+        { "char": "扌", "meaning": "hand radical (3 strokes) — the semantic element: something done with the hand", "strokes": 3 },
+        { "char": "弗", "meaning": "not, negation (5 strokes) — phonetic element, also carrying the sense of warding off or negating", "strokes": 5 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Small seal (小篆)",
+          "form_description": "扌 (hand) beside 弗 (phonetic, also negation) — a phono-semantic compound naming the hand's brushing-away motion, with the phonetic element's sense of 'negation / warding off' echoing the action",
+          "notes": "The original sense is the brushing motion by which the hand clears something away: dust from a surface, flies from the face, encumbrances from the path. The phonetic 弗 (not, negation) is not purely sound — its sense of warding off reinforces the action. From this base the compound 拂子 (fly-whisk) extends the motion into an instrument: a short staff with a bundle of hair or feathers used to sweep flies away."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "8 strokes, 扌 (3) on the left beside 弗 (5) on the right",
+          "notes": "In modern Japanese 拂 is the traditional form of 払 (which is the postwar simplified glyph); 払 appears commonly in 支払 (shiharai, payment), 払拭 (fusshoku, wiping away / expunging), 払い (harai, sweeping / paying). The Zen compound 拂子 (hossu, fly-whisk) retains the traditional character 拂 in most monastic and scholarly writing, signaling the term's transmission from Chinese Chan literature."
+        }
+      ],
+      "doctrinal_notes": "In 拂子 (hossu, fly-whisk), 拂 names the brushing-away motion that is both the original function of the instrument — shooing flies — and the ceremonial gesture the master performs when wielding it. The instrument's origin is practical (a functional tool for an Indian monastic in a climate with many flies), but its Chan reception is emblematic: the master's raising of the 拂子, its movement through the air, its being held aloft or set down, becomes a teaching gesture in the koan literature. The character 拂 itself carries the etymological weight of clearing — the dust of conceptual proliferation swept away — and this resonance is active in the Chan use: when the master raises the fly-whisk, the gesture is also a sweeping-away.",
+      "japanese_transmission": "Arrives in the first-wave transmission of Chinese script. The traditional form 拂 is preserved in the Zen compound 拂子; in postwar Japanese general vocabulary the simplified form 払 dominates. The character's Chan-technical use as part of the fly-whisk compound arrives with the Kamakura transmission of the koan literature, where the fly-whisk appears repeatedly as a teaching implement in recorded dialogues."
+    },
+    {
+      "char": "子",
+      "strokes": 3,
+      "radical": "子",
+      "gloss": "Child, son, offspring; a pictograph of a swaddled infant; in compound nouns a nominalizing suffix that designates a small or instrumental object.",
+      "pinyin": "zǐ",
+      "on_readings": ["し", "す"],
+      "kun_readings": ["こ"],
+      "components": [
+        { "char": "子", "meaning": "undivided — a pictograph: the head, splayed arms, and swaddled lower body of an infant", "strokes": 3 }
+      ],
+      "graphic_evolution": [
+        {
+          "period": "Oracle bone (甲骨文)",
+          "form_description": "A figure of an infant: a round head, outstretched arms, and the lower body bound or bundled (as in swaddling)",
+          "notes": "The original pictograph is unmistakable: a baby with head, arms, and swaddled legs. From the concrete sense 'child' the character extends in several directions: biologically (child, offspring, descendant), socially (title of respect, as in 孔子 Kongzi / Confucius or 孟子 Mengzi / Mencius), philosophically (seed, principle, small thing), grammatically (in later Chinese and Japanese, a nominalizing suffix on small or instrumental objects — 椅子 chair, 帽子 hat, 拂子 fly-whisk)."
+        },
+        {
+          "period": "Regular script (楷書)",
+          "form_description": "3 strokes — a horizontal-with-hook for the head, a sweeping stroke for the body/arms, and a closing horizontal at the bottom",
+          "notes": "子 is one of the most productive characters in the Japanese lexicon, functioning as both content character and suffix. It is the 39th radical (子部) and appears as the semantic element in many characters related to children, family, and origination (字, 孝, 孫, 学, 季). Its suffix function in compound nouns (椅子 isu chair, 帽子 bōshi hat, 調子 chōshi tune/condition) extends to Buddhist-technical vocabulary (拂子 hossu fly-whisk)."
+        }
+      ],
+      "doctrinal_notes": "In 拂子 (hossu, fly-whisk), 子 functions as a nominalizing suffix that turns the verbal root 拂 (brushing away) into a concrete instrumental noun: 'the thing that brushes.' This suffix use is widespread in classical and modern East Asian lexica and is not specifically Buddhist, but its appearance in Chan technical vocabulary marks the transition of ritual implements into named objects within the lineage literature. In the names of Chinese masters and patriarchs (孔子 Confucius, 老子 Laozi, 荘子 Zhuangzi) 子 functions instead as an honorific — 'Master So-and-so' — and this usage is preserved in Japanese references to classical Chinese figures.",
+      "japanese_transmission": "First-wave character, present from the Nara period as one of the most frequent and productive characters in the Japanese writing system. Functions in Japanese as a content character (子 ko, child), as a component in names, as a suffix on countless compound nouns, and as the final character in the ON reading of many Chinese-derived terms. Its presence in 拂子 (hossu) is part of the broader Chinese-derived vocabulary of Chan technical terminology transmitted in the Kamakura period."
     }
   ]

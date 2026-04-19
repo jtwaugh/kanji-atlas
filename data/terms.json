@@ -1499,5 +1499,103 @@
         { "char": "着語", "language": "Japanese/Chinese", "divergence": "着語 (jakugo, capping phrase) is a single phrase or line attached to a koan case; 頌古 (juko) is a complete poem composed in response to the case. The two genres overlap in the Blue Cliff Record's layered structure — Xuedou's verses are 頌古, and Yuanwu's interlinear comments are closer to 着語 — but they differ in scale, form, and ambition: the capping phrase compresses insight into a single line drawn from existing literature, while the verse commentary creates a new poem that stands alongside the case as its poetic companion." },
         { "char": "拈古", "language": "Japanese/Chinese", "divergence": "拈古 (nenko) is the broader genre of picking up an old case and adding commentary in any form — prose, verse, or extemporaneous oral presentation. 頌古 (juko) is specifically the verse sub-form of 拈古. All 頌古 are acts of 拈古, but not all 拈古 take the form of 頌古: a master's prose commentary or oral 拈提 is also 拈古." }
       ]
+    },
+    {
+      "id": "suiji",
+      "characters": "垂示",
+      "romaji_on": "suiji",
+      "on_reading": "すいじ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "chuishi-introductory-pointer",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["honsoku", "juko", "nenko", "nentei", "jakugo", "koan"],
+      "components": [
+        { "char": "垂", "meaning": "to hang down, to bestow, to suspend — the commentator hangs his remarks down above the case in a gesture of ceremonial suspension rather than linear introduction" },
+        { "char": "示", "meaning": "to show, to display, to make manifest — originally the pictograph of a ritual altar; the commentator shows something without explaining it" }
+      ],
+      "translation_range": [
+        { "rendering": "introductory pointer", "emphasis": "the standard English rendering — names the 垂示's structural position before the case; clear but loses the register of suspension" },
+        { "rendering": "pointer", "emphasis": "compressed — treats the 垂示 as an orienting gesture without specifying its prefatory position; common in specialist scholarship" },
+        { "rendering": "suspended instruction", "emphasis": "preserves the 垂 register of hanging down — the remark suspended above the case rather than placed alongside it" },
+        { "rendering": "prefatory remark", "emphasis": "literary — names the structural position but flattens the ceremonial weight; useful for non-specialist readers" },
+        { "rendering": "suiji", "emphasis": "untranslated — used in scholarly discussions of the Blue Cliff Record's layered architecture" }
+      ],
+      "conceptual_remainder": "The critical thing English renderings tend to lose is the directionality embedded in 垂. 'Introductory' places the pointer on a horizontal axis — before the case on the page — but 垂 places it on a vertical axis: the pointer hangs down over the case from above. The difference is not decorative. The vertical axis carries a register of superiority and bestowal (the master suspends something down from the height of his realization to the student beneath), and it carries a temporal-spatial logic different from 'introduction.' An introduction precedes; a 垂示 hovers. When Yuanwu's pointer opens with 'see what the ancient one is doing' or 'if you want to understand this case,' the remark is not preparing the reader for what follows but hanging above what follows and casting its shadow on it. English 'pointer' catches something of this (a pointer hovers above what it points at), but the ceremonial register — the religious residue of 示 as altar — is lost in any functional rendering.",
+      "doctrinal_weight": "The 垂示 is a commentarial layer specific to the Blue Cliff Record (碧巌録) and its immediate stylistic descendants. Yuanwu Keqin prefaces each of the hundred cases with a 垂示, and the genre's existence is almost identified with his editorial work on the collection. The Gateless Gate omits the 垂示 entirely, and this difference is structural rather than accidental: Wumen's anthology presents each case cold, trusting the student to meet it without prefatory overhang, while Yuanwu's anthology stages each case within an elaborate commentarial architecture in which the 垂示 is the opening layer, followed by the main case (本則), Xuedou's verse (頌古), a pointer on the verse, Yuanwu's prose commentary, and interlinear capping phrases. The 垂示 is thus a feature of the highest-articulation end of the koan-commentary genre — it appears where the commentator has chosen to frame the case with maximum ceremonial and literary elaboration, and its absence in other anthologies is a statement about their different editorial intentions."
+    },
+    {
+      "id": "katsu",
+      "characters": "喝",
+      "romaji_on": "katsu",
+      "on_reading": "かつ",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "he-chan-shout",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["koan", "mu", "mondo", "bo", "hossu"],
+      "components": [
+        { "char": "喝", "meaning": "a sharp vocal cry; 口 (mouth) as semantic element names the vocal act, and 曷 (phonetic) sounds the compound — the Chan-technical specialization narrows the original sense of 'scolding shout' into a pedagogical instrument" }
+      ],
+      "translation_range": [
+        { "rendering": "shout", "emphasis": "the standard English rendering — names the 喝 as a vocal event but can flatten the pedagogical precision into a generic yell" },
+        { "rendering": "katsu", "emphasis": "untranslated — used in scholarly and monastic discussions where the Japanese pronunciation preserves the Rinzai technical sense" },
+        { "rendering": "Zen shout", "emphasis": "disambiguating — marks the 喝 as a specifically Chan/Zen device rather than a generic vocal event" },
+        { "rendering": "cry", "emphasis": "poetic — catches the vocal register but loses the forcefulness of the Chinese original" }
+      ],
+      "conceptual_remainder": "The doctrinal weight English renderings must carry — and usually cannot — is that the 喝 is not an expression. It is not Linji venting anger, surprise, or emphasis. It is a precisely calibrated instrument whose function is to interrupt the formation of a thought at the moment the student's mind is shaping one. Linji systematizes this explicitly in the four shouts (四喝): one cuts like a sword, one crouches like a lion, one probes like a pole with a shadow-grass, one does not function as a shout at all. The taxonomy insists that the 喝 is technical, not emotive. English 'shout' suggests emotional outburst; 'Zen shout' disambiguates but still fails to transmit the taxonomy. The untranslated 'katsu!' works best in Japanese monastic contexts where the word itself functions as a technical term within the Rinzai vocabulary — and the preservation of the Japanese pronunciation is itself a lineage claim, a refusal to let the term dissolve into a generic English 'shout' and thereby a refusal to let the taxonomy dissolve into a vague picture of a master yelling.",
+      "doctrinal_weight": "The 喝 is the signature teaching device of the Linji/Rinzai lineage and one of the two most iconic non-verbal pedagogical instruments in Chan (the other being 棒, the staff). Linji Yixuan's use of the shout is preserved in detail in the Record of Linji (臨済録), where his disciple Sansheng Huiran asks him to systematize the method and Linji responds with the 四喝 (four shouts) — the first explicit Chan taxonomy of a non-verbal teaching device. The shout enters Japanese with the Kamakura transmission of the Linji lineage and has remained iconic of Rinzai Zen in Japanese monastic vocabulary since. In the later tradition 喝 is paired with 棒 as 棒喝 — the staff-and-shout complex — and this compound names the direct, non-discursive pedagogy by which the Rinzai tradition distinguishes itself from methods that would rely primarily on textual or discursive teaching.",
+      "false_friends": [
+        { "char": "棒", "language": "Japanese/Chinese", "divergence": "棒 (bō, the staff) and 喝 (katsu, the shout) are paired in the compound 棒喝 as the two great emblematic non-verbal teaching devices of the Linji/Rinzai tradition. They work on the same principle — intervention at a level prior to discursive speech — but in different sensory registers: 棒 in the tactile register (the student is struck), 喝 in the auditory register (the student is cut off by a cry). The two are often treated as interchangeable in loose usage but are distinguished in the technical literature by which master used which device and by the specific taxonomies that formalize their use." }
+      ]
+    },
+    {
+      "id": "bo",
+      "characters": "棒",
+      "romaji_on": "bo",
+      "on_reading": "ぼう",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "bang-chan-staff",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["koan", "katsu", "mondo", "hossu", "mu"],
+      "components": [
+        { "char": "棒", "meaning": "staff, stick, rod; 木 (wood) as semantic element names the material and 奉 (phonetic) sounds the compound — the Chan-technical specialization turns a generic wooden staff into a named pedagogical instrument" }
+      ],
+      "translation_range": [
+        { "rendering": "staff", "emphasis": "the standard English rendering — preserves the dignified register appropriate to a master's implement" },
+        { "rendering": "stick", "emphasis": "more colloquial — catches the directness of the instrument but can flatten the ceremonial register" },
+        { "rendering": "blow", "emphasis": "metonymic — in contexts where 棒 stands for the action of being struck ('thirty blows') rather than the implement itself" },
+        { "rendering": "bō", "emphasis": "untranslated — used in scholarly and monastic discussions where the Japanese pronunciation preserves the Zen technical sense" }
+      ],
+      "conceptual_remainder": "What English 'staff' or 'stick' cannot carry is the full doctrinal specialization by which 棒 becomes a named pedagogical implement with a history. The object is simply a wooden stick; the Chan claim is that the stick, wielded by this master, falls on the student at a location beneath the axis of right-speech and wrong-speech, and that this is the teaching. Deshan Xuanjian's 'thirty blows whether you speak or not' compresses the claim: the staff's falling is not a response to the student's speech but an intervention at a level prior to speech, and the impossibility of saying-right or saying-wrong is not a dilemma the staff arbitrates but the condition it exposes. English 'blow' catches the physical fact but loses the structural argument; English 'staff' catches the implement but loses what the implement is doing. The Rinzai tradition's term 棒喝 (bōkatsu, staff-and-shout) names the whole pedagogical complex and must be held together to understand either half — the staff and the shout are the same kind of intervention in different sensory registers.",
+      "doctrinal_weight": "The 棒 is the second of the two emblematic non-verbal teaching instruments of the Tang-dynasty Chan tradition (the other being 喝, the shout), and the figure inseparable from its use is Deshan Xuanjian (782–865). Deshan's method of striking the student with the staff 'whether he speaks or not' became paradigmatic for the direct, non-discursive pedagogy that the Linji/Rinzai lineage would later articulate as its defining method. In the later tradition 棒 is paired with 喝 as 棒喝, and the pairing is not merely formulaic: the staff and the shout work on analogous principles (intervention at the level prior to discursive speech) in different sensory registers (tactile and auditory). The term enters Japanese with the Kamakura transmission of the Linji lineage as Rinzai Zen, and in Japanese monastic vocabulary 棒 retains its full Chan-technical weight, not reducible to the general Japanese sense of 'stick / bar.'",
+      "false_friends": [
+        { "char": "杖", "language": "Japanese/Chinese", "divergence": "杖 (jō, cane / walking stick) and 棒 (bō, staff) overlap but diverge in register. 杖 names a supportive walking stick — carried by an elderly or ailing person, or by a pilgrim on the road — and has a different set of cultural associations. 棒 names a more rigid, straight stick used for striking or structural purposes. In the Chan tradition the teacher's implement is named 棒 rather than 杖 because the emphasis is on its use as a pedagogical striking instrument, not as a supportive walking aid." },
+        { "char": "拂子", "language": "Japanese/Chinese", "divergence": "拂子 (hossu, fly-whisk) and 棒 (bō, staff) are both implements carried ceremonially by a Chan master, but they differ in function and register. The 棒 is a rigid stick used to strike; the 拂子 is a handled whisk raised, waved, or presented — a softer, more ceremonial implement. The staff's pedagogy is tactile and interruptive; the fly-whisk's pedagogy is gestural and presentational. Both belong to the regalia of a Zen master, but the staff is more associated with the sharp Linji/Deshan style, while the fly-whisk has a broader presence across both Rinzai and Sōtō ceremonial life." }
+      ]
+    },
+    {
+      "id": "hossu",
+      "characters": "拂子",
+      "romaji_on": "hossu",
+      "on_reading": "ほっす",
+      "module": "classical",
+      "semantic_field_id": "path-and-practice",
+      "source_concept_id": "fuzi-fly-whisk",
+      "transmission_wave": "chan-zen",
+      "neighbor_ids": ["koan", "bo", "katsu", "teisho", "jodo"],
+      "components": [
+        { "char": "拂", "meaning": "to brush away, to sweep aside — the action the implement performs, both functionally (shooing flies) and ceremonially (the master's gesture of clearing)" },
+        { "char": "子", "meaning": "nominalizing suffix — turns the verbal root 拂 into the instrumental noun 'the thing that brushes'" }
+      ],
+      "translation_range": [
+        { "rendering": "fly-whisk", "emphasis": "the standard functional rendering — names the implement by its original Indian monastic function; clear but loses the ceremonial register" },
+        { "rendering": "horsehair whisk", "emphasis": "descriptive — specifies the material (often horse-tail or yak-tail hair) but can obscure the implement's ceremonial role" },
+        { "rendering": "whisk of authority", "emphasis": "interpretive — foregrounds the implement's role as a signifier of authority to teach rather than its practical function" },
+        { "rendering": "hossu", "emphasis": "untranslated — used in scholarly and monastic discussions where the Japanese pronunciation preserves the Zen technical sense" }
+      ],
+      "conceptual_remainder": "What every English rendering must negotiate — and what 'fly-whisk' in particular struggles with — is that the 拂子 is simultaneously a functional implement (originally for shooing flies, an honest practical tool) and a ceremonial object (a signifier of the master's authority to teach and transmit). English 'fly-whisk' catches the functional register but makes the ceremonial role sound like an affectation imposed on a utilitarian object. The Chan tradition's insistence is the opposite: the ceremonial role is not superimposed on the practical function but arises from the practical function's honest continuation. The master holds the 拂子 because monastics in the Indian tradition held them; the authority signaled by its being held is grounded in the unbroken continuity of that holding. 'Whisk of authority' preserves the ceremonial register at the cost of the functional one and can sound pretentious. The untranslated 'hossu' works best in contexts where the reader is oriented enough to the Zen vocabulary to hear both registers at once.",
+      "doctrinal_weight": "The 拂子 appears repeatedly in recorded Chan dialogues as a handled object whose being raised, held, set down, or handed from master to disciple constitutes a pedagogical event. In the Blue Cliff Record and the Gateless Gate there are cases where a master raises the fly-whisk in silence or where the fly-whisk is offered to a questioner as a response that replaces verbal reply. The implement's ceremonial weight is grounded in two overlapping facts: first, it is a traditional monastic implement continuous with the Indian sangha's permitted possessions and thus carries the weight of the Vinaya tradition; second, it has been incorporated into the regalia of Chan masters as a signifier of dharma authority, transmitted from teacher to dharma-heir along with other implements (the staff 杖, the seal 印, the robe 袈裟). In Japanese Rinzai and Sōtō monastic life the 拂子 is used in formal dharma talks (teishō, jōdō) where the master holds or gestures with it; its presence in the speaker's hand marks the speaking position as authoritative and its raising is itself a non-verbal element of the talk."
     }
   ]
