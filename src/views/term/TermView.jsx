@@ -84,11 +84,11 @@ export default function TermView() {
           <div className="mt-5 flex flex-wrap items-center gap-2">
             {term.module && <FlowChip module={term.module} />}
             {field && <Badge variant="secondary">{field.label}</Badge>}
-            {term.transmission_wave && (
-              <Badge variant="ghost" className="text-muted-foreground">
-                {term.transmission_wave.replace('-', ' ')}
+            {(term.transmission_waves || []).map((w) => (
+              <Badge key={w} variant="ghost" className="text-muted-foreground">
+                {w.replace(/-/g, ' ')}
               </Badge>
-            )}
+            ))}
           </div>
         </header>
 
@@ -112,9 +112,9 @@ export default function TermView() {
               >
                 {source.term}
               </p>
-              {source.language && (
+              {source.languages && source.languages.length > 0 && (
                 <p className="text-xs italic text-muted-foreground">
-                  {source.language}
+                  {source.languages.join(' / ')}
                 </p>
               )}
               {source.gloss && (
@@ -127,10 +127,10 @@ export default function TermView() {
                   {source.notes}
                 </p>
               )}
-              {term.coinage_agent && (
+              {term.coinage_notes && (
                 <p className="mt-4 border-t border-border pt-3 text-xs text-muted-foreground">
                   <span className="font-medium text-foreground">Coinage: </span>
-                  {term.coinage_agent}
+                  {term.coinage_notes}
                 </p>
               )}
             </div>
@@ -219,7 +219,7 @@ export default function TermView() {
                         {src.title_ja && (
                           <span className="font-serif"> ({src.title_ja})</span>
                         )}
-                        {src.period && <span> · {src.period}</span>}
+                        {src.period_notes && <span> · {src.period_notes}</span>}
                         {src.tradition && <span> · {src.tradition}</span>}
                       </cite>
                     )}

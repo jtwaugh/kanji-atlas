@@ -1,0 +1,50 @@
+[
+  {
+    "id": "first-wave",
+    "label": "First Wave",
+    "period": "5th–6th century CE",
+    "description": "Earliest Buddhist transmission into Chinese, largely via Central Asian translators. Terms are often phonetic transliterations of Sanskrit (般若, 涅槃, 菩薩) — the Sanskrit original is still audible inside the Chinese."
+  },
+  {
+    "id": "abhidharma",
+    "label": "Abhidharma",
+    "period": "3rd–7th century CE",
+    "description": "Scholastic analytical Buddhism — the taxonomic Sanskrit literature of dharmas, consciousness, and conditioned arising. Translated into Chinese across multiple waves; vocabulary tends toward systematic precision."
+  },
+  {
+    "id": "prajnaparamita",
+    "label": "Prajñāpāramitā",
+    "period": "1st century BCE – 7th century CE",
+    "description": "The Mahāyāna wisdom-literature stratum — Heart Sutra, Diamond Sutra, larger Prajñāpāramitā corpus. Source of the core emptiness vocabulary (空, 色, 不二) before its Chan reinterpretation."
+  },
+  {
+    "id": "xuanzang",
+    "label": "Xuanzang",
+    "period": "7th century CE",
+    "description": "The great translator-monk's systematic project (629–664 CE), which preferred semantic translation over transliteration and set the standard for Buddhist Chinese for centuries. Many of the most philosophically precise terms date from this period."
+  },
+  {
+    "id": "tendai",
+    "label": "Tendai",
+    "period": "9th century CE onward",
+    "description": "The Heian-period synthesis of Lotus-school doctrine transmitted from Tiantai. Source of doctrinal vocabulary around original/acquired enlightenment (本覚 / 始覚) that later Kamakura schools — including Dōgen's — interrogated."
+  },
+  {
+    "id": "chan-zen",
+    "label": "Chan / Zen",
+    "period": "8th–13th century CE",
+    "description": "Tang–Song Chan tradition before transmission to Japan. Terms tend toward the paradoxical, vernacular, and deliberately resistant to systematic definition. 公案, 無, 坐禅 in their fully Zen senses are largely products of this period."
+  },
+  {
+    "id": "kamakura-soto",
+    "label": "Kamakura Sōtō",
+    "period": "13th century CE",
+    "description": "Dōgen's transmission of Caodong Chan into Japan and its founding articulation as Sōtō Zen. The Shōbōgenzō wave — many terms here are Dōgen's reinterpretations against received Buddhist usage (有時, 山水, 仏性 in his radical sense)."
+  },
+  {
+    "id": "japanese-zen",
+    "label": "Japanese Zen (later)",
+    "period": "14th–19th century CE",
+    "description": "Post-founding developments inside Japanese Zen — the Rinzai koan curriculum systematization under Hakuin, Edo-period calligraphic flowerings under Hakuin and Sengai, the consolidation of monastic ranks and ritual vocabulary."
+  }
+]

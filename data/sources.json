@@ -1,106 +1,492 @@
 [
-    {
-      "id": "gateless-gate",
-      "title": "Gateless Gate",
-      "title_ja": "無門関",
-      "tradition": "Rinzai Zen",
-      "period": "Compiled by Wumen Huikai, 1228 CE",
-      "notes": "48 koans with Wumen's verse and commentary. The title koan (Case 1, Zhaozhou's 無) is the primary entry point into Rinzai practice."
-    },
-    {
-      "id": "blue-cliff-record",
-      "title": "Blue Cliff Record",
-      "title_ja": "碧巌録",
-      "tradition": "Rinzai Zen",
-      "period": "Compiled by Yuanwu Keqin, 1125 CE",
-      "notes": "100 koans with verse and prose commentary. More literary and philosophically elaborate than the Gateless Gate. Essential for advanced Rinzai study."
-    },
-    {
-      "id": "platform-sutra",
-      "title": "Platform Sutra of the Sixth Patriarch",
-      "title_ja": "六祖壇経",
-      "tradition": "Chan / Zen",
-      "period": "Attributed to Huineng (638–713 CE); compiled in current form c. 8th–9th century",
-      "notes": "The foundational text of the Southern school of Chan. Huineng's teaching on sudden awakening and the originally pure nature of mind. The only Chinese text accorded the status of 'sutra.'"
-    },
-    {
-      "id": "heart-sutra",
-      "title": "Heart Sutra",
-      "title_ja": "般若心経",
-      "tradition": "Prajnaparamita / Zen",
-      "period": "Sanskrit original c. 1st–2nd century CE; Xuanzang's Chinese translation 649 CE",
-      "notes": "The most recited text in East Asian Buddhism. 260 characters in Xuanzang's version. The 色即是空 passage is the doctrinal center of the Prajnaparamita corpus."
-    },
-    {
-      "id": "nishi-hyakuichi",
-      "title": "Hyakuichi Shinron",
-      "title_ja": "百一新論",
-      "tradition": "Meiji intellectual",
-      "period": "Nishi Amane, 1874",
-      "notes": "The text in which Nishi Amane first published several of his philosophical coinages including 哲学. Represents the systematic effort to render Western philosophical vocabulary in Chinese characters."
-    },
-    {
-      "id": "fukuzawa-gakumon",
-      "title": "An Encouragement of Learning",
-      "title_ja": "学問のすすめ",
-      "tradition": "Meiji intellectual",
-      "period": "Fukuzawa Yukichi, 1872–1876 (17 volumes)",
-      "notes": "The most widely read Meiji text. Establishes the conceptual ground for liberal political vocabulary. The opening line on human equality became iconic."
-    },
-    {
-      "id": "liang-xinmin",
-      "title": "Xinmin Shuo (On the New Citizen)",
-      "title_ja": "新民説",
-      "tradition": "Chinese reform intellectual",
-      "period": "Liang Qichao, 1902–1906",
-      "notes": "Liang Qichao's major work written during his exile in Japan. The primary vector through which wasei-kango vocabulary entered Chinese intellectual discourse. Systematically deploys Japanese coinages as naturalized Chinese terms."
-    },
-    {
-      "id": "liang-ouyou",
-      "title": "Impressions from Travels in Europe",
-      "title_ja": "欧游心影録",
-      "tradition": "Chinese reform intellectual",
-      "period": "Liang Qichao, 1919",
-      "notes": "Written after Liang's visit to post-WWI Europe. Marks a turn away from uncritical faith in Western science and democracy. Key text for showing the imported vocabulary being questioned by a major Chinese thinker."
-    },
-    {
-      "id": "eihei-shingi",
-      "title": "Eihei Shingi",
-      "title_ja": "永平清規",
-      "tradition": "Sōtō Zen",
-      "period": "Dōgen, 1237–1249 (composed in six parts)",
-      "notes": "Dōgen's collected monastic regulations for the Eihei-ji community. Six texts covering the temple officers (Chiji Shingi), the conduct of the head cook (Tenzo Kyōkun), the method of eating meals (Fushukuhanpō), and the rituals of the practice period (Bendōhō, Shuryō Shingi, and Taitaiko Goge Jarihō). The central institutional source for the shape of Sōtō monastic life, including the ango practice period and its culminating hossenshiki ceremony. Dōgen's regulations are not mere housekeeping rules but detailed articulations of how practice-realization is enacted in the choreography of daily and ritual life."
-    },
-    {
-      "id": "dahui-shuzhuang",
-      "title": "Letters of Dahui",
-      "title_ja": "大慧書",
-      "tradition": "Linji Chan / Rinzai Zen",
-      "period": "Dahui Zonggao, letters composed and circulated 12th century",
-      "notes": "Dahui Zonggao's (1089–1163) collected letters to disciples, fellow monks, and lay students, compiled and widely circulated as 大慧書 (Ch. Dàhuì Shū). The letters are the primary textual source for kànhuà chán — Dahui's method of concentrating on the 話頭 (critical phrase) of a koan as a sustained meditation object — and for his polemic against the mòzhào chán ('silent illumination') taught in the Caodong lineage. The letters circulated widely in Song-dynasty Chan circles, were transmitted to Japan as part of the Rinzai curriculum, and became foundational reading for Japanese practitioners from the Kamakura period onward. They are notable both for their technical instructions on kanhua practice — including the four prohibitions against interpreting 無 — and for their pastoral voice: Dahui wrote many of them to lay officials attempting to integrate serious Chan practice with public life, and the letters preserve an unusual record of how a Song-dynasty Chan master adapted the koan method for students who were not monastics."
-    },
-    {
-      "id": "hongzhi-mokushomei",
-      "title": "Silent Illumination Inscription",
-      "title_ja": "黙照銘",
-      "tradition": "Caodong Chan / Sōtō Zen",
-      "period": "Hongzhi Zhengjue, 12th century",
-      "notes": "Hongzhi Zhengjue's (1091–1157) short verse-inscription (銘) on the method of mòzhào chán — silent illumination — considered the classical statement of the Caodong lineage's meditative practice. The inscription holds 黙 (silence) and 照 (illumination) together across its lines as the two inseparable aspects of zazen: the suspension of discursive proliferation and the luminous clarity of awareness that rests in and as that suspension. The text is the immediate target of Dahui Zonggao's polemic against silent illumination as mere torpor, and the two texts are usefully read together as the classical articulation of the Linji/Rinzai–Caodong/Sōtō methodological fault-line. Dōgen inherits and radicalizes Hongzhi's position as shikantaza, and Hongzhi's broader corpus — including the Extensive Record of Chan Master Hongzhi and his verse commentaries on koan cases (later incorporated into the Book of Serenity) — forms the immediate Chinese background of Dōgen's Sōtō transmission."
-    },
-    {
-      "id": "zenrin-kushu",
-      "title": "Zenrin Kushū (Anthology of Phrases from the Zen Forest)",
-      "title_ja": "禅林句集",
-      "tradition": "Rinzai Zen",
-      "period": "Compiled by Tōyō Eichō, late 15th century; expanded through the Edo period",
-      "notes": "A large compilation of short phrases drawn from classical Chinese poetry, Confucian and Daoist texts, earlier Chan literature, and vernacular sayings, organized for use in Rinzai koan training as a reservoir of 着語 (jakugo, capping phrases) and 下語 (agyo, appended words). The original compilation is attributed to the Rinzai priest Tōyō Eichō (1428–1504); the text was expanded into its currently-circulating form during the Edo period and remains the standard Japanese phrase book for the Rinzai curriculum. In the koan training system the student presents phrases from the Zenrin Kushū during dokusan as part of passing a case, fitting the phrase to the case as a compressed demonstration of insight: the teacher judges whether the phrase fits. The anthology's register ranges enormously — from dense classical allusion drawn from the Book of Songs or Du Fu to plain vernacular observations about weather and seasons — and its organization preserves the literary and rhetorical fabric of Song-dynasty Chan commentary for use by Japanese practitioners. Standard Rinzai reference editions have appeared throughout the modern period; R. H. Blyth's mid-twentieth-century English selections introduced the work to Western readers."
-    },
-    {
-      "id": "rinzai-roku",
-      "title": "Record of Linji",
-      "title_ja": "臨済録",
-      "tradition": "Linji Chan / Rinzai Zen",
-      "period": "Linji Yixuan (d. 866); compiled by his disciples in the late 9th century; current form c. 1120 CE (edited by Yuanjue Zongyan)",
-      "notes": "The recorded sayings, dialogues, and sermons of Linji Yixuan (臨済義玄, d. 866), the founder of the Linji lineage and the single most emblematic figure of the Tang-dynasty Chan tradition. The text is compiled from notes taken by Linji's disciples during and immediately after his life, circulated in various forms through the late Tang and Five Dynasties, and stabilized in its current shape by Yuanjue Zongyan's 1120 edition. The Record is organized into sections preserving Linji's formal talks (上堂), exchanges with individual students (行録), encounters with other masters on his travels, and miscellaneous sayings. The text is doctrinally foundational for the Rinzai tradition: it is the source of Linji's four shouts (四喝), the 'true person of no rank' (無位真人), the four host-and-guest dialectics, and the polemical voice that sets Linji apart from other ninth-century masters. The Record is also the primary source for the Linji lineage's self-understanding as a direct, non-discursive pedagogical tradition — the shout (喝), the staff (棒), and the spontaneous encounter are articulated here with a force and literary precision that becomes the template for later Chan writing. In the Japanese Rinzai tradition the 臨済録 is transmitted as a foundational text from the Kamakura period onward, and D. T. Suzuki's and later Burton Watson's translations brought it to Western readers. Standard editions include extensive commentarial apparatus — the text has been commented on continuously in China and Japan for nine centuries, and Linji's voice has remained the central voice of the Rinzai tradition through that whole span."
-    }
-  ]
+  {
+    "id": "gateless-gate",
+    "title": "Gateless Gate",
+    "title_ja": "無門関",
+    "period_start_year": 1228,
+    "period_end_year": 1228,
+    "period_notes": "Compiled by Wumen Huikai, 1228 CE",
+    "tradition": "Rinzai Zen",
+    "notes": "48 koans with Wumen's verse and commentary. The title koan (Case 1, Zhaozhou's 無) is the primary entry point into Rinzai practice."
+  },
+  {
+    "id": "blue-cliff-record",
+    "title": "Blue Cliff Record",
+    "title_ja": "碧巌録",
+    "period_start_year": 1125,
+    "period_end_year": 1125,
+    "period_notes": "Compiled by Yuanwu Keqin, 1125 CE",
+    "tradition": "Rinzai Zen",
+    "notes": "100 koans with verse and prose commentary. More literary and philosophically elaborate than the Gateless Gate. Essential for advanced Rinzai study."
+  },
+  {
+    "id": "platform-sutra",
+    "title": "Platform Sutra of the Sixth Patriarch",
+    "title_ja": "六祖壇経",
+    "period_start_year": 700,
+    "period_end_year": 900,
+    "period_notes": "Attributed to Huineng (638–713 CE); compiled in current form c. 8th–9th century",
+    "tradition": "Chan / Zen",
+    "notes": "The foundational text of the Southern school of Chan. Huineng's teaching on sudden awakening and the originally pure nature of mind. The only Chinese text accorded the status of 'sutra.'"
+  },
+  {
+    "id": "heart-sutra",
+    "title": "Heart Sutra",
+    "title_ja": "般若心経",
+    "period_start_year": 100,
+    "period_end_year": 649,
+    "period_notes": "Sanskrit original c. 1st–2nd century CE; Xuanzang's Chinese translation 649 CE",
+    "tradition": "Prajnaparamita / Zen",
+    "notes": "The most recited text in East Asian Buddhism. 260 characters in Xuanzang's version. The 色即是空 passage is the doctrinal center of the Prajnaparamita corpus."
+  },
+  {
+    "id": "nishi-hyakuichi",
+    "title": "Hyakuichi Shinron",
+    "title_ja": "百一新論",
+    "period_start_year": 1874,
+    "period_end_year": 1874,
+    "period_notes": "Nishi Amane, 1874",
+    "tradition": "Meiji intellectual",
+    "notes": "The text in which Nishi Amane first published several of his philosophical coinages including 哲学. Represents the systematic effort to render Western philosophical vocabulary in Chinese characters."
+  },
+  {
+    "id": "fukuzawa-gakumon",
+    "title": "An Encouragement of Learning",
+    "title_ja": "学問のすすめ",
+    "period_start_year": 1872,
+    "period_end_year": 1876,
+    "period_notes": "Fukuzawa Yukichi, 1872–1876 (17 volumes)",
+    "tradition": "Meiji intellectual",
+    "notes": "The most widely read Meiji text. Establishes the conceptual ground for liberal political vocabulary. The opening line on human equality became iconic."
+  },
+  {
+    "id": "liang-xinmin",
+    "title": "Xinmin Shuo (On the New Citizen)",
+    "title_ja": "新民説",
+    "period_start_year": 1902,
+    "period_end_year": 1906,
+    "period_notes": "Liang Qichao, 1902–1906",
+    "tradition": "Chinese reform intellectual",
+    "notes": "Liang Qichao's major work written during his exile in Japan. The primary vector through which wasei-kango vocabulary entered Chinese intellectual discourse. Systematically deploys Japanese coinages as naturalized Chinese terms."
+  },
+  {
+    "id": "liang-ouyou",
+    "title": "Impressions from Travels in Europe",
+    "title_ja": "欧游心影録",
+    "period_start_year": 1919,
+    "period_end_year": 1919,
+    "period_notes": "Liang Qichao, 1919",
+    "tradition": "Chinese reform intellectual",
+    "notes": "Written after Liang's visit to post-WWI Europe. Marks a turn away from uncritical faith in Western science and democracy. Key text for showing the imported vocabulary being questioned by a major Chinese thinker."
+  },
+  {
+    "id": "eihei-shingi",
+    "title": "Eihei Shingi",
+    "title_ja": "永平清規",
+    "period_start_year": 1237,
+    "period_end_year": 1249,
+    "period_notes": "Dōgen, 1237–1249 (composed in six parts)",
+    "tradition": "Sōtō Zen",
+    "notes": "Dōgen's collected monastic regulations for the Eihei-ji community. Six texts covering the temple officers (Chiji Shingi), the conduct of the head cook (Tenzo Kyōkun), the method of eating meals (Fushukuhanpō), and the rituals of the practice period (Bendōhō, Shuryō Shingi, and Taitaiko Goge Jarihō). The central institutional source for the shape of Sōtō monastic life, including the ango practice period and its culminating hossenshiki ceremony. Dōgen's regulations are not mere housekeeping rules but detailed articulations of how practice-realization is enacted in the choreography of daily and ritual life."
+  },
+  {
+    "id": "dahui-shuzhuang",
+    "title": "Letters of Dahui",
+    "title_ja": "大慧書",
+    "period_start_year": 1100,
+    "period_end_year": 1199,
+    "period_notes": "Dahui Zonggao, letters composed and circulated 12th century",
+    "tradition": "Linji Chan / Rinzai Zen",
+    "notes": "Dahui Zonggao's (1089–1163) collected letters to disciples, fellow monks, and lay students, compiled and widely circulated as 大慧書 (Ch. Dàhuì Shū). The letters are the primary textual source for kànhuà chán — Dahui's method of concentrating on the 話頭 (critical phrase) of a koan as a sustained meditation object — and for his polemic against the mòzhào chán ('silent illumination') taught in the Caodong lineage. The letters circulated widely in Song-dynasty Chan circles, were transmitted to Japan as part of the Rinzai curriculum, and became foundational reading for Japanese practitioners from the Kamakura period onward. They are notable both for their technical instructions on kanhua practice — including the four prohibitions against interpreting 無 — and for their pastoral voice: Dahui wrote many of them to lay officials attempting to integrate serious Chan practice with public life, and the letters preserve an unusual record of how a Song-dynasty Chan master adapted the koan method for students who were not monastics."
+  },
+  {
+    "id": "hongzhi-mokushomei",
+    "title": "Silent Illumination Inscription",
+    "title_ja": "黙照銘",
+    "period_start_year": 1100,
+    "period_end_year": 1199,
+    "period_notes": "Hongzhi Zhengjue, 12th century",
+    "tradition": "Caodong Chan / Sōtō Zen",
+    "notes": "Hongzhi Zhengjue's (1091–1157) short verse-inscription (銘) on the method of mòzhào chán — silent illumination — considered the classical statement of the Caodong lineage's meditative practice. The inscription holds 黙 (silence) and 照 (illumination) together across its lines as the two inseparable aspects of zazen: the suspension of discursive proliferation and the luminous clarity of awareness that rests in and as that suspension. The text is the immediate target of Dahui Zonggao's polemic against silent illumination as mere torpor, and the two texts are usefully read together as the classical articulation of the Linji/Rinzai–Caodong/Sōtō methodological fault-line. Dōgen inherits and radicalizes Hongzhi's position as shikantaza, and Hongzhi's broader corpus — including the Extensive Record of Chan Master Hongzhi and his verse commentaries on koan cases (later incorporated into the Book of Serenity) — forms the immediate Chinese background of Dōgen's Sōtō transmission."
+  },
+  {
+    "id": "zenrin-kushu",
+    "title": "Zenrin Kushū (Anthology of Phrases from the Zen Forest)",
+    "title_ja": "禅林句集",
+    "period_start_year": 1470,
+    "period_end_year": 1700,
+    "period_notes": "Compiled by Tōyō Eichō, late 15th century; expanded through the Edo period",
+    "tradition": "Rinzai Zen",
+    "notes": "A large compilation of short phrases drawn from classical Chinese poetry, Confucian and Daoist texts, earlier Chan literature, and vernacular sayings, organized for use in Rinzai koan training as a reservoir of 着語 (jakugo, capping phrases) and 下語 (agyo, appended words). The original compilation is attributed to the Rinzai priest Tōyō Eichō (1428–1504); the text was expanded into its currently-circulating form during the Edo period and remains the standard Japanese phrase book for the Rinzai curriculum. In the koan training system the student presents phrases from the Zenrin Kushū during dokusan as part of passing a case, fitting the phrase to the case as a compressed demonstration of insight: the teacher judges whether the phrase fits. The anthology's register ranges enormously — from dense classical allusion drawn from the Book of Songs or Du Fu to plain vernacular observations about weather and seasons — and its organization preserves the literary and rhetorical fabric of Song-dynasty Chan commentary for use by Japanese practitioners. Standard Rinzai reference editions have appeared throughout the modern period; R. H. Blyth's mid-twentieth-century English selections introduced the work to Western readers."
+  },
+  {
+    "id": "rinzai-roku",
+    "title": "Record of Linji",
+    "title_ja": "臨済録",
+    "period_start_year": 866,
+    "period_end_year": 1120,
+    "period_notes": "Linji Yixuan (d. 866); compiled by his disciples in the late 9th century; current form c. 1120 CE (edited by Yuanjue Zongyan)",
+    "tradition": "Linji Chan / Rinzai Zen",
+    "notes": "The recorded sayings, dialogues, and sermons of Linji Yixuan (臨済義玄, d. 866), the founder of the Linji lineage and the single most emblematic figure of the Tang-dynasty Chan tradition. The text is compiled from notes taken by Linji's disciples during and immediately after his life, circulated in various forms through the late Tang and Five Dynasties, and stabilized in its current shape by Yuanjue Zongyan's 1120 edition. The Record is organized into sections preserving Linji's formal talks (上堂), exchanges with individual students (行録), encounters with other masters on his travels, and miscellaneous sayings. The text is doctrinally foundational for the Rinzai tradition: it is the source of Linji's four shouts (四喝), the 'true person of no rank' (無位真人), the four host-and-guest dialectics, and the polemical voice that sets Linji apart from other ninth-century masters. The Record is also the primary source for the Linji lineage's self-understanding as a direct, non-discursive pedagogical tradition — the shout (喝), the staff (棒), and the spontaneous encounter are articulated here with a force and literary precision that becomes the template for later Chan writing. In the Japanese Rinzai tradition the 臨済録 is transmitted as a foundational text from the Kamakura period onward, and D. T. Suzuki's and later Burton Watson's translations brought it to Western readers. Standard editions include extensive commentarial apparatus — the text has been commented on continuously in China and Japan for nine centuries, and Linji's voice has remained the central voice of the Rinzai tradition through that whole span."
+  },
+  {
+    "id": "shobogenzo",
+    "title": "Shōbōgenzō",
+    "title_ja": "正法眼蔵",
+    "period_start_year": 1231,
+    "period_end_year": 1253,
+    "period_notes": "Dōgen, principal fascicles composed 1231–1253",
+    "tradition": "Sōtō Zen",
+    "notes": "Dōgen's masterwork, a collection of essays and dharma talks composed across the last twenty-three years of his life and assembled in various recensions of which the 75-fascicle and 95-fascicle editions are most widely cited. The title 正法眼蔵 (shōbōgenzō, 'the treasury of the eye of the true dharma') announces the work's claim: the fascicles articulate the eye through which the true dharma sees itself, the perceptual-doctrinal mode of buddha-being that Dōgen takes himself to be transmitting from his Chinese master Tiantong Rujing. The text is compositionally heterogeneous — fascicles range from compact dharma-talks to extended doctrinal arguments to philosophical meditations on individual koans and sutra passages — but the work is unified by Dōgen's distinctive philosophical voice and by the doctrinal claims that recur across fascicles: the oneness of practice and realization (修証一等), the identification of impermanence with Buddha-nature (無常仏性), the inseparability of being and time (有時), the location of liberation within rather than apart from birth-and-death (生死), and the radical claim that all existence is Buddha-nature (悉有仏性). The Shōbōgenzō is the primary doctrinal source of Sōtō Zen and one of the most philosophically dense works in the East Asian Buddhist tradition. Dōgen's prose, written in a hybrid of classical Chinese and medieval Japanese, exploits the polysemy of Buddhist technical vocabulary with extraordinary precision; many fascicles take a single character or compound as their philosophical hinge and unfold its doctrinal weight across pages of close reading. The text was largely confined to Sōtō monastic circles for several centuries after Dōgen's death and only entered wider circulation in the Tokugawa and modern periods, after which it became the central text of Japanese Buddhist philosophical reflection. Modern translations into Japanese vernacular, English, and other Western languages have multiplied since the mid-twentieth century, and the work has become one of the major resources for cross-cultural philosophical dialogue."
+  },
+  {
+    "id": "mappo-tomyoki",
+    "title": "Mappō Tōmyōki",
+    "title_ja": "末法燈明記",
+    "period_start_year": 800,
+    "period_end_year": 900,
+    "period_notes": "Attributed to Saichō, c. 9th century (composition and authorship contested by modern scholarship)",
+    "tradition": "Tendai / Kamakura Buddhism",
+    "notes": "A short treatise of approximately 6,000 characters traditionally attributed to Saichō (最澄, 767–822), the Tendai founder, articulating the doctrine of the three dharma-ages (正法・像法・末法) and arguing that in the latter age (末法) the standard ordination practices and ethical disciplines of monastic Buddhism are no longer adequate to the spiritual capacities of beings, requiring the development of new modes of practice fitted to the degenerate conditions. The treatise's authorship is disputed by modern scholarship — many scholars now hold that the work was composed in the late Heian period rather than by Saichō himself, perhaps in the eleventh or early twelfth century as the calculated date of the onset of mappō (1052 CE) approached and the doctrine acquired urgent practical significance — but the traditional attribution to Saichō and the standard dating to the early ninth century remained authoritative for the Kamakura reform movements that drew on the work. The Mappō Tōmyōki is the most widely cited Japanese treatise on mappō across the Kamakura reform schools and is quoted by Hōnen, Shinran, Nichiren, and other founders of the Kamakura new schools as the doctrinal warrant for their reformulations of practice. Hōnen's Senchakushū draws particularly heavily on the text, taking its argument that mappō requires new modes of practice as warrant for the exclusive selection of nenbutsu as the practice adequate to the degenerate age. Shinran cites the treatise repeatedly in the Kyōgyōshinshō. Nichiren reads the treatise as warrant for his identification of daimoku (chanting of the title of the Lotus Sutra) as the practice of mappō. The text's broader importance is that it shapes the entire intellectual horizon within which the Kamakura Buddhist reformers articulated their teachings: by providing a doctrinal frame in which the degeneracy of the age is the condition that requires the emergence of new practical modalities, the Mappō Tōmyōki licenses the Kamakura reformers' departures from earlier monastic norms and provides the theoretical justification for the religious transformations of the period."
+  },
+  {
+    "id": "heike-monogatari",
+    "title": "The Tale of the Heike",
+    "title_ja": "平家物語",
+    "period_start_year": 1240,
+    "period_end_year": 1240,
+    "period_notes": "Compiled in the early Kamakura period, c. 1240; circulated in multiple recensions through the medieval period in both written and oral (biwa hōshi) forms",
+    "tradition": "Medieval Japanese narrative literature (gunki monogatari)",
+    "notes": "The most celebrated work of Japanese medieval war literature, an extended prose-verse narrative recounting the rise and catastrophic fall of the Taira (Heike) clan in the Genpei War of 1180–1185. The work was compiled in the early Kamakura period and circulated in multiple recensions through both written transmission in elite literary circles and oral performance by the biwa hōshi — itinerant blind monk-musicians who chanted the work to the accompaniment of the biwa lute, making the Heike one of the most widely disseminated narratives of the medieval period across all classes of Japanese society. The work is doctrinally and aesthetically structured by the concept of 無常 (mujō, impermanence): the rise and fall of the Heike is read as an extended demonstration of the universal Buddhist teaching that all conditioned things pass, and the catastrophic dissolution of the Taira house at Dan-no-ura is presented not as a contingent military defeat but as the inexorable working-out of the dharma-seal of impermanence in human history. The work's celebrated opening — 祇園精舎の鐘の声、諸行無常の響あり (the bell of Gion-shōja resounds the impermanence of all conditioned things; the color of the sāl flowers reveals the truth that the prosperous must decline) — sets the doctrinal frame within which the entire narrative unfolds and is one of the most recognized passages in all of Japanese literature, memorized across centuries by Japanese schoolchildren and quoted in countless later works as the iconic Japanese articulation of mujō. The Heike Monogatari is therefore both a historical narrative and a sustained literary meditation on the central Buddhist teaching of impermanence — the work in which 諸行無常 ceased to be solely a doctrinal claim and became a structuring principle of Japanese cultural memory."
+  },
+  {
+    "id": "eihei-koroku",
+    "title": "Eihei Kōroku (Dōgen's Extensive Record)",
+    "title_ja": "永平広録",
+    "period_start_year": 1236,
+    "period_end_year": 1253,
+    "period_notes": "Dōgen, recorded across his teaching career 1236–1252; compiled by his disciples shortly after his death in 1253",
+    "tradition": "Sōtō Zen",
+    "notes": "Dōgen's recorded sayings, sermons, dharma-talks, formal verses, and miscellaneous writings, compiled by his disciples (principally Koun Ejō, Senne, and Gien) in the decade following his death and circulated in ten fascicles. The work is the second great corpus of Dōgen's teaching alongside the Shōbōgenzō, complementing the Shōbōgenzō's extended doctrinal essays with the more occasional and performative material of the recorded sayings genre — the formal hall sermons (上堂, jōdō) that Dōgen delivered as abbot at Kōshō-ji and Eihei-ji, the small assemblies (小参, shōsan), the dharma words (法語, hōgo) addressed to particular students, the Chinese-language poems (偈頌, geju) composed across his career, and the formal verse compositions for ceremonial occasions. The Eihei Kōroku is doctrinally complementary to the Shōbōgenzō but distinct in register: where the Shōbōgenzō's fascicles are extended prose essays in a hybrid of classical Chinese and medieval Japanese, the Eihei Kōroku is composed predominantly in classical Chinese and preserves the more compressed, performative, and rhetorically immediate registers of Zen instruction. The collection includes Dōgen's death poem (辞世偈) — composed in 1253 shortly before his death and preserving in compressed form his final articulation of Sōtō practice-realization — as well as numerous other formal verses across his career that constitute one of the most extensive bodies of Zen poetry in the East Asian tradition. The work was less widely circulated than the Shōbōgenzō for much of the post-Dōgen Sōtō tradition but has become increasingly central in modern Sōtō scholarship and in international transmission of Dōgen's teaching, with major modern editions and translations appearing through the late twentieth and early twenty-first centuries."
+  },
+  {
+    "id": "vimalakirti-sutra",
+    "title": "Vimalakīrti Sūtra",
+    "title_ja": "維摩経",
+    "period_start_year": 100,
+    "period_end_year": 406,
+    "period_notes": "Sanskrit original c. 1st–2nd century CE; Kumārajīva's Chinese translation 406 CE",
+    "tradition": "Mahāyāna",
+    "notes": "One of the most influential and literarily celebrated of the Mahāyāna sūtras, structured around the figure of the lay bodhisattva Vimalakīrti (Sanskrit Vimalakīrti, Chinese 維摩詰, Japanese Yuima or Yuimakitsu) — a wealthy householder of the city of Vaiśālī who, despite being a layperson rather than an ordained monastic, has attained a level of bodhisattva realization that surpasses that of the Buddha's senior monastic disciples. The sūtra's narrative unfolds as a series of dialogues set during Vimalakīrti's feigned illness, in which the Buddha sends each of his major disciples in turn to inquire after Vimalakīrti's health and each of them in turn declines, recalling a previous encounter in which Vimalakīrti had instructed and corrected them. The sūtra is the principal Mahāyāna source for the doctrine of non-duality (不二, advaya), with the celebrated 'Dharma-gate of Non-duality' (不二法門) chapter (Chapter 9) presenting a sequence of bodhisattvas articulating non-duality through successive negations of dualistic distinctions, culminating in Mañjuśrī's higher-order articulation that non-duality is the absence of all such formulations and Vimalakīrti's final response of silence — the celebrated 'thunderous silence of Vimalakīrti' that becomes one of the most famous teaching moments in Mahāyāna literature and a foundational reference point for the entire Chan/Zen tradition. The sūtra's literary and doctrinal influence on East Asian Buddhism is enormous. Its presentation of the lay bodhisattva surpassing the monastic disciples becomes a doctrinal warrant for lay practice across the Mahāyāna tradition; its non-dual teaching becomes one of the foundational frames within which Chan/Zen articulates its own positions; its distinctive literary register — combining philosophical density with comic episodes, paradoxical reversals, and theatrical staging — establishes a precedent for the encounter-dialogue style that Chan recorded sayings later inherit. Kumārajīva's 406 CE Chinese translation is one of the most stylistically refined of his many translations and is the primary form in which the sūtra circulated across East Asia. In Japan the sūtra arrives with the early Buddhist transmission and is studied across all schools, with Prince Shōtoku's commentary (聖徳太子, traditionally attributed) being the earliest Japanese engagement with the text and remaining authoritative through the Heian period."
+  },
+  {
+    "id": "avatamsaka-sutra",
+    "title": "Avataṃsaka Sūtra (Flower Garland Sutra)",
+    "title_ja": "華厳経",
+    "period_start_year": 100,
+    "period_end_year": 699,
+    "period_notes": "Sanskrit original compiled c. 1st–4th centuries CE; Buddhabhadra's 60-fascicle Chinese translation 420 CE; Śikṣānanda's expanded 80-fascicle translation 699 CE",
+    "tradition": "Mahāyāna / Huayan / Kegon",
+    "notes": "One of the largest and most doctrinally consequential of the Mahāyāna sūtras, the Avataṃsaka Sūtra (Sanskrit Buddhāvataṃsaka, the 'Buddha's Flower Garland'; Chinese 華厳経 huáyánjīng, Japanese Kegon-kyō) articulates a cosmology of the dharma-realm as a totality of mutually interpenetrating phenomena, in which each particular contains and reflects every other particular without obstruction. The Sūtra is the foundational scripture of the Huayan school of Chinese Buddhism (founded by Dushun, systematized by Fazang and Chengguan in the Tang) and of its Japanese counterpart, the Kegon school (founded at Tōdai-ji in the Nara period). The Sūtra's most celebrated imagery is the metaphor of Indra's Net (帝網, Indra-jāla) — a cosmic net of jewels stretching across the heavens of the god Indra, in which each jewel reflects every other jewel and the reflection of every other jewel in every other jewel, in infinite recursion without obstruction or confusion. The metaphor stages the central doctrinal claim of the Sūtra: the dharma-realm (法界, dharmadhātu) is a totality of mutually interpenetrating phenomena in which the whole is fully expressed in each part and each part is fully expressive of every other part. The Huayan masters develop this imagery into the systematic Fourfold Dharmadhātu doctrine, with the highest register — 事事無礙法界, the realm of unobstructed interpenetration of phenomenon with phenomenon — articulating the radical claim that each particular thing, just in its concrete particularity, contains and reflects all other things. The Sūtra's narrative structure follows the bodhisattva Sudhana on a pilgrimage to fifty-three teachers (the famous 善財童子 Zenzai Dōji journey, the doctrinal core of the 入法界品 Gandavyūha chapter that gives the Sūtra its closing arc), each of whom imparts a different aspect of the bodhisattva path. The Sūtra's influence on East Asian Buddhism is enormous and extends well beyond the Huayan school proper. The Chan/Zen tradition inherits the dharmadhātu cosmology as a tacit doctrinal background and explicit reference point for claims about non-duality, the interpenetration of phenomena, and the totality of reality expressed in each particular moment. Dōgen invokes Huayan vocabulary across the Shōbōgenzō, particularly in fascicles on being-time (有時) and the manifest fundamental point (現成公案). In Japan the Sūtra arrives with the Nara-period Kegon transmission and remains foundational across Japanese Buddhist schools, with Tōdai-ji (the 'Great Eastern Temple,' built to house the Great Buddha of Nara, 大仏) being the principal Kegon institution and one of the most important Buddhist sites in Japan."
+  },
+  {
+    "id": "sandokai",
+    "title": "Sandōkai (Harmony of Difference and Equality)",
+    "title_ja": "参同契",
+    "period_start_year": 700,
+    "period_end_year": 790,
+    "period_notes": "Shitou Xiqian (700–790)",
+    "tradition": "Caodong / Sōtō Zen",
+    "notes": "Shitou Xiqian's (石頭希遷) short verse-poem articulating the Caodong/Sōtō tradition's foundational doctrine of the harmony of relative and absolute, of differentiation and equality, of phenomenon and principle. The poem's title 参同契 is itself a multi-layered allusion — borrowed from a Daoist alchemical text by Wei Boyang of the Han dynasty whose title the poem appropriates — and the borrowed title signals the poem's situation within the broader Daoist-Buddhist intellectual milieu of mid-Tang Chan, in which Caodong articulations of the dharma-nature interpenetrate with the conceptual resources of the indigenous Chinese philosophical tradition. The poem articulates the 理事 (principle-and-phenomenon) dialectic in compressed verse form, presenting the relationship between the absolute and the differentiated phenomena across a sequence of paired images and assertions: light and dark, the foot stepping onto the path and the path appearing under the foot, the box-and-lid that fit perfectly, the arrow-points meeting in mid-flight, each particular fully itself and yet not separable from the totality. The poem is one of the foundational doctrinal texts of the Caodong/Sōtō tradition, transmitted through Shitou's lineage to Dongshan Liangjie and his successors and inherited by Dōgen's Sōtō transmission to Japan. The Sandōkai is chanted daily in Sōtō monasteries alongside Dongshan Liangjie's Hōkyō Zanmai (宝鏡三昧, Song of the Precious Mirror Samadhi), and the two short doctrinal poems together form the verse-doctrinal core of the Sōtō liturgy. The poem's precision of doctrinal articulation in compressed verse form makes it one of the most widely commented short Chan texts in the East Asian tradition, and its handling of the 理事 dialectic — in which the absolute and the relative interpenetrate without collapsing into either monistic unity or pluralistic separation — remains the classical statement of the Caodong/Sōtō position on the question. The poem's 220 characters arranged in 44 five-character lines have been the object of continuous commentarial attention from the Tang through the modern period, with major commentaries by Dongshan, by Tiantong Rujing (Dōgen's Chinese master), by Dōgen himself in the Shōbōgenzō, and by twentieth-century Sōtō teachers including Shunryu Suzuki and Sekkei Harada."
+  },
+  {
+    "id": "fukanzazengi",
+    "title": "Fukanzazengi (Universal Recommendation of Zazen)",
+    "title_ja": "普勧坐禅儀",
+    "period_start_year": 1227,
+    "period_end_year": 1253,
+    "period_notes": "Dōgen, 1227 (initial draft on return from China); revised in 1233 and again in his final years",
+    "tradition": "Sōtō Zen",
+    "notes": "Dōgen's short doctrinal-instructional treatise on zazen, composed in classical Chinese and circulated as the foundational text of his Sōtō transmission. The work was drafted in 1227 immediately upon Dōgen's return from his four-year period of study under Tiantong Rujing in China — the founding text in which Dōgen first articulated to a Japanese audience the Sōtō practice that he had received from his Chinese master and that he understood himself to be transmitting back to Japan. Dōgen revised the text twice across his career, with the final revised version (the Tenpuku-bon, 1233) and the late-life revision (the Vulgate Rufubon) preserving slightly different articulations of the practice. The treatise is one of the most concentrated articulations of Dōgen's understanding of zazen and treats the practice across multiple registers: the cosmological-doctrinal frame (zazen as the activity of the awakened buddhas and ancestors, not as a means to a separate awakening), the practical-instructional frame (the proper posture, robe, breath, and orientation of the body in seated meditation), and the technical-philosophical frame (the proper mode of awareness in zazen, articulated through the appropriation of Yaoshan's Tang-dynasty dialogue on 思量箇不思量底 — non-thinking). The text's articulation of hishiryō (non-thinking) as the proper mode of awareness in zazen is the locus classicus of the Sōtō handling of the question and remains the central reference point for the tradition's distinctive position on mental activity in seated meditation. The Fukanzazengi is chanted in Sōtō monasteries as part of the standard liturgy and is one of the first texts a Sōtō practitioner is expected to memorize. Modern translations into Japanese vernacular and English have multiplied since the mid-twentieth century, and the text remains one of the principal entry points into Dōgen's thought for Western readers."
+  },
+  {
+    "id": "hokyo-zanmai",
+    "title": "Hōkyō Zanmai (Song of the Precious Mirror Samādhi)",
+    "title_ja": "宝鏡三昧",
+    "period_start_year": 807,
+    "period_end_year": 869,
+    "period_notes": "Dongshan Liangjie (807–869)",
+    "tradition": "Caodong Chan / Sōtō Zen",
+    "notes": "Dongshan Liangjie's (洞山良价) extended four-character verse-inscription on the Caodong articulation of the absolute-relative dialectic and the Five Ranks (五位), traditionally taken as one of the foundational doctrinal poems of the lineage. The poem comprises 376 characters arranged in 94 four-character lines and treats the Caodong handling of the relationship between the absolute (正, shō) and the relative (偏, hen) across an extended sequence of paired images, scriptural allusions, and doctrinal claims. The Hōkyō Zanmai is one of the principal locus classicus texts for the Five Ranks doctrine: the poem articulates the dialectical structure of the five positions through compressed images and verse-formulas that Caodong masters and their commentators elaborated across centuries of textual transmission. The poem's title 宝鏡三昧 — the precious-mirror samādhi — names the meditative condition in which the mirror-like awareness reflects all phenomena without preference or distortion, and the poem's articulation of the absolute-relative dialectic is framed throughout by the mirror-image as the structural metaphor for the awakened mode of awareness. The work is doctrinally complementary to Shitou Xiqian's Sandōkai and to Dongshan's Five Position Verses (五位頌, gōi-ju), the three texts together forming the verse-doctrinal core of the Caodong/Sōtō articulation of the principle-and-phenomenon dialectic that the lineage inherited from Shitou and developed into the systematic Five Ranks doctrine. The Hōkyō Zanmai is chanted daily in Sōtō monasteries alongside the Sandōkai, and the two short doctrinal poems together form the verse-doctrinal core of the Sōtō liturgy. The poem has been the object of continuous commentarial attention from the Tang dynasty through the modern period, with major commentaries by Caoshan Benji (Dongshan's principal disciple), by Tiantong Rujing (Dōgen's Chinese master), by Dōgen himself in references across the Eihei Kōroku and by his Sōtō successors, and by twentieth-century Sōtō teachers including Hakuun Yasutani and Sekkei Harada. The Five Ranks doctrine articulated in the poem also entered the Linji/Rinzai koan curriculum through Hakuin Ekaku's eighteenth-century systematization of the Rinzai training program, in which the Five Ranks form the culminating phase of koan study; the doctrine therefore stands as one of the rare technical articulations shared across the Sōtō and Rinzai traditions, although the doctrinal weight and pedagogical use of the Five Ranks differ substantially between the two lineages."
+  },
+  {
+    "id": "fukuzawa-seiyo-jijo",
+    "title": "Seiyō Jijō (Conditions in the West)",
+    "title_ja": "西洋事情",
+    "period_start_year": 1866,
+    "period_end_year": 1870,
+    "period_notes": "Fukuzawa Yukichi, 1866–1870 (three volumes: Initial 1866, Outer 1868, Second 1870)",
+    "tradition": "Meiji intellectual",
+    "notes": "Fukuzawa Yukichi's three-volume survey of Western political, economic, social, and educational institutions, written in the wake of his three official delegations abroad (the United States in 1860, Europe in 1862, the United States again in 1867). The work was the first sustained Japanese-language exposition of the institutional and conceptual fabric of Western modernity and circulated very widely — early estimates put combined sales of the three volumes at over 200,000 copies in the late 1860s and early 1870s, an extraordinary figure for the period. The text is the principal vehicle through which much of the foundational Meiji translation of Western political vocabulary was introduced into general Japanese discourse: 共和 (kyōwa, republic), 自由 (jiyū, liberty), 文明 (bunmei, civilization), 議会 (gikai, parliament), and many of the institutional terms for Western government, law, taxation, postal service, military organization, and educational systems are presented in the work as the operating vocabulary required to understand Western modernity. Fukuzawa's pedagogical aim is explicit: he writes as a translator-explainer addressing a Japanese readership that needs the conceptual handles to make sense of the institutions Japan is encountering, and his prose register is calibrated for accessibility rather than scholarly precision. The text is doctrinally complementary to Fukuzawa's later Encouragement of Learning (学問のすすめ, 1872–76) and Outline of a Theory of Civilization (文明論之概略, 1875), forming the three-part backbone of his early-Meiji intellectual project. The work's account of the American and French republics is the locus classicus Japanese-language introduction to non-monarchical political forms, and Fukuzawa's deployment of 共和 as the operating term for these systems made the compound the standard Japanese rendering of 'republic' across subsequent Meiji and modern usage."
+  },
+  {
+    "id": "itoh-kenpou-gikai",
+    "title": "Commentaries on the Constitution of the Empire of Japan",
+    "title_ja": "憲法義解",
+    "period_start_year": 1889,
+    "period_end_year": 1889,
+    "period_notes": "Itō Hirobumi (with Inoue Kowashi and others), 1889",
+    "tradition": "Meiji intellectual / constitutional law",
+    "notes": "Itō Hirobumi's official commentary on the Meiji Constitution (大日本帝国憲法), published by the Imperial Household in 1889 simultaneously with the promulgation of the Constitution itself and circulated as the authoritative gloss of the constitutional text. The work was prepared with the assistance of Inoue Kowashi (井上毅) and other members of the constitutional drafting committee who had worked under Itō's direction across the 1880s in adapting Prussian and other continental constitutional models to the Japanese institutional context, with significant doctrinal-theoretical input from the German constitutional jurist Hermann Roesler, who had been retained as legal adviser to the Meiji government across the constitutional drafting period. The Commentaries provide article-by-article exposition of the constitutional text, articulating the doctrinal foundations of the constitutional order — the imperial sovereignty under Article 1, the limited subject-rights of Articles 18–32, the bicameral Imperial Diet of Articles 33–54, the executive ministers of Articles 55–56, the judicial power of Articles 57–61, and the financial provisions of Articles 62–72. The work is the principal Meiji-period source for the doctrinal articulation of 憲法 as the operating term of modern Japanese constitutional law, and Itō's commentaries are the locus classicus through which the term was stabilized in its modern Japanese sense as 'fundamental law' rather than its older classical-Chinese sense of 'great norms or statutes.' The work also stabilizes the broader institutional vocabulary that the Constitution required — 議会 (parliament), 議員 (member), 大臣 (minister), 法律 (statute), 勅令 (imperial ordinance), 主権 (sovereignty) — and is one of the principal vehicles through which the Meiji constitutional vocabulary entered general Japanese political discourse. The Commentaries were translated into English by Itō Miyoji (Itō's adopted son) in 1889 for distribution to foreign governments and were widely cited in late-Qing Chinese constitutional reform discussions and in early-twentieth-century Korean constitutional debates as the authoritative East Asian articulation of constitutional government — making the work one of the principal vehicles through which the Meiji constitutional vocabulary radiated across East Asia in the late nineteenth and early twentieth centuries."
+  },
+  {
+    "id": "itagaki-minsen-giin",
+    "title": "Petition for the Establishment of a Popularly Elected Assembly",
+    "title_ja": "民撰議院設立建白書",
+    "period_start_year": 1874,
+    "period_end_year": 1874,
+    "period_notes": "Itagaki Taisuke, Gotō Shōjirō, Soejima Taneomi, Etō Shinpei, and others, January 1874",
+    "tradition": "Meiji liberal / Freedom and People's Rights Movement",
+    "notes": "The petition submitted to the Sa-in (左院, Left Chamber, the legislative consultative body of the early Meiji government) on January 17, 1874, by Itagaki Taisuke (板垣退助) and seven other former leaders of the Restoration government — Gotō Shōjirō (後藤象二郎), Soejima Taneomi (副島種臣), Etō Shinpei (江藤新平), Yuri Kimimasa (由利公正), and others — calling for the establishment of a popularly elected legislative assembly as the foundation of legitimate government. The petition was drafted in the wake of the 1873 government crisis (the Seikanron split) in which Itagaki and his colleagues resigned over the rejection of the Korean expedition proposal, and it inaugurated the Meiji period's Freedom and People's Rights Movement (自由民権運動, Jiyū Minken Undō) that would dominate Japanese political life for the following two decades and culminate in the establishment of political parties (1881–1882), the Meiji Constitution (1889), and the first Imperial Diet (1890). The text articulates the foundational liberal-constitutional argument that the legitimacy of government rests on the consent of the governed, that this consent can only be expressed through a popularly elected representative assembly, and that the Meiji government's existing oligarchic structure (the Sat-Chō clique) lacks the legitimacy that only such an assembly could provide. The petition is the locus classicus Japanese-language articulation of the call for a popularly elected national legislature and is the principal Meiji-period source for the institutional and conceptual vocabulary of Japanese liberal constitutionalism: 民権 (people's rights), 公議輿論 (public deliberation and opinion), 天賦人権 (natural human rights), 民撰議院 (popularly-elected legislative chamber), and the broader vocabulary of representative government enter general Japanese political discourse through this text and the journalistic debate it sparked. The text was published in the newspaper Nisshin Shinjishi (日新真事誌, a Yokohama-based paper edited by the British journalist John Reddie Black) on January 18, 1874 — the day after its submission — and circulated nationally, sparking a sustained public debate that established the conceptual framework within which all subsequent Meiji political reform proceeded. The term 民撰議院 (popularly-elected legislative chamber) used in the petition is structurally related to but distinct from the term 国会 that would become the standard wasei-kango designation for the national assembly: the petition's vocabulary represents an early stage in the stabilization of the institutional terminology that would be fixed by the Constitution of 1889, and the doctrinal continuity between the 1874 petition and the 1889 Imperial Diet is the central axis of the Meiji parliamentary tradition."
+  },
+  {
+    "id": "bankoku-kohou",
+    "title": "Bankoku Kōhō (Public Law of All Nations)",
+    "title_ja": "万国公法",
+    "period_start_year": 1865,
+    "period_end_year": 1865,
+    "period_notes": "Mitsukuri Rinshō's Japanese rendering of W.A.P. Martin's Chinese translation of Wheaton's Elements of International Law, 1865 (Chinese 万国公法 1864; Wheaton original 1836)",
+    "tradition": "Meiji intellectual / international law translation",
+    "notes": "The early-Meiji Japanese translation of international law that introduced the modern international-legal vocabulary into Japanese discourse. The text descends through a two-stage translation chain: Henry Wheaton's Elements of International Law (1836, with later editions through the 1850s), the standard mid-nineteenth-century Anglo-American treatise on international law, was translated into Chinese in 1864 by W.A.P. Martin (丁韙良), the American Presbyterian missionary then teaching at the Tongwen Guan (the Qing imperial school of foreign languages and Western learning), under the title 万国公法 (Wànguó Gōngfǎ, 'Public Law of All Nations'). Martin's Chinese translation supplied the operating East Asian vocabulary of international law and was rapidly imported into Japan, where the text was reprinted and circulated through the late-Tokugawa and early-Meiji periods, with Mitsukuri Rinshō (箕作麟祥) producing the Japanese rendering and commentary that established the operating Japanese-language form of the work in 1865. The text was the principal vehicle through which the institutional and conceptual vocabulary of nineteenth-century Western international law entered Japanese political-legal discourse: 主権 (shuken, sovereignty) in its modern legal-international register, 国際 (kokusai, international) and the related compound 万国 (bankoku, all nations / international), 領土 (ryōdo, territory), 条約 (jōyaku, treaty), 公使 (kōshi, minister-plenipotentiary), 領事 (ryōji, consul), 中立 (chūritsu, neutrality), 戦時国際法 (international law of war), and the broader institutional vocabulary of the Westphalian state-system are stabilized in Japanese political-legal vocabulary through this text and its early-Meiji circulation. The translation was institutionally consequential at the Meiji-government level: the new Meiji state required the operating vocabulary of international law to negotiate the unequal treaties with the Western powers and to articulate its own claims to sovereign status within the international-state system, and the 万国公法 supplied that operating vocabulary across the early-Meiji diplomatic and legal apparatus. Mitsukuri Rinshō (1846–1897) was one of the principal Meiji legal translators — also responsible for translations of the French Civil Code, the French Penal Code, and substantial portions of the Code Napoléon into Japanese — and his work across the 1860s–1880s was foundational to the modern Japanese legal vocabulary. The title 万国公法 itself reflects the early-Meiji preference for 万国 (the ten thousand nations) over the later more compact 国際 (international); the latter compound was subsequently stabilized as the operating prefix of the modern Japanese international-legal vocabulary, with 万国 surviving in particular institutional names (万国博覧会 World's Fair, 万国郵便連合 Universal Postal Union) but largely displaced by 国際 in general usage."
+  },
+  {
+    "id": "kawakami-bimbo",
+    "title": "Bimbō Monogatari (Tale of Poverty)",
+    "title_ja": "貧乏物語",
+    "period_start_year": 1916,
+    "period_end_year": 1917,
+    "period_notes": "Kawakami Hajime, serialized in the Osaka Asahi Shinbun September–December 1916; published in book form 1917",
+    "tradition": "Taishō intellectual / early Japanese Marxist political economy",
+    "notes": "Kawakami Hajime's (河上肇, 1879–1946) extended popular treatise on the question of poverty in modern industrial society, serialized in the Osaka Asahi Shinbun across the autumn of 1916 and published in book form by Kōbunsha in 1917. The work is the most widely-read Japanese-language exposition of Western political economy of the early twentieth century — early estimates put the book in the hundreds of thousands of copies in its first decade, an extraordinary figure for a work of economic-theoretical exposition — and is the principal vehicle through which the operating vocabulary of modern Western political economy and early Marxian economics entered general Japanese intellectual discourse. The work poses its central question directly: why does poverty persist in the wealthy industrial societies of the modern West, and what economic-structural conditions generate the systematic immiseration of the working masses even in periods of overall economic growth? Kawakami's answer draws on a wide range of Western political-economic sources — from Adam Smith and David Ricardo through John Stuart Mill and Alfred Marshall to the early Marxian tradition — and articulates the question of poverty as a question about the structural relations between 資本 (capital) and 労働 (labor) in the 資本主義 (capitalist) order. The work is foundationally significant for the stabilization of the operating Japanese economic vocabulary: 経済 (economy), 資本 (capital), 資本主義 (capitalism), 労働 (labor), 賃金 (wages), 利潤 (profit), 剰余価値 (surplus value), 階級 (class), 富 (wealth), 貧 (poverty) — the entire conceptual apparatus of modern Japanese political economy is deployed across the work in calibrated articulations that shaped the operating vocabulary of subsequent Taishō and early-Shōwa economic discourse. Kawakami's later trajectory — his progressive radicalization through the 1920s, his explicit conversion to Marxism by the late 1920s, his resignation from Kyoto Imperial University in 1928, his joining of the underground Japanese Communist Party in 1932, his arrest under the Peace Preservation Law in 1933, and his subsequent imprisonment and tenkō (forced ideological recantation) — supplies the personal-biographical arc against which the Bimbō Monogatari stands as the early popular-pedagogical articulation of his economic-theoretical position. The work was translated into Chinese in the 1920s and exerted significant influence on the early Chinese Communist movement, with Mao Zedong famously identifying the work as one of the texts that first turned him toward Marxism during his Beijing period in 1918–19."
+  },
+  {
+    "id": "mitsukuri-fr-codes",
+    "title": "Translations of the French Codes (Code Napoléon)",
+    "title_ja": "仏蘭西法律書",
+    "period_start_year": 1870,
+    "period_end_year": 1874,
+    "period_notes": "Mitsukuri Rinshō, 1870–1874",
+    "tradition": "Early Meiji legal translation",
+    "notes": "Mitsukuri Rinshō's (箕作麟祥, 1846–1897) translations of the French Civil Code (民法), Penal Code (刑法), Code of Criminal Instruction (治罪法), Code of Civil Procedure (民事訴訟法), and Commercial Code (商法), produced under commission from the early-Meiji government across 1870–1874 and published by the Ministry of Justice (司法省). The collected translations — published variously as 仏蘭西法律書 (French Legal Documents) and reissued in successive editions through the 1870s — are the foundational vehicle through which the operating vocabulary of nineteenth-century continental civil-law jurisprudence entered modern Japanese legal discourse. The work is the principal stabilization-point for the modern Japanese legal vocabulary: 権利 (kenri, right), 義務 (gimu, obligation), 法律 (hōritsu, statutory law), 裁判 (saiban, trial), 民法 (minpō, civil law), 刑法 (keihō, criminal law), 訴訟 (soshō, litigation), 契約 (keiyaku, contract), 所有 (shoyū, ownership), 動産 (dōsan, movable property), 不動産 (fudōsan, immovable property / real estate), 賠償 (baishō, compensation), 損害 (songai, damages), 過失 (kashitsu, negligence), 責任 (sekinin, responsibility), 債務 (saimu, debt-obligation), 債権 (saiken, claim-right), and substantial portions of the broader vocabulary of modern continental civil law are stabilized in their modern Japanese forms through Mitsukuri's translations across the 1870s. Mitsukuri's translations were not merely literal renderings but doctrinally-precise calibrations: he experimented with multiple alternative compounds for several core categories before settling on the forms that would stabilize as the modern Japanese legal vocabulary, with the famous example of 権理 / 権利 (the alternative early-Meiji forms for 'right') reflecting his systematic translation-experimental work. The translations were produced in a context of intense institutional pressure: the early-Meiji government was negotiating the unequal treaties with the Western powers, one of the principal demands of which was the establishment of a modern Western-style legal system in Japan to replace the Tokugawa-era legal apparatus that the Western powers regarded as inadequate to support their consular jurisdictions in the treaty ports. The translations supplied the operating doctrinal-vocabulary apparatus for the broader Meiji legal-reform project that culminated in the promulgation of the Constitution of 1889, the Civil Code of 1898 (drafted by Hozumi Nobushige and others under the influence of both French and German civil-law traditions), and the broader institutional-legal infrastructure of the modern Japanese state. Mitsukuri Rinshō was one of the foundational figures of the modern Japanese legal profession and held senior posts across the Meiji legal-administrative apparatus; his work across the 1860s–1890s is among the principal stabilization-vehicles for the operating vocabulary of modern East Asian legal-political thought."
+  },
+  {
+    "id": "kawaji-keisatsu-shugen",
+    "title": "Keisatsu Shugen (Essence of Police Work)",
+    "title_ja": "警察手眼",
+    "period_start_year": 1879,
+    "period_end_year": 1879,
+    "period_notes": "Kawaji Toshiyoshi, 1879 (drafted across the late 1870s, posthumously circulated and institutionalized as the foundational pedagogical text of the modern Japanese police)",
+    "tradition": "Early Meiji administrative / institutional formation of the modern Japanese police",
+    "notes": "Kawaji Toshiyoshi's (川路利良, 1834–1879) 警察手眼 — variously rendered 'Essence of Police Work,' 'The Essentials of Policing,' or 'Police Handbook' — is the foundational doctrinal-pedagogical text of the modern Japanese police institution and the canonical early articulation of the modern Japanese policing function. Kawaji, a Satsuma samurai who served on the Meiji government's law-enforcement apparatus from the early 1870s, was dispatched in 1872 as part of the broader Iwakura Embassy's institutional-investigation mission to study European police systems, with his nine-month European tour focused principally on the French Préfecture de Police (Paris) and secondarily on the Prussian and Belgian systems. His subsequent reports — most notably his 1873 警察制度視察報告 ('Report on the Inspection of Police Systems') and the broader cluster of memoranda on European police administration — supplied the institutional foundation for the 1874 establishment of the Tokyo Metropolitan Police Bureau (警視庁, Keishichō) under his leadership and the 1875 nationwide reorganization of the Japanese police system through the Administrative Police Regulations (行政警察規則, Gyōsei Keisatsu Kisoku). The 警察手眼 was drafted across the late 1870s as a pedagogical text for the new Japanese police force, articulating across approximately one hundred articles the foundational doctrines of the modern Japanese policing function: the structural-institutional articulation of the police as the systematic-administrative apparatus of state-vigilant order-maintenance (calibrated specifically against the French Préfecture de Police model rather than the British Peelian model); the pedagogical-disciplinary articulation of police comportment, demeanor, and ethical conduct; the operational-procedural articulation of investigative and order-maintenance functions; and the broader doctrinal articulation of the police as the structural protector of the social order and the public-welfare administrative apparatus of the modern state. The text is the principal stabilization-point for the foundational vocabulary of modern Japanese policing: 警察 (keisatsu, police), 警察官 (keisatsukan, police officer), 巡査 (junsa, patrolman / patrol officer — the basic-rank police officer in the Meiji and modern Japanese police hierarchy), 派出所 (hashutsujo / kōban, neighborhood police box — the distinctive Japanese institutional articulation of community-level policing that descended from this period), 警備 (keibi, security / guard duty), 警戒 (keikai, vigilance / alert), 治安 (chian, public order / public peace), 行政警察 (gyōsei keisatsu, administrative police — the broader regulatory-administrative police function distinguished from 司法警察 shihō keisatsu, judicial police, the criminal-investigative function), and the broader institutional vocabulary of modern Japanese policing. Kawaji's institutional legacy is foundational: the Tokyo Metropolitan Police Bureau (警視庁) that he established in 1874 remains the operating institutional articulation of metropolitan Tokyo policing in the contemporary period, with the 1948 post-war reorganization restructuring the broader national police apparatus around the National Police Agency (警察庁, Keisatsuchō) but preserving the Keishichō as the metropolitan Tokyo institution. The 警察手眼 has remained a canonical pedagogical text within Japanese police-academy training across the modern period, with the doctrinal articulation of the police function as the systematic protector of social order and public welfare supplying the operating institutional self-understanding of the modern Japanese police across the 150 years of its institutional life."
+  },
+  {
+    "id": "tetsugaku-jii",
+    "title": "Tetsugaku Jii (Dictionary of Philosophy)",
+    "title_ja": "哲学字彙",
+    "period_start_year": 1881,
+    "period_end_year": 1912,
+    "period_notes": "Inoue Tetsujirō, Ariga Nagao, and Wadagaki Kenzō, first edition 1881; revised and expanded editions 1884 and 1912",
+    "tradition": "Meiji intellectual / academic philosophy",
+    "notes": "The Tetsugaku Jii (哲学字彙) is the foundational Japanese dictionary of philosophical vocabulary and the principal stabilization-point for the operating Meiji-coined Japanese terminology of Western philosophy. The first edition was compiled in 1881 by Inoue Tetsujirō (井上哲次郎, 1856–1944) — then a young instructor at Tokyo Imperial University who would become one of the central figures of Meiji-and-after Japanese academic philosophy — together with his colleagues Ariga Nagao (有賀長雄, 1860–1921) and Wadagaki Kenzō (和田垣謙三, 1860–1919). The dictionary was published as a Japanese-English / English-Japanese reference work by the philosophy department at Tokyo Imperial University, presenting Western philosophical terms (drawn from English-language sources but reflecting the underlying German and Greek philosophical tradition) alongside their stabilized Japanese renderings, with brief glosses calibrating the conceptual range of each term. The first edition contained approximately 1,250 entries; the substantially expanded second edition of 1884 nearly doubled this; and the third edition of 1912 (under Inoue's continuing editorship together with Motora Yūjirō and others) expanded the work to a comprehensive philosophical reference. The work's institutional consequence is enormous: the Tetsugaku Jii is the principal vehicle through which the Meiji-coined Japanese philosophical vocabulary was stabilized as the operating academic-philosophical vocabulary of modern Japan, with the renderings adopted in the dictionary becoming the standard terms across subsequent Japanese philosophical writing, university curricula, and translations. Foundational compounds standardized through the Tetsugaku Jii include 主観 / 客観 (Subjekt / Objekt), 概念 (Begriff), 理性 / 悟性 (Vernunft / Verstand), 範疇 (Kategorie), 現象 / 本体 (Phänomen / Noumenon), 存在 (Sein), 意識 (Bewusstsein), 直観 (Anschauung), 命題 (Satz / proposition), 認識 (Erkenntnis), 帰納 / 演繹 (induction / deduction), 倫理学 (Ethik), 美学 (Ästhetik), and the broader systematic vocabulary of Kantian, Hegelian, post-Kantian, and broader Western philosophical thought. The dictionary's conceptual frame is principally Kantian-and-post-Kantian — reflecting the dominant German-philosophical orientation of late-nineteenth-century Japanese academic philosophy under Inoue and his colleagues — but the work's coverage extends across Greek, medieval, modern rationalist and empiricist, and contemporary philosophical vocabulary. The Tetsugaku Jii's vocabulary radiated across East Asia through the late-Qing and early-twentieth-century Chinese philosophical-translation movement, with Liang Qichao and other reform intellectuals adopting the Japanese renderings as the operating Chinese vocabulary of Western philosophy; the same vocabulary entered Korean academic philosophy through the colonial-period educational apparatus and the post-liberation Korean university system. The Meiji philosophical vocabulary that the Tetsugaku Jii stabilized remains the operating East Asian philosophical vocabulary across Japanese, Chinese, and Korean academic philosophy, and the dictionary itself stands as one of the foundational reference texts of modern East Asian intellectual life."
+  },
+  {
+    "id": "nakae-ishi-bigaku",
+    "title": "Yoshi Bigaku (Véron's Aesthetics)",
+    "title_ja": "維氏美学",
+    "period_start_year": 1883,
+    "period_end_year": 1884,
+    "period_notes": "Eugène Véron, L'Esthétique (Paris, 1878); Japanese translation by Nakae Chōmin (中江兆民, 1847–1901), published in two volumes by the Monbushō (Ministry of Education), 1883–1884",
+    "tradition": "Meiji intellectual / academic philosophy; aesthetics",
+    "notes": "The 維氏美学 (Ishi bigaku, \"Mr. V[éron]'s Aesthetics\") is Nakae Chōmin's two-volume Japanese translation of the French republican critic Eugène Véron's L'Esthétique (1878), commissioned and published by the Meiji Ministry of Education in 1883–1884. Nakae Chōmin — the \"Rousseau of the Orient,\" translator of the Contrat social and a central figure of the Freedom and People's Rights movement — rendered Véron's anti-academic, expression-centred aesthetics into a dense Sino-Japanese bungo, and in doing so the title and text did more than any other single work to stabilize 美学 as the standard Japanese rendering of \"aesthetics\" (against Nishi Amane's earlier proposals 善美学 and 美妙学). Véron's thesis — that art is not the imitation of an ideal beauty fixed by academic doctrine but la manifestation de l'émotion, the expression of the artist's personal emotion — gave the new Japanese discipline of 美学 an inaugural content sharply opposed to the classicizing aesthetics of imitation, and the work was widely read by the Meiji literary generation (it is among the books the young Mori Ōgai and the Ken'yūsha writers absorbed). Together with the Tetsugaku Jii (1881), which lists 美学 among the stabilized renderings of the Western philosophical vocabulary, the 維氏美学 fixed 美学 as the operating term, subsequently re-exported into Chinese (měixué) and Korean (mihak) as the universal modern name of the discipline."
+  },
+  {
+    "id": "kawamoto-kagaku-shinsho",
+    "title": "New Treatise on Chemistry",
+    "title_ja": "化学新書",
+    "period_start_year": 1860,
+    "period_end_year": 1860,
+    "period_notes": "Kawamoto Kōmin (川本幸民), c. 1860",
+    "tradition": "Bakumatsu rangaku science translation",
+    "notes": "The work in which the calque 化学 is established for chemistry, displacing the Dutch-derived phonetic loan 舎密 (seimi). A late-Edo rangaku text by a physician-scientist, it shows the coinage of modern scientific vocabulary beginning before the Meiji Restoration."
+  },
+  {
+    "id": "butsuri-kaitei",
+    "title": "Steps in Physics",
+    "title_ja": "物理階梯",
+    "period_start_year": 1872,
+    "period_end_year": 1872,
+    "period_notes": "Katayama Junkichi (片山淳吉), 1872",
+    "tradition": "Meiji science education",
+    "notes": "One of the most widely used early Meiji physics primers, adopted in the new school system. Its title fixes 物理 as the standard term for physics in the educational mainstream, narrowing the older 窮理 (kyūri) toward the specific Western discipline."
+  },
+  {
+    "id": "fukuzawa-kyuri-zukai",
+    "title": "Illustrated Natural Philosophy for Beginners",
+    "title_ja": "訓蒙窮理図解",
+    "period_start_year": 1868,
+    "period_end_year": 1868,
+    "period_notes": "Fukuzawa Yukichi (福澤諭吉), 1868",
+    "tradition": "Meiji intellectual",
+    "notes": "Fukuzawa's hugely popular illustrated introduction to Western physical science for general readers, published the year of the Restoration. It presented heat, light, and electricity to a mass audience and helped naturalize the new physical vocabulary, including 電気."
+  },
+  {
+    "id": "meiji-telephone-service",
+    "title": "Tokyo–Yokohama Telephone Exchange, Inaugural Notice",
+    "title_ja": "東京横浜間電話交換業務開始",
+    "period_start_year": 1890,
+    "period_end_year": 1890,
+    "period_notes": "Ministry of Communications (逓信省), 1890",
+    "tradition": "Meiji telecommunications administration",
+    "notes": "The official designation under which public telephone service began in Japan in 1890. A documentary rather than literary source: it records the bureaucratic moment at which 電話 ceased to be one candidate translation among several and became the fixed institutional name of the service."
+  },
+  {
+    "id": "udagawa-seimi-kaiso",
+    "title": "Foundations of Chemistry",
+    "title_ja": "舎密開宗",
+    "period_start_year": 1837,
+    "period_end_year": 1847,
+    "period_notes": "Udagawa Yōan (宇田川榕菴), 1837–1847",
+    "tradition": "Bakumatsu rangaku science translation",
+    "notes": "The first systematic chemistry treatise in Japanese, adapted by Udagawa Yōan principally from William Henry's chemistry via its Dutch translation. It is the text in which the calque-suffix element vocabulary is established — 元素, 酸素, 水素, 窒素, 炭素 — decades before the Meiji Restoration, and from which that vocabulary later passed into Chinese and Korean."
+  },
+  {
+    "id": "udagawa-shokugaku-keigen",
+    "title": "Introduction to Botany",
+    "title_ja": "植学啓原",
+    "period_start_year": 1834,
+    "period_end_year": 1834,
+    "period_notes": "Udagawa Yōan (宇田川榕菴), 1834",
+    "tradition": "Bakumatsu rangaku science translation",
+    "notes": "The first work to introduce Western (Linnaean and post-Linnaean) botany to Japan, again by Udagawa Yōan from Dutch sources. It coins a foundational botanical and biological vocabulary, including 細胞 for the microscopic cell, showing systematic Sino-Japanese scientific calquing already underway in the late Edo period."
+  },
+  {
+    "id": "sugita-kaitai-shinsho",
+    "title": "New Treatise on Anatomy",
+    "title_ja": "解体新書",
+    "period_start_year": 1774,
+    "period_end_year": 1774,
+    "period_notes": "Sugita Genpaku (杉田玄白), Maeno Ryōtaku (前野良沢) et al., 1774",
+    "tradition": "Edo rangaku science translation",
+    "notes": "The first full Japanese translation of a Western anatomical text, rendered from the Dutch Ontleedkundige Tafelen (itself a translation of Kulmus's Anatomische Tabellen). It is the foundational document of rangaku and the source of the coinage 神経 for the nerve, formed by Sugita as a contraction of 神気 (vital spirit) and 経脈 (channels); the term was later exported into Chinese and Korean."
+  },
+  {
+    "id": "meiji-genshi-bunshi",
+    "title": "Standardization of 原子 / 分子 in Meiji Chemical Nomenclature",
+    "title_ja": "明治化学術語『原子・分子』の確立",
+    "period_start_year": 1880,
+    "period_end_year": 1900,
+    "period_notes": "Meiji chemical-terminology standardization, 1880s–1890s",
+    "tradition": "Meiji science education and nomenclature reform",
+    "notes": "A documentary rather than literary source: the body of Meiji school chemistry textbooks and the nomenclature work of chemists such as Sakurai Jōji through which 原子 ('origin-particle') and its partner 分子 ('divided-particle') were fixed as the standard renderings of atom and molecule. It records the institutional moment at which the atomic vocabulary ceased to be one option among rangaku candidates and became the curricular norm later shared with Chinese and Korean."
+  },
+  {
+    "id": "morse-ishikawa-doubutsu-shinka",
+    "title": "Animal Evolution (lectures of E. S. Morse)",
+    "title_ja": "動物進化論",
+    "period_start_year": 1883,
+    "period_end_year": 1883,
+    "period_notes": "Ishikawa Chiyomatsu (石川千代松), translating Edward S. Morse, 1883",
+    "tradition": "Meiji science popularization",
+    "notes": "Ishikawa Chiyomatsu's published rendering of the Darwinism lectures Edward Sylvester Morse delivered at Tokyo University in 1877 — the first systematic presentation of evolutionary theory in Japan. The text is the principal vehicle through which 進化 ('advancing change') was popularized as the standard term for evolution, frequently in the compound 進化論, and from which the word passed into Chinese and Korean."
+  },
+  {
+    "id": "fukuzawa-bunmeiron",
+    "title": "An Outline of a Theory of Civilization",
+    "title_ja": "文明論之概略",
+    "period_start_year": 1875,
+    "period_end_year": 1875,
+    "period_notes": "Fukuzawa Yukichi, 1875",
+    "tradition": "Meiji intellectual",
+    "notes": "Fukuzawa Yukichi's most theoretically ambitious work, drawing on Guizot's Histoire de la civilisation en Europe and Buckle's History of Civilization in England to argue that 文明 (civilization) is a relative, developmental condition along which nations are graded, and that Japan must consciously pursue it. The single most consequential text for stabilizing 文明 as the operating Meiji category of civilizational self-assessment; the slogan 文明開化 (civilization and enlightenment) became the watchword of the era. The book's relativizing argument — that civilization is a means to national independence, not an absolute — gave the term its characteristic Meiji charge."
+  },
+  {
+    "id": "kyoiku-chokugo",
+    "title": "Imperial Rescript on Education",
+    "title_ja": "教育ニ関スル勅語",
+    "period_start_year": 1890,
+    "period_end_year": 1890,
+    "period_notes": "promulgated 30 October 1890",
+    "tradition": "Meiji state ideology",
+    "notes": "The Imperial Rescript on Education, drafted principally by Inoue Kowashi and Motoda Nagazane and issued in the name of the Meiji Emperor, fused the imported institutional concept of 教育 with a Confucian-loyalist ethical content (filial piety, loyalty to throne and state). Read aloud in every school before the imperial portrait until 1948, it became the central text through which the modern term 教育 was bound to a national-moral mission, and the principal site at which the tension between 教育 as Western-style schooling and 教育 as Confucian moral cultivation was institutionally resolved in favor of the state."
+  },
+  {
+    "id": "nagayo-shoko-shishi",
+    "title": "Shōkō Shishi (Memoir)",
+    "title_ja": "松香私志",
+    "period_start_year": 1895,
+    "period_end_year": 1902,
+    "period_notes": "Nagayo Sensai (長與專齋, 1838–1902); memoir composed in his later years, c. 1895–1902",
+    "tradition": "Meiji public-health administration",
+    "notes": "The autobiographical account in which Nagayo Sensai — physician, member of the Iwakura Mission's medical survey, and founding director of the Home Ministry's Sanitary Bureau (衛生局) — recounts how he settled the translation of the European administrative field of Gesundheitspflege / public health. By his own narrative he rejected flat renderings such as 健康法 and 保健 as too individual and too plain, and recovered 衛生 from the Zhuangzi's 庚桑楚 chapter (衛生之經, 'the canon of guarding life'), deliberately choosing a dignified classical phrase whose original Daoist sense of private life-nurture he then overwrote with the modern meaning of state sanitary administration. The memoir is the canonical primary source for the coinage and is cited in virtually every history of the term 衛生."
+  },
+  {
+    "id": "fukuzawa-kaigiben",
+    "title": "Kaigiben (Manual on Conference)",
+    "title_ja": "会議弁",
+    "period_start_year": 1874,
+    "period_end_year": 1874,
+    "period_notes": "Fukuzawa Yukichi, 1874",
+    "tradition": "Meiji intellectual",
+    "notes": "Fukuzawa Yukichi's compact 1874 manual on the procedures of deliberative assembly (会議), written to install in Japan the parliamentary and lecture-hall practices he had observed in the United States in 1860 and 1867. The text is the principal site at which the imported civic genre of public oratory was given Sino-Japanese vocabulary and a procedural script: Fukuzawa coins and explicates 演説 (oration), 討論 (debate), 動議 (motion), and 賛成 (second), and lays out the conduct of an assembly from the chair's opening through the formal speech, the rebuttal, and the vote. Kaigiben was written in immediate institutional support of the Mita Speech Society (三田演説会, founded 1874) and the dedicated speech hall 三田演説館 (built at Keiō in 1875, Japan's first hall purpose-built for secular public oratory). The neologisms it coins became the operating vocabulary of Meiji political assembly and of Japanese parliamentary procedure thereafter, and 演説 in particular passed into Chinese (yǎnshuō) and Korean (연설) as the standard term for the public speech."
+  },
+  {
+    "id": "meiji-newspaper-kokoku",
+    "title": "Standardization of 広告 in Early Meiji Newspaper Practice",
+    "title_ja": "明治新聞紙における「広告」欄の成立",
+    "period_start_year": 1871,
+    "period_end_year": 1900,
+    "period_notes": "Meiji newspaper-advertising standardization, c. 1871–1890s",
+    "tradition": "Meiji print culture and commercial publicity",
+    "notes": "A documentary rather than literary source: the body of early Meiji daily newspapers — 横浜毎日新聞 (founded 1871, Japan's first daily); 東京日日新聞 (1872, the proto-Mainichi); the Yūbin Hōchi Shimbun (郵便報知新聞, 1872); the Tōkyō Akebono Shimbun and Chōya Shimbun; and Fukuzawa Yukichi's hugely influential 時事新報 (1882) — in which 広告 was standardized as the heading for paid commercial notices, and the institutional category of paid commercial publicity was bound to a Sino-Japanese compound. The papers inherited the classical Chinese 広告 ('to inform widely') and re-fitted it to the new commercial-print apparatus of paid notice, with masthead-pages and dedicated 広告欄 (advertisement sections) for shipping notices, foreign-import auctions, pharmaceuticals, banks and insurance companies, theatrical performances, and book publishers. From the newspaper masthead 広告 passed into Meiji commercial law (the 1899 Commercial Code's provisions on corporate 公告 'public announcement' grew up in tandem with newspaper 広告), into corporate practice (株式広告, the published notice required of joint-stock companies), and into the broader twentieth-century vocabulary of publicity (広告主, 広告代理店). The term was re-exported into Chinese (廣告 / 广告 guǎnggào) and Korean (광고), becoming the universal modern East Asian word for advertisement."
+  },
+  {
+    "id": "wien-banpaku-bijutsu",
+    "title": "Official Translation of the Vienna World Exposition Regulations",
+    "title_ja": "澳国博覧会出品規則翻訳",
+    "period_start_year": 1872,
+    "period_end_year": 1872,
+    "period_notes": "Meiji government, 1872 (preparatory translation for the 1873 Wiener Weltausstellung)",
+    "tradition": "Early Meiji official translation / international expositions",
+    "notes": "The official Japanese translation of the German exhibition regulations for the 1873 Vienna World Exposition (Wiener Weltausstellung), prepared by the Meiji government's exposition office (博覧会事務局) in 1872 in preparation for Japan's first major participation in a European world's fair. The Vienna Exposition was the first international exposition to which the Meiji government dispatched a substantial official delegation under the leadership of Sano Tsunetami (佐野常民) — a delegation that included Gottfried Wagener (the German chemist-administrator retained as foreign adviser, who coordinated much of the Japanese pavilion's organization) and a substantial body of craftsmen, scholars, and officials sent to study European institutional and industrial systems. The translation of the German exhibition regulations required the rendering of the Austro-Hungarian organizing committee's exhibition categories — including 'bildende Kunst' (the fine arts), 'Kunstgewerbe' (artistic craft), and 'Kunstwerke' (artworks) — into Japanese, and it was in this institutional translation work that 美術 was adopted as the Japanese rendering of 'bildende Kunst,' the moment at which the Western category of 'fine art' was first imposed on Japanese artistic practice as an organizing category and a Japanese word coined to name it. The translation is preserved in the official records of the exposition office and is the locus classicus documentary source for the coinage. The 美術 thus stabilized became the operating term for the institutional apparatus of Meiji fine arts: the Naimushō (Home Ministry) used it across the Naikoku Kangyō Hakurankai (Domestic Industrial Exhibitions) from 1877 onward, and the Tokyo Bijutsu Gakkō (東京美術学校, Tokyo Fine Arts School, founded 1887 under Okakura Tenshin and Ernest Fenollosa) institutionalized the term in the name of Japan's first state fine-arts academy. The Vienna Exposition coinage moment thus inaugurated both the term and the institutional apparatus within which the term would do its work for the following century and a half."
+  },
+  {
+    "id": "tsubouchi-shosetsu-shinzui",
+    "title": "Shōsetsu Shinzui (The Essence of the Novel)",
+    "title_ja": "小説神髄",
+    "period_start_year": 1885,
+    "period_end_year": 1886,
+    "period_notes": "Tsubouchi Shōyō (坪内逍遥, 1859–1935), published in nine fascicles by Shōgetsudō, September 1885 – April 1886",
+    "tradition": "Meiji intellectual / modern Japanese literary criticism",
+    "notes": "Tsubouchi Shōyō's foundational treatise on the novel as a serious aesthetic genre, published in nine slim fascicles across 1885–1886 and universally regarded as the inaugurating text of modern Japanese literary criticism and modern Japanese literature. Tsubouchi — a young Tokyo University graduate trained in English literature under the American instructor George Wm. Knox and steeped in mid-Victorian English fiction (Scott, Dickens, Bulwer-Lytton, George Eliot) and critical writing — composed the treatise as both a polemic and a program: a polemical attack on the inherited Edo gesaku tradition of didactic, moralizing, plot-driven fiction (the kanzen-chōaku 'rewarding virtue and punishing vice' formula of the Edo yomihon and ninjōbon), and a programmatic proposal for the novel (小説, shōsetsu) as a serious aesthetic-realist genre whose proper object is the depiction of human emotion (人情, ninjō) and social conditions (世態, setai) as they actually are. The treatise's first volume articulates the theory — the novel as the supreme literary art, governed by the criterion of mimetic truth to human nature, freed from didactic-moral obligations and structured around character rather than plot — and the second volume articulates the technique, surveying narrative voice, plot construction, characterization, and stylistic register through close readings of English and Japanese examples. The Shōsetsu Shinzui is the locus classicus stabilization-point for the modern academic-aesthetic sense of 文学 (literature) and 小説 (novel) in Japanese, and Tsubouchi's argument established the conceptual frame within which all subsequent Meiji and modern Japanese literary criticism would be conducted: the long Meiji-Taishō debate between 理想主義 (idealism) and 写実主義 (realism / mimesis), the establishment of the I-novel (私小説) tradition through Naturalism (自然主義) in the 1900s, the institutionalization of 国文学 (national literature) as a university discipline, and the broader twentieth-century Japanese literary-critical apparatus all proceed from the conceptual ground that the Shōsetsu Shinzui inaugurated. Tsubouchi himself went on to translate the complete works of Shakespeare into Japanese (a 40-volume project completed in 1928), to found the Waseda literary tradition through Waseda Bungaku (early literary magazine) and the Waseda University literature department, and to establish the Tsubouchi Memorial Theatre Museum (early-Showa) as the principal Japanese theatre-and-literature archive. The treatise's institutional and conceptual influence on modern East Asian literary modernity extends through its substantial Chinese reception in the early-twentieth-century reform of Chinese literary discourse, particularly via Liang Qichao's literary-reform writings and the May Fourth literary-critical movement that drew extensively on Meiji literary-theoretical vocabulary."
+  },
+  {
+    "id": "naka-michiyo-shina-tsushi",
+    "title": "Shina Tsūshi (Comprehensive History of China)",
+    "title_ja": "支那通史",
+    "period_start_year": 1888,
+    "period_end_year": 1890,
+    "period_notes": "Naka Michiyo (那珂通世, 1851–1908), 4 volumes published 1888–1890",
+    "tradition": "Meiji historiography / modern academic history",
+    "notes": "Naka Michiyo's four-volume Comprehensive History of China, published 1888–1890, the foundational work of modern Japanese academic historiography and the locus classicus stabilization-point for the modern Japanese vocabulary of 歴史 as an academic discipline. Naka — a former Mito-domain scholar who came to Tokyo in the early Meiji and worked across Chinese-historical, Mongol-historical, and East-Asian historical scholarship — composed the work in classical Chinese (鴻文書院 edition) and in Japanese (later editions) as the first systematic Japanese-authored periodization of Chinese history into the now-standard ancient (上古) / medieval (中古) / modern (近古) divisions, applying European periodization schemata to East Asian historical material for the first time in a Japanese academic context. The work is foundational in two ways: methodologically, it represents the first sustained application of Rankean source-critical historiography to East Asian historical material in a Japanese academic setting, and conceptually, it stabilizes 歴史 as the operating term for history as an academic discipline conducted by trained scholars on the basis of source-critical method, distinct from the older indigenous chronicle and dynastic-history traditions. Naka's broader institutional contributions include his foundational role in the Tokyo University history department (after Ludwig Riess was brought from Germany in 1887 to introduce Rankean method, Naka was among the first Japanese scholars to integrate the new method with East Asian historiographical training), his pioneering scholarship on the Mongol Empire and the Yuan dynasty (his 1907 translation and study of the Secret History of the Mongols was the foundational Japanese-language work on the text), and his role in establishing the Tōyōshi (東洋史, East Asian history) as a distinct academic field alongside Kokushi (国史, national/Japanese history) and Seiyōshi (西洋史, Western history) in the Meiji university curriculum. The Shina Tsūshi and Naka's broader scholarly corpus are the principal vehicles through which the modern Japanese academic-historical vocabulary — 歴史, 史学, 史料, 古代/中世/近代, 史実, 歴史学, 通史 — was stabilized in its modern academic-disciplinary sense, with that vocabulary subsequently transferring through the late-Qing and Republican-era Chinese historiographical reform movement (via Liang Qichao's Xin Shixue 新史学 'New Historiography,' 1902) into modern Chinese academic historical discourse."
+  },
+  {
+    "id": "nishi-shinrigaku",
+    "title": "Shinrigaku (Mental Philosophy)",
+    "title_ja": "心理学",
+    "period_start_year": 1875,
+    "period_end_year": 1876,
+    "period_notes": "Nishi Amane (西周, 1829–1897), translation of Joseph Haven's Mental Philosophy (1857); published by the Monbushō (Ministry of Education) in 1875–1876",
+    "tradition": "Meiji intellectual / academic philosophy and psychology",
+    "notes": "Nishi Amane's Japanese rendering of the American Congregationalist philosopher Joseph Haven's Mental Philosophy: Including the Intellect, Sensibilities, and Will (Boston, 1857) — one of the principal American Scottish-common-sense-tradition textbooks of mid-nineteenth-century mental philosophy. Published by the Monbushō (Ministry of Education) in two volumes across 1875–1876, the work stands as the locus classicus coinage-and-stabilization point for the modern Japanese compound 心理学 as the operating term for the academic discipline of mind. Nishi — the principal Meiji philosophical translator whose broader project of rendering the Western philosophical vocabulary into Sino-Japanese form generated 哲学 (philosophy), 倫理 (ethics), 論理 (logic), 主観 / 客観 (subject / object), 概念 (concept), 現象 (phenomenon), and many other foundational compounds — chose the title 心理学 to render Haven's 'Mental Philosophy' on the principle that the discipline took the principle (理, the systematic ordering rationality) of the heart-mind (心) as its object of systematic study (学, the academic discipline-suffix). The choice was not foreordained: Nishi's earlier writings (the Hyakugaku Renkan lectures of 1870–71) had experimented with 性理学 and 性論 and other alternative renderings, and the stabilization of 心理学 across the 1875 translation reflects a precise terminological judgment about the operating Japanese word for the discipline. The work's institutional consequence is large: it supplied the operating vocabulary for the subsequent Meiji academic-psychological apparatus, including Motora Yūjirō's (元良勇次郎, 1858–1912) founding of Japan's first psychological laboratory at Tokyo Imperial University in 1888 (Motora studied under G. Stanley Hall at Johns Hopkins and brought Wundtian experimental psychology to Japan), and the Tetsugaku Jii (1881) stabilized 心理学 as the standing lexical equivalent of 'psychology.' The compound transferred into Chinese (xīnlǐxué) and Korean (simnihak 심리학) as the standard pan-East-Asian word for psychology as an academic discipline. The work is also doctrinally significant as the principal vehicle through which the Scottish common-sense faculty psychology of the antebellum American philosophical tradition entered modern Japanese intellectual life — a register that subsequent Meiji and Taishō Japanese psychology partly preserved and partly displaced as the Wundtian experimental-laboratory paradigm and the broader European psychological traditions (Freudian psychoanalysis, Wertheimer's Gestalt psychology, the French school of Janet and Ribot) were imported across the late nineteenth and early twentieth centuries."
+  }
+]

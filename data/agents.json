@@ -1,0 +1,177 @@
+[
+  {
+    "id": "dogen",
+    "name_en": "Dōgen",
+    "name_kanji": "道元",
+    "years": "1200–1253",
+    "role": "Founder of Japanese Sōtō Zen; author of the Shōbōgenzō. Coiner and radical re-reader of Buddhist vocabulary."
+  },
+  {
+    "id": "tiantong-rujing",
+    "name_en": "Tiantong Rujing",
+    "name_kanji": "天童如浄",
+    "years": "1162–1227",
+    "role": "Late Song Caodong master at Tiantong Mountain; Dōgen's Chinese teacher. Source of several formulations Dōgen later naturalized into Sōtō vocabulary."
+  },
+  {
+    "id": "yaoshan-weiyan",
+    "name_en": "Yaoshan Weiyan",
+    "name_kanji": "薬山惟儼",
+    "years": "751–834",
+    "role": "Tang Chan master in the Caodong proto-lineage. Source of dialogues Dōgen later wove into Sōtō practice vocabulary (notably 非思量 in the Fukanzazengi)."
+  },
+  {
+    "id": "dongshan-liangjie",
+    "name_en": "Dongshan Liangjie",
+    "name_kanji": "洞山良价",
+    "years": "807–869",
+    "role": "Founder of the Caodong (Sōtō) lineage. Coiner of the Five Ranks (五位) and other dialectical formulations central to the school's doctrinal vocabulary."
+  },
+  {
+    "id": "caoshan-benji",
+    "name_en": "Caoshan Benji",
+    "name_kanji": "曹山本寂",
+    "years": "840–901",
+    "role": "Dongshan's principal heir; co-namesake of the Caodong lineage. Systematized the Five Ranks doctrinal apparatus."
+  },
+  {
+    "id": "yangshan-huiji",
+    "name_en": "Yangshan Huiji",
+    "name_kanji": "仰山慧寂",
+    "years": "807–883",
+    "role": "Tang Chan master in the Guishan-Yangshan circle-figure tradition. Source of the 円相 (ensō) teaching device later naturalized into Japanese Zen calligraphy."
+  },
+  {
+    "id": "hakuin-ekaku",
+    "name_en": "Hakuin Ekaku",
+    "name_kanji": "白隠慧鶴",
+    "years": "1686–1768",
+    "role": "Edo-period Rinzai reformer; systematizer of the modern Rinzai koan curriculum. Reintegrated Caodong-origin vocabulary back into Rinzai training."
+  },
+  {
+    "id": "sengai-gibon",
+    "name_en": "Sengai Gibon",
+    "name_kanji": "仙厓義梵",
+    "years": "1750–1837",
+    "role": "Edo-period Rinzai master at Shōfuku-ji; calligrapher-painter whose ensō and Zen brushwork carried the visual-doctrinal vocabulary into the modern period."
+  },
+  {
+    "id": "sugita-genpaku",
+    "name_en": "Sugita Genpaku",
+    "name_kanji": "杉田玄白",
+    "years": "1733–1817",
+    "role": "Edo rangaku physician; lead translator of the Kaitai Shinsho (1774). Coiner of anatomical and physiological vocabulary including 神経 (nerve)."
+  },
+  {
+    "id": "udagawa-yoan",
+    "name_en": "Udagawa Yōan",
+    "name_kanji": "宇田川榕菴",
+    "years": "1798–1846",
+    "role": "Bakumatsu rangaku chemist and botanist. Coiner of foundational chemical vocabulary (酸素, 水素, 窒素, 細胞) in the Seimi Kaisō (1837) and Shokugaku Keigen (1834)."
+  },
+  {
+    "id": "kawamoto-komin",
+    "name_en": "Kawamoto Kōmin",
+    "name_kanji": "川本幸民",
+    "years": "1810–1871",
+    "role": "Bakumatsu rangaku chemist. Coined 化学 (c. 1860), replacing the earlier phonetic loan 舎密 (seimi)."
+  },
+  {
+    "id": "mitsukuri-shogo",
+    "name_en": "Mitsukuri Shōgo",
+    "name_kanji": "箕作省吾",
+    "years": "1821–1846",
+    "role": "Late-Edo geographer. Introduced 共和 as the Japanese rendering of \"republic\" in his Kon'yo Zushiki (1845–46), repurposing the classical Chinese Zhou-dynasty regency reference."
+  },
+  {
+    "id": "fukuzawa-yukichi",
+    "name_en": "Fukuzawa Yukichi",
+    "name_kanji": "福澤諭吉",
+    "years": "1835–1901",
+    "role": "Meiji liberal intellectual and educator; founder of Keiō. Through Seiyō Jijō (1866–70), Bunmeiron no Gairyaku (1875), and Gakumon no Susume, shaped or popularized much of the liberal-political and civilizational vocabulary cluster (自由, 民主, 文明)."
+  },
+  {
+    "id": "nishi-amane",
+    "name_en": "Nishi Amane",
+    "name_kanji": "西周",
+    "years": "1829–1897",
+    "role": "The most systematic Meiji coiner of philosophical vocabulary. Coined 哲学, 概念, 主観/客観, 帰納/演繹, 心理学, and many others. Studied in the Netherlands; his coinages reflect Dutch and German engagement."
+  },
+  {
+    "id": "tsuda-mamichi",
+    "name_en": "Tsuda Mamichi",
+    "name_kanji": "津田真道",
+    "years": "1829–1903",
+    "role": "Meiroku-sha founding member; legal translator. Worked alongside Nishi Amane on the early constitutional and legal-translation vocabulary."
+  },
+  {
+    "id": "mitsukuri-rinsho",
+    "name_en": "Mitsukuri Rinshō",
+    "name_kanji": "箕作麟祥",
+    "years": "1846–1897",
+    "role": "Meiji legal translator. Rendered the Napoleonic codes into Japanese (1870–74) and Wheaton's Elements of International Law (1865), coining or stabilizing much of the modern Japanese legal vocabulary."
+  },
+  {
+    "id": "katayama-junkichi",
+    "name_en": "Katayama Junkichi",
+    "name_kanji": "片山淳吉",
+    "years": null,
+    "role": "Early-Meiji science educator. Author of Butsuri Kaitei (物理階梯, 1872), which fixed 物理 (physics) in the school curriculum."
+  },
+  {
+    "id": "nakae-chomin",
+    "name_en": "Nakae Chōmin",
+    "name_kanji": "中江兆民",
+    "years": "1847–1901",
+    "role": "Meiji liberal political thinker and translator of Rousseau. Coined 美学 (aesthetics) through his 維氏美学 (1883–84), translating Eugène Véron's L'Esthétique."
+  },
+  {
+    "id": "nagayo-sensai",
+    "name_en": "Nagayo Sensai",
+    "name_kanji": "長與專齋",
+    "years": "1838–1902",
+    "role": "Founder of the Meiji public-health administration. Re-coined 衛生 (c. 1872–75) from the Zhuangzi's 衛生之經 to translate the German administrative field of Gesundheitspflege / Hygiene."
+  },
+  {
+    "id": "ito-hirobumi",
+    "name_en": "Itō Hirobumi",
+    "name_kanji": "伊藤博文",
+    "years": "1841–1909",
+    "role": "Principal architect of the Meiji Constitution (1889) and its authoritative gloss (憲法義解). Institutionalized 憲法 and the broader constitutional-political vocabulary."
+  },
+  {
+    "id": "itagaki-taisuke",
+    "name_en": "Itagaki Taisuke",
+    "name_kanji": "板垣退助",
+    "years": "1837–1919",
+    "role": "Leader of the Freedom and People's Rights Movement (自由民権運動). Co-author of the 1874 Petition for the Establishment of a Popularly Elected Assembly (民撰議院設立建白書), which circulated 国会 into the political lexicon."
+  },
+  {
+    "id": "liang-qichao",
+    "name_en": "Liang Qichao",
+    "name_kanji": "梁啓超",
+    "years": "1873–1929",
+    "role": "Chinese reform intellectual; the principal return-flow agent. After years in Japan, brought the wasei-kango political and philosophical vocabulary systematically back into Chinese discourse through Xinmin Shuo (1902–06) and other works."
+  },
+  {
+    "id": "ishikawa-chiyomatsu",
+    "name_en": "Ishikawa Chiyomatsu",
+    "name_kanji": "石川千代松",
+    "years": "1861–1935",
+    "role": "Meiji zoologist; translator of E. S. Morse's 1877 evolution lectures into 動物進化論 (1883). Popularized 進化 (evolution) and the surrounding biological vocabulary."
+  },
+  {
+    "id": "inoue-tetsujiro",
+    "name_en": "Inoue Tetsujirō",
+    "name_kanji": "井上哲次郎",
+    "years": "1856–1944",
+    "role": "Meiji academic philosopher. Lead editor of the Tetsugaku Jii (哲学字彙, 1881; expanded 1884, 1912) — the lexicon that stabilized the standard Meiji renderings for Western philosophical vocabulary."
+  },
+  {
+    "id": "ariga-nagao",
+    "name_en": "Ariga Nagao",
+    "name_kanji": "有賀長雄",
+    "years": "1860–1921",
+    "role": "Meiji jurist and academic philosopher. Co-editor of the Tetsugaku Jii (1881) and a stabilizer of Meiji philosophical and legal vocabulary."
+  }
+]

@@ -1,4 +1,4 @@
-import { useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import { Link, Route, Routes, useLocation } from 'react-router-dom';
 import AtlasView from './views/atlas/AtlasView.jsx';
 import TermView from './views/term/TermView.jsx';
@@ -47,6 +47,10 @@ function ReferrerStrip() {
 
 export default function App() {
   const mainRef = useRef(null);
+  const { pathname } = useLocation();
+  useEffect(() => {
+    mainRef.current?.scrollTo(0, 0);
+  }, [pathname]);
   return (
     <div className="flex h-full w-full flex-col">
       <header className="flex items-center justify-between border-b border-border px-6 py-3">

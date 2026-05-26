@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { terms, semanticFields, primaryRomaji } from '@/data';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
@@ -11,6 +11,84 @@ import {
 import FlowChip, { MODULE_META } from '@/components/FlowChip';
 
 const FLOW_ORDER = ['classical', 'reverse-flow'];
+const DENSE_THRESHOLD = 14;
+const COLLAPSE_THRESHOLD = 30;
+const COLLAPSED_PREVIEW = 12;
+
+function TermTile({ term, dense, navigate }) {
+  const gloss = term.translation_range?.[0]?.rendering;
+  return (
+    <button
+      type="button"
+      onClick={() => navigate(`/term/${encodeURIComponent(term.characters)}`)}
+      title={dense && gloss ? gloss : undefined}
+      className={`group flex flex-col items-center rounded-2xl text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500/50 ${
+        dense ? 'px-2 py-1' : 'px-3 py-2'
+      }`}
+    >
+      <span
+        className={`kanji-link leading-none ${dense ? 'text-2xl' : 'text-3xl'}`}
+        style={{ fontFamily: '"Noto Serif JP", "Hiragino Mincho ProN", serif' }}
+      >
+        {term.characters}
+      </span>
+      <span className="mt-1 text-xs italic text-muted-foreground">
+        {primaryRomaji(term)}
+      </span>
+      {!dense && gloss && (
+        <span className="mt-0.5 max-w-[10rem] line-clamp-1 text-xs text-foreground/80">
+          {gloss}
+        </span>
+      )}
+    </button>
+  );
+}
+
+function FieldCard({ field, navigate }) {
+  const [expanded, setExpanded] = useState(false);
+  const total = field.terms.length;
+  const dense = total >= DENSE_THRESHOLD;
+  const collapsible = total >= COLLAPSE_THRESHOLD;
+  const visibleTerms =
+    collapsible && !expanded ? field.terms.slice(0, COLLAPSED_PREVIEW) : field.terms;
+  return (
+    <Card size="sm" className="min-h-0">
+      <CardHeader>
+        <CardTitle>
+          {field.description ? (
+            <Tooltip>
+              <TooltipTrigger className="cursor-help decoration-dotted decoration-muted-foreground/60 underline-offset-4 hover:underline focus-visible:outline-none">
+                {field.label}
+              </TooltipTrigger>
+              <TooltipContent side="top" className="max-w-xs text-balance">
+                {field.description}
+              </TooltipContent>
+            </Tooltip>
+          ) : (
+            field.label
+          )}
+        </CardTitle>
+      </CardHeader>
+      <CardContent className={`flex flex-wrap ${dense ? 'gap-2' : 'gap-3'}`}>
+        {visibleTerms.map((term) => (
+          <TermTile key={term.id} term={term} dense={dense} navigate={navigate} />
+        ))}
+        {total === 0 && (
+          <span className="text-xs text-muted-foreground">No terms yet</span>
+        )}
+        {collapsible && (
+          <button
+            type="button"
+            onClick={() => setExpanded((v) => !v)}
+            className="self-center text-xs text-muted-foreground hover:text-sky-600 dark:hover:text-sky-400"
+          >
+            {expanded ? 'Show fewer' : `Show all ${total} →`}
+          </button>
+        )}
+      </CardContent>
+    </Card>
+  );
+}
 
 function groupByFlow() {
   const byModule = new Map();
@@ -47,57 +125,9 @@ export default function AtlasView() {
                 <FlowChip module={moduleId} />
               </div>
             </header>
-            <div className="grid flex-1 grid-cols-1 gap-4 sm:auto-rows-fr sm:grid-cols-2">
+            <div className="grid flex-1 grid-cols-1 gap-4 sm:grid-cols-2">
               {fields.map((field) => (
-                <Card key={field.id} size="sm" className="min-h-0">
-                  <CardHeader>
-                    <CardTitle>
-                      {field.description ? (
-                        <Tooltip>
-                          <TooltipTrigger className="cursor-help decoration-dotted decoration-muted-foreground/60 underline-offset-4 hover:underline focus-visible:outline-none">
-                            {field.label}
-                          </TooltipTrigger>
-                          <TooltipContent side="top" className="max-w-xs text-balance">
-                            {field.description}
-                          </TooltipContent>
-                        </Tooltip>
-                      ) : (
-                        field.label
-                      )}
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent className="flex flex-wrap gap-3">
-                    {field.terms.map((term) => {
-                      const gloss = term.translation_range?.[0]?.rendering;
-                      return (
-                      <button
-                        key={term.id}
-                        type="button"
-                        onClick={() => navigate(`/term/${encodeURIComponent(term.characters)}`)}
-                        className="group flex flex-col items-center rounded-2xl px-3 py-2 text-center focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500/50"
-                      >
-                        <span
-                          className="kanji-link text-3xl leading-none"
-                          style={{ fontFamily: '"Noto Serif JP", "Hiragino Mincho ProN", serif' }}
-                        >
-                          {term.characters}
-                        </span>
-                        <span className="mt-1 text-xs italic text-muted-foreground">
-                          {primaryRomaji(term)}
-                        </span>
-                        {gloss && (
-                          <span className="mt-0.5 max-w-[10rem] line-clamp-1 text-xs text-foreground/80">
-                            {gloss}
-                          </span>
-                        )}
-                      </button>
-                      );
-                    })}
-                    {field.terms.length === 0 && (
-                      <span className="text-xs text-muted-foreground">No terms yet</span>
-                    )}
-                  </CardContent>
-                </Card>
+                <FieldCard key={field.id} field={field} navigate={navigate} />
               ))}
             </div>
           </section>

@@ -176,7 +176,7 @@ function ReadingWithRomaji({ kana }) {
 function JapaneseTransmission({ info, relatedTerms }) {
   const prose = info?.japanese_transmission;
   const waves = Array.from(
-    new Set(relatedTerms.map((t) => t.transmission_wave).filter(Boolean)),
+    new Set(relatedTerms.flatMap((t) => t.transmission_waves || [])),
   );
   if (!prose && waves.length === 0) return null;
 
