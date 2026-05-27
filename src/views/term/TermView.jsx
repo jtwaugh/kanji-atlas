@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import {
   getTermByCharacters,
@@ -13,8 +14,10 @@ import { Badge } from '@/components/ui/badge';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import FlowChip from '@/components/FlowChip';
 import ReadingRow from '@/components/ReadingRow';
+import FeedbackDialog from '@/components/FeedbackDialog';
 
 export default function TermView() {
+  const [feedbackOpen, setFeedbackOpen] = useState(false);
   const { chars: charsParam } = useParams();
   const decoded = decodeURIComponent(charsParam);
   const term = getTermByCharacters(decoded);
@@ -83,7 +86,16 @@ export default function TermView() {
 
           <div className="mt-5 flex flex-wrap items-center gap-2">
             {term.module && <FlowChip module={term.module} />}
-            {field && <Badge variant="secondary">{field.label}</Badge>}
+            {field && (
+              <Link to={`/graph?field=${encodeURIComponent(field.id)}`}>
+                <Badge
+                  variant="secondary"
+                  className="cursor-pointer hover:bg-secondary/70"
+                >
+                  {field.label}
+                </Badge>
+              </Link>
+            )}
             {(term.transmission_waves || []).map((w) => (
               <Badge key={w} variant="ghost" className="text-muted-foreground">
                 {w.replace(/-/g, ' ')}
@@ -267,8 +279,8 @@ export default function TermView() {
           <section className="mt-12 border-t border-border pt-8">
             <h2 className="font-serif text-2xl">Neighbors</h2>
             <p className="mt-1 text-sm text-muted-foreground">
-              Terms that sit near this one in the atlas — through shared field,
-              deliberate contrast, or the conflations teachers play against.
+              Terms the atlas places near this one — deliberate contrasts,
+              doctrinal cousins, and the conflations teachers play against.
             </p>
             <ul className="mt-6 space-y-4">
               {neighbors.map((n) => {
@@ -280,11 +292,9 @@ export default function TermView() {
                 );
                 const relation =
                   ff?.divergence ??
-                  (nField && nField.id === term.semantic_field_id
-                    ? `Shares the field of ${nField.label.toLowerCase()}.`
-                    : nField
-                      ? `From ${nField.label.toLowerCase()}.`
-                      : null);
+                  (nField && nField.id !== term.semantic_field_id
+                    ? `From ${nField.label.toLowerCase()}.`
+                    : null);
                 return (
                   <li key={n.id} className="flex gap-4">
                     <Link
@@ -314,6 +324,23 @@ export default function TermView() {
             </ul>
           </section>
         )}
+
+        <div>
+          <button
+            type="button"
+            className="feedback-trigger"
+            onClick={() => setFeedbackOpen(true)}
+          >
+            Suggest a correction
+          </button>
+        </div>
+        <FeedbackDialog
+          open={feedbackOpen}
+          onOpenChange={setFeedbackOpen}
+          kind="term"
+          contextId={term.id}
+          contextLabel={`Term: ${term.characters}${termRomaji ? ` (${termRomaji})` : ''}`}
+        />
       </div>
     </TooltipProvider>
   );

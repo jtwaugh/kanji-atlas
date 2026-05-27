@@ -11,7 +11,7 @@ Array of term entries. Fields marked **required** are enforced by `data/validate
 - `module` — **required**, string, one of `"classical"` or `"reverse-flow"`
 - `semantic_field_id` — **required**, string, fk → `semantic_fields.json`
 - `source_concept_id` — **required**, string, fk → `source_concepts.json`
-- `neighbor_ids` — **required**, string[] (may be empty), each must reference an existing term `id`. **Symmetric**: if `a` lists `b`, then `b` must list `a`. `validate.js` enforces this.
+- `neighbor_ids` — **required**, string[] (may be empty), each must reference an existing term `id`. **Symmetric**: if `a` lists `b`, then `b` must list `a`. `validate.js` enforces this. Encodes **editorial juxtaposition** the graph cannot derive — cross-field contrasts, false-friend cousins (the divergence rendered on TermView), and deliberate conflations a teacher would play one term against another. Do **not** use this field to record same-`semantic_field_id` cohort membership; the graph already draws that as its `shared-field` edge type, and the field badge on TermView links into it.
 - `components` — **required**, array, per-character breakdown with `char` and `meaning`
 - `on_reading` — **required**, string, kana for the ON reading
 - `kun_reading` — string, optional, kana for the KUN reading

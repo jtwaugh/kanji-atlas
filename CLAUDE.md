@@ -5,7 +5,9 @@ Kanji Atlas is a curated conceptual atlas of Sino-Japanese transmission vocabula
 
 ## Stack
 Vite + React + JavaScript + ShadCN + react-router-dom + D3 + Hanzi Writer.
-Run locally: `npm run dev`. No backend, no auth, no database.
+Run locally: `npm run dev`. The site itself has no backend, no auth, and no database — all content lives in `data/terms.json` and is imported statically.
+
+A narrow one-way side-channel exists for user feedback: `server/` is a separate Express service on Railway with a single `feedback` table, reached only through `FeedbackDialog` (the floating bug button and the "Suggest a correction" affordance on term/character pages). It never reads back into the app and never influences rendering. If a feature needs to *read* server state, that boundary needs to be re-discussed — don't quietly expand the side-channel into a backend. The client points at it via `import.meta.env.VITE_FEEDBACK_API_URL`; if unset, the dialog renders disabled with "Feedback is offline" and the static site stays fully usable.
 
 ## Data
 `data/terms.json` is the source of truth. Import it via `src/data.js` — never fetch() it.

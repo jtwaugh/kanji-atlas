@@ -151,4 +151,17 @@ body {
   .reading-row__romaji {
     @apply pl-9 text-sm italic text-muted-foreground;
   }
+
+  /*
+   * .feedback-trigger — small inline button that opens the feedback dialog at
+   * the bottom of TermView and CharacterView. Mirrors the .kanji-link palette
+   * (muted base, sky on hover) without using .kanji-link itself, which is
+   * reserved for kanji glyphs.
+   */
+  .feedback-trigger {
+    @apply mt-12 inline-flex items-center gap-1.5 text-sm text-muted-foreground transition-colors hover:text-sky-600;
+  }
+  .dark .feedback-trigger:hover {
+    @apply text-sky-400;
+  }
 }

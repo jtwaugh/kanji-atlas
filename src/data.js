@@ -4,6 +4,7 @@ import semanticFieldsJson from '../data/semantic_fields.json';
 import sourceConceptsJson from '../data/source_concepts.json';
 import sourcesJson from '../data/sources.json';
 import literaryInstancesJson from '../data/literary_instances.json';
+import transmissionWavesJson from '../data/transmission_waves.json';
 
 export const terms = termsJson;
 export const characters = charactersJson;
@@ -11,6 +12,7 @@ export const semanticFields = semanticFieldsJson;
 export const sourceConcepts = sourceConceptsJson;
 export const sources = sourcesJson;
 export const literaryInstances = literaryInstancesJson;
+export const transmissionWaves = transmissionWavesJson;
 
 export function getTerm(id) {
   return terms.find((t) => t.id === id);
