@@ -26,6 +26,8 @@ const ids = {
   agents: new Set(agents.map(a => a.id)),
 }
 
+const neighborSets = new Map(terms.map(t => [t.id, new Set(t.neighbor_ids || [])]))
+
 // Required fields on terms
 const TERM_REQUIRED = [
   'id', 'characters', 'on_reading', 'module',
@@ -52,8 +54,12 @@ for (const term of terms) {
     errors.push(`${p}: source_concept_id '${term.source_concept_id}' not found`)
 
   for (const nid of (term.neighbor_ids || [])) {
-    if (!ids.terms.has(nid))
+    if (!ids.terms.has(nid)) {
       errors.push(`${p}: neighbor_id '${nid}' not found in terms`)
+      continue
+    }
+    if (!neighborSets.get(nid).has(term.id))
+      errors.push(`${p}: neighbor '${nid}' does not list '${term.id}' back — neighbor_ids must be symmetric`)
   }
 
   // Characters exist in characters.json

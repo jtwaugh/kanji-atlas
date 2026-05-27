@@ -57,6 +57,8 @@ The validator rejects a romaji field whose paired reading is missing.
   negative for BCE) plus `period_notes` (the full narrative).
 - neighbor_ids must reference existing term IDs. If a neighbor
   doesn't exist yet, either add it or leave neighbor_ids as `[]`.
+- neighbor_ids must be symmetric: when you add `b` to `a.neighbor_ids`,
+  also add `a` to `b.neighbor_ids`. The validator rejects one-way edges.
 - literary_instances notes field: 3-5 sentences of close reading
   explaining what the term is doing in this specific passage, not
   just what it means generally.

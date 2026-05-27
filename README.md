@@ -39,7 +39,7 @@ All data access in the app goes through `src/data.js`, which imports the JSON fi
 Three structural facts that aren't obvious from a single file:
 
 - **Terms ↔ characters is many-to-many.** A term contains M kanji; a kanji belongs to N terms. 75 of 237 characters appear in 2+ terms (top: 心 ×11, 法 ×11, 主 ×9, 理 ×7, 学/義/性/禅/無 ×6). These are the lateral connective tissue.
-- **`neighbor_ids` is directed, not symmetric.** ~735 outgoing edges, only ~80 reciprocated. `a → b` does not imply `b → a`. Treat it as a curated jumplist, not a similarity graph. If you need symmetric neighbors, reverse-augment at read time.
+- **`neighbor_ids` is symmetric.** ~1,470 edges, fully reciprocated — if `a` lists `b`, then `b` lists `a`. Enforced by `validate.js`. (Earlier the field was directed and ~89% one-way; that was authoring drift and has been backfilled.)
 - **Cross-module bridges exist.** A few characters anchor both classical and reverse-flow terms (e.g. 心 appears in `kokoro`, `mushin`, `honshin`, and in `shinri`/`shinrigaku`). Not precomputed anywhere — query for it.
 
 ## Facetable vs. narrative fields
@@ -86,11 +86,11 @@ console.log(s.sort((a, b) => a.period_start_year - b.period_start_year)
 console.log(t.filter(x => (x.transmission_waves || []).includes('kamakura-soto'))
              .map(x => x.id));
 
-// Asymmetric neighbor edges (a → b but not b → a)
-const ns = new Map(t.map(x => [x.id, new Set(x.neighbor_ids || [])]));
-for (const x of t) for (const n of x.neighbor_ids || []) {
-  if (ns.has(n) && !ns.get(n).has(x.id)) console.log(x.id, '→', n);
-}
+// Most-connected terms (highest neighbor degree)
+console.log(t.slice()
+             .sort((a, b) => (b.neighbor_ids || []).length - (a.neighbor_ids || []).length)
+             .slice(0, 10)
+             .map(x => [x.id, x.neighbor_ids.length]));
 ```
 
 ## Where things live

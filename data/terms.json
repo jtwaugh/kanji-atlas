@@ -15,7 +15,20 @@
     "neighbor_ids": [
       "ku",
       "do",
-      "kokoro"
+      "kokoro",
+      "satori",
+      "go",
+      "kensho",
+      "mushin",
+      "koan",
+      "wato",
+      "kanna-zen",
+      "katsu",
+      "bo",
+      "mujo",
+      "engi",
+      "funi",
+      "fusho"
     ],
     "components": [
       {
@@ -67,7 +80,26 @@
     "neighbor_ids": [
       "mu",
       "kokoro",
-      "do"
+      "do",
+      "satori",
+      "go",
+      "kensho",
+      "hossho",
+      "shinnyo",
+      "mushin",
+      "sanmon",
+      "mujo",
+      "shoji",
+      "rinne",
+      "shogyo-mujo",
+      "engi",
+      "funi",
+      "shiki-soku-ze-ku",
+      "hokkai",
+      "jijimuge",
+      "fusho",
+      "ri",
+      "enso"
     ],
     "components": [
       {
@@ -118,7 +150,24 @@
     "neighbor_ids": [
       "mu",
       "ku",
-      "do"
+      "do",
+      "satori",
+      "jijuyu-zanmai",
+      "zanmai",
+      "sesshin",
+      "kinhin",
+      "shikantaza",
+      "zazen",
+      "honshin",
+      "busshin",
+      "byojoshin-kore-do",
+      "sokushin-zebutsu",
+      "shinjin-ichinyo",
+      "jisho",
+      "hossho",
+      "shinnyo",
+      "mushin",
+      "bussho"
     ],
     "components": [
       {
@@ -170,7 +219,18 @@
     "neighbor_ids": [
       "mu",
       "ku",
-      "kokoro"
+      "kokoro",
+      "satori",
+      "go",
+      "hotsu-bodaishin",
+      "bendo",
+      "gyoji",
+      "kinhin",
+      "shikantaza",
+      "zazen",
+      "byojoshin-kore-do",
+      "mushin",
+      "gyoji-dokan"
     ],
     "components": [
       {
@@ -214,7 +274,27 @@
     "neighbor_ids": [
       "kagaku",
       "shakai",
-      "minshushugi"
+      "minshushugi",
+      "kyowa",
+      "kakumei",
+      "minshu",
+      "shugi",
+      "keizai",
+      "shukan",
+      "kyakkan",
+      "gainen",
+      "risei",
+      "rinri",
+      "ronri",
+      "bigaku",
+      "bunka",
+      "shukyo",
+      "riso",
+      "mokuteki",
+      "bungaku",
+      "geijutsu",
+      "rekishi",
+      "shinrigaku"
     ],
     "components": [
       {
@@ -255,7 +335,21 @@
     "neighbor_ids": [
       "minshushugi",
       "tetsugaku",
-      "kagaku"
+      "kagaku",
+      "kyowa",
+      "kakumei",
+      "minshu",
+      "shugi",
+      "shakaishugi",
+      "keizai",
+      "shihon",
+      "kojin",
+      "bunka",
+      "bunmei",
+      "kyoiku",
+      "jiyu",
+      "kaikyu",
+      "kokoku"
     ],
     "components": [
       {
@@ -295,7 +389,22 @@
     "neighbor_ids": [
       "shakai",
       "tetsugaku",
-      "kagaku"
+      "kagaku",
+      "kyowa",
+      "kakumei",
+      "minshu",
+      "kenpou",
+      "kokkai",
+      "senkyo",
+      "seitou",
+      "shuken",
+      "seiji",
+      "shugi",
+      "shakaishugi",
+      "kyosanshugi",
+      "kenri",
+      "kojin",
+      "jiyu"
     ],
     "components": [
       {
@@ -345,7 +454,27 @@
       "ku",
       "kokoro",
       "do",
-      "go"
+      "go",
+      "kensho",
+      "bodai",
+      "daigo",
+      "tongo",
+      "mondo",
+      "denpo",
+      "hotsu-bodaishin",
+      "shikantaza",
+      "zazen",
+      "busshin",
+      "sokushin-zebutsu",
+      "mushin",
+      "bussho",
+      "kaigo",
+      "jobutsu",
+      "daishi",
+      "shikaku",
+      "hongaku",
+      "zengo",
+      "shoji"
     ],
     "components": [
       {
@@ -458,7 +587,15 @@
     "neighbor_ids": [
       "tetsugaku",
       "shakai",
-      "minshushugi"
+      "minshushugi",
+      "keizai",
+      "kagaku-chemistry",
+      "butsuri",
+      "denwa",
+      "denki",
+      "eisei",
+      "bungaku",
+      "rekishi"
     ],
     "components": [
       {
@@ -497,7 +634,25 @@
     "neighbor_ids": [
       "satori",
       "mu",
-      "ku"
+      "ku",
+      "bodai",
+      "daigo",
+      "dokusan",
+      "mondo",
+      "menju",
+      "denpo",
+      "zazen",
+      "honshin",
+      "busshin",
+      "sokushin-zebutsu",
+      "jisho",
+      "bussho",
+      "kaigo",
+      "jobutsu",
+      "daishi",
+      "shikaku",
+      "hongaku",
+      "zengo"
     ],
     "components": [
       {
@@ -555,7 +710,13 @@
     ],
     "neighbor_ids": [
       "satori",
-      "kensho"
+      "kensho",
+      "daigo",
+      "hotsu-bodaishin",
+      "bussho",
+      "kaigo",
+      "jobutsu",
+      "hongaku"
     ],
     "components": [
       {
@@ -602,7 +763,14 @@
     "neighbor_ids": [
       "satori",
       "kensho",
-      "bodai"
+      "bodai",
+      "tongo",
+      "kaigo",
+      "daishi",
+      "shikaku",
+      "hongaku",
+      "zengo",
+      "gidan"
     ],
     "components": [
       {
@@ -656,7 +824,10 @@
     ],
     "neighbor_ids": [
       "satori",
-      "daigo"
+      "daigo",
+      "kaigo",
+      "daishi",
+      "zengo"
     ],
     "components": [
       {
@@ -753,7 +924,12 @@
       "teisho",
       "dokusan",
       "sanzen",
-      "denpo"
+      "denpo",
+      "shosan",
+      "hossenshiki",
+      "hossu",
+      "zenji",
+      "hatto"
     ],
     "components": [
       {
@@ -802,7 +978,12 @@
       "mondo",
       "menju",
       "zazen",
-      "bendo"
+      "bendo",
+      "shosan",
+      "jodo",
+      "hossenshiki",
+      "shitsunai",
+      "roshi"
     ],
     "components": [
       {
@@ -851,7 +1032,20 @@
       "teisho",
       "menju",
       "denpo",
-      "kensho"
+      "kensho",
+      "shosan",
+      "jodo",
+      "sanzen",
+      "hossenshiki",
+      "shitsunai",
+      "koan",
+      "wato",
+      "kanna-zen",
+      "jakugo",
+      "agyo",
+      "roshi",
+      "shuso",
+      "jisha"
     ],
     "components": [
       {
@@ -895,7 +1089,20 @@
       "mondo",
       "denpo",
       "menju",
-      "bendo"
+      "bendo",
+      "shosan",
+      "jodo",
+      "dokusan",
+      "hossenshiki",
+      "shitsunai",
+      "koan",
+      "wato",
+      "jakugo",
+      "nentei",
+      "nenko",
+      "hossu",
+      "zenji",
+      "hatto"
     ],
     "components": [
       {
@@ -940,7 +1147,18 @@
       "menju",
       "busshin",
       "kensho",
-      "satori"
+      "satori",
+      "shosan",
+      "jodo",
+      "sanzen",
+      "dokusan",
+      "teisho",
+      "hossenshiki",
+      "shitsunai",
+      "koan",
+      "wato",
+      "katsu",
+      "bo"
     ],
     "components": [
       {
@@ -988,7 +1206,18 @@
       "denpo",
       "busshin",
       "kensho",
-      "bendo"
+      "bendo",
+      "sanzen",
+      "dokusan",
+      "teisho",
+      "mondo",
+      "shitsunai",
+      "roshi",
+      "zenji",
+      "osho",
+      "inka",
+      "shiho",
+      "dotoku"
     ],
     "components": [
       {
@@ -1033,7 +1262,18 @@
       "bussho",
       "kensho",
       "satori",
-      "bendo"
+      "bendo",
+      "jodo",
+      "dokusan",
+      "teisho",
+      "mondo",
+      "menju",
+      "roshi",
+      "zenji",
+      "osho",
+      "inka",
+      "shiho",
+      "mappo"
     ],
     "components": [
       {
@@ -1130,7 +1370,16 @@
       "do",
       "zazen",
       "gyoji",
-      "shikantaza"
+      "shikantaza",
+      "sanzen",
+      "teisho",
+      "menju",
+      "denpo",
+      "hotsu-bodaishin",
+      "mokusho-zen",
+      "tenzo",
+      "shusho-itto",
+      "gyoji-dokan"
     ],
     "components": [
       {
@@ -1174,7 +1423,14 @@
       "zazen",
       "shikantaza",
       "do",
-      "jijuyu-zanmai"
+      "jijuyu-zanmai",
+      "hotsu-bodaishin",
+      "bendo",
+      "mokusho-zen",
+      "tenzo",
+      "ino",
+      "shusho-itto",
+      "gyoji-dokan"
     ],
     "components": [
       {
@@ -1218,7 +1474,10 @@
       "zazen",
       "shikantaza",
       "zanmai",
-      "kokoro"
+      "kokoro",
+      "gyoji",
+      "mokusho-zen",
+      "shusho-itto"
     ],
     "components": [
       {
@@ -1274,7 +1533,14 @@
       "zazen",
       "shikantaza",
       "sesshin",
-      "kinhin"
+      "kinhin",
+      "hossenshiki",
+      "tenzo",
+      "ino",
+      "shuso",
+      "jikijitsu",
+      "unsui",
+      "sodo"
     ],
     "components": [
       {
@@ -1323,7 +1589,8 @@
       "shikantaza",
       "sesshin",
       "kokoro",
-      "mushin"
+      "mushin",
+      "jijuyu-zanmai"
     ],
     "components": [
       {
@@ -1371,7 +1638,13 @@
       "zazen",
       "shikantaza",
       "kinhin",
-      "kokoro"
+      "kokoro",
+      "ango",
+      "zanmai",
+      "tenzo",
+      "ino",
+      "jikijitsu",
+      "unsui"
     ],
     "components": [
       {
@@ -1415,7 +1688,9 @@
       "zazen",
       "shikantaza",
       "do",
-      "kokoro"
+      "kokoro",
+      "ango",
+      "sesshin"
     ],
     "components": [
       {
@@ -1460,7 +1735,21 @@
       "do",
       "kokoro",
       "satori",
-      "mushin"
+      "mushin",
+      "bendo",
+      "gyoji",
+      "jijuyu-zanmai",
+      "ango",
+      "zanmai",
+      "sesshin",
+      "kinhin",
+      "kanna-zen",
+      "mokusho-zen",
+      "zendo",
+      "shinjin-datsuraku",
+      "genjokoan",
+      "hishiryo",
+      "shusho-itto"
     ],
     "components": [
       {
@@ -1529,7 +1818,23 @@
       "kokoro",
       "mushin",
       "satori",
-      "kensho"
+      "kensho",
+      "sanzen",
+      "bendo",
+      "gyoji",
+      "jijuyu-zanmai",
+      "ango",
+      "zanmai",
+      "sesshin",
+      "kinhin",
+      "shikantaza",
+      "mokusho-zen",
+      "zendo",
+      "sodo",
+      "shinjin-datsuraku",
+      "genjokoan",
+      "hishiryo",
+      "shusho-itto"
     ],
     "components": [
       {
@@ -1577,7 +1882,10 @@
       "bussho",
       "hongaku",
       "shinnyo",
-      "hossho"
+      "hossho",
+      "mujo",
+      "shogyo-mujo",
+      "uji"
     ],
     "components": [
       {
@@ -1694,7 +2002,11 @@
       "kokoro",
       "sokushin-zebutsu",
       "kensho",
-      "satori"
+      "satori",
+      "mondo",
+      "menju",
+      "denpo",
+      "honshin"
     ],
     "components": [
       {
@@ -1802,7 +2114,9 @@
       "bussho",
       "kensho",
       "satori",
-      "jobutsu"
+      "jobutsu",
+      "busshin",
+      "byojoshin-kore-do"
     ],
     "components": [
       {
@@ -1866,7 +2180,9 @@
       "kokoro",
       "bussho",
       "hossho",
-      "jisho"
+      "jisho",
+      "ichinyo",
+      "shinjin-datsuraku"
     ],
     "components": [
       {
@@ -1926,7 +2242,8 @@
       "kensho",
       "hossho",
       "shinnyo",
-      "kokoro"
+      "kokoro",
+      "shinjin-ichinyo"
     ],
     "components": [
       {
@@ -1974,7 +2291,11 @@
       "bussho",
       "shinnyo",
       "ku",
-      "kokoro"
+      "kokoro",
+      "mujo-bussho",
+      "shinjin-ichinyo",
+      "jisho",
+      "hokkai"
     ],
     "components": [
       {
@@ -2018,7 +2339,14 @@
       "bussho",
       "ku",
       "kokoro",
-      "hongaku"
+      "hongaku",
+      "mujo-bussho",
+      "jisho",
+      "hossho",
+      "mujo",
+      "funi",
+      "ichinyo",
+      "shiki-soku-ze-ku"
     ],
     "components": [
       {
@@ -2067,7 +2395,12 @@
       "kokoro",
       "ku",
       "do",
-      "satori"
+      "satori",
+      "zanmai",
+      "shikantaza",
+      "zazen",
+      "byojoshin-kore-do",
+      "hishiryo"
     ],
     "components": [
       {
@@ -2128,7 +2461,17 @@
       "kokoro",
       "satori",
       "hongaku",
-      "bodai"
+      "bodai",
+      "denpo",
+      "mujo-bussho",
+      "honshin",
+      "busshin",
+      "sokushin-zebutsu",
+      "shinjin-ichinyo",
+      "jisho",
+      "hossho",
+      "shinnyo",
+      "ichinyo"
     ],
     "components": [
       {
@@ -2229,7 +2572,8 @@
       "satori",
       "kensho",
       "bodai",
-      "hongaku"
+      "hongaku",
+      "sokushin-zebutsu"
     ],
     "components": [
       {
@@ -2273,7 +2617,11 @@
       "daigo",
       "satori",
       "kensho",
-      "tongo"
+      "tongo",
+      "gidan",
+      "shoji",
+      "jisei",
+      "shinjin-datsuraku"
     ],
     "components": [
       {
@@ -2375,7 +2723,13 @@
       "satori",
       "kensho",
       "bodai",
-      "daigo"
+      "daigo",
+      "mujo-bussho",
+      "honshin",
+      "shinnyo",
+      "bussho",
+      "jobutsu",
+      "shikaku"
     ],
     "components": [
       {
@@ -2484,7 +2838,10 @@
       "dokusan",
       "ango",
       "sanzen",
-      "jodo"
+      "jodo",
+      "shitsunai",
+      "koan",
+      "shuso"
     ],
     "components": [
       {
@@ -2534,7 +2891,11 @@
       "mondo",
       "teisho",
       "menju",
-      "hossenshiki"
+      "hossenshiki",
+      "koan",
+      "kanna-zen",
+      "jakugo",
+      "agyo"
     ],
     "components": [
       {
@@ -2591,7 +2952,23 @@
       "teisho",
       "dokusan",
       "shitsunai",
-      "hossenshiki"
+      "hossenshiki",
+      "wato",
+      "kanna-zen",
+      "jakugo",
+      "agyo",
+      "nentei",
+      "nenko",
+      "honsoku",
+      "juko",
+      "suiji",
+      "katsu",
+      "bo",
+      "hossu",
+      "gidan",
+      "genjokoan",
+      "dotoku",
+      "goi"
     ],
     "components": [
       {
@@ -2652,7 +3029,12 @@
       "mu",
       "mondo",
       "dokusan",
-      "teisho"
+      "teisho",
+      "kanna-zen",
+      "jakugo",
+      "agyo",
+      "gidan",
+      "dotoku"
     ],
     "components": [
       {
@@ -2714,7 +3096,11 @@
       "mu",
       "dokusan",
       "shitsunai",
-      "shikantaza"
+      "shikantaza",
+      "jakugo",
+      "agyo",
+      "gidan",
+      "goi"
     ],
     "components": [
       {
@@ -2783,7 +3169,9 @@
       "zazen",
       "gyoji",
       "jijuyu-zanmai",
-      "bendo"
+      "bendo",
+      "hishiryo",
+      "goi"
     ],
     "components": [
       {
@@ -2854,7 +3242,13 @@
       "kanna-zen",
       "shitsunai",
       "dokusan",
-      "teisho"
+      "teisho",
+      "agyo",
+      "nentei",
+      "nenko",
+      "honsoku",
+      "juko",
+      "suiji"
     ],
     "components": [
       {
@@ -2920,7 +3314,8 @@
       "wato",
       "kanna-zen",
       "dokusan",
-      "shitsunai"
+      "shitsunai",
+      "nentei"
     ],
     "components": [
       {
@@ -2984,7 +3379,11 @@
       "koan",
       "teisho",
       "jakugo",
-      "agyo"
+      "agyo",
+      "nenko",
+      "honsoku",
+      "juko",
+      "suiji"
     ],
     "components": [
       {
@@ -3032,7 +3431,10 @@
       "koan",
       "nentei",
       "jakugo",
-      "teisho"
+      "teisho",
+      "honsoku",
+      "juko",
+      "suiji"
     ],
     "components": [
       {
@@ -3080,7 +3482,9 @@
       "koan",
       "nentei",
       "nenko",
-      "jakugo"
+      "jakugo",
+      "juko",
+      "suiji"
     ],
     "components": [
       {
@@ -3129,7 +3533,8 @@
       "nenko",
       "nentei",
       "jakugo",
-      "honsoku"
+      "honsoku",
+      "suiji"
     ],
     "components": [
       {
@@ -3456,7 +3861,11 @@
       "menju",
       "denpo",
       "dokusan",
-      "sanzen"
+      "sanzen",
+      "jisha",
+      "unsui",
+      "inka",
+      "shiho"
     ],
     "components": [
       {
@@ -3518,7 +3927,8 @@
       "denpo",
       "menju",
       "teisho",
-      "jodo"
+      "jodo",
+      "inka"
     ],
     "components": [
       {
@@ -3566,7 +3976,10 @@
       "roshi",
       "zenji",
       "denpo",
-      "menju"
+      "menju",
+      "tenzo",
+      "ino",
+      "jisha"
     ],
     "components": [
       {
@@ -3627,7 +4040,11 @@
       "sesshin",
       "gyoji",
       "bendo",
-      "osho"
+      "osho",
+      "ino",
+      "shuso",
+      "jikijitsu",
+      "jisha"
     ],
     "components": [
       {
@@ -3676,7 +4093,12 @@
       "ango",
       "sesshin",
       "gyoji",
-      "osho"
+      "osho",
+      "shuso",
+      "jikijitsu",
+      "jisha",
+      "zendo",
+      "sodo"
     ],
     "components": [
       {
@@ -3725,7 +4147,9 @@
       "ango",
       "tenzo",
       "ino",
-      "dokusan"
+      "dokusan",
+      "jikijitsu",
+      "unsui"
     ],
     "components": [
       {
@@ -3774,7 +4198,9 @@
       "tenzo",
       "ino",
       "sesshin",
-      "ango"
+      "ango",
+      "zendo",
+      "sodo"
     ],
     "components": [
       {
@@ -3823,7 +4249,8 @@
       "dokusan",
       "osho",
       "ino",
-      "tenzo"
+      "tenzo",
+      "unsui"
     ],
     "components": [
       {
@@ -3872,7 +4299,8 @@
       "sesshin",
       "shuso",
       "jisha",
-      "roshi"
+      "roshi",
+      "sodo"
     ],
     "components": [
       {
@@ -3925,7 +4353,9 @@
       "sodo",
       "ino",
       "jikijitsu",
-      "shikantaza"
+      "shikantaza",
+      "hatto",
+      "sanmon"
     ],
     "components": [
       {
@@ -3975,7 +4405,9 @@
       "ino",
       "ango",
       "unsui",
-      "jikijitsu"
+      "jikijitsu",
+      "hatto",
+      "sanmon"
     ],
     "components": [
       {
@@ -4023,7 +4455,8 @@
       "sodo",
       "zendo",
       "jodo",
-      "teisho"
+      "teisho",
+      "sanmon"
     ],
     "components": [
       {
@@ -4115,7 +4548,8 @@
       "denpo",
       "menju",
       "roshi",
-      "zenji"
+      "zenji",
+      "shiho"
     ],
     "components": [
       {
@@ -4211,7 +4645,15 @@
       "mujo-bussho",
       "ku",
       "mu",
-      "shinnyo"
+      "shinnyo",
+      "shoji",
+      "rinne",
+      "mappo",
+      "shogyo-mujo",
+      "jisei",
+      "engi",
+      "fusho",
+      "uji"
     ],
     "components": [
       {
@@ -4271,7 +4713,14 @@
       "mujo",
       "daishi",
       "ku",
-      "satori"
+      "satori",
+      "rinne",
+      "mappo",
+      "shogyo-mujo",
+      "jisei",
+      "engi",
+      "fusho",
+      "uji"
     ],
     "components": [
       {
@@ -4459,7 +4908,8 @@
       "mujo",
       "mujo-bussho",
       "ku",
-      "shoji"
+      "shoji",
+      "jisei"
     ],
     "components": [
       {
@@ -4605,7 +5055,11 @@
       "ku",
       "mu",
       "mujo",
-      "shoji"
+      "shoji",
+      "funi",
+      "shiki-soku-ze-ku",
+      "hokkai",
+      "jijimuge"
     ],
     "components": [
       {
@@ -4674,7 +5128,12 @@
       "ku",
       "shinnyo",
       "mu",
-      "engi"
+      "engi",
+      "ichinyo",
+      "shiki-soku-ze-ku",
+      "hokkai",
+      "jijimuge",
+      "enso"
     ],
     "components": [
       {
@@ -4743,7 +5202,8 @@
       "funi",
       "shinnyo",
       "shinjin-ichinyo",
-      "bussho"
+      "bussho",
+      "enso"
     ],
     "components": [
       {
@@ -4868,7 +5328,10 @@
       "ku",
       "engi",
       "funi",
-      "hossho"
+      "hossho",
+      "jijimuge",
+      "ri",
+      "ji"
     ],
     "components": [
       {
@@ -4920,7 +5383,9 @@
       "hokkai",
       "engi",
       "funi",
-      "ku"
+      "ku",
+      "ri",
+      "ji"
     ],
     "components": [
       {
@@ -5053,7 +5518,10 @@
     "neighbor_ids": [
       "jijimuge",
       "ku",
-      "hokkai"
+      "hokkai",
+      "ji",
+      "goi",
+      "enso"
     ],
     "components": [
       {
@@ -5114,7 +5582,9 @@
     "neighbor_ids": [
       "ri",
       "jijimuge",
-      "hokkai"
+      "hokkai",
+      "goi",
+      "enso"
     ],
     "components": [
       {
@@ -5180,7 +5650,10 @@
       "zazen",
       "shikantaza",
       "genjokoan",
-      "daishi"
+      "daishi",
+      "uji",
+      "hishiryo",
+      "shusho-itto"
     ],
     "components": [
       {
@@ -5253,7 +5726,10 @@
       "mujo-bussho",
       "shoji",
       "genjokoan",
-      "shinjin-datsuraku"
+      "shinjin-datsuraku",
+      "shusho-itto",
+      "dotoku",
+      "gyoji-dokan"
     ],
     "components": [
       {
@@ -5318,7 +5794,10 @@
       "shinjin-datsuraku",
       "uji",
       "zazen",
-      "shikantaza"
+      "shikantaza",
+      "shusho-itto",
+      "dotoku",
+      "gyoji-dokan"
     ],
     "components": [
       {
@@ -5475,7 +5954,9 @@
       "gyoji",
       "jijuyu-zanmai",
       "bendo",
-      "shinjin-datsuraku"
+      "shinjin-datsuraku",
+      "dotoku",
+      "gyoji-dokan"
     ],
     "components": [
       {
@@ -5620,7 +6101,8 @@
       "ji",
       "koan",
       "kanna-zen",
-      "mokusho-zen"
+      "mokusho-zen",
+      "enso"
     ],
     "components": [
       {
@@ -5691,7 +6173,8 @@
       "ichinyo",
       "goi",
       "ri",
-      "ji"
+      "ji",
+      "gyoji-dokan"
     ],
     "components": [
       {
@@ -5820,7 +6303,20 @@
     "neighbor_ids": [
       "minshushugi",
       "tetsugaku",
-      "shakai"
+      "shakai",
+      "kakumei",
+      "minshu",
+      "kenpou",
+      "kokkai",
+      "seitou",
+      "shuken",
+      "seiji",
+      "shugi",
+      "shakaishugi",
+      "kyosanshugi",
+      "kokusai",
+      "minzoku",
+      "rikken"
     ],
     "components": [
       {
@@ -5859,7 +6355,14 @@
       "minshushugi",
       "kyowa",
       "shakai",
-      "tetsugaku"
+      "tetsugaku",
+      "minshu",
+      "kenpou",
+      "shuken",
+      "shugi",
+      "shakaishugi",
+      "kyosanshugi",
+      "minzoku"
     ],
     "components": [
       {
@@ -5901,7 +6404,21 @@
       "kyowa",
       "kakumei",
       "shakai",
-      "tetsugaku"
+      "tetsugaku",
+      "kenpou",
+      "kokkai",
+      "senkyo",
+      "seitou",
+      "shuken",
+      "seiji",
+      "shugi",
+      "shakaishugi",
+      "minzoku",
+      "rikken",
+      "kenri",
+      "jinken",
+      "jiyu",
+      "enzetsu"
     ],
     "components": [
       {
@@ -5955,7 +6472,19 @@
       "minshu",
       "minshushugi",
       "kyowa",
-      "kakumei"
+      "kakumei",
+      "kokkai",
+      "senkyo",
+      "seitou",
+      "shuken",
+      "seiji",
+      "kokusai",
+      "rikken",
+      "kenri",
+      "gimu",
+      "houritsu",
+      "saiban",
+      "jinken"
     ],
     "components": [
       {
@@ -6011,7 +6540,15 @@
       "kenpou",
       "minshu",
       "minshushugi",
-      "kyowa"
+      "kyowa",
+      "senkyo",
+      "seitou",
+      "shuken",
+      "seiji",
+      "kokusai",
+      "minzoku",
+      "rikken",
+      "enzetsu"
     ],
     "components": [
       {
@@ -6117,7 +6654,9 @@
       "kenpou",
       "minshu",
       "minshushugi",
-      "kyowa"
+      "kyowa",
+      "seiji",
+      "rikken"
     ],
     "components": [
       {
@@ -6171,7 +6710,12 @@
       "minshushugi",
       "kyowa",
       "kakumei",
-      "kokkai"
+      "kokkai",
+      "seiji",
+      "kokusai",
+      "kenri",
+      "gimu",
+      "jinken"
     ],
     "components": [
       {
@@ -6224,7 +6768,8 @@
       "kyowa",
       "seitou",
       "kokkai",
-      "shuken"
+      "shuken",
+      "enzetsu"
     ],
     "components": [
       {
@@ -6282,7 +6827,11 @@
       "shakai",
       "kyowa",
       "kakumei",
-      "tetsugaku"
+      "tetsugaku",
+      "shakaishugi",
+      "kyosanshugi",
+      "shihonshugi",
+      "kojin"
     ],
     "components": [
       {
@@ -6340,7 +6889,11 @@
       "minshu",
       "minshushugi",
       "kyowa",
-      "kakumei"
+      "kakumei",
+      "kyosanshugi",
+      "shihonshugi",
+      "kojin",
+      "kaikyu"
     ],
     "components": [
       {
@@ -6399,7 +6952,9 @@
       "shugi",
       "kakumei",
       "kyowa",
-      "minshushugi"
+      "minshushugi",
+      "shihonshugi",
+      "kaikyu"
     ],
     "components": [
       {
@@ -6512,7 +7067,9 @@
       "minshu",
       "kokkai",
       "kakumei",
-      "kyowa"
+      "kyowa",
+      "bunka",
+      "bunmei"
     ],
     "components": [
       {
@@ -6630,7 +7187,17 @@
     "neighbor_ids": [
       "shakai",
       "tetsugaku",
-      "kagaku"
+      "kagaku",
+      "shihon",
+      "shihonshugi",
+      "ginkou",
+      "hoken",
+      "kabushiki",
+      "kinyuu",
+      "kigyou",
+      "roudou",
+      "shouhi",
+      "kougyou"
     ],
     "components": [
       {
@@ -6682,7 +7249,18 @@
     "coinage_notes": "Wasei-kango compound deployed across Meiji translations of Western political economy from the 1870s onward; institutionalized through the early Japanese Marxist movement, especially Kawakami Hajime's economic writings (Bimbō Monogatari 1917) and Takabatake Motoyuki's 1920–24 translation of Marx's Das Kapital under the title 資本論",
     "neighbor_ids": [
       "keizai",
-      "shakai"
+      "shakai",
+      "shihonshugi",
+      "ginkou",
+      "hoken",
+      "kabushiki",
+      "kinyuu",
+      "kigyou",
+      "roudou",
+      "shouhi",
+      "kougyou",
+      "toushi",
+      "kokoku"
     ],
     "components": [
       {
@@ -6735,7 +7313,11 @@
       "shugi",
       "shakaishugi",
       "kyosanshugi",
-      "keizai"
+      "keizai",
+      "kabushiki",
+      "kigyou",
+      "roudou",
+      "toushi"
     ],
     "components": [
       {
@@ -6794,7 +7376,10 @@
     "coinage_notes": "Repurposing of a late-imperial Chinese commercial-vocabulary compound (銀行 in Qing-dynasty usage named the silver-trading exchange houses) as the standardized Japanese rendering of Western 'bank,' first deployed in Fukuzawa Yukichi's Seiyō Jijō (1866–70) and institutionalized through the National Bank Act (国立銀行条例) of 1872 drafted by Itō Hirobumi and Yoshida Kiyonari on the model of the 1864 U.S. National Banking Act",
     "neighbor_ids": [
       "keizai",
-      "shihon"
+      "shihon",
+      "hoken",
+      "kabushiki",
+      "kinyuu"
     ],
     "components": [
       {
@@ -6899,7 +7484,10 @@
       "keizai",
       "ginkou",
       "shihon",
-      "shihonshugi"
+      "shihonshugi",
+      "kinyuu",
+      "kigyou",
+      "toushi"
     ],
     "components": [
       {
@@ -6953,7 +7541,8 @@
       "keizai",
       "ginkou",
       "shihon",
-      "kabushiki"
+      "kabushiki",
+      "toushi"
     ],
     "components": [
       {
@@ -7007,7 +7596,11 @@
       "keizai",
       "shihon",
       "shihonshugi",
-      "kabushiki"
+      "kabushiki",
+      "roudou",
+      "shouhi",
+      "kougyou",
+      "kokoku"
     ],
     "components": [
       {
@@ -7061,7 +7654,9 @@
       "shihon",
       "shihonshugi",
       "kigyou",
-      "keizai"
+      "keizai",
+      "shouhi",
+      "kougyou"
     ],
     "components": [
       {
@@ -7120,7 +7715,8 @@
       "keizai",
       "shihon",
       "kigyou",
-      "roudou"
+      "roudou",
+      "kokoku"
     ],
     "components": [
       {
@@ -7300,7 +7896,16 @@
       "kenpou",
       "shuken",
       "minshu",
-      "minshushugi"
+      "minshushugi",
+      "gimu",
+      "houritsu",
+      "saiban",
+      "jinken",
+      "keiyaku",
+      "hanzai",
+      "hikoku",
+      "minpou",
+      "jiyu"
     ],
     "components": [
       {
@@ -7361,7 +7966,11 @@
       "kenri",
       "kenpou",
       "shuken",
-      "houritsu"
+      "houritsu",
+      "saiban",
+      "jinken",
+      "keiyaku",
+      "hanzai"
     ],
     "components": [
       {
@@ -7420,7 +8029,14 @@
       "kenpou",
       "kenri",
       "gimu",
-      "saiban"
+      "saiban",
+      "keiyaku",
+      "hanzai",
+      "hikoku",
+      "genkoku",
+      "keihou",
+      "minpou",
+      "keisatsu"
     ],
     "components": [
       {
@@ -7479,7 +8095,13 @@
       "houritsu",
       "kenpou",
       "kenri",
-      "gimu"
+      "gimu",
+      "keiyaku",
+      "hanzai",
+      "hikoku",
+      "genkoku",
+      "keihou",
+      "keisatsu"
     ],
     "components": [
       {
@@ -7602,7 +8224,9 @@
       "kenri",
       "gimu",
       "houritsu",
-      "saiban"
+      "saiban",
+      "genkoku",
+      "minpou"
     ],
     "components": [
       {
@@ -7663,7 +8287,10 @@
       "houritsu",
       "saiban",
       "kenri",
-      "gimu"
+      "gimu",
+      "hikoku",
+      "keihou",
+      "keisatsu"
     ],
     "components": [
       {
@@ -7720,7 +8347,9 @@
       "saiban",
       "houritsu",
       "hanzai",
-      "kenri"
+      "kenri",
+      "genkoku",
+      "keihou"
     ],
     "components": [
       {
@@ -7834,7 +8463,9 @@
       "hanzai",
       "hikoku",
       "houritsu",
-      "saiban"
+      "saiban",
+      "minpou",
+      "keisatsu"
     ],
     "components": [
       {
@@ -8002,7 +8633,10 @@
     ],
     "coinage_notes": "Meiji philosophical coinage; documented in Nishi Amane's lecture-encyclopedia Hyakugaku Renkan (百学連環, c. 1870–71) and stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881), the foundational dictionary of Meiji philosophical vocabulary",
     "neighbor_ids": [
-      "tetsugaku"
+      "tetsugaku",
+      "kyakkan",
+      "gainen",
+      "ishiki"
     ],
     "components": [
       {
@@ -8042,7 +8676,9 @@
     "coinage_notes": "Meiji philosophical coinage paired structurally with 主観; stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881) as the operating Japanese rendering of the German Objekt within the Kantian Subjekt-Objekt structure",
     "neighbor_ids": [
       "tetsugaku",
-      "shukan"
+      "shukan",
+      "gensho",
+      "ishiki"
     ],
     "components": [
       {
@@ -8082,7 +8718,13 @@
     "coinage_notes": "Meiji philosophical coinage stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881) as the operating Japanese rendering of the German Begriff and English 'concept'",
     "neighbor_ids": [
       "tetsugaku",
-      "shukan"
+      "shukan",
+      "risei",
+      "chusho",
+      "ronri",
+      "gensho",
+      "kannen",
+      "riso"
     ],
     "components": [
       {
@@ -8126,7 +8768,11 @@
     "coinage_notes": "Re-coinage of a classical Sino-Japanese compound (理 + 性, already paired across Song-dynasty Neo-Confucian metaphysics) recruited in Meiji philosophical translation to render the Kantian Vernunft and the broader Western category of reason; stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881)",
     "neighbor_ids": [
       "tetsugaku",
-      "gainen"
+      "gainen",
+      "chusho",
+      "rinri",
+      "kannen",
+      "riso"
     ],
     "components": [
       {
@@ -8171,7 +8817,8 @@
     "neighbor_ids": [
       "gainen",
       "risei",
-      "gensho"
+      "gensho",
+      "kannen"
     ],
     "components": [
       {
@@ -8217,7 +8864,9 @@
     "neighbor_ids": [
       "tetsugaku",
       "ronri",
-      "risei"
+      "risei",
+      "bigaku",
+      "shinrigaku"
     ],
     "components": [
       {
@@ -8263,7 +8912,8 @@
     "neighbor_ids": [
       "tetsugaku",
       "rinri",
-      "gainen"
+      "gainen",
+      "shinrigaku"
     ],
     "components": [
       {
@@ -8309,7 +8959,8 @@
     "neighbor_ids": [
       "kyakkan",
       "gainen",
-      "chusho"
+      "chusho",
+      "ishiki"
     ],
     "components": [
       {
@@ -8351,7 +9002,9 @@
     "neighbor_ids": [
       "shukan",
       "kyakkan",
-      "gensho"
+      "gensho",
+      "mokuteki",
+      "shinrigaku"
     ],
     "components": [
       {
@@ -8395,7 +9048,9 @@
     "neighbor_ids": [
       "gainen",
       "risei",
-      "chusho"
+      "chusho",
+      "riso",
+      "shinrigaku"
     ],
     "components": [
       {
@@ -8443,7 +9098,11 @@
     "coinage_notes": "Nishi Amane (proposed the earlier 善美学 / 美妙学); stabilized as 美学 through Nakae Chōmin's 維氏美学 (1883–84, translating Eugène Véron's L'Esthétique) and the Tetsugaku Jii (哲学字彙, 1881)",
     "neighbor_ids": [
       "tetsugaku",
-      "rinri"
+      "rinri",
+      "bijutsu",
+      "geijutsu",
+      "higeki",
+      "kigeki"
     ],
     "components": [
       {
@@ -8487,7 +9146,14 @@
     "neighbor_ids": [
       "kagaku",
       "butsuri",
-      "denki"
+      "denki",
+      "sanso",
+      "suiso",
+      "chisso",
+      "saibo",
+      "genso",
+      "genshi",
+      "shinka"
     ],
     "components": [
       {
@@ -8534,7 +9200,8 @@
     "neighbor_ids": [
       "kagaku",
       "kagaku-chemistry",
-      "denki"
+      "denki",
+      "denwa"
     ],
     "components": [
       {
@@ -8626,7 +9293,8 @@
     "neighbor_ids": [
       "denwa",
       "butsuri",
-      "kagaku"
+      "kagaku",
+      "kagaku-chemistry"
     ],
     "components": [
       {
@@ -8827,7 +9495,9 @@
     ],
     "coinage_notes": "Udagawa Yōan (宇田川榕菴) in the botanical 植学啓原 (1834), calquing cellula / cel",
     "neighbor_ids": [
-      "kagaku-chemistry"
+      "kagaku-chemistry",
+      "shinkei",
+      "eisei"
     ],
     "components": [
       {
@@ -8877,7 +9547,8 @@
     ],
     "coinage_notes": "Sugita Genpaku (杉田玄白), in the Kaitai Shinsho (解体新書, 1774); a contraction of 神気 (vital spirit) + 経脈 (channels)",
     "neighbor_ids": [
-      "saibo"
+      "saibo",
+      "eisei"
     ],
     "components": [
       {
@@ -8927,7 +9598,8 @@
     ],
     "coinage_notes": "Udagawa Yōan (宇田川榕菴), 舎密開宗 (1837–1847)",
     "neighbor_ids": [
-      "kagaku-chemistry"
+      "kagaku-chemistry",
+      "genshi"
     ],
     "components": [
       {
@@ -9072,7 +9744,9 @@
       "shugi",
       "minshushugi",
       "bunmei",
-      "bunka"
+      "bunka",
+      "kyoiku",
+      "kaikyu"
     ],
     "components": [
       {
@@ -9128,7 +9802,12 @@
       "shakai",
       "kojin",
       "minzoku",
-      "tetsugaku"
+      "tetsugaku",
+      "kyoiku",
+      "bijutsu",
+      "bungaku",
+      "geijutsu",
+      "rekishi"
     ],
     "components": [
       {
@@ -9185,7 +9864,10 @@
       "shakai",
       "kojin",
       "minzoku",
-      "kyoiku"
+      "kyoiku",
+      "shukyo",
+      "bijutsu",
+      "rekishi"
     ],
     "components": [
       {
@@ -9240,7 +9922,10 @@
       "bunmei",
       "bunka",
       "shakai",
-      "kojin"
+      "kojin",
+      "shukyo",
+      "mokuteki",
+      "rekishi"
     ],
     "components": [
       {
@@ -9343,7 +10028,9 @@
       "kenri",
       "minshu",
       "minshushugi",
-      "shakai"
+      "shakai",
+      "shukyo",
+      "enzetsu"
     ],
     "components": [
       {
@@ -9565,7 +10252,8 @@
       "tetsugaku",
       "kannen",
       "gainen",
-      "risei"
+      "risei",
+      "mokuteki"
     ],
     "components": [
       {
@@ -9654,7 +10342,10 @@
       "geijutsu",
       "bigaku",
       "bunka",
-      "bunmei"
+      "bunmei",
+      "bungaku",
+      "higeki",
+      "kigeki"
     ],
     "components": [
       {
@@ -9710,7 +10401,9 @@
       "geijutsu",
       "bunka",
       "tetsugaku",
-      "kagaku"
+      "kagaku",
+      "higeki",
+      "kigeki"
     ],
     "components": [
       {
@@ -9765,7 +10458,9 @@
       "bigaku",
       "bungaku",
       "bunka",
-      "tetsugaku"
+      "tetsugaku",
+      "higeki",
+      "kigeki"
     ],
     "components": [
       {
