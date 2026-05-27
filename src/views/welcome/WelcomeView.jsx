@@ -1,7 +1,12 @@
+import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
 
 export default function WelcomeView() {
+  useEffect(() => {
+    localStorage.setItem('seenSplash', '1');
+  }, []);
+
   return (
     <div className="p-6">
       <div className="mx-auto max-w-prose space-y-4">

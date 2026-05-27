@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Navigate, useNavigate } from 'react-router-dom';
 import { terms, semanticFields, primaryRomaji } from '@/data';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import {
@@ -110,6 +110,11 @@ function groupByFlow() {
 export default function AtlasView() {
   const navigate = useNavigate();
   const byModule = useMemo(groupByFlow, []);
+  const [seenSplash] = useState(
+    () => localStorage.getItem('seenSplash') === '1',
+  );
+
+  if (!seenSplash) return <Navigate to="/welcome" replace />;
 
   return (
     <TooltipProvider delayDuration={150}>
