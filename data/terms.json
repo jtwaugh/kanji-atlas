@@ -509,13 +509,14 @@
     ],
     "coinage_notes": "Attributed to Nishi Amane; systematized in 1870s–1880s Meiji translation projects",
     "neighbor_ids": [
-      "tetsugaku",
-      "shakai",
-      "minshushugi",
-      "keizai",
-      "kagaku-chemistry",
       "bungaku",
-      "rekishi"
+      "butsuri",
+      "kagaku-chemistry",
+      "keizai",
+      "minshushugi",
+      "rekishi",
+      "shakai",
+      "tetsugaku"
     ],
     "components": [
       {
@@ -811,7 +812,9 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "hatto"
+    ],
     "components": [
       {
         "char": "上",
@@ -938,7 +941,10 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "enzetsu",
+      "hatto"
+    ],
     "components": [
       {
         "char": "提",
@@ -1026,7 +1032,8 @@
     ],
     "neighbor_ids": [
       "busshin",
-      "kensho"
+      "kensho",
+      "shitsunai"
     ],
     "components": [
       {
@@ -1070,7 +1077,8 @@
       "busshin",
       "bussho",
       "kensho",
-      "satori"
+      "satori",
+      "shiho"
     ],
     "components": [
       {
@@ -1160,7 +1168,9 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "shusho-itto"
+    ],
     "components": [
       {
         "char": "弁",
@@ -1199,7 +1209,9 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "gyoji-dokan"
+    ],
     "components": [
       {
         "char": "行",
@@ -1291,7 +1303,10 @@
     "transmission_waves": [
       "first-wave"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "hossenshiki",
+      "shuso"
+    ],
     "components": [
       {
         "char": "安",
@@ -2470,7 +2485,10 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "ango",
+      "shuso"
+    ],
     "components": [
       {
         "char": "法",
@@ -2513,7 +2531,9 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "menju"
+    ],
     "components": [
       {
         "char": "室",
@@ -2564,11 +2584,12 @@
       "chan-zen"
     ],
     "neighbor_ids": [
-      "mu",
-      "wato",
-      "kanna-zen",
       "agyo",
-      "genjokoan"
+      "genjokoan",
+      "honsoku",
+      "kanna-zen",
+      "mu",
+      "wato"
     ],
     "components": [
       {
@@ -2940,7 +2961,10 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "juko",
+      "nenko"
+    ],
     "components": [
       {
         "char": "拈",
@@ -2984,7 +3008,8 @@
       "chan-zen"
     ],
     "neighbor_ids": [
-      "juko"
+      "juko",
+      "nentei"
     ],
     "components": [
       {
@@ -3028,7 +3053,10 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "koan",
+      "suiji"
+    ],
     "components": [
       {
         "char": "本",
@@ -3072,8 +3100,9 @@
       "chan-zen"
     ],
     "neighbor_ids": [
+      "jakugo",
       "nenko",
-      "jakugo"
+      "nentei"
     ],
     "components": [
       {
@@ -3133,7 +3162,9 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "honsoku"
+    ],
     "components": [
       {
         "char": "垂",
@@ -3375,6 +3406,7 @@
       "chan-zen"
     ],
     "neighbor_ids": [
+      "osho",
       "zenji"
     ],
     "components": [
@@ -3432,6 +3464,7 @@
       "chan-zen"
     ],
     "neighbor_ids": [
+      "osho",
       "roshi"
     ],
     "components": [
@@ -3476,7 +3509,10 @@
     "transmission_waves": [
       "first-wave"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "roshi",
+      "zenji"
+    ],
     "components": [
       {
         "char": "和",
@@ -3531,7 +3567,9 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "ino"
+    ],
     "components": [
       {
         "char": "典",
@@ -3574,7 +3612,9 @@
     "transmission_waves": [
       "first-wave"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "tenzo"
+    ],
     "components": [
       {
         "char": "維",
@@ -3617,7 +3657,10 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "ango",
+      "hossenshiki"
+    ],
     "components": [
       {
         "char": "首",
@@ -3793,7 +3836,10 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "hatto",
+      "sodo"
+    ],
     "components": [
       {
         "char": "禅",
@@ -3836,7 +3882,10 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "hatto",
+      "zendo"
+    ],
     "components": [
       {
         "char": "僧",
@@ -3879,7 +3928,12 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "jodo",
+      "sodo",
+      "teisho",
+      "zendo"
+    ],
     "components": [
       {
         "char": "法",
@@ -3963,7 +4017,9 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "shiho"
+    ],
     "components": [
       {
         "char": "印",
@@ -4006,7 +4062,10 @@
     "transmission_waves": [
       "chan-zen"
     ],
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "denpo",
+      "inka"
+    ],
     "components": [
       {
         "char": "嗣",
@@ -4882,8 +4941,9 @@
       "first-wave"
     ],
     "neighbor_ids": [
+      "goi",
       "ji",
-      "goi"
+      "risei"
     ],
     "components": [
       {
@@ -5297,8 +5357,9 @@
     ],
     "coinage_notes": "Dōgen",
     "neighbor_ids": [
-      "uji",
-      "shinjin-datsuraku"
+      "bendo",
+      "shinjin-datsuraku",
+      "uji"
     ],
     "components": [
       {
@@ -5569,8 +5630,9 @@
     ],
     "coinage_notes": "Dōgen",
     "neighbor_ids": [
-      "uji",
-      "enso"
+      "enso",
+      "gyoji",
+      "uji"
     ],
     "components": [
       {
@@ -5860,7 +5922,9 @@
       "fukuzawa-yukichi"
     ],
     "coinage_notes": "Classical Chinese compound (in the imperial-bureaucratic sense of selecting and recommending officials, related to the examination system 科挙) repurposed in early Meiji Japan to render Western 'election'; popularized through Fukuzawa Yukichi's Seiyō Jijō (1866–70, in the variant orthography 撰挙) and institutionalized through the 1889 election law and the first parliamentary elections of 1890",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "hikoku"
+    ],
     "components": [
       {
         "char": "選",
@@ -5951,7 +6015,9 @@
       "ito-hirobumi"
     ],
     "coinage_notes": "Wasei-kango compound stabilized in the 1880s constitutional drafting process under Itō Hirobumi (with German jurist Hermann Roesler as legal adviser); institutionalized through the Meiji Constitution of 1889 (大日本帝国憲法) and authoritatively glossed in Itō Hirobumi's Commentaries on the Constitution (憲法義解, 1889)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "kenri"
+    ],
     "components": [
       {
         "char": "主",
@@ -6220,7 +6286,9 @@
       "mitsukuri-rinsho"
     ],
     "coinage_notes": "Wasei-kango stabilization of a classical Chinese compound (国際 in classical usage named the locative-territorial border or contact-zone between states); repurposed in early-Meiji Japan to render the Western political-theoretical category of 'international.' The early-Meiji translation of international law deployed the related 万国 (bankoku, ten thousand nations) as the operating prefix — Mitsukuri Rinshō's 1865 万国公法 (Japanese rendering of Wheaton's Elements of International Law) fixed that vocabulary — and the more compact 国際 was subsequently stabilized through the post-1880s Meiji legal-political translation as the productive prefix of the modern international vocabulary",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "kinyuu"
+    ],
     "components": [
       {
         "char": "国",
@@ -6693,7 +6761,9 @@
     "source_concept_id": "finance-english",
     "coiners": [],
     "coinage_notes": "Wasei-kango compound developed across the late-Meiji and Taishō periods in tandem with the modernization of the Japanese banking and securities-market system; institutionalized through the establishment of the Bank of Japan (日本銀行) in 1882, the founding of the Tokyo Stock Exchange (東京株式取引所) in 1878, and the broader late-Meiji and Taishō financial-institutional discourse, including Kawakami Hajime's Bimbō Monogatari (1917) and subsequent Japanese political-economic literature",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "kokusai"
+    ],
     "components": [
       {
         "char": "金",
@@ -6850,7 +6920,9 @@
     "source_concept_id": "consumption-economic",
     "coiners": [],
     "coinage_notes": "Wasei-kango compound developed in the Meiji period as the standardized rendering of the Western political-economic category of consumption / Konsum; stabilized through the early Meiji and Taishō translations of Western political-economy literature and the broader academic-economic discourse, with subsequent twentieth-century elaboration through the consumer-society and macroeconomic-aggregate vocabulary of post-WWII Japanese economic policy",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "toushi"
+    ],
     "components": [
       {
         "char": "消",
@@ -6961,7 +7033,8 @@
     "coiners": [],
     "coinage_notes": "Wasei-kango compound developed in the Meiji period as the standardized rendering of the Western political-economic and financial category of investment / Investition; stabilized through the late-Meiji and Taishō financial-institutional discourse — the founding of the Bank of Japan (日本銀行) in 1882, the Tokyo Stock Exchange (東京株式取引所) in 1878, the development of the modern Japanese capital-market and corporate-finance system across the late-Meiji and Taishō periods, and the broader Meiji-Taishō translation of Western political-economic literature including Kawakami Hajime's Bimbō Monogatari (1917)",
     "neighbor_ids": [
-      "shihonshugi"
+      "shihonshugi",
+      "shouhi"
     ],
     "components": [
       {
@@ -7019,7 +7092,11 @@
       "ito-hirobumi"
     ],
     "coinage_notes": "Wasei-kango compound stabilized in the early-Meiji legal-translation apparatus, attributed in particular to Mitsukuri Rinshō (箕作麟祥) in his translations of the French Civil Code and the broader French legal corpus across the 1870s; circulated alongside the variant orthography 権理 (with 理 'principle' instead of 利) before stabilizing as 権利 by the 1880s constitutional drafting period; institutionalized through the Meiji Constitution of 1889 (in which Articles 18–32 articulate 臣民の権利) and authoritatively glossed in Itō Hirobumi's Commentaries on the Constitution (憲法義解, 1889)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "gimu",
+      "jinken",
+      "shuken"
+    ],
     "components": [
       {
         "char": "権",
@@ -7075,7 +7152,10 @@
       "mitsukuri-rinsho"
     ],
     "coinage_notes": "Wasei-kango compound stabilized in the early-Meiji legal-translation apparatus, with Mitsukuri Rinshō (箕作麟祥) in his translations of the French Civil Code and Penal Code across the 1870s as the principal coinage-agent; institutionalized through the Meiji Constitution of 1889 (Articles 20–21 articulate 臣民の義務 — military service and tax-paying as the compulsory duties of imperial subjects) and the 1890 Imperial Rescript on Education (教育勅語), which deployed the broader register of 義務 as the structural correlate of subject-status",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "kenri",
+      "kyoiku"
+    ],
     "components": [
       {
         "char": "義",
@@ -7241,7 +7321,9 @@
       "nakae-chomin"
     ],
     "coinage_notes": "Wasei-kango compound stabilized through the early-Meiji liberal-political vocabulary of the 1870s, with the broader compound 天賦人権 (tenpu jinken, heaven-endowed human rights) prominent across the Freedom and People's Rights Movement (自由民権運動) of the 1870s–1880s as the principal Japanese articulation of natural-law rights; principal coinage-agents include Ueki Emori (植木枝盛, whose 1879 Minken Jiyū Ron 民権自由論 supplied a foundational liberal articulation of natural-rights doctrine), Nakae Chōmin (中江兆民, who translated Rousseau's Du contrat social as 民約訳解 in 1882–1883), and the broader Meiji-liberal intellectual circle of the 1870s–1880s; substantially recalibrated through the post-war 1947 Constitution's articulation of 基本的人権 (kihonteki jinken, fundamental human rights) in Chapter III (Articles 10–40)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "kenri"
+    ],
     "components": [
       {
         "char": "人",
@@ -7353,7 +7435,9 @@
       "mitsukuri-rinsho"
     ],
     "coinage_notes": "Wasei-kango compound stabilized through the early-Meiji legal-translation apparatus, with Mitsukuri Rinshō's translations of the French Code Pénal across 1870–1874 as the principal stabilization-vehicle and the broader Meiji criminal-law codification process producing the Boissonade Penal Code (旧刑法, drafted by Gustave Boissonade, promulgated 1880, in force 1882–1908) and its German-influenced successor the current Penal Code (現行刑法, 1907, drafted under the influence of the German Reichsstrafgesetzbuch of 1871 and the Italian Codice Zanardelli of 1889) as the institutional vehicles through which the systematic doctrinal apparatus of modern continental criminal law was articulated in modern Japanese legal vocabulary",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "keihou"
+    ],
     "components": [
       {
         "char": "犯",
@@ -7405,7 +7489,10 @@
       "mitsukuri-rinsho"
     ],
     "coinage_notes": "Wasei-kango compound stabilized through the early-Meiji legal-translation apparatus, with Mitsukuri Rinshō's translations of the French Code of Civil Procedure (民事訴訟法) and the Code of Criminal Instruction (治罪法) across 1870–1874 as the principal stabilization-vehicle; institutionalized through the modern Japanese procedural codes — 民事訴訟法 (Civil Procedure Code, Boissonade-influenced 1890; current 1996) and 刑事訴訟法 (Criminal Procedure Code, 1890; current 1948 drafted under American post-WWII influence) — calibrating 被告 in the civil register and 被告人 (hikokunin, the accused) in the criminal register; paired with 原告 (genkoku, the plaintiff) as the procedural opposition that anchors modern Japanese civil and criminal litigation",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "genkoku",
+      "senkyo"
+    ],
     "components": [
       {
         "char": "被",
@@ -7457,7 +7544,9 @@
       "mitsukuri-rinsho"
     ],
     "coinage_notes": "Wasei-kango compound stabilized through the early-Meiji legal-translation apparatus, with Mitsukuri Rinshō's translations of the French Code of Civil Procedure (民事訴訟法) across 1870–1874 as the principal stabilization-vehicle; institutionalized through the modern Japanese Civil Procedure Code (民事訴訟法, Boissonade-influenced 1890; current 1996) as the operating term for the civil plaintiff; paired with 被告 (hikoku, defendant) as the active-passive procedural opposition that anchors modern Japanese civil litigation, with the structural-prefix pair 原 / 被 articulating the originating-active vs. passive-receiving sides of the litigation",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "hikoku"
+    ],
     "components": [
       {
         "char": "原",
@@ -7509,7 +7598,10 @@
       "mitsukuri-rinsho"
     ],
     "coinage_notes": "Wasei-kango compound stabilized through the early-Meiji legal-translation apparatus, with Mitsukuri Rinshō's translations of the French Code Pénal across 1870–1874 as the principal stabilization-vehicle; institutionalized through the foundational Boissonade Penal Code (旧刑法, drafted by Gustave Boissonade, promulgated 1880, in force 1882–1908) that supplied the first modern Japanese penal code on the French Code Pénal model; substantially recalibrated through the current Penal Code (現行刑法, 1907) under the influence of the German Reichsstrafgesetzbuch of 1871 and the Italian Codice Zanardelli of 1889, with the German-doctrinal apparatus of the systematic-Pandectist criminal-law science (Tatbestand-Rechtswidrigkeit-Schuld) shaping subsequent Japanese criminal-law doctrine through the post-war period",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "hanzai",
+      "minpou"
+    ],
     "components": [
       {
         "char": "刑",
@@ -7561,7 +7653,9 @@
       "mitsukuri-rinsho"
     ],
     "coinage_notes": "Wasei-kango compound stabilized through the early-Meiji legal-translation apparatus, with Mitsukuri Rinshō's translations of the French Code civil across 1870–1874 as the principal stabilization-vehicle; institutionalized through the abortive Boissonade Civil Code (旧民法, drafted by Gustave Boissonade with Japanese collaborators, promulgated 1890 but postponed and never enforced as the result of the Civil Code Postponement Controversy 民法典論争 of 1889–1892) as the first projected modern Japanese civil code on the French Code civil model; substantially recalibrated through the current Civil Code (現行民法, 1898), drafted by Hozumi Nobushige (穂積陳重), Tomii Masaaki (富井政章), and Ume Kenjirō (梅謙次郎) under the principal influence of the first draft of the German BGB, with the Pandectist five-book structural articulation (general part, real rights, claims, family, inheritance) supplying the foundational doctrinal framework",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "keihou"
+    ],
     "components": [
       {
         "char": "民",
@@ -7665,7 +7759,10 @@
       "ariga-nagao"
     ],
     "coinage_notes": "Meiji philosophical coinage; documented in Nishi Amane's lecture-encyclopedia Hyakugaku Renkan (百学連環, c. 1870–71) and stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881), the foundational dictionary of Meiji philosophical vocabulary",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "ishiki",
+      "kyakkan"
+    ],
     "components": [
       {
         "char": "主",
@@ -7702,7 +7799,10 @@
       "ariga-nagao"
     ],
     "coinage_notes": "Meiji philosophical coinage paired structurally with 主観; stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881) as the operating Japanese rendering of the German Objekt within the Kantian Subjekt-Objekt structure",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "ishiki",
+      "shukan"
+    ],
     "components": [
       {
         "char": "客",
@@ -7739,7 +7839,11 @@
       "ariga-nagao"
     ],
     "coinage_notes": "Meiji philosophical coinage stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881) as the operating Japanese rendering of the German Begriff and English 'concept'",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "chusho",
+      "kannen",
+      "riso"
+    ],
     "components": [
       {
         "char": "概",
@@ -7780,7 +7884,9 @@
       "ariga-nagao"
     ],
     "coinage_notes": "Re-coinage of a classical Sino-Japanese compound (理 + 性, already paired across Song-dynasty Neo-Confucian metaphysics) recruited in Meiji philosophical translation to render the Kantian Vernunft and the broader Western category of reason; stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "ri"
+    ],
     "components": [
       {
         "char": "理",
@@ -7821,7 +7927,9 @@
       "ariga-nagao"
     ],
     "coinage_notes": "Meiji philosophical-translation movement; stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881), paired against 具象 / 具体 (the concrete)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "gainen"
+    ],
     "components": [
       {
         "char": "抽",
@@ -7863,7 +7971,9 @@
       "ariga-nagao"
     ],
     "coinage_notes": "Coined by Nishi Amane (西周) in the Meiji philosophical-translation movement to render Ethik; the disciplinary form 倫理学 stabilized in Inoue Tetsujirō and Ariga Nagao's Tetsugaku Jii (哲学字彙, 1881)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "shinrigaku"
+    ],
     "components": [
       {
         "char": "倫",
@@ -7985,7 +8095,10 @@
     "source_concept_id": "consciousness-bewusstsein",
     "coiners": [],
     "coinage_notes": "Meiji philosophical-translation movement; stabilized through the Tetsugaku Jii (哲学字彙, 1881) as the rendering of Bewusstsein / consciousness, drawing on the Yogācāra scholastic value of 識 (vijñāna) within the 心意識 triad",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "kyakkan",
+      "shukan"
+    ],
     "components": [
       {
         "char": "意",
@@ -8025,7 +8138,10 @@
       "nishi-amane"
     ],
     "coinage_notes": "Meiji philosophical-translation movement (associated with Nishi Amane); a Buddhist contemplative compound (観 vipaśyanā-seeing + 念 smṛti-recollection) re-coined to render the empiricist and Kantian \"idea,\" stabilized through the Tetsugaku Jii (哲学字彙, 1881)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "gainen",
+      "riso"
+    ],
     "components": [
       {
         "char": "観",
@@ -8116,6 +8232,8 @@
     ],
     "coinage_notes": "Kawamoto Kōmin (川本幸民), c. 1860, replacing the phonetic loan 舎密 (seimi)",
     "neighbor_ids": [
+      "butsuri",
+      "genso",
       "kagaku"
     ],
     "components": [
@@ -8160,7 +8278,12 @@
       "katayama-junkichi"
     ],
     "coinage_notes": "Standardized through early Meiji science education; the title 物理階梯 (Katayama Junkichi, 1872) fixes it in the school system",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "denki",
+      "kagaku",
+      "kagaku-chemistry",
+      "shinrigaku"
+    ],
     "components": [
       {
         "char": "物",
@@ -8201,7 +8324,9 @@
     "source_concept_id": "telephone-english",
     "coiners": [],
     "coinage_notes": "Standardized by the Meiji government telegraph-and-telephone administration; fixed as the service name in 1890",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "denki"
+    ],
     "components": [
       {
         "char": "電",
@@ -8244,7 +8369,10 @@
       "fukuzawa-yukichi"
     ],
     "coinage_notes": "Meiji coinage replacing the rangaku phonetic loan エレキテル (from Dutch elektriciteit); popularized through texts such as Fukuzawa's 訓蒙窮理図解 (1868)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "butsuri",
+      "denwa"
+    ],
     "components": [
       {
         "char": "電",
@@ -8287,7 +8415,12 @@
       "udagawa-yoan"
     ],
     "coinage_notes": "Udagawa Yōan (宇田川榕菴) in 舎密開宗 (1837), calquing Lavoisier's oxygène",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "chisso",
+      "genso",
+      "saibo",
+      "suiso"
+    ],
     "components": [
       {
         "char": "酸",
@@ -8335,7 +8468,10 @@
       "udagawa-yoan"
     ],
     "coinage_notes": "Udagawa Yōan (宇田川榕菴) in 舎密開宗 (1837), calquing Lavoisier's hydrogène",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "chisso",
+      "sanso"
+    ],
     "components": [
       {
         "char": "水",
@@ -8383,7 +8519,10 @@
       "udagawa-yoan"
     ],
     "coinage_notes": "Udagawa Yōan (宇田川榕菴) in 舎密開宗 (1837), calquing Lavoisier's azote",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "sanso",
+      "suiso"
+    ],
     "components": [
       {
         "char": "窒",
@@ -8431,7 +8570,9 @@
       "udagawa-yoan"
     ],
     "coinage_notes": "Udagawa Yōan (宇田川榕菴) in the botanical 植学啓原 (1834), calquing cellula / cel",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "sanso"
+    ],
     "components": [
       {
         "char": "細",
@@ -8479,7 +8620,9 @@
       "sugita-genpaku"
     ],
     "coinage_notes": "Sugita Genpaku (杉田玄白), in the Kaitai Shinsho (解体新書, 1774); a contraction of 神気 (vital spirit) + 経脈 (channels)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "genso"
+    ],
     "components": [
       {
         "char": "神",
@@ -8527,7 +8670,12 @@
       "udagawa-yoan"
     ],
     "coinage_notes": "Udagawa Yōan (宇田川榕菴), 舎密開宗 (1837–1847)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "genshi",
+      "kagaku-chemistry",
+      "sanso",
+      "shinkei"
+    ],
     "components": [
       {
         "char": "元",
@@ -8568,7 +8716,9 @@
     "source_concept_id": "atom-atomos",
     "coiners": [],
     "coinage_notes": "Standardized through Meiji school chemistry and nomenclature reform as the partner of 分子 (molecule)",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "genso"
+    ],
     "components": [
       {
         "char": "原",
@@ -8823,6 +8973,7 @@
     "coiners": [],
     "coinage_notes": "A compound given its modern institutional meaning in Meiji Japan to render Western 'education' (Spencer's Education, widely read in translation; the 1872 Gakusei school-system ordinance), distinguishing it from the inherited Confucian vocabulary of moral transformation (教化) and self-cultivation (修身); bound to a national-moral mission by the Imperial Rescript on Education (1890) and carried into Chinese (jiàoyù) and Korean (교육) as the standard term",
     "neighbor_ids": [
+      "gimu",
       "mokuteki"
     ],
     "components": [
@@ -9047,9 +9198,10 @@
     "coinage_notes": "Fukuzawa Yukichi (福澤諭吉), Kaigiben (会議弁, 1874) and Gakumon no Susume vol. 12 (学問のすゝめ 第十二編, 1874); institutionalized at the Mita Speech Society (三田演説会, founded 1874) and Japan's first dedicated speech hall, 三田演説館 (1875)",
     "neighbor_ids": [
       "jiyu",
-      "minshu",
       "kokkai",
-      "seiji"
+      "minshu",
+      "seiji",
+      "teisho"
     ],
     "components": [
       {
@@ -9130,7 +9282,10 @@
       "inoue-tetsujiro"
     ],
     "coinage_notes": "Meiji philosophical lexicography of the 1880s — the Tetsugaku Jii (哲学字彙, Inoue Tetsujirō et al., 1881) lists 理想 as the standard rendering of 'Ideal'; literary-critical adoption by Tsubouchi Shōyō (坪内逍遥) in Shōsetsu Shinzui (小説神髄, 1885–86), where 理想 becomes the keyword of the new Japanese debate between idealism and realism",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "gainen",
+      "kannen"
+    ],
     "components": [
       {
         "char": "理",
@@ -9435,7 +9590,10 @@
       "nishi-amane"
     ],
     "coinage_notes": "Nishi Amane (西周), stabilized as the title of his 1875 translation of Joseph Haven's Mental Philosophy (心理学), and entered as the standard rendering of 'psychology' in the Tetsugaku Jii (1881); the Wundtian experimental-scientific register was bound to the compound through Motora Yūjirō's establishment of Japan's first psychological laboratory at Tokyo Imperial University in 1888",
-    "neighbor_ids": [],
+    "neighbor_ids": [
+      "butsuri",
+      "rinri"
+    ],
     "components": [
       {
         "char": "心",
