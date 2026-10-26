@@ -3,10 +3,8 @@ import { Link, useParams } from 'react-router-dom';
 import { getCharacter, terms, primaryRomaji } from '@/data';
 import { Badge } from '@/components/ui/badge';
 import { kanaToRomaji } from '@/lib/romaji';
-import FeedbackDialog from '@/components/FeedbackDialog';
 
 export default function CharacterView() {
-  const [feedbackOpen, setFeedbackOpen] = useState(false);
   const { char: rawChar } = useParams();
   const char = decodeURIComponent(rawChar);
   const info = getCharacter(char);
@@ -26,23 +24,6 @@ export default function CharacterView() {
       <EvolutionTimeline stages={info?.graphic_evolution} />
       <JapaneseTransmission info={info} relatedTerms={relatedTerms} />
       <RelatedTerms char={char} relatedTerms={relatedTerms} />
-
-      <div>
-        <button
-          type="button"
-          className="feedback-trigger"
-          onClick={() => setFeedbackOpen(true)}
-        >
-          Suggest a correction
-        </button>
-      </div>
-      <FeedbackDialog
-        open={feedbackOpen}
-        onOpenChange={setFeedbackOpen}
-        kind="character"
-        contextId={char}
-        contextLabel={`Character: ${char}`}
-      />
     </div>
   );
 }

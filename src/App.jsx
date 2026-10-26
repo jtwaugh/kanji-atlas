@@ -9,7 +9,6 @@ import QuizView from './views/quiz/QuizView.jsx';
 import DebugView from './views/debug/DebugView.jsx';
 import WelcomeView from './views/welcome/WelcomeView.jsx';
 import TocSheet from './components/TocSheet.jsx';
-import FeedbackButton from './components/FeedbackButton.jsx';
 
 const NAV_LINKS = [
   { to: '/', label: 'Atlas' },
@@ -150,7 +149,6 @@ export default function App() {
         </Routes>
       </main>
       <TocSheet scrollContainerRef={mainRef} />
-      <FeedbackButton />
     </div>
   );
 }

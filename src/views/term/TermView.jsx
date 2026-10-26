@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import {
   getTermByCharacters,
@@ -14,10 +13,8 @@ import { Badge } from '@/components/ui/badge';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import FlowChip from '@/components/FlowChip';
 import ReadingRow from '@/components/ReadingRow';
-import FeedbackDialog from '@/components/FeedbackDialog';
 
 export default function TermView() {
-  const [feedbackOpen, setFeedbackOpen] = useState(false);
   const { chars: charsParam } = useParams();
   const decoded = decodeURIComponent(charsParam);
   const term = getTermByCharacters(decoded);
@@ -324,23 +321,6 @@ export default function TermView() {
             </ul>
           </section>
         )}
-
-        <div>
-          <button
-            type="button"
-            className="feedback-trigger"
-            onClick={() => setFeedbackOpen(true)}
-          >
-            Suggest a correction
-          </button>
-        </div>
-        <FeedbackDialog
-          open={feedbackOpen}
-          onOpenChange={setFeedbackOpen}
-          kind="term"
-          contextId={term.id}
-          contextLabel={`Term: ${term.characters}${termRomaji ? ` (${termRomaji})` : ''}`}
-        />
       </div>
     </TooltipProvider>
   );
